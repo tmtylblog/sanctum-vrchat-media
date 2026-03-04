@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-04T01:00:00.755Z",
+  "generated": "2026-03-04T01:43:39.590Z",
   "permissions": {
     "Group Owner": [
       {
@@ -376,28 +376,537 @@
   },
   "atlases": {
     "grid": {
-      "cols": 4,
-      "rows": 4
+      "cols": 3,
+      "rows": 3
     },
     "cellSize": {
-      "width": 410,
-      "height": 512
+      "width": 544,
+      "height": 680
     },
-    "files": [
+    "files": []
+  },
+  "gallery": {
+    "left": [
       {
-        "index": 0,
-        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/posters/atlas_0.jpg",
-        "posterCount": 4
+        "slotIndex": 0,
+        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/2a8053df-260f-4906-a11c-800e42acd3e2.jpg",
+        "orientation": "landscape",
+        "photographer": "Slade Da Cat",
+        "composition": "Wings"
+      }
+    ],
+    "right": []
+  },
+  "posterGallery": {
+    "altar": [
+      {
+        "slotIndex": 0,
+        "filled": true,
+        "atlasIndex": 0,
+        "gridRow": 0,
+        "gridCol": 0
+      },
+      {
+        "slotIndex": 1,
+        "filled": true,
+        "atlasIndex": 0,
+        "gridRow": 0,
+        "gridCol": 1
+      },
+      {
+        "slotIndex": 2,
+        "filled": true,
+        "atlasIndex": 0,
+        "gridRow": 0,
+        "gridCol": 2
+      },
+      {
+        "slotIndex": 3,
+        "filled": false,
+        "atlasIndex": 0,
+        "gridRow": 1,
+        "gridCol": 0
+      },
+      {
+        "slotIndex": 4,
+        "filled": false,
+        "atlasIndex": 0,
+        "gridRow": 1,
+        "gridCol": 1
+      },
+      {
+        "slotIndex": 5,
+        "filled": false,
+        "atlasIndex": 0,
+        "gridRow": 1,
+        "gridCol": 2
+      },
+      {
+        "slotIndex": 6,
+        "filled": false,
+        "atlasIndex": 0,
+        "gridRow": 2,
+        "gridCol": 0
+      },
+      {
+        "slotIndex": 7,
+        "filled": false,
+        "atlasIndex": 0,
+        "gridRow": 2,
+        "gridCol": 1
+      },
+      {
+        "slotIndex": 8,
+        "filled": false,
+        "atlasIndex": 0,
+        "gridRow": 2,
+        "gridCol": 2
+      },
+      {
+        "slotIndex": 9,
+        "filled": false,
+        "atlasIndex": 1,
+        "gridRow": 0,
+        "gridCol": 0
+      },
+      {
+        "slotIndex": 10,
+        "filled": false,
+        "atlasIndex": 1,
+        "gridRow": 0,
+        "gridCol": 1
+      },
+      {
+        "slotIndex": 11,
+        "filled": false,
+        "atlasIndex": 1,
+        "gridRow": 0,
+        "gridCol": 2
+      },
+      {
+        "slotIndex": 12,
+        "filled": false,
+        "atlasIndex": 1,
+        "gridRow": 1,
+        "gridCol": 0
+      },
+      {
+        "slotIndex": 13,
+        "filled": false,
+        "atlasIndex": 1,
+        "gridRow": 1,
+        "gridCol": 1
+      },
+      {
+        "slotIndex": 14,
+        "filled": false,
+        "atlasIndex": 1,
+        "gridRow": 1,
+        "gridCol": 2
+      },
+      {
+        "slotIndex": 15,
+        "filled": false,
+        "atlasIndex": 1,
+        "gridRow": 2,
+        "gridCol": 0
+      },
+      {
+        "slotIndex": 16,
+        "filled": false,
+        "atlasIndex": 1,
+        "gridRow": 2,
+        "gridCol": 1
+      },
+      {
+        "slotIndex": 17,
+        "filled": false,
+        "atlasIndex": 1,
+        "gridRow": 2,
+        "gridCol": 2
+      },
+      {
+        "slotIndex": 18,
+        "filled": false,
+        "atlasIndex": 2,
+        "gridRow": 0,
+        "gridCol": 0
+      },
+      {
+        "slotIndex": 19,
+        "filled": false,
+        "atlasIndex": 2,
+        "gridRow": 0,
+        "gridCol": 1
+      },
+      {
+        "slotIndex": 20,
+        "filled": false,
+        "atlasIndex": 2,
+        "gridRow": 0,
+        "gridCol": 2
+      },
+      {
+        "slotIndex": 21,
+        "filled": false,
+        "atlasIndex": 2,
+        "gridRow": 1,
+        "gridCol": 0
+      },
+      {
+        "slotIndex": 22,
+        "filled": false,
+        "atlasIndex": 2,
+        "gridRow": 1,
+        "gridCol": 1
+      },
+      {
+        "slotIndex": 23,
+        "filled": false,
+        "atlasIndex": 2,
+        "gridRow": 1,
+        "gridCol": 2
+      }
+    ],
+    "tribune": [
+      {
+        "slotIndex": 0,
+        "filled": false,
+        "atlasIndex": 2,
+        "gridRow": 2,
+        "gridCol": 0
+      },
+      {
+        "slotIndex": 1,
+        "filled": false,
+        "atlasIndex": 2,
+        "gridRow": 2,
+        "gridCol": 1
+      },
+      {
+        "slotIndex": 2,
+        "filled": false,
+        "atlasIndex": 2,
+        "gridRow": 2,
+        "gridCol": 2
+      },
+      {
+        "slotIndex": 3,
+        "filled": false,
+        "atlasIndex": 3,
+        "gridRow": 0,
+        "gridCol": 0
+      },
+      {
+        "slotIndex": 4,
+        "filled": false,
+        "atlasIndex": 3,
+        "gridRow": 0,
+        "gridCol": 1
+      },
+      {
+        "slotIndex": 5,
+        "filled": false,
+        "atlasIndex": 3,
+        "gridRow": 0,
+        "gridCol": 2
+      },
+      {
+        "slotIndex": 6,
+        "filled": false,
+        "atlasIndex": 3,
+        "gridRow": 1,
+        "gridCol": 0
+      },
+      {
+        "slotIndex": 7,
+        "filled": false,
+        "atlasIndex": 3,
+        "gridRow": 1,
+        "gridCol": 1
+      },
+      {
+        "slotIndex": 8,
+        "filled": false,
+        "atlasIndex": 3,
+        "gridRow": 1,
+        "gridCol": 2
+      },
+      {
+        "slotIndex": 9,
+        "filled": false,
+        "atlasIndex": 3,
+        "gridRow": 2,
+        "gridCol": 0
+      },
+      {
+        "slotIndex": 10,
+        "filled": false,
+        "atlasIndex": 3,
+        "gridRow": 2,
+        "gridCol": 1
+      },
+      {
+        "slotIndex": 11,
+        "filled": false,
+        "atlasIndex": 3,
+        "gridRow": 2,
+        "gridCol": 2
+      },
+      {
+        "slotIndex": 12,
+        "filled": false,
+        "atlasIndex": 4,
+        "gridRow": 0,
+        "gridCol": 0
+      },
+      {
+        "slotIndex": 13,
+        "filled": false,
+        "atlasIndex": 4,
+        "gridRow": 0,
+        "gridCol": 1
+      },
+      {
+        "slotIndex": 14,
+        "filled": false,
+        "atlasIndex": 4,
+        "gridRow": 0,
+        "gridCol": 2
+      },
+      {
+        "slotIndex": 15,
+        "filled": false,
+        "atlasIndex": 4,
+        "gridRow": 1,
+        "gridCol": 0
+      },
+      {
+        "slotIndex": 16,
+        "filled": false,
+        "atlasIndex": 4,
+        "gridRow": 1,
+        "gridCol": 1
+      },
+      {
+        "slotIndex": 17,
+        "filled": false,
+        "atlasIndex": 4,
+        "gridRow": 1,
+        "gridCol": 2
+      },
+      {
+        "slotIndex": 18,
+        "filled": false,
+        "atlasIndex": 4,
+        "gridRow": 2,
+        "gridCol": 0
+      },
+      {
+        "slotIndex": 19,
+        "filled": false,
+        "atlasIndex": 4,
+        "gridRow": 2,
+        "gridCol": 1
+      },
+      {
+        "slotIndex": 20,
+        "filled": false,
+        "atlasIndex": 4,
+        "gridRow": 2,
+        "gridCol": 2
+      },
+      {
+        "slotIndex": 21,
+        "filled": false,
+        "atlasIndex": 5,
+        "gridRow": 0,
+        "gridCol": 0
+      },
+      {
+        "slotIndex": 22,
+        "filled": false,
+        "atlasIndex": 5,
+        "gridRow": 0,
+        "gridCol": 1
+      },
+      {
+        "slotIndex": 23,
+        "filled": false,
+        "atlasIndex": 5,
+        "gridRow": 0,
+        "gridCol": 2
+      }
+    ],
+    "balcony": [
+      {
+        "slotIndex": 0,
+        "filled": false,
+        "atlasIndex": 5,
+        "gridRow": 1,
+        "gridCol": 0
+      },
+      {
+        "slotIndex": 1,
+        "filled": false,
+        "atlasIndex": 5,
+        "gridRow": 1,
+        "gridCol": 1
+      },
+      {
+        "slotIndex": 2,
+        "filled": false,
+        "atlasIndex": 5,
+        "gridRow": 1,
+        "gridCol": 2
+      },
+      {
+        "slotIndex": 3,
+        "filled": false,
+        "atlasIndex": 5,
+        "gridRow": 2,
+        "gridCol": 0
+      },
+      {
+        "slotIndex": 4,
+        "filled": false,
+        "atlasIndex": 5,
+        "gridRow": 2,
+        "gridCol": 1
+      },
+      {
+        "slotIndex": 5,
+        "filled": false,
+        "atlasIndex": 5,
+        "gridRow": 2,
+        "gridCol": 2
+      },
+      {
+        "slotIndex": 6,
+        "filled": false,
+        "atlasIndex": 6,
+        "gridRow": 0,
+        "gridCol": 0
+      },
+      {
+        "slotIndex": 7,
+        "filled": false,
+        "atlasIndex": 6,
+        "gridRow": 0,
+        "gridCol": 1
+      },
+      {
+        "slotIndex": 8,
+        "filled": false,
+        "atlasIndex": 6,
+        "gridRow": 0,
+        "gridCol": 2
+      },
+      {
+        "slotIndex": 9,
+        "filled": false,
+        "atlasIndex": 6,
+        "gridRow": 1,
+        "gridCol": 0
+      },
+      {
+        "slotIndex": 10,
+        "filled": false,
+        "atlasIndex": 6,
+        "gridRow": 1,
+        "gridCol": 1
+      },
+      {
+        "slotIndex": 11,
+        "filled": false,
+        "atlasIndex": 6,
+        "gridRow": 1,
+        "gridCol": 2
+      },
+      {
+        "slotIndex": 12,
+        "filled": false,
+        "atlasIndex": 6,
+        "gridRow": 2,
+        "gridCol": 0
+      },
+      {
+        "slotIndex": 13,
+        "filled": false,
+        "atlasIndex": 6,
+        "gridRow": 2,
+        "gridCol": 1
+      },
+      {
+        "slotIndex": 14,
+        "filled": false,
+        "atlasIndex": 6,
+        "gridRow": 2,
+        "gridCol": 2
+      },
+      {
+        "slotIndex": 15,
+        "filled": false,
+        "atlasIndex": 7,
+        "gridRow": 0,
+        "gridCol": 0
+      },
+      {
+        "slotIndex": 16,
+        "filled": false,
+        "atlasIndex": 7,
+        "gridRow": 0,
+        "gridCol": 1
+      },
+      {
+        "slotIndex": 17,
+        "filled": false,
+        "atlasIndex": 7,
+        "gridRow": 0,
+        "gridCol": 2
+      },
+      {
+        "slotIndex": 18,
+        "filled": false,
+        "atlasIndex": 7,
+        "gridRow": 1,
+        "gridCol": 0
+      },
+      {
+        "slotIndex": 19,
+        "filled": false,
+        "atlasIndex": 7,
+        "gridRow": 1,
+        "gridCol": 1
+      },
+      {
+        "slotIndex": 20,
+        "filled": false,
+        "atlasIndex": 7,
+        "gridRow": 1,
+        "gridCol": 2
+      },
+      {
+        "slotIndex": 21,
+        "filled": false,
+        "atlasIndex": 7,
+        "gridRow": 2,
+        "gridCol": 0
+      },
+      {
+        "slotIndex": 22,
+        "filled": false,
+        "atlasIndex": 7,
+        "gridRow": 2,
+        "gridCol": 1
+      },
+      {
+        "slotIndex": 23,
+        "filled": false,
+        "atlasIndex": 7,
+        "gridRow": 2,
+        "gridCol": 2
       }
     ]
-  },
-  "gallery": [
-    {
-      "id": "7848e9ec-8234-4ef6-b423-f0a1ef1005fb",
-      "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/2a8053df-260f-4906-a11c-800e42acd3e2.jpg",
-      "orientation": "landscape",
-      "photographer": "Slade Da Cat",
-      "composition": "Wings"
-    }
-  ]
+  }
 }
