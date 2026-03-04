@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-04T01:43:39.590Z",
+  "generated": "2026-03-04T01:44:12.734Z",
   "permissions": {
     "Group Owner": [
       {
@@ -388,7 +388,7 @@
   "gallery": {
     "left": [
       {
-        "slotIndex": 0,
+        "slotIndex": 1,
         "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/2a8053df-260f-4906-a11c-800e42acd3e2.jpg",
         "orientation": "landscape",
         "photographer": "Slade Da Cat",
@@ -422,7 +422,7 @@
       },
       {
         "slotIndex": 3,
-        "filled": false,
+        "filled": true,
         "atlasIndex": 0,
         "gridRow": 1,
         "gridCol": 0
