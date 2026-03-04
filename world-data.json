@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-04T05:55:22.245Z",
+  "generated": "2026-03-04T05:55:28.201Z",
   "permissions": {
     "Group Owner": [
       {
@@ -442,7 +442,16 @@
     "files": []
   },
   "gallery": {
-    "left": [],
+    "left": [
+      {
+        "slotIndex": 0,
+        "url": null,
+        "orientation": "portrait",
+        "expectedOrientation": "portrait",
+        "photographer": null,
+        "composition": "Red Tunnel"
+      }
+    ],
     "right": []
   },
   "posterGallery": {
