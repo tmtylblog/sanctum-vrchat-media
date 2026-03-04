@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-04T06:00:00.590Z",
+  "generated": "2026-03-04T06:03:08.829Z",
   "permissions": {
     "Group Owner": [
       {
@@ -450,6 +450,14 @@
         "expectedOrientation": "portrait",
         "photographer": null,
         "composition": "Red Tunnel"
+      },
+      {
+        "slotIndex": 6,
+        "url": null,
+        "orientation": "landscape",
+        "expectedOrientation": "landscape",
+        "photographer": null,
+        "composition": "Reactor"
       },
       {
         "slotIndex": 7,
