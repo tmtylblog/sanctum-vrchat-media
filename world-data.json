@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-04T03:00:00.624Z",
+  "generated": "2026-03-04T04:00:00.588Z",
   "permissions": {
     "Group Owner": [
       {
@@ -391,7 +391,7 @@
       {
         "index": 0,
         "url": "https://tmtylblog.github.io/sanctum-vrchat-media/posters/atlas_0.jpg",
-        "posterCount": 3
+        "posterCount": 0
       },
       {
         "index": 1,
@@ -426,35 +426,26 @@
       {
         "index": 7,
         "url": "https://tmtylblog.github.io/sanctum-vrchat-media/posters/atlas_7.jpg",
-        "posterCount": 1
+        "posterCount": 0
       }
     ]
   },
   "gallery": {
-    "left": [
-      {
-        "slotIndex": 0,
-        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/2a8053df-260f-4906-a11c-800e42acd3e2.jpg",
-        "orientation": "landscape",
-        "expectedOrientation": "portrait",
-        "photographer": "Slade Da Cat",
-        "composition": "Wings"
-      }
-    ],
+    "left": [],
     "right": []
   },
   "posterGallery": {
     "altar": [
       {
         "slotIndex": 0,
-        "filled": true,
+        "filled": false,
         "atlasIndex": 0,
         "gridRow": 0,
         "gridCol": 0
       },
       {
         "slotIndex": 1,
-        "filled": true,
+        "filled": false,
         "atlasIndex": 0,
         "gridRow": 0,
         "gridCol": 1
@@ -468,7 +459,7 @@
       },
       {
         "slotIndex": 3,
-        "filled": true,
+        "filled": false,
         "atlasIndex": 0,
         "gridRow": 1,
         "gridCol": 0
@@ -927,7 +918,7 @@
       },
       {
         "slotIndex": 20,
-        "filled": true,
+        "filled": false,
         "atlasIndex": 7,
         "gridRow": 1,
         "gridCol": 2
