@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-04T06:04:15.966Z",
+  "generated": "2026-03-04T06:11:58.795Z",
   "permissions": {
     "Group Owner": [
       {
@@ -439,13 +439,54 @@
       "width": 544,
       "height": 680
     },
-    "files": []
+    "files": [
+      {
+        "index": 0,
+        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/posters/atlas_0.jpg",
+        "posterCount": 2
+      },
+      {
+        "index": 1,
+        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/posters/atlas_1.jpg",
+        "posterCount": 0
+      },
+      {
+        "index": 2,
+        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/posters/atlas_2.jpg",
+        "posterCount": 1
+      },
+      {
+        "index": 3,
+        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/posters/atlas_3.jpg",
+        "posterCount": 0
+      },
+      {
+        "index": 4,
+        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/posters/atlas_4.jpg",
+        "posterCount": 0
+      },
+      {
+        "index": 5,
+        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/posters/atlas_5.jpg",
+        "posterCount": 1
+      },
+      {
+        "index": 6,
+        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/posters/atlas_6.jpg",
+        "posterCount": 0
+      },
+      {
+        "index": 7,
+        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/posters/atlas_7.jpg",
+        "posterCount": 0
+      }
+    ]
   },
   "gallery": {
     "left": [
       {
         "slotIndex": 0,
-        "url": null,
+        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/e6e65a34-71d3-4362-bb8c-aa5200836bec.png",
         "orientation": "portrait",
         "expectedOrientation": "portrait",
         "photographer": null,
@@ -453,7 +494,7 @@
       },
       {
         "slotIndex": 1,
-        "url": null,
+        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/ad8ebd78-4429-43b2-9f55-0b9171626eeb.png",
         "orientation": "portrait",
         "expectedOrientation": "portrait",
         "photographer": "SladeDaCat",
@@ -461,7 +502,7 @@
       },
       {
         "slotIndex": 6,
-        "url": null,
+        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/2acc1913-1055-49e2-a820-6fde39b9076f.png",
         "orientation": "landscape",
         "expectedOrientation": "landscape",
         "photographer": null,
@@ -469,7 +510,7 @@
       },
       {
         "slotIndex": 7,
-        "url": null,
+        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/ac3beace-46a1-440c-90ab-b889e802efb3.png",
         "orientation": "landscape",
         "expectedOrientation": "landscape",
         "photographer": null,
@@ -479,7 +520,7 @@
     "right": [
       {
         "slotIndex": 0,
-        "url": null,
+        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/f6318de6-dc31-4e13-88cd-b352893f318e.jpg",
         "orientation": "portrait",
         "expectedOrientation": "portrait",
         "photographer": "SladeDaCat",
@@ -487,7 +528,7 @@
       },
       {
         "slotIndex": 6,
-        "url": null,
+        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/22aac9a6-5e0b-43c4-80eb-b2761d20f473.jpg",
         "orientation": "landscape",
         "expectedOrientation": "landscape",
         "photographer": "SladeDaCat",
