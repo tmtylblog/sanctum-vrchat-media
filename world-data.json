@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-04T06:03:11.318Z",
+  "generated": "2026-03-04T06:03:13.223Z",
   "permissions": {
     "Group Owner": [
       {
@@ -477,6 +477,14 @@
       }
     ],
     "right": [
+      {
+        "slotIndex": 0,
+        "url": null,
+        "orientation": "portrait",
+        "expectedOrientation": "portrait",
+        "photographer": "SladeDaCat",
+        "composition": "Mother Demands"
+      },
       {
         "slotIndex": 6,
         "url": null,
