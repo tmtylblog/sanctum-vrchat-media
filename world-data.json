@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-04T05:55:30.430Z",
+  "generated": "2026-03-04T05:55:37.631Z",
   "permissions": {
     "Group Owner": [
       {
@@ -460,7 +460,16 @@
         "composition": null
       }
     ],
-    "right": []
+    "right": [
+      {
+        "slotIndex": 6,
+        "url": null,
+        "orientation": "landscape",
+        "expectedOrientation": "landscape",
+        "photographer": "SladeDaCat",
+        "composition": "Laid Back"
+      }
+    ]
   },
   "posterGallery": {
     "altar": [
