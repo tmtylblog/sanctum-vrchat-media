@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-04T01:46:39.085Z",
+  "generated": "2026-03-04T01:59:03.926Z",
   "permissions": {
     "Group Owner": [
       {
@@ -375,6 +375,10 @@
     ]
   },
   "atlases": {
+    "canvasSize": {
+      "width": 2048,
+      "height": 2048
+    },
     "grid": {
       "cols": 3,
       "rows": 3
