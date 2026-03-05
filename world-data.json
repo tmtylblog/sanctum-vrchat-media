@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-05T19:00:02.271Z",
+  "generated": "2026-03-05T20:20:16.243Z",
   "permissions": {
     "Group Owner": [
       {
@@ -506,6 +506,18 @@
       }
     ]
   },
+  "supporters": {
+    "entrySystemRecognition": [],
+    "terminalNameInclusion": [],
+    "floorCarvingNameInclusion": [],
+    "priorityInstanceQueue": [],
+    "privatePenthouseSpawn": [],
+    "performanceVodAccess": [],
+    "shareablePenthouseAccess": [],
+    "hostTribuneEvents": [],
+    "hostLunetteEvents": [],
+    "architectDesignation": []
+  },
   "atlases": {
     "canvasSize": {
       "width": 2048,
@@ -519,48 +531,7 @@
       "width": 544,
       "height": 680
     },
-    "files": [
-      {
-        "index": 0,
-        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/posters/atlas_0.jpg",
-        "posterCount": 2
-      },
-      {
-        "index": 1,
-        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/posters/atlas_1.jpg",
-        "posterCount": 1
-      },
-      {
-        "index": 2,
-        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/posters/atlas_2.jpg",
-        "posterCount": 1
-      },
-      {
-        "index": 3,
-        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/posters/atlas_3.jpg",
-        "posterCount": 1
-      },
-      {
-        "index": 4,
-        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/posters/atlas_4.jpg",
-        "posterCount": 2
-      },
-      {
-        "index": 5,
-        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/posters/atlas_5.jpg",
-        "posterCount": 1
-      },
-      {
-        "index": 6,
-        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/posters/atlas_6.jpg",
-        "posterCount": 2
-      },
-      {
-        "index": 7,
-        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/posters/atlas_7.jpg",
-        "posterCount": 1
-      }
-    ]
+    "files": []
   },
   "gallery": {
     "left": [
@@ -628,7 +599,7 @@
     "altar": [
       {
         "slotIndex": 0,
-        "filled": true,
+        "filled": false,
         "atlasIndex": 0,
         "gridRow": 0,
         "gridCol": 0
@@ -642,7 +613,7 @@
       },
       {
         "slotIndex": 2,
-        "filled": true,
+        "filled": false,
         "atlasIndex": 0,
         "gridRow": 0,
         "gridCol": 2
