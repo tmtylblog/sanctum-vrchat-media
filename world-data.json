@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-05T20:20:16.243Z",
+  "generated": "2026-03-05T20:20:18.538Z",
   "permissions": {
     "Group Owner": [
       {
@@ -506,18 +506,6 @@
       }
     ]
   },
-  "supporters": {
-    "entrySystemRecognition": [],
-    "terminalNameInclusion": [],
-    "floorCarvingNameInclusion": [],
-    "priorityInstanceQueue": [],
-    "privatePenthouseSpawn": [],
-    "performanceVodAccess": [],
-    "shareablePenthouseAccess": [],
-    "hostTribuneEvents": [],
-    "hostLunetteEvents": [],
-    "architectDesignation": []
-  },
   "atlases": {
     "canvasSize": {
       "width": 2048,
@@ -606,7 +594,7 @@
       },
       {
         "slotIndex": 1,
-        "filled": false,
+        "filled": true,
         "atlasIndex": 0,
         "gridRow": 0,
         "gridCol": 1
