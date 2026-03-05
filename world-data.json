@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-05T20:21:04.926Z",
+  "generated": "2026-03-05T20:21:14.115Z",
   "permissions": {
     "Group Owner": [
       {
@@ -506,6 +506,18 @@
       }
     ]
   },
+  "supporters": {
+    "entrySystemRecognition": [],
+    "terminalNameInclusion": [],
+    "floorCarvingNameInclusion": [],
+    "priorityInstanceQueue": [],
+    "privatePenthouseSpawn": [],
+    "performanceVodAccess": [],
+    "shareablePenthouseAccess": [],
+    "hostTribuneEvents": [],
+    "hostLunetteEvents": [],
+    "architectDesignation": []
+  },
   "atlases": {
     "canvasSize": {
       "width": 2048,
@@ -613,14 +625,6 @@
         "expectedOrientation": "landscape",
         "photographer": "SladeDaCat",
         "composition": "Laid Back"
-      },
-      {
-        "slotIndex": 7,
-        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/2ec209c3-cb10-4f24-8fac-7a0e2cc59bc4.jpg",
-        "orientation": "landscape",
-        "expectedOrientation": "landscape",
-        "photographer": "fallenx4ngel",
-        "composition": "TESTIMAGE-WILLDELETE LATER"
       }
     ]
   },
