@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-06T08:14:09.246Z",
+  "generated": "2026-03-06T13:32:44.854Z",
   "permissions": {
     "Group Owner": [
       {
@@ -584,14 +584,6 @@
         "expectedOrientation": "landscape",
         "photographer": "SladeDaCat",
         "composition": "Laid Back"
-      },
-      {
-        "slotIndex": 7,
-        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/e8605d6a-74f4-4da5-b7f6-52748b21db97.jpg",
-        "orientation": "landscape",
-        "expectedOrientation": "landscape",
-        "photographer": "Kurumych",
-        "composition": "Tradition (I took photo like this almost every sanctum xD)"
       }
     ]
   },
@@ -697,7 +689,7 @@
       },
       {
         "slotIndex": 14,
-        "filled": true,
+        "filled": false,
         "atlasIndex": 1,
         "gridRow": 1,
         "gridCol": 2
@@ -718,7 +710,7 @@
       },
       {
         "slotIndex": 17,
-        "filled": true,
+        "filled": false,
         "atlasIndex": 1,
         "gridRow": 2,
         "gridCol": 2
@@ -804,7 +796,7 @@
       },
       {
         "slotIndex": 5,
-        "filled": true,
+        "filled": false,
         "atlasIndex": 3,
         "gridRow": 0,
         "gridCol": 2
