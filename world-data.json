@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-08T21:52:17.028Z",
+  "generated": "2026-03-08T21:52:20.344Z",
   "permissions": {
     "Group Owner": [
       {
@@ -570,7 +570,7 @@
       {
         "index": 7,
         "url": "https://tmtylblog.github.io/sanctum-vrchat-media/posters/atlas_7.jpg",
-        "posterCount": 2
+        "posterCount": 3
       }
     ]
   },
@@ -1091,7 +1091,7 @@
       },
       {
         "slotIndex": 17,
-        "filled": false,
+        "filled": true,
         "atlasIndex": 7,
         "gridRow": 0,
         "gridCol": 2
