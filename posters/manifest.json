@@ -1,10 +1,10 @@
 {
-  "generated": "2026-03-08T21:52:41.884Z",
+  "generated": "2026-03-09T20:49:48.378Z",
   "atlases": [
     {
       "index": 0,
       "url": "https://tmtylblog.github.io/sanctum-vrchat-media/posters/atlas_0.jpg",
-      "posterCount": 5
+      "posterCount": 4
     },
     {
       "index": 1,
@@ -14,17 +14,17 @@
     {
       "index": 2,
       "url": "https://tmtylblog.github.io/sanctum-vrchat-media/posters/atlas_2.jpg",
-      "posterCount": 5
+      "posterCount": 4
     },
     {
       "index": 3,
       "url": "https://tmtylblog.github.io/sanctum-vrchat-media/posters/atlas_3.jpg",
-      "posterCount": 3
+      "posterCount": 2
     },
     {
       "index": 4,
       "url": "https://tmtylblog.github.io/sanctum-vrchat-media/posters/atlas_4.jpg",
-      "posterCount": 3
+      "posterCount": 1
     },
     {
       "index": 5,
@@ -34,12 +34,12 @@
     {
       "index": 6,
       "url": "https://tmtylblog.github.io/sanctum-vrchat-media/posters/atlas_6.jpg",
-      "posterCount": 4
+      "posterCount": 2
     },
     {
       "index": 7,
       "url": "https://tmtylblog.github.io/sanctum-vrchat-media/posters/atlas_7.jpg",
-      "posterCount": 3
+      "posterCount": 2
     }
   ],
   "cellSize": {
