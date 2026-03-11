@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-11T04:11:48.378Z",
+  "generated": "2026-03-11T04:11:52.250Z",
   "permissions": {
     "Group Owner": [
       {
@@ -545,7 +545,7 @@
       {
         "index": 0,
         "url": "https://tmtylblog.github.io/sanctum-vrchat-media/posters/atlas_0.jpg",
-        "posterCount": 5
+        "posterCount": 9
       },
       {
         "index": 1,
@@ -560,12 +560,12 @@
       {
         "index": 3,
         "url": "https://tmtylblog.github.io/sanctum-vrchat-media/posters/atlas_3.jpg",
-        "posterCount": 0
+        "posterCount": 9
       },
       {
         "index": 4,
         "url": "https://tmtylblog.github.io/sanctum-vrchat-media/posters/atlas_4.jpg",
-        "posterCount": 9
+        "posterCount": 0
       },
       {
         "index": 5,
@@ -1003,7 +1003,7 @@
       },
       {
         "slotIndex": 3,
-        "filled": false,
+        "filled": true,
         "atlasIndex": 5,
         "gridRow": 2,
         "gridCol": 0
@@ -1017,14 +1017,14 @@
       },
       {
         "slotIndex": 5,
-        "filled": false,
+        "filled": true,
         "atlasIndex": 5,
         "gridRow": 2,
         "gridCol": 2
       },
       {
         "slotIndex": 6,
-        "filled": false,
+        "filled": true,
         "atlasIndex": 6,
         "gridRow": 0,
         "gridCol": 0
