@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-11T04:11:07.297Z",
+  "generated": "2026-03-11T04:11:41.935Z",
   "permissions": {
     "Group Owner": [
       {
@@ -540,22 +540,22 @@
       {
         "index": 1,
         "url": "https://tmtylblog.github.io/sanctum-vrchat-media/posters/atlas_1.jpg",
-        "posterCount": 9
+        "posterCount": 0
       },
       {
         "index": 2,
         "url": "https://tmtylblog.github.io/sanctum-vrchat-media/posters/atlas_2.jpg",
-        "posterCount": 9
+        "posterCount": 0
       },
       {
         "index": 3,
         "url": "https://tmtylblog.github.io/sanctum-vrchat-media/posters/atlas_3.jpg",
-        "posterCount": 4
+        "posterCount": 0
       },
       {
         "index": 4,
         "url": "https://tmtylblog.github.io/sanctum-vrchat-media/posters/atlas_4.jpg",
-        "posterCount": 4
+        "posterCount": 0
       },
       {
         "index": 5,
@@ -830,7 +830,7 @@
       },
       {
         "slotIndex": 4,
-        "filled": false,
+        "filled": true,
         "atlasIndex": 3,
         "gridRow": 0,
         "gridCol": 1
@@ -851,7 +851,7 @@
       },
       {
         "slotIndex": 7,
-        "filled": false,
+        "filled": true,
         "atlasIndex": 3,
         "gridRow": 1,
         "gridCol": 1
@@ -865,21 +865,21 @@
       },
       {
         "slotIndex": 9,
-        "filled": false,
+        "filled": true,
         "atlasIndex": 3,
         "gridRow": 2,
         "gridCol": 0
       },
       {
         "slotIndex": 10,
-        "filled": false,
+        "filled": true,
         "atlasIndex": 3,
         "gridRow": 2,
         "gridCol": 1
       },
       {
         "slotIndex": 11,
-        "filled": false,
+        "filled": true,
         "atlasIndex": 3,
         "gridRow": 2,
         "gridCol": 2
@@ -900,28 +900,28 @@
       },
       {
         "slotIndex": 14,
-        "filled": false,
+        "filled": true,
         "atlasIndex": 4,
         "gridRow": 0,
         "gridCol": 2
       },
       {
         "slotIndex": 15,
-        "filled": false,
+        "filled": true,
         "atlasIndex": 4,
         "gridRow": 1,
         "gridCol": 0
       },
       {
         "slotIndex": 16,
-        "filled": false,
+        "filled": true,
         "atlasIndex": 4,
         "gridRow": 1,
         "gridCol": 1
       },
       {
         "slotIndex": 17,
-        "filled": false,
+        "filled": true,
         "atlasIndex": 4,
         "gridRow": 1,
         "gridCol": 2
@@ -935,7 +935,7 @@
       },
       {
         "slotIndex": 19,
-        "filled": false,
+        "filled": true,
         "atlasIndex": 4,
         "gridRow": 2,
         "gridCol": 1
