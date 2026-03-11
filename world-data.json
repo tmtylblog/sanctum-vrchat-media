@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-11T04:06:15.081Z",
+  "generated": "2026-03-11T04:06:23.372Z",
   "permissions": {
     "Group Owner": [
       {
@@ -506,6 +506,16 @@
       }
     ]
   },
+  "dancers": [
+    {
+      "userId": "usr_2805613d-ff9c-4120-82c6-7d5f4364ae07",
+      "displayName": "〔レン〕"
+    },
+    {
+      "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
+      "displayName": "sloth_cast"
+    }
+  ],
   "supporters": {
     "entrySystemRecognition": [],
     "terminalNameInclusion": [],
