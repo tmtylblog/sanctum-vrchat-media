@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-11T11:38:20.173Z",
+  "generated": "2026-03-11T11:51:00.009Z",
   "permissions": {
     "Group Owner": [
       {
@@ -506,6 +506,16 @@
       }
     ]
   },
+  "dancers": [
+    {
+      "userId": "usr_2805613d-ff9c-4120-82c6-7d5f4364ae07",
+      "displayName": "〔レン〕"
+    },
+    {
+      "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
+      "displayName": "sloth_cast"
+    }
+  ],
   "supporters": {
     "entrySystemRecognition": [],
     "terminalNameInclusion": [],
@@ -607,6 +617,14 @@
         "expectedOrientation": "portrait",
         "photographer": "fallenx4ngel",
         "composition": null
+      },
+      {
+        "slotIndex": 4,
+        "url": null,
+        "orientation": "portrait",
+        "expectedOrientation": "portrait",
+        "photographer": "SladeDaCat",
+        "composition": "Floor"
       },
       {
         "slotIndex": 6,
