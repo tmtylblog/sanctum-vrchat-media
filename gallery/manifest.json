@@ -1,6 +1,76 @@
 {
-  "generated": "2026-03-09T20:54:38.108Z",
+  "generated": "2026-03-11T01:27:12.373Z",
   "images": [
+    {
+      "id": "de789cea-44a1-4b6a-8229-bd34349c58f1",
+      "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/c9a55a72-d6e9-4678-8ac4-08950df6f739.jpg",
+      "orientation": "landscape",
+      "photographer": "fallenx4ngel",
+      "composition": null
+    },
+    {
+      "id": "60021354-c55e-4e5d-809f-0d899fe08a51",
+      "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/3e43d60c-9745-4d4b-82b7-d3619d4848c0.jpg",
+      "orientation": "landscape",
+      "photographer": "grimwxre",
+      "composition": "Triune Convergence (Kneeling at the Vector Shrine)"
+    },
+    {
+      "id": "77d775db-4730-4c62-957d-04f5ff7ea34c",
+      "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/427708e9-a68c-43d7-8056-692a68a5278e.jpg",
+      "orientation": "landscape",
+      "photographer": "grimwxre",
+      "composition": "Hands of the Void (Orbiting the Witness)"
+    },
+    {
+      "id": "6ae8afae-6bac-41f2-99ad-20e457b3a2a0",
+      "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/ef75b783-bd7f-4d72-81b4-971ac31f493e.jpg",
+      "orientation": "landscape",
+      "photographer": "grimwxre",
+      "composition": "Crate of Light (The Quiet Cache)"
+    },
+    {
+      "id": "7eb19672-b3d2-477c-ba5e-9f5710d644ab",
+      "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/c1efd49b-b69f-49b8-b2d9-85ee702df650.jpg",
+      "orientation": "landscape",
+      "photographer": "grimwxre",
+      "composition": "Redgrass Reverie (Prayer in the Fog)"
+    },
+    {
+      "id": "46b06ffc-c78a-4969-8f27-bd0aeed341f6",
+      "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/b9daf17b-9faf-452b-9b4b-12e211d38e73.jpg",
+      "orientation": "landscape",
+      "photographer": "grimwxre",
+      "composition": "Apostle of Chrome (Held by the Haloed)"
+    },
+    {
+      "id": "a141018f-8d7f-49cb-a296-a99525f7f75f",
+      "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/4dc09b4f-1062-4959-a79d-c02c0f2d301b.jpg",
+      "orientation": "landscape",
+      "photographer": "grimwxre",
+      "composition": "Shatterfield (Running Through Geometry)"
+    },
+    {
+      "id": "e9dc6bd7-4862-4c22-bd7f-830e6865dc27",
+      "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/76960fc4-0116-45f6-a815-942397ef74ae.jpg",
+      "orientation": "landscape",
+      "photographer": "grimwxre",
+      "composition": "The White Corridor (Archive of Cubes)"
+    },
+    {
+      "id": "38d2e5c1-3544-4234-8680-d59622334651",
+      "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/a2bba7ce-115c-4570-afec-4b31a477e0da.jpg",
+      "orientation": "landscape",
+      "photographer": "grimwxre",
+      "composition": "Chromatic Drift (The Spiral Witness)"
+    },
+    {
+      "id": "b654b5c2-1772-4f81-9cda-d9b8dd496f79",
+      "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/4d92c5f7-6c9b-4066-9380-c7f6bc22e2ca.jpg",
+      "orientation": "landscape",
+      "photographer": "grimwxre",
+      "composition": "Threshold Stretch (The Mouth of Light)"
+    },
     {
       "id": "e6a50ca8-06d7-4077-a976-6215ec3f1145",
       "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/cdcb54c9-c9ef-4bf3-b49c-189244f8ce28.jpg",
@@ -39,6 +109,13 @@
     {
       "id": "f7112fd2-3475-4837-868e-5be5f0e4f185",
       "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/bb6e5aa8-91ba-4bd0-ba7f-8c31196b8519.jpg",
+      "orientation": "landscape",
+      "photographer": "Xee",
+      "composition": null
+    },
+    {
+      "id": "13446e0d-9a04-4ae9-894d-bc6fb40b80c5",
+      "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/9bce02a6-fa25-4083-b8a8-4f4a6b84c181.png",
       "orientation": "landscape",
       "photographer": "Xee",
       "composition": null
