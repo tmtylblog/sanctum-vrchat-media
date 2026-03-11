@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-11T04:11:58.243Z",
+  "generated": "2026-03-11T04:12:09.311Z",
   "permissions": {
     "Group Owner": [
       {
@@ -506,16 +506,6 @@
       }
     ]
   },
-  "dancers": [
-    {
-      "userId": "usr_2805613d-ff9c-4120-82c6-7d5f4364ae07",
-      "displayName": "〔レン〕"
-    },
-    {
-      "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
-      "displayName": "sloth_cast"
-    }
-  ],
   "supporters": {
     "entrySystemRecognition": [],
     "terminalNameInclusion": [],
@@ -545,42 +535,42 @@
       {
         "index": 0,
         "url": "https://tmtylblog.github.io/sanctum-vrchat-media/posters/atlas_0.jpg",
-        "posterCount": 0
+        "posterCount": 9
       },
       {
         "index": 1,
         "url": "https://tmtylblog.github.io/sanctum-vrchat-media/posters/atlas_1.jpg",
-        "posterCount": 0
+        "posterCount": 9
       },
       {
         "index": 2,
         "url": "https://tmtylblog.github.io/sanctum-vrchat-media/posters/atlas_2.jpg",
-        "posterCount": 0
+        "posterCount": 9
       },
       {
         "index": 3,
         "url": "https://tmtylblog.github.io/sanctum-vrchat-media/posters/atlas_3.jpg",
-        "posterCount": 0
+        "posterCount": 9
       },
       {
         "index": 4,
         "url": "https://tmtylblog.github.io/sanctum-vrchat-media/posters/atlas_4.jpg",
-        "posterCount": 0
+        "posterCount": 9
       },
       {
         "index": 5,
         "url": "https://tmtylblog.github.io/sanctum-vrchat-media/posters/atlas_5.jpg",
-        "posterCount": 0
+        "posterCount": 9
       },
       {
         "index": 6,
         "url": "https://tmtylblog.github.io/sanctum-vrchat-media/posters/atlas_6.jpg",
-        "posterCount": 0
+        "posterCount": 6
       },
       {
         "index": 7,
         "url": "https://tmtylblog.github.io/sanctum-vrchat-media/posters/atlas_7.jpg",
-        "posterCount": 0
+        "posterCount": 4
       }
     ]
   },
