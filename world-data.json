@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-11T11:37:35.461Z",
+  "generated": "2026-03-11T11:38:15.559Z",
   "permissions": {
     "Group Owner": [
       {
@@ -608,6 +608,14 @@
         "orientation": "portrait",
         "expectedOrientation": "portrait",
         "photographer": "Xee",
+        "composition": null
+      },
+      {
+        "slotIndex": 3,
+        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/d2cfea4b-22b4-4223-8165-c0ed7163c778.jpg",
+        "orientation": "portrait",
+        "expectedOrientation": "portrait",
+        "photographer": "fallenx4ngel",
         "composition": null
       },
       {
