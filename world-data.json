@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-11T04:11:41.935Z",
+  "generated": "2026-03-11T04:11:48.378Z",
   "permissions": {
     "Group Owner": [
       {
@@ -506,6 +506,16 @@
       }
     ]
   },
+  "dancers": [
+    {
+      "userId": "usr_2805613d-ff9c-4120-82c6-7d5f4364ae07",
+      "displayName": "〔レン〕"
+    },
+    {
+      "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
+      "displayName": "sloth_cast"
+    }
+  ],
   "supporters": {
     "entrySystemRecognition": [],
     "terminalNameInclusion": [],
@@ -535,7 +545,7 @@
       {
         "index": 0,
         "url": "https://tmtylblog.github.io/sanctum-vrchat-media/posters/atlas_0.jpg",
-        "posterCount": 9
+        "posterCount": 5
       },
       {
         "index": 1,
@@ -555,22 +565,22 @@
       {
         "index": 4,
         "url": "https://tmtylblog.github.io/sanctum-vrchat-media/posters/atlas_4.jpg",
-        "posterCount": 0
+        "posterCount": 9
       },
       {
         "index": 5,
         "url": "https://tmtylblog.github.io/sanctum-vrchat-media/posters/atlas_5.jpg",
-        "posterCount": 3
+        "posterCount": 0
       },
       {
         "index": 6,
         "url": "https://tmtylblog.github.io/sanctum-vrchat-media/posters/atlas_6.jpg",
-        "posterCount": 3
+        "posterCount": 0
       },
       {
         "index": 7,
         "url": "https://tmtylblog.github.io/sanctum-vrchat-media/posters/atlas_7.jpg",
-        "posterCount": 4
+        "posterCount": 0
       }
     ]
   },
@@ -956,14 +966,14 @@
       },
       {
         "slotIndex": 22,
-        "filled": false,
+        "filled": true,
         "atlasIndex": 5,
         "gridRow": 0,
         "gridCol": 1
       },
       {
         "slotIndex": 23,
-        "filled": false,
+        "filled": true,
         "atlasIndex": 5,
         "gridRow": 0,
         "gridCol": 2
@@ -972,7 +982,7 @@
     "balcony": [
       {
         "slotIndex": 0,
-        "filled": false,
+        "filled": true,
         "atlasIndex": 5,
         "gridRow": 1,
         "gridCol": 0
@@ -986,7 +996,7 @@
       },
       {
         "slotIndex": 2,
-        "filled": false,
+        "filled": true,
         "atlasIndex": 5,
         "gridRow": 1,
         "gridCol": 2
