@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-11T11:38:15.559Z",
+  "generated": "2026-03-11T11:38:20.173Z",
   "permissions": {
     "Group Owner": [
       {
@@ -506,16 +506,6 @@
       }
     ]
   },
-  "dancers": [
-    {
-      "userId": "usr_2805613d-ff9c-4120-82c6-7d5f4364ae07",
-      "displayName": "〔レン〕"
-    },
-    {
-      "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
-      "displayName": "sloth_cast"
-    }
-  ],
   "supporters": {
     "entrySystemRecognition": [],
     "terminalNameInclusion": [],
@@ -651,6 +641,14 @@
         "expectedOrientation": "landscape",
         "photographer": "SladeDaCat",
         "composition": "Laid Back"
+      },
+      {
+        "slotIndex": 7,
+        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/3e43d60c-9745-4d4b-82b7-d3619d4848c0.jpg",
+        "orientation": "landscape",
+        "expectedOrientation": "landscape",
+        "photographer": "grimwxre",
+        "composition": "Triune Convergence (Kneeling at the Vector Shrine)"
       }
     ]
   },
