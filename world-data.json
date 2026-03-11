@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-11T04:14:36.650Z",
+  "generated": "2026-03-11T04:14:54.834Z",
   "permissions": {
     "Group Owner": [
       {
@@ -506,6 +506,16 @@
       }
     ]
   },
+  "dancers": [
+    {
+      "userId": "usr_2805613d-ff9c-4120-82c6-7d5f4364ae07",
+      "displayName": "〔レン〕"
+    },
+    {
+      "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
+      "displayName": "sloth_cast"
+    }
+  ],
   "supporters": {
     "entrySystemRecognition": [],
     "terminalNameInclusion": [],
@@ -565,7 +575,7 @@
       {
         "index": 6,
         "url": "https://tmtylblog.github.io/sanctum-vrchat-media/posters/atlas_6.jpg",
-        "posterCount": 6
+        "posterCount": 7
       },
       {
         "index": 7,
@@ -1049,7 +1059,7 @@
       },
       {
         "slotIndex": 11,
-        "filled": false,
+        "filled": true,
         "atlasIndex": 6,
         "gridRow": 1,
         "gridCol": 2
