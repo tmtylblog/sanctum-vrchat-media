@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-12T00:19:53.867Z",
+  "generated": "2026-03-12T00:19:56.480Z",
   "permissions": {
     "Group Owner": [
       {
@@ -667,6 +667,14 @@
         "expectedOrientation": "portrait",
         "photographer": "grimwxre",
         "composition": "No. 01 (Encoding of the Soul)"
+      },
+      {
+        "slotIndex": 2,
+        "url": null,
+        "orientation": "portrait",
+        "expectedOrientation": "portrait",
+        "photographer": "grimwxre",
+        "composition": "Hands Of The Void (Orbiting The Witness)"
       },
       {
         "slotIndex": 4,
