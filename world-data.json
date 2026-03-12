@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-12T00:20:16.914Z",
+  "generated": "2026-03-12T00:20:21.536Z",
   "permissions": {
     "Group Owner": [
       {
@@ -699,14 +699,6 @@
         "expectedOrientation": "portrait",
         "photographer": "grimwxre",
         "composition": "Redgrass Reverie (Prayer In The Fog)"
-      },
-      {
-        "slotIndex": 6,
-        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/22aac9a6-5e0b-43c4-80eb-b2761d20f473.jpg",
-        "orientation": "landscape",
-        "expectedOrientation": "landscape",
-        "photographer": "SladeDaCat",
-        "composition": "Laid Back"
       },
       {
         "slotIndex": 7,
