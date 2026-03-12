@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-12T00:19:48.049Z",
+  "generated": "2026-03-12T00:19:51.957Z",
   "permissions": {
     "Group Owner": [
       {
@@ -617,14 +617,6 @@
         "expectedOrientation": "portrait",
         "photographer": "fallenx4ngel",
         "composition": null
-      },
-      {
-        "slotIndex": 4,
-        "url": null,
-        "orientation": "portrait",
-        "expectedOrientation": "portrait",
-        "photographer": "SladeDaCat",
-        "composition": "Floor"
       },
       {
         "slotIndex": 5,
