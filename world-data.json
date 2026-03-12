@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-12T00:19:44.479Z",
+  "generated": "2026-03-12T00:19:48.049Z",
   "permissions": {
     "Group Owner": [
       {
@@ -667,6 +667,22 @@
         "expectedOrientation": "portrait",
         "photographer": "grimwxre",
         "composition": "No. 01 (Encoding of the Soul)"
+      },
+      {
+        "slotIndex": 4,
+        "url": null,
+        "orientation": "portrait",
+        "expectedOrientation": "portrait",
+        "photographer": "fallenx4ngel",
+        "composition": null
+      },
+      {
+        "slotIndex": 5,
+        "url": null,
+        "orientation": "portrait",
+        "expectedOrientation": "portrait",
+        "photographer": "grimwxre",
+        "composition": "Redgrass Reverie (Prayer In The Fog)"
       },
       {
         "slotIndex": 6,
