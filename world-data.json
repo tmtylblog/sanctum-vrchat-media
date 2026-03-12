@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-11T20:23:23.643Z",
+  "generated": "2026-03-12T00:19:42.560Z",
   "permissions": {
     "Group Owner": [
       {
@@ -659,6 +659,14 @@
         "expectedOrientation": "portrait",
         "photographer": "SladeDaCat",
         "composition": "Mother Demands"
+      },
+      {
+        "slotIndex": 1,
+        "url": null,
+        "orientation": "portrait",
+        "expectedOrientation": "portrait",
+        "photographer": "grimwxre",
+        "composition": "No. 01 (Encoding of the Soul)"
       },
       {
         "slotIndex": 5,
