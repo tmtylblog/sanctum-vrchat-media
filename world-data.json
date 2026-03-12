@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-12T00:20:10.521Z",
+  "generated": "2026-03-12T00:20:12.029Z",
   "permissions": {
     "Group Owner": [
       {
@@ -593,14 +593,6 @@
         "expectedOrientation": "portrait",
         "photographer": "grimwxre",
         "composition": "Crate of Light (The Quiet Cache)"
-      },
-      {
-        "slotIndex": 1,
-        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/ad8ebd78-4429-43b2-9f55-0b9171626eeb.png",
-        "orientation": "portrait",
-        "expectedOrientation": "portrait",
-        "photographer": "SladeDaCat",
-        "composition": "Heaven"
       },
       {
         "slotIndex": 2,
