@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-12T00:20:03.346Z",
+  "generated": "2026-03-12T00:20:07.158Z",
   "permissions": {
     "Group Owner": [
       {
@@ -636,11 +636,11 @@
       },
       {
         "slotIndex": 6,
-        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/2acc1913-1055-49e2-a820-6fde39b9076f.png",
+        "url": null,
         "orientation": "landscape",
         "expectedOrientation": "landscape",
-        "photographer": null,
-        "composition": "Reactor"
+        "photographer": "fallenx4ngel",
+        "composition": null
       },
       {
         "slotIndex": 7,
