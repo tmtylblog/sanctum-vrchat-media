@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-12T00:20:07.158Z",
+  "generated": "2026-03-12T00:20:08.642Z",
   "permissions": {
     "Group Owner": [
       {
@@ -586,14 +586,6 @@
   },
   "gallery": {
     "left": [
-      {
-        "slotIndex": 0,
-        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/e6e65a34-71d3-4362-bb8c-aa5200836bec.png",
-        "orientation": "portrait",
-        "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": "Red Tunnel"
-      },
       {
         "slotIndex": 1,
         "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/ad8ebd78-4429-43b2-9f55-0b9171626eeb.png",
