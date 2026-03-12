@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-12T00:20:21.536Z",
+  "generated": "2026-03-12T00:20:25.030Z",
   "permissions": {
     "Group Owner": [
       {
@@ -699,6 +699,14 @@
         "expectedOrientation": "portrait",
         "photographer": "grimwxre",
         "composition": "Redgrass Reverie (Prayer In The Fog)"
+      },
+      {
+        "slotIndex": 6,
+        "url": null,
+        "orientation": "landscape",
+        "expectedOrientation": "landscape",
+        "photographer": "fallenx4ngel",
+        "composition": null
       },
       {
         "slotIndex": 7,
