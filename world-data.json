@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-12T00:19:56.480Z",
+  "generated": "2026-03-12T00:19:58.226Z",
   "permissions": {
     "Group Owner": [
       {
@@ -675,6 +675,14 @@
         "expectedOrientation": "portrait",
         "photographer": "grimwxre",
         "composition": "Hands Of The Void (Orbiting The Witness)"
+      },
+      {
+        "slotIndex": 3,
+        "url": null,
+        "orientation": "portrait",
+        "expectedOrientation": "portrait",
+        "photographer": "fallenx4ngel",
+        "composition": null
       },
       {
         "slotIndex": 4,
