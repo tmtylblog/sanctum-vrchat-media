@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-15T21:47:24.503Z",
+  "generated": "2026-03-15T21:47:26.609Z",
   "permissions": {
     "Group Owner": [
       {
@@ -652,6 +652,14 @@
       }
     ],
     "right": [
+      {
+        "slotIndex": 0,
+        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/f6318de6-dc31-4e13-88cd-b352893f318e.jpg",
+        "orientation": "portrait",
+        "expectedOrientation": "portrait",
+        "photographer": "SladeDaCat",
+        "composition": "Mother Demands"
+      },
       {
         "slotIndex": 1,
         "url": null,
