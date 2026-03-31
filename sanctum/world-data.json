@@ -1,0 +1,691 @@
+{
+  "generated": "2026-03-31T21:57:32.810Z",
+  "atlases": {
+    "canvasSize": {
+      "width": 2048,
+      "height": 2048
+    },
+    "grid": {
+      "cols": 3,
+      "rows": 3
+    },
+    "cellSize": {
+      "width": 544,
+      "height": 680
+    },
+    "files": [
+      {
+        "index": 0,
+        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/posters/atlas_0.jpg",
+        "posterCount": 9
+      },
+      {
+        "index": 1,
+        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/posters/atlas_1.jpg",
+        "posterCount": 9
+      },
+      {
+        "index": 2,
+        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/posters/atlas_2.jpg",
+        "posterCount": 9
+      },
+      {
+        "index": 3,
+        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/posters/atlas_3.jpg",
+        "posterCount": 9
+      },
+      {
+        "index": 4,
+        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/posters/atlas_4.jpg",
+        "posterCount": 9
+      },
+      {
+        "index": 5,
+        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/posters/atlas_5.jpg",
+        "posterCount": 9
+      },
+      {
+        "index": 6,
+        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/posters/atlas_6.jpg",
+        "posterCount": 9
+      },
+      {
+        "index": 7,
+        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/posters/atlas_7.jpg",
+        "posterCount": 2
+      }
+    ]
+  },
+  "posterGallery": {
+    "altar": [
+      {
+        "slotIndex": 0,
+        "filled": true,
+        "atlasIndex": 0,
+        "gridRow": 0,
+        "gridCol": 0
+      },
+      {
+        "slotIndex": 1,
+        "filled": true,
+        "atlasIndex": 0,
+        "gridRow": 0,
+        "gridCol": 1
+      },
+      {
+        "slotIndex": 2,
+        "filled": true,
+        "atlasIndex": 0,
+        "gridRow": 0,
+        "gridCol": 2
+      },
+      {
+        "slotIndex": 3,
+        "filled": true,
+        "atlasIndex": 0,
+        "gridRow": 1,
+        "gridCol": 0
+      },
+      {
+        "slotIndex": 4,
+        "filled": true,
+        "atlasIndex": 0,
+        "gridRow": 1,
+        "gridCol": 1
+      },
+      {
+        "slotIndex": 5,
+        "filled": true,
+        "atlasIndex": 0,
+        "gridRow": 1,
+        "gridCol": 2
+      },
+      {
+        "slotIndex": 6,
+        "filled": true,
+        "atlasIndex": 0,
+        "gridRow": 2,
+        "gridCol": 0
+      },
+      {
+        "slotIndex": 7,
+        "filled": true,
+        "atlasIndex": 0,
+        "gridRow": 2,
+        "gridCol": 1
+      },
+      {
+        "slotIndex": 8,
+        "filled": true,
+        "atlasIndex": 0,
+        "gridRow": 2,
+        "gridCol": 2
+      },
+      {
+        "slotIndex": 9,
+        "filled": true,
+        "atlasIndex": 1,
+        "gridRow": 0,
+        "gridCol": 0
+      },
+      {
+        "slotIndex": 10,
+        "filled": true,
+        "atlasIndex": 1,
+        "gridRow": 0,
+        "gridCol": 1
+      },
+      {
+        "slotIndex": 11,
+        "filled": true,
+        "atlasIndex": 1,
+        "gridRow": 0,
+        "gridCol": 2
+      },
+      {
+        "slotIndex": 12,
+        "filled": true,
+        "atlasIndex": 1,
+        "gridRow": 1,
+        "gridCol": 0
+      },
+      {
+        "slotIndex": 13,
+        "filled": true,
+        "atlasIndex": 1,
+        "gridRow": 1,
+        "gridCol": 1
+      },
+      {
+        "slotIndex": 14,
+        "filled": true,
+        "atlasIndex": 1,
+        "gridRow": 1,
+        "gridCol": 2
+      },
+      {
+        "slotIndex": 15,
+        "filled": true,
+        "atlasIndex": 1,
+        "gridRow": 2,
+        "gridCol": 0
+      },
+      {
+        "slotIndex": 16,
+        "filled": true,
+        "atlasIndex": 1,
+        "gridRow": 2,
+        "gridCol": 1
+      },
+      {
+        "slotIndex": 17,
+        "filled": true,
+        "atlasIndex": 1,
+        "gridRow": 2,
+        "gridCol": 2
+      },
+      {
+        "slotIndex": 18,
+        "filled": true,
+        "atlasIndex": 2,
+        "gridRow": 0,
+        "gridCol": 0
+      },
+      {
+        "slotIndex": 19,
+        "filled": true,
+        "atlasIndex": 2,
+        "gridRow": 0,
+        "gridCol": 1
+      },
+      {
+        "slotIndex": 20,
+        "filled": true,
+        "atlasIndex": 2,
+        "gridRow": 0,
+        "gridCol": 2
+      },
+      {
+        "slotIndex": 21,
+        "filled": true,
+        "atlasIndex": 2,
+        "gridRow": 1,
+        "gridCol": 0
+      },
+      {
+        "slotIndex": 22,
+        "filled": true,
+        "atlasIndex": 2,
+        "gridRow": 1,
+        "gridCol": 1
+      },
+      {
+        "slotIndex": 23,
+        "filled": true,
+        "atlasIndex": 2,
+        "gridRow": 1,
+        "gridCol": 2
+      }
+    ],
+    "tribune": [
+      {
+        "slotIndex": 0,
+        "filled": true,
+        "atlasIndex": 2,
+        "gridRow": 2,
+        "gridCol": 0
+      },
+      {
+        "slotIndex": 1,
+        "filled": true,
+        "atlasIndex": 2,
+        "gridRow": 2,
+        "gridCol": 1
+      },
+      {
+        "slotIndex": 2,
+        "filled": true,
+        "atlasIndex": 2,
+        "gridRow": 2,
+        "gridCol": 2
+      },
+      {
+        "slotIndex": 3,
+        "filled": true,
+        "atlasIndex": 3,
+        "gridRow": 0,
+        "gridCol": 0
+      },
+      {
+        "slotIndex": 4,
+        "filled": true,
+        "atlasIndex": 3,
+        "gridRow": 0,
+        "gridCol": 1
+      },
+      {
+        "slotIndex": 5,
+        "filled": true,
+        "atlasIndex": 3,
+        "gridRow": 0,
+        "gridCol": 2
+      },
+      {
+        "slotIndex": 6,
+        "filled": true,
+        "atlasIndex": 3,
+        "gridRow": 1,
+        "gridCol": 0
+      },
+      {
+        "slotIndex": 7,
+        "filled": true,
+        "atlasIndex": 3,
+        "gridRow": 1,
+        "gridCol": 1
+      },
+      {
+        "slotIndex": 8,
+        "filled": true,
+        "atlasIndex": 3,
+        "gridRow": 1,
+        "gridCol": 2
+      },
+      {
+        "slotIndex": 9,
+        "filled": true,
+        "atlasIndex": 3,
+        "gridRow": 2,
+        "gridCol": 0
+      },
+      {
+        "slotIndex": 10,
+        "filled": true,
+        "atlasIndex": 3,
+        "gridRow": 2,
+        "gridCol": 1
+      },
+      {
+        "slotIndex": 11,
+        "filled": true,
+        "atlasIndex": 3,
+        "gridRow": 2,
+        "gridCol": 2
+      },
+      {
+        "slotIndex": 12,
+        "filled": true,
+        "atlasIndex": 4,
+        "gridRow": 0,
+        "gridCol": 0
+      },
+      {
+        "slotIndex": 13,
+        "filled": true,
+        "atlasIndex": 4,
+        "gridRow": 0,
+        "gridCol": 1
+      },
+      {
+        "slotIndex": 14,
+        "filled": true,
+        "atlasIndex": 4,
+        "gridRow": 0,
+        "gridCol": 2
+      },
+      {
+        "slotIndex": 15,
+        "filled": true,
+        "atlasIndex": 4,
+        "gridRow": 1,
+        "gridCol": 0
+      },
+      {
+        "slotIndex": 16,
+        "filled": true,
+        "atlasIndex": 4,
+        "gridRow": 1,
+        "gridCol": 1
+      },
+      {
+        "slotIndex": 17,
+        "filled": true,
+        "atlasIndex": 4,
+        "gridRow": 1,
+        "gridCol": 2
+      },
+      {
+        "slotIndex": 18,
+        "filled": true,
+        "atlasIndex": 4,
+        "gridRow": 2,
+        "gridCol": 0
+      },
+      {
+        "slotIndex": 19,
+        "filled": true,
+        "atlasIndex": 4,
+        "gridRow": 2,
+        "gridCol": 1
+      },
+      {
+        "slotIndex": 20,
+        "filled": true,
+        "atlasIndex": 4,
+        "gridRow": 2,
+        "gridCol": 2
+      },
+      {
+        "slotIndex": 21,
+        "filled": true,
+        "atlasIndex": 5,
+        "gridRow": 0,
+        "gridCol": 0
+      },
+      {
+        "slotIndex": 22,
+        "filled": true,
+        "atlasIndex": 5,
+        "gridRow": 0,
+        "gridCol": 1
+      },
+      {
+        "slotIndex": 23,
+        "filled": true,
+        "atlasIndex": 5,
+        "gridRow": 0,
+        "gridCol": 2
+      }
+    ],
+    "balcony": [
+      {
+        "slotIndex": 0,
+        "filled": true,
+        "atlasIndex": 5,
+        "gridRow": 1,
+        "gridCol": 0
+      },
+      {
+        "slotIndex": 1,
+        "filled": true,
+        "atlasIndex": 5,
+        "gridRow": 1,
+        "gridCol": 1
+      },
+      {
+        "slotIndex": 2,
+        "filled": true,
+        "atlasIndex": 5,
+        "gridRow": 1,
+        "gridCol": 2
+      },
+      {
+        "slotIndex": 3,
+        "filled": true,
+        "atlasIndex": 5,
+        "gridRow": 2,
+        "gridCol": 0
+      },
+      {
+        "slotIndex": 4,
+        "filled": true,
+        "atlasIndex": 5,
+        "gridRow": 2,
+        "gridCol": 1
+      },
+      {
+        "slotIndex": 5,
+        "filled": true,
+        "atlasIndex": 5,
+        "gridRow": 2,
+        "gridCol": 2
+      },
+      {
+        "slotIndex": 6,
+        "filled": true,
+        "atlasIndex": 6,
+        "gridRow": 0,
+        "gridCol": 0
+      },
+      {
+        "slotIndex": 7,
+        "filled": true,
+        "atlasIndex": 6,
+        "gridRow": 0,
+        "gridCol": 1
+      },
+      {
+        "slotIndex": 8,
+        "filled": true,
+        "atlasIndex": 6,
+        "gridRow": 0,
+        "gridCol": 2
+      },
+      {
+        "slotIndex": 9,
+        "filled": true,
+        "atlasIndex": 6,
+        "gridRow": 1,
+        "gridCol": 0
+      },
+      {
+        "slotIndex": 10,
+        "filled": true,
+        "atlasIndex": 6,
+        "gridRow": 1,
+        "gridCol": 1
+      },
+      {
+        "slotIndex": 11,
+        "filled": true,
+        "atlasIndex": 6,
+        "gridRow": 1,
+        "gridCol": 2
+      },
+      {
+        "slotIndex": 12,
+        "filled": true,
+        "atlasIndex": 6,
+        "gridRow": 2,
+        "gridCol": 0
+      },
+      {
+        "slotIndex": 13,
+        "filled": true,
+        "atlasIndex": 4,
+        "gridRow": 0,
+        "gridCol": 2
+      },
+      {
+        "slotIndex": 14,
+        "filled": true,
+        "atlasIndex": 4,
+        "gridRow": 1,
+        "gridCol": 1
+      },
+      {
+        "slotIndex": 15,
+        "filled": true,
+        "atlasIndex": 0,
+        "gridRow": 2,
+        "gridCol": 1
+      },
+      {
+        "slotIndex": 16,
+        "filled": true,
+        "atlasIndex": 2,
+        "gridRow": 1,
+        "gridCol": 0
+      },
+      {
+        "slotIndex": 17,
+        "filled": true,
+        "atlasIndex": 6,
+        "gridRow": 2,
+        "gridCol": 1
+      },
+      {
+        "slotIndex": 18,
+        "filled": true,
+        "atlasIndex": 6,
+        "gridRow": 2,
+        "gridCol": 2
+      },
+      {
+        "slotIndex": 19,
+        "filled": true,
+        "atlasIndex": 3,
+        "gridRow": 0,
+        "gridCol": 2
+      },
+      {
+        "slotIndex": 20,
+        "filled": true,
+        "atlasIndex": 7,
+        "gridRow": 0,
+        "gridCol": 0
+      },
+      {
+        "slotIndex": 21,
+        "filled": true,
+        "atlasIndex": 3,
+        "gridRow": 0,
+        "gridCol": 1
+      },
+      {
+        "slotIndex": 22,
+        "filled": true,
+        "atlasIndex": 7,
+        "gridRow": 0,
+        "gridCol": 1
+      },
+      {
+        "slotIndex": 23,
+        "filled": true,
+        "atlasIndex": 1,
+        "gridRow": 2,
+        "gridCol": 1
+      }
+    ]
+  },
+  "gallery": {
+    "left_cloister": [
+      {
+        "slotIndex": 0,
+        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/sanctum/gallery/ccf80662-7430-4318-8d67-106517920729.jpg",
+        "orientation": "portrait",
+        "photographer": "grimwxre",
+        "composition": "Crate of Light (The Quiet Cache)"
+      },
+      {
+        "slotIndex": 1,
+        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/sanctum/gallery/c468d33a-5726-493e-af49-4a1f00d2cf44.jpg",
+        "orientation": "portrait",
+        "photographer": "grimwxre",
+        "composition": "White Corridor (Archive of Cubes)"
+      },
+      {
+        "slotIndex": 2,
+        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/sanctum/gallery/98ed1848-0d4c-427a-aafd-54b6ca01d59b.jpg",
+        "orientation": "portrait",
+        "photographer": "Xee",
+        "composition": ""
+      },
+      {
+        "slotIndex": 3,
+        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/sanctum/gallery/d2cfea4b-22b4-4223-8165-c0ed7163c778.jpg",
+        "orientation": "portrait",
+        "photographer": "fallenx4ngel",
+        "composition": ""
+      },
+      {
+        "slotIndex": 4,
+        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/sanctum/gallery/492405d9-9833-469f-b0d2-fc2a54d38b0f.jpg",
+        "orientation": "portrait",
+        "photographer": "grimwxre",
+        "composition": "Threshold Stretch (Mouth Of The Void)"
+      },
+      {
+        "slotIndex": 5,
+        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/sanctum/gallery/37b1144d-2660-48fd-85b8-eb2190350cbb.png",
+        "orientation": "portrait",
+        "photographer": "Xee",
+        "composition": ""
+      },
+      {
+        "slotIndex": 6,
+        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/sanctum/gallery/b1aaeb42-ad64-4099-a383-a14e98413c9d.jpg",
+        "orientation": "landscape",
+        "photographer": "fallenx4ngel",
+        "composition": ""
+      },
+      {
+        "slotIndex": 7,
+        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/sanctum/gallery/ac3beace-46a1-440c-90ab-b889e802efb3.png",
+        "orientation": "landscape",
+        "photographer": "",
+        "composition": ""
+      }
+    ],
+    "right_cloister": [
+      {
+        "slotIndex": 0,
+        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/sanctum/gallery/f6318de6-dc31-4e13-88cd-b352893f318e.jpg",
+        "orientation": "portrait",
+        "photographer": "SladeDaCat",
+        "composition": "Mother Demands"
+      },
+      {
+        "slotIndex": 1,
+        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/sanctum/gallery/116b0455-b6e2-4745-8e6e-da9820ea8248.jpg",
+        "orientation": "portrait",
+        "photographer": "grimwxre",
+        "composition": "No. 01 (Encoding of the Soul)"
+      },
+      {
+        "slotIndex": 2,
+        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/sanctum/gallery/bcfe3e40-2d34-4291-b6db-14a75054a3c0.jpg",
+        "orientation": "portrait",
+        "photographer": "grimwxre",
+        "composition": "Hands Of The Void (Orbiting The Witness)"
+      },
+      {
+        "slotIndex": 3,
+        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/sanctum/gallery/8a98d874-3b09-48a3-84ab-cd359e6d5eb7.jpg",
+        "orientation": "portrait",
+        "photographer": "fallenx4ngel",
+        "composition": ""
+      },
+      {
+        "slotIndex": 4,
+        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/sanctum/gallery/6183d676-f704-4ec0-ad26-e1094b74b497.jpg",
+        "orientation": "portrait",
+        "photographer": "fallenx4ngel",
+        "composition": ""
+      },
+      {
+        "slotIndex": 5,
+        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/sanctum/gallery/b0582a91-30a3-42b7-a75c-9441c3aab3a9.jpg",
+        "orientation": "portrait",
+        "photographer": "grimwxre",
+        "composition": "Redgrass Reverie (Prayer In The Fog)"
+      },
+      {
+        "slotIndex": 6,
+        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/sanctum/gallery/830cb6ed-1623-460c-b4b4-d0b8dbc3f073.jpg",
+        "orientation": "landscape",
+        "photographer": "fallenx4ngel",
+        "composition": ""
+      },
+      {
+        "slotIndex": 7,
+        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/sanctum/gallery/3e43d60c-9745-4d4b-82b7-d3619d4848c0.jpg",
+        "orientation": "landscape",
+        "photographer": "grimwxre",
+        "composition": "Triune Convergence (Kneeling at the Vector Shrine)"
+      }
+    ]
+  },
+  "vods": [],
+  "supporters": []
+}
