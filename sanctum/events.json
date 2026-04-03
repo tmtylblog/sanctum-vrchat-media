@@ -1,0 +1,129 @@
+{
+  "community": {
+    "name": "Sanctum",
+    "slug": "sanctum"
+  },
+  "events": [
+    {
+      "id": "2f2e7386-0da5-4de8-ba51-4cd08a32ad0c",
+      "title": "SANCTUM Relaunch: West",
+      "description": "SANCTUM relaunch.\n\nSystem back online.",
+      "date": "2026-04-11T00:00:00.000Z",
+      "startTime": "2026-04-11T22:00:00.803Z",
+      "endTime": "2026-04-12T01:00:00.803Z",
+      "genre": [
+        "Drum and Bass"
+      ],
+      "category": "Western Focus",
+      "isLive": false,
+      "rsvpCount": 0,
+      "lineup": [
+        {
+          "displayName": "Ad Loud",
+          "vrchatUserId": null,
+          "role": "DJ",
+          "room": "Tribune",
+          "startTime": "2026-04-11T21:00:00.000Z",
+          "endTime": "2026-04-11T22:00:00.000Z"
+        },
+        {
+          "displayName": "SURPRISE GUEST",
+          "vrchatUserId": null,
+          "role": "DJ",
+          "room": "DOME",
+          "startTime": "2026-04-11T23:00:00.000Z",
+          "endTime": "2026-04-12T00:00:00.000Z"
+        },
+        {
+          "displayName": "Zophy",
+          "vrchatUserId": null,
+          "role": "DJ",
+          "room": "Altar",
+          "startTime": "2026-04-12T00:00:00.000Z",
+          "endTime": "2026-04-12T01:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "4c645aba-bdee-4972-b4ea-08585a0afa61",
+      "title": "SANCTUM Relaunch: East",
+      "description": "SANCTUM relaunch.\n\nJapan system initializing.",
+      "date": "2026-04-12T00:00:00.000Z",
+      "startTime": "2026-04-12T13:00:00.801Z",
+      "endTime": "2026-04-12T16:00:00.801Z",
+      "genre": [
+        "Drum and Bass"
+      ],
+      "category": "Eastern Focus",
+      "isLive": false,
+      "rsvpCount": 0,
+      "lineup": [
+        {
+          "displayName": "KXA",
+          "vrchatUserId": null,
+          "role": "DJ",
+          "room": "Tribune",
+          "startTime": "2026-04-10T17:00:00.000Z",
+          "endTime": "2026-04-10T18:00:00.000Z"
+        },
+        {
+          "displayName": "Ren",
+          "vrchatUserId": "usr_2805613d-ff9c-4120-82c6-7d5f4364ae07",
+          "role": "Dancer",
+          "room": "Tribune",
+          "startTime": "2026-04-10T17:00:00.000Z",
+          "endTime": "2026-04-10T18:00:00.000Z"
+        },
+        {
+          "displayName": "Ren",
+          "vrchatUserId": "usr_2805613d-ff9c-4120-82c6-7d5f4364ae07",
+          "role": "Dancer",
+          "room": "DOME",
+          "startTime": "2026-04-10T18:00:00.000Z",
+          "endTime": "2026-04-10T19:00:00.000Z"
+        },
+        {
+          "displayName": "SURPRISE GUEST",
+          "vrchatUserId": null,
+          "role": "DJ",
+          "room": "DOME",
+          "startTime": "2026-04-10T18:00:00.000Z",
+          "endTime": "2026-04-10T19:00:00.000Z"
+        },
+        {
+          "displayName": "Bishamon",
+          "vrchatUserId": null,
+          "role": "DJ",
+          "room": "Altar",
+          "startTime": "2026-04-10T19:00:00.000Z",
+          "endTime": "2026-04-10T20:00:00.000Z"
+        },
+        {
+          "displayName": "Envy",
+          "vrchatUserId": null,
+          "role": "Dancer",
+          "room": "Altar",
+          "startTime": "2026-04-10T19:00:00.000Z",
+          "endTime": "2026-04-10T20:00:00.000Z"
+        },
+        {
+          "displayName": "Ren",
+          "vrchatUserId": "usr_2805613d-ff9c-4120-82c6-7d5f4364ae07",
+          "role": "Dancer",
+          "room": "Altar",
+          "startTime": "2026-04-10T19:00:00.000Z",
+          "endTime": "2026-04-10T20:00:00.000Z"
+        },
+        {
+          "displayName": "Ren",
+          "vrchatUserId": "usr_2805613d-ff9c-4120-82c6-7d5f4364ae07",
+          "role": "Dancer",
+          "room": "Altar",
+          "startTime": "2026-04-10T20:00:00.000Z",
+          "endTime": "2026-04-10T21:00:00.000Z"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-04-03T23:36:54.775Z"
+}
