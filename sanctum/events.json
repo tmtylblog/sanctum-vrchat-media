@@ -35,7 +35,7 @@
           "endTime": "2026-04-12T00:00:00.000Z"
         },
         {
-          "displayName": "Zophy",
+          "displayName": "zophy",
           "vrchatUserId": null,
           "role": "DJ",
           "room": "Altar",
@@ -59,7 +59,7 @@
       "rsvpCount": 0,
       "lineup": [
         {
-          "displayName": "KXA",
+          "displayName": "neurofunker_aim",
           "vrchatUserId": null,
           "role": "DJ",
           "room": "Tribune",
@@ -67,7 +67,7 @@
           "endTime": "2026-04-10T18:00:00.000Z"
         },
         {
-          "displayName": "Ren",
+          "displayName": "ren_the_sith",
           "vrchatUserId": "usr_2805613d-ff9c-4120-82c6-7d5f4364ae07",
           "role": "Dancer",
           "room": "Tribune",
@@ -75,7 +75,7 @@
           "endTime": "2026-04-10T18:00:00.000Z"
         },
         {
-          "displayName": "Ren",
+          "displayName": "ren_the_sith",
           "vrchatUserId": "usr_2805613d-ff9c-4120-82c6-7d5f4364ae07",
           "role": "Dancer",
           "room": "DOME",
@@ -107,7 +107,7 @@
           "endTime": "2026-04-10T20:00:00.000Z"
         },
         {
-          "displayName": "Ren",
+          "displayName": "ren_the_sith",
           "vrchatUserId": "usr_2805613d-ff9c-4120-82c6-7d5f4364ae07",
           "role": "Dancer",
           "room": "Altar",
@@ -115,7 +115,7 @@
           "endTime": "2026-04-10T20:00:00.000Z"
         },
         {
-          "displayName": "Ren",
+          "displayName": "ren_the_sith",
           "vrchatUserId": "usr_2805613d-ff9c-4120-82c6-7d5f4364ae07",
           "role": "Dancer",
           "room": "Altar",
@@ -125,5 +125,5 @@
       ]
     }
   ],
-  "generatedAt": "2026-04-04T00:39:04.825Z"
+  "generatedAt": "2026-04-04T18:19:44.896Z"
 }
