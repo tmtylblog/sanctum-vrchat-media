@@ -20,7 +20,7 @@
       "lineup": [
         {
           "displayName": "Ad Loud",
-          "vrchatUserId": null,
+          "vrchatUserId": "usr_dd4d2e1e-20a5-40bb-8ae4-bb83210215e0",
           "role": "DJ",
           "room": "Tribune",
           "startTime": "2026-04-11T21:00:00.000Z",
@@ -36,7 +36,7 @@
         },
         {
           "displayName": "zophy",
-          "vrchatUserId": null,
+          "vrchatUserId": "usr_4edc62fd-d01b-44cb-85a6-411e66b7606f",
           "role": "DJ",
           "room": "Altar",
           "startTime": "2026-04-12T00:00:00.000Z",
@@ -100,7 +100,7 @@
         },
         {
           "displayName": "Envy",
-          "vrchatUserId": null,
+          "vrchatUserId": "usr_168e3855-53b5-43d7-b625-53e6a66606fb",
           "role": "Dancer",
           "room": "Altar",
           "startTime": "2026-04-10T19:00:00.000Z",
@@ -125,5 +125,5 @@
       ]
     }
   ],
-  "generatedAt": "2026-04-04T18:19:44.896Z"
+  "generatedAt": "2026-04-04T21:36:44.058Z"
 }
