@@ -35,7 +35,7 @@
           "endTime": "2026-04-12T00:00:00.000Z"
         },
         {
-          "displayName": "zophy",
+          "displayName": "zophie",
           "vrchatUserId": "usr_4edc62fd-d01b-44cb-85a6-411e66b7606f",
           "role": "DJ",
           "room": "Altar",
@@ -59,7 +59,7 @@
       "rsvpCount": 0,
       "lineup": [
         {
-          "displayName": "neurofunker_aim",
+          "displayName": "kxa_dnb",
           "vrchatUserId": "usr_72c3698b-964b-4748-82f4-5e113d0f7ef9",
           "role": "DJ",
           "room": "Tribune",
@@ -67,7 +67,7 @@
           "endTime": "2026-04-10T18:00:00.000Z"
         },
         {
-          "displayName": "ren_the_sith",
+          "displayName": "〔レン〕",
           "vrchatUserId": "usr_2805613d-ff9c-4120-82c6-7d5f4364ae07",
           "role": "Dancer",
           "room": "Tribune",
@@ -75,7 +75,7 @@
           "endTime": "2026-04-10T18:00:00.000Z"
         },
         {
-          "displayName": "ren_the_sith",
+          "displayName": "〔レン〕",
           "vrchatUserId": "usr_2805613d-ff9c-4120-82c6-7d5f4364ae07",
           "role": "Dancer",
           "room": "DOME",
@@ -99,7 +99,7 @@
           "endTime": "2026-04-10T20:00:00.000Z"
         },
         {
-          "displayName": "Envy",
+          "displayName": "~ Envy ~",
           "vrchatUserId": "usr_168e3855-53b5-43d7-b625-53e6a66606fb",
           "role": "Dancer",
           "room": "Altar",
@@ -107,7 +107,7 @@
           "endTime": "2026-04-10T20:00:00.000Z"
         },
         {
-          "displayName": "ren_the_sith",
+          "displayName": "〔レン〕",
           "vrchatUserId": "usr_2805613d-ff9c-4120-82c6-7d5f4364ae07",
           "role": "Dancer",
           "room": "Altar",
@@ -115,7 +115,7 @@
           "endTime": "2026-04-10T20:00:00.000Z"
         },
         {
-          "displayName": "ren_the_sith",
+          "displayName": "〔レン〕",
           "vrchatUserId": "usr_2805613d-ff9c-4120-82c6-7d5f4364ae07",
           "role": "Dancer",
           "room": "Altar",
@@ -125,5 +125,5 @@
       ]
     }
   ],
-  "generatedAt": "2026-04-06T02:04:03.238Z"
+  "generatedAt": "2026-04-06T02:08:32.610Z"
 }
