@@ -9,8 +9,8 @@
       "title": "SANCTUM Relaunch: West",
       "description": "SANCTUM relaunch.\n\nSystem back online.",
       "date": "2026-04-11T00:00:00.000Z",
-      "startTime": "2026-04-11T22:00:00.803Z",
-      "endTime": "2026-04-12T01:00:00.803Z",
+      "startTime": "2026-04-11T21:00:00.652Z",
+      "endTime": "2026-04-12T00:00:00.652Z",
       "genre": [
         "Drum and Bass"
       ],
@@ -35,95 +35,47 @@
           "endTime": "2026-04-12T00:00:00.000Z"
         },
         {
+          "displayName": "AyyyyRik",
+          "vrchatUserId": "usr_a367d6c3-ad94-4a88-83b2-822aaa071fac",
+          "role": "LD",
+          "room": "DOME",
+          "startTime": "2026-04-11T23:00:00.000Z",
+          "endTime": "2026-04-12T00:00:00.000Z"
+        },
+        {
           "displayName": "zophie",
           "vrchatUserId": "usr_4edc62fd-d01b-44cb-85a6-411e66b7606f",
           "role": "DJ",
           "room": "Altar",
           "startTime": "2026-04-12T00:00:00.000Z",
           "endTime": "2026-04-12T01:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "id": "4c645aba-bdee-4972-b4ea-08585a0afa61",
-      "title": "SANCTUM Relaunch: East",
-      "description": "SANCTUM relaunch.\n\nJapan system initializing.",
-      "date": "2026-04-12T00:00:00.000Z",
-      "startTime": "2026-04-12T13:00:00.801Z",
-      "endTime": "2026-04-12T16:00:00.801Z",
-      "genre": [
-        "Drum and Bass"
-      ],
-      "category": "Eastern Focus",
-      "isLive": false,
-      "rsvpCount": 0,
-      "lineup": [
-        {
-          "displayName": "kxa_dnb",
-          "vrchatUserId": "usr_72c3698b-964b-4748-82f4-5e113d0f7ef9",
-          "role": "DJ",
-          "room": "Tribune",
-          "startTime": "2026-04-10T17:00:00.000Z",
-          "endTime": "2026-04-10T18:00:00.000Z"
         },
         {
-          "displayName": "〔レン〕",
-          "vrchatUserId": "usr_2805613d-ff9c-4120-82c6-7d5f4364ae07",
-          "role": "Dancer",
-          "room": "Tribune",
-          "startTime": "2026-04-10T17:00:00.000Z",
-          "endTime": "2026-04-10T18:00:00.000Z"
+          "displayName": "AyyyyRik",
+          "vrchatUserId": "usr_a367d6c3-ad94-4a88-83b2-822aaa071fac",
+          "role": "LD",
+          "room": "Altar",
+          "startTime": "2026-04-12T00:00:00.000Z",
+          "endTime": "2026-04-12T01:00:00.000Z"
         },
         {
-          "displayName": "〔レン〕",
-          "vrchatUserId": "usr_2805613d-ff9c-4120-82c6-7d5f4364ae07",
-          "role": "Dancer",
-          "room": "DOME",
-          "startTime": "2026-04-10T18:00:00.000Z",
-          "endTime": "2026-04-10T19:00:00.000Z"
-        },
-        {
-          "displayName": "SURPRISE GUEST",
-          "vrchatUserId": null,
-          "role": "DJ",
-          "room": "DOME",
-          "startTime": "2026-04-10T18:00:00.000Z",
-          "endTime": "2026-04-10T19:00:00.000Z"
-        },
-        {
-          "displayName": "Bishamon",
-          "vrchatUserId": null,
+          "displayName": "medlish",
+          "vrchatUserId": "usr_f12869d4-116f-4471-a859-9b57ef88b45e",
           "role": "DJ",
           "room": "Altar",
-          "startTime": "2026-04-10T19:00:00.000Z",
-          "endTime": "2026-04-10T20:00:00.000Z"
+          "startTime": "2026-04-12T01:00:00.000Z",
+          "endTime": "2026-04-12T02:00:00.000Z"
         },
         {
-          "displayName": "~ Envy ~",
-          "vrchatUserId": "usr_168e3855-53b5-43d7-b625-53e6a66606fb",
-          "role": "Dancer",
+          "displayName": "AyyyyRik",
+          "vrchatUserId": "usr_a367d6c3-ad94-4a88-83b2-822aaa071fac",
+          "role": "LD",
           "room": "Altar",
-          "startTime": "2026-04-10T19:00:00.000Z",
-          "endTime": "2026-04-10T20:00:00.000Z"
-        },
-        {
-          "displayName": "〔レン〕",
-          "vrchatUserId": "usr_2805613d-ff9c-4120-82c6-7d5f4364ae07",
-          "role": "Dancer",
-          "room": "Altar",
-          "startTime": "2026-04-10T19:00:00.000Z",
-          "endTime": "2026-04-10T20:00:00.000Z"
-        },
-        {
-          "displayName": "〔レン〕",
-          "vrchatUserId": "usr_2805613d-ff9c-4120-82c6-7d5f4364ae07",
-          "role": "Dancer",
-          "room": "Altar",
-          "startTime": "2026-04-10T20:00:00.000Z",
-          "endTime": "2026-04-10T21:00:00.000Z"
+          "startTime": "2026-04-12T01:00:00.000Z",
+          "endTime": "2026-04-12T02:00:00.000Z"
         }
       ]
     }
   ],
-  "generatedAt": "2026-04-06T02:08:32.610Z"
+  "generatedAt": "2026-04-11T17:20:48.530Z"
 }
