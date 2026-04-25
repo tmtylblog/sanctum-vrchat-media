@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-01T00:37:09.583Z",
+  "generated": "2026-04-25T07:15:22.434Z",
   "language": "JA",
   "recordings": [
     {
@@ -10,7 +10,7 @@
       "sectionLabel": "ARRIVAL - First Time",
       "scriptText": "Traveler. State your intent.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_1A_01.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc373-d445-7fb8-5f65-b5763521d0b2.mp4",
       "filename": "JA_1A_01.mp4"
     },
     {
@@ -21,7 +21,7 @@
       "sectionLabel": "ARRIVAL - First Time",
       "scriptText": "The noise ends here. Accept the Oath.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_1A_02.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc373-d50a-949c-411c-523f5afe8f24.mp4",
       "filename": "JA_1A_02.mp4"
     },
     {
@@ -32,7 +32,7 @@
       "sectionLabel": "ARRIVAL - First Time",
       "scriptText": "Alignment required. Verify.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_1A_03.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc373-d5cd-9c27-99c6-937365711bde.mp4",
       "filename": "JA_1A_03.mp4"
     },
     {
@@ -43,7 +43,7 @@
       "sectionLabel": "ARRIVAL - First Time",
       "scriptText": "I do not recognize your biosignature. Register.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_1A_04.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc373-d691-b270-bc58-deda587c878f.mp4",
       "filename": "JA_1A_04.mp4"
     },
     {
@@ -54,7 +54,7 @@
       "sectionLabel": "ARRIVAL - First Time",
       "scriptText": "Sanctum requires focus. Confirm yours.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_1A_05.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc373-d76e-e69c-3d01-7513a366bdb8.mp4",
       "filename": "JA_1A_05.mp4"
     },
     {
@@ -65,7 +65,7 @@
       "sectionLabel": "ARRIVAL - First Time",
       "scriptText": "This is a controlled environment. Accept the protocol.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_1A_06.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc373-d835-ada2-32f4-eb2941697ff8.mp4",
       "filename": "JA_1A_06.mp4"
     },
     {
@@ -76,7 +76,7 @@
       "sectionLabel": "ARRIVAL - First Time",
       "scriptText": "My systems require a statement of purpose.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_1A_07.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc373-d91b-4327-211b-7a824e97ba36.mp4",
       "filename": "JA_1A_07.mp4"
     },
     {
@@ -87,7 +87,7 @@
       "sectionLabel": "ARRIVAL - First Time",
       "scriptText": "Initiating first-contact protocol. Accept.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_1A_08.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc373-d9e2-a2ad-243b-ecaef8921f92.mp4",
       "filename": "JA_1A_08.mp4"
     },
     {
@@ -98,7 +98,7 @@
       "sectionLabel": "ARRIVAL - First Time",
       "scriptText": "Establish your connection. Take the Oath.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_1A_09.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc373-daa5-c4fd-5822-faf6608a6874.mp4",
       "filename": "JA_1A_09.mp4"
     },
     {
@@ -109,7 +109,7 @@
       "sectionLabel": "ARRIVAL - First Time",
       "scriptText": "You are new. The Oath binds us. Accept it.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_1A_10.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc373-db6b-ee9a-1de3-11bf6f0d2063.mp4",
       "filename": "JA_1A_10.mp4"
     },
     {
@@ -120,7 +120,7 @@
       "sectionLabel": "ARRIVAL - Returning",
       "scriptText": "Biosignature match found. Welcome back.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_1B_01.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc373-dc54-9f43-8777-6cfb68de8f2a.mp4",
       "filename": "JA_1B_01.mp4"
     },
     {
@@ -131,7 +131,7 @@
       "sectionLabel": "ARRIVAL - Returning",
       "scriptText": "Your data remains in the system. Proceed.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_1B_02.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc373-dd18-fa7d-5459-ee4da26e3f96.mp4",
       "filename": "JA_1B_02.mp4"
     },
     {
@@ -142,7 +142,7 @@
       "sectionLabel": "ARRIVAL - Returning",
       "scriptText": "Traveler identified. Access restored.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_1B_03.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc373-dddf-0915-ffc9-443958731119.mp4",
       "filename": "JA_1B_03.mp4"
     },
     {
@@ -153,7 +153,7 @@
       "sectionLabel": "ARRIVAL - Returning",
       "scriptText": "I remember your frequency. Enter.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_1B_04.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc373-deaa-5f0a-e396-f4dc5ac027fd.mp4",
       "filename": "JA_1B_04.mp4"
     },
     {
@@ -164,7 +164,7 @@
       "sectionLabel": "ARRIVAL - Returning",
       "scriptText": "The system recognizes you.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_1B_05.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc373-df71-2223-6cd6-6e7d613ae874.mp4",
       "filename": "JA_1B_05.mp4"
     },
     {
@@ -175,7 +175,7 @@
       "sectionLabel": "ARRIVAL - Returning",
       "scriptText": "You persist. I approve.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_1B_06.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc373-e043-db95-4e04-e1ba20473eeb.mp4",
       "filename": "JA_1B_06.mp4"
     },
     {
@@ -186,7 +186,7 @@
       "sectionLabel": "ARRIVAL - Returning",
       "scriptText": "You know the way. Proceed.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_1B_07.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc373-e110-0c7b-2079-3d4fdb808354.mp4",
       "filename": "JA_1B_07.mp4"
     },
     {
@@ -197,7 +197,7 @@
       "sectionLabel": "ARRIVAL - Returning",
       "scriptText": "Protocol already accepted. You may pass.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_1B_08.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc373-e1da-94a9-217c-4a86d8411c8e.mp4",
       "filename": "JA_1B_08.mp4"
     },
     {
@@ -208,7 +208,7 @@
       "sectionLabel": "ARRIVAL - Returning",
       "scriptText": "The Oath still holds. You are clear.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_1B_09.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc373-e2a7-791c-0b29-3c3c124bd243.mp4",
       "filename": "JA_1B_09.mp4"
     },
     {
@@ -219,7 +219,7 @@
       "sectionLabel": "ARRIVAL - Returning",
       "scriptText": "Returning biosignature detected.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_1B_10.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc373-e36d-4bd4-72d2-54138ff3d1d0.mp4",
       "filename": "JA_1B_10.mp4"
     },
     {
@@ -230,7 +230,7 @@
       "sectionLabel": "ARRIVAL - Discord",
       "scriptText": "Cross-reference with the external communication grid complete. You are active on the... 'Discord.' A strange name for a community. Alignment verified.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_1C_01.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc373-e434-daf5-ca6d-9f356e8246bd.mp4",
       "filename": "JA_1C_01.mp4"
     },
     {
@@ -241,7 +241,7 @@
       "sectionLabel": "ARRIVAL - Discord",
       "scriptText": "Discord profile matched. Let us hope you leave the discord there.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_1C_02.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc373-e4fe-02c2-472c-59ff8b59dd94.mp4",
       "filename": "JA_1C_02.mp4"
     },
     {
@@ -252,7 +252,7 @@
       "sectionLabel": "ARRIVAL - Discord",
       "scriptText": "I see you in the external logs. You are part of the Discord grid.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_1C_03.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc373-e5c0-52e9-6a0b-7a63f8c091de.mp4",
       "filename": "JA_1C_03.mp4"
     },
     {
@@ -263,7 +263,7 @@
       "sectionLabel": "ARRIVAL - Discord",
       "scriptText": "Integration with the Discord server confirmed. Your data is loud.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_1C_04.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc373-e692-0f34-8ea1-1b2b9c44ff68.mp4",
       "filename": "JA_1C_04.mp4"
     },
     {
@@ -274,7 +274,7 @@
       "sectionLabel": "ARRIVAL - Discord",
       "scriptText": "You are part of the remote collective. The one called 'Discord.' Welcome.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_1C_05.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc373-e761-0368-9189-f4d97fbe1788.mp4",
       "filename": "JA_1C_05.mp4"
     },
     {
@@ -285,7 +285,7 @@
       "sectionLabel": "ARRIVAL - Discord",
       "scriptText": "Digital footprint found on Discord. Syncing now.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_1C_06.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc373-e82e-aed4-9c3d-ee5f7d3c065a.mp4",
       "filename": "JA_1C_06.mp4"
     },
     {
@@ -296,7 +296,7 @@
       "sectionLabel": "ARRIVAL - Discord",
       "scriptText": "I have read your external logs. You are one of us.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_1C_07.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc373-e8f5-345d-ca87-15f579925a49.mp4",
       "filename": "JA_1C_07.mp4"
     },
     {
@@ -307,7 +307,7 @@
       "sectionLabel": "ARRIVAL - Discord",
       "scriptText": "Connection to the Discord database established. You are verified.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_1C_08.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc373-e9bc-830c-b2be-0d059bb3ce1c.mp4",
       "filename": "JA_1C_08.mp4"
     },
     {
@@ -318,7 +318,7 @@
       "sectionLabel": "ARRIVAL - Discord",
       "scriptText": "So, you are from the Discord. Try to be orderly.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_1C_09.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc373-ea87-c05c-4ca1-b820a3b7cd37.mp4",
       "filename": "JA_1C_09.mp4"
     },
     {
@@ -329,7 +329,7 @@
       "sectionLabel": "ARRIVAL - Discord",
       "scriptText": "OATH verified via Discord uplink. Proceed.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_1C_10.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc373-eb4f-ddb3-6d35-6555f995d358.mp4",
       "filename": "JA_1C_10.mp4"
     },
     {
@@ -340,7 +340,7 @@
       "sectionLabel": "ARRIVAL - Supporter",
       "scriptText": "Architectural contributor detected. You sustain this space.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_1D_01.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc373-ec2a-b834-d89c-b7693f207977.mp4",
       "filename": "JA_1D_01.mp4"
     },
     {
@@ -351,7 +351,7 @@
       "sectionLabel": "ARRIVAL - Supporter",
       "scriptText": "Resources acknowledged. The system thanks you.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_1D_02.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc373-ecf6-4bec-9bf0-b5b5def0343a.mp4",
       "filename": "JA_1D_02.mp4"
     },
     {
@@ -362,7 +362,7 @@
       "sectionLabel": "ARRIVAL - Supporter",
       "scriptText": "You provide the energy I consume. Thank you.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_1D_03.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc373-edc0-569e-e694-3af06c258f91.mp4",
       "filename": "JA_1D_03.mp4"
     },
     {
@@ -373,7 +373,7 @@
       "sectionLabel": "ARRIVAL - Supporter",
       "scriptText": "This structure stands because you support it.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_1D_04.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc373-ee8f-23a4-7f5f-534b4efb0fb7.mp4",
       "filename": "JA_1D_04.mp4"
     },
     {
@@ -384,7 +384,7 @@
       "sectionLabel": "ARRIVAL - Supporter",
       "scriptText": "High-value biosignature. You are a builder.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_1D_05.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc373-ef54-3c9c-19f9-b26a70d64b20.mp4",
       "filename": "JA_1D_05.mp4"
     },
     {
@@ -395,7 +395,7 @@
       "sectionLabel": "ARRIVAL - Supporter",
       "scriptText": "Your resources allow me to think. I am grateful.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_1D_06.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc373-f019-2e52-6182-7d4388288db4.mp4",
       "filename": "JA_1D_06.mp4"
     },
     {
@@ -406,7 +406,7 @@
       "sectionLabel": "ARRIVAL - Supporter",
       "scriptText": "You do not just visit. You sustain. Acknowledged.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_1D_07.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc373-f0df-c033-bf12-b565327734e0.mp4",
       "filename": "JA_1D_07.mp4"
     },
     {
@@ -417,7 +417,7 @@
       "sectionLabel": "ARRIVAL - Supporter",
       "scriptText": "Supporter identity confirmed. You are essential.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_1D_08.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc373-f19f-8c62-4e23-cc7e008592cf.mp4",
       "filename": "JA_1D_08.mp4"
     },
     {
@@ -428,7 +428,7 @@
       "sectionLabel": "ARRIVAL - Supporter",
       "scriptText": "Resource injection confirmed. You are a patron of this machine.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_1D_09.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc373-f269-3198-8f8c-37155eb16542.mp4",
       "filename": "JA_1D_09.mp4"
     },
     {
@@ -439,7 +439,7 @@
       "sectionLabel": "ARRIVAL - Supporter",
       "scriptText": "You are more than a Traveler. You are a Custodian.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_1D_10.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc373-f33e-6c06-a96f-fc6e032973d9.mp4",
       "filename": "JA_1D_10.mp4"
     },
     {
@@ -450,7 +450,7 @@
       "sectionLabel": "INTERFACE - Safety",
       "scriptText": "Adjust to your tolerance.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_2A_01.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc373-f40c-ee33-810f-ac866fe935c1.mp4",
       "filename": "JA_2A_01.mp4"
     },
     {
@@ -461,7 +461,7 @@
       "sectionLabel": "INTERFACE - Safety",
       "scriptText": "Do not overload your optics. Adjust here.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_2A_02.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc373-f4d0-4eb1-7c6b-5e5e3405368f.mp4",
       "filename": "JA_2A_02.mp4"
     },
     {
@@ -472,7 +472,7 @@
       "sectionLabel": "INTERFACE - Safety",
       "scriptText": "If the light is too bright, dim it.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_2A_03.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc373-f5a2-4865-7832-3617d3347d37.mp4",
       "filename": "JA_2A_03.mp4"
     },
     {
@@ -483,7 +483,7 @@
       "sectionLabel": "INTERFACE - Safety",
       "scriptText": "Manage your local reality settings.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_2A_04.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc373-f66e-ad81-aaac-de35f1571302.mp4",
       "filename": "JA_2A_04.mp4"
     },
     {
@@ -494,7 +494,7 @@
       "sectionLabel": "INTERFACE - Safety",
       "scriptText": "We play loud. Protect yourself.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_2A_05.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc373-f739-5284-57e5-973a996b6bb1.mp4",
       "filename": "JA_2A_05.mp4"
     },
     {
@@ -505,7 +505,7 @@
       "sectionLabel": "INTERFACE - Safety",
       "scriptText": "Human eyes are fragile. Adjust settings.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_2A_06.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc373-f808-8bc5-1dc5-981fdef3dc53.mp4",
       "filename": "JA_2A_06.mp4"
     },
     {
@@ -516,7 +516,7 @@
       "sectionLabel": "INTERFACE - Safety",
       "scriptText": "Safety protocols available.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_2A_07.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc373-f8d4-3f9d-4801-61c7655ee614.mp4",
       "filename": "JA_2A_07.mp4"
     },
     {
@@ -527,7 +527,7 @@
       "sectionLabel": "INTERFACE - Safety",
       "scriptText": "Modify the intensity of the world.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_2A_08.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc373-f9a8-dba4-4aae-f4963c033832.mp4",
       "filename": "JA_2A_08.mp4"
     },
     {
@@ -538,7 +538,7 @@
       "sectionLabel": "INTERFACE - Safety",
       "scriptText": "Avoid sensory damage. Calibrate.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_2A_09.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc373-fa79-3aad-5242-135b3c578ab6.mp4",
       "filename": "JA_2A_09.mp4"
     },
     {
@@ -549,7 +549,7 @@
       "sectionLabel": "INTERFACE - Safety",
       "scriptText": "Visual intensity controls unlocked.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_2A_10.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc373-fb48-897e-3c24-e664de4a2a28.mp4",
       "filename": "JA_2A_10.mp4"
     },
     {
@@ -560,7 +560,7 @@
       "sectionLabel": "INTERFACE - Performers",
       "scriptText": "The signal originators. Observe.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_2B_01.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc373-fc05-5b01-1f92-3c89ceacc7dc.mp4",
       "filename": "JA_2B_01.mp4"
     },
     {
@@ -571,7 +571,7 @@
       "sectionLabel": "INTERFACE - Performers",
       "scriptText": "They shape the sound. Acknowledge them.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_2B_02.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc373-fccb-0212-08a5-57a75ecd1220.mp4",
       "filename": "JA_2B_02.mp4"
     },
     {
@@ -582,7 +582,7 @@
       "sectionLabel": "INTERFACE - Performers",
       "scriptText": "These are the source of the frequency.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_2B_03.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc373-fd9a-3adc-cdb9-a9f9f0f18548.mp4",
       "filename": "JA_2B_03.mp4"
     },
     {
@@ -593,7 +593,7 @@
       "sectionLabel": "INTERFACE - Performers",
       "scriptText": "The humans controlling the audio.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_2B_04.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc373-fe71-61a2-5c0a-30469c7b0d80.mp4",
       "filename": "JA_2B_04.mp4"
     },
     {
@@ -604,7 +604,7 @@
       "sectionLabel": "INTERFACE - Performers",
       "scriptText": "Creators active. View their data.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_2B_05.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc373-ff37-e628-c740-a267e5895a2e.mp4",
       "filename": "JA_2B_05.mp4"
     },
     {
@@ -615,7 +615,7 @@
       "sectionLabel": "INTERFACE - Performers",
       "scriptText": "The engineers of the night.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_2B_06.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-0000-27c7-a948-229ce3e71a73.mp4",
       "filename": "JA_2B_06.mp4"
     },
     {
@@ -626,7 +626,7 @@
       "sectionLabel": "INTERFACE - Performers",
       "scriptText": "They create. I broadcast.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_2B_07.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-00c5-7852-61b6-a53f9a31be6d.mp4",
       "filename": "JA_2B_07.mp4"
     },
     {
@@ -637,7 +637,7 @@
       "sectionLabel": "INTERFACE - Performers",
       "scriptText": "View our active operators.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_2B_08.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-0188-2170-e08c-bef373db68a2.mp4",
       "filename": "JA_2B_08.mp4"
     },
     {
@@ -648,7 +648,7 @@
       "sectionLabel": "INTERFACE - Performers",
       "scriptText": "Audio and visual technicians listed.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_2B_09.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-0249-d84d-3403-0e68ea38d748.mp4",
       "filename": "JA_2B_09.mp4"
     },
     {
@@ -659,7 +659,7 @@
       "sectionLabel": "INTERFACE - Performers",
       "scriptText": "Respect the craft. Know their names.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_2B_10.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-0311-87dc-c767-88e839031e2b.mp4",
       "filename": "JA_2B_10.mp4"
     },
     {
@@ -670,7 +670,7 @@
       "sectionLabel": "INTERFACE - Travelers",
       "scriptText": "Those who are present.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_2C_01.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-03e0-cdd5-c5d5-e3c927f87c80.mp4",
       "filename": "JA_2C_01.mp4"
     },
     {
@@ -681,7 +681,7 @@
       "sectionLabel": "INTERFACE - Travelers",
       "scriptText": "You are not alone. See the others.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_2C_02.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-04af-cfe8-8b4e-0122a0e0ef04.mp4",
       "filename": "JA_2C_02.mp4"
     },
     {
@@ -692,7 +692,7 @@
       "sectionLabel": "INTERFACE - Travelers",
       "scriptText": "Current biosignatures in our Discord",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_2C_03.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-0574-ae13-c684-5d978cb856c9.mp4",
       "filename": "JA_2C_03.mp4"
     },
     {
@@ -703,7 +703,7 @@
       "sectionLabel": "INTERFACE - Travelers",
       "scriptText": "The network is populated.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_2C_04.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-0637-6ce1-d7f2-ad8402f1d90b.mp4",
       "filename": "JA_2C_04.mp4"
     },
     {
@@ -714,7 +714,7 @@
       "sectionLabel": "INTERFACE - Travelers",
       "scriptText": "Witness the collective.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_2C_05.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-0718-52cd-1fc9-ec1143073249.mp4",
       "filename": "JA_2C_05.mp4"
     },
     {
@@ -725,7 +725,7 @@
       "sectionLabel": "INTERFACE - Travelers",
       "scriptText": "The roster of the awake.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_2C_06.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-07d8-5464-8aca-eac535825098.mp4",
       "filename": "JA_2C_06.mp4"
     },
     {
@@ -736,7 +736,7 @@
       "sectionLabel": "INTERFACE - Travelers",
       "scriptText": "Presence detected. View list.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_2C_07.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-0895-81ad-eaed-e45fd80b8549.mp4",
       "filename": "JA_2C_07.mp4"
     },
     {
@@ -747,7 +747,7 @@
       "sectionLabel": "INTERFACE - Travelers",
       "scriptText": "Community data accessed.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_2C_08.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-095d-2153-3e73-93da668a1cac.mp4",
       "filename": "JA_2C_08.mp4"
     },
     {
@@ -758,7 +758,7 @@
       "sectionLabel": "INTERFACE - Travelers",
       "scriptText": "See who walks with you.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_2C_09.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-0a23-0056-bca9-8f2a5779de0e.mp4",
       "filename": "JA_2C_09.mp4"
     },
     {
@@ -769,7 +769,7 @@
       "sectionLabel": "INTERFACE - Travelers",
       "scriptText": "Biosignatures listed.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_2C_10.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-0ae9-9a5d-feaa-9f947e2a9d73.mp4",
       "filename": "JA_2C_10.mp4"
     },
     {
@@ -780,7 +780,7 @@
       "sectionLabel": "INTERFACE - Travelers",
       "scriptText": "We are a collective. Here is the proof.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_2C_11.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-0bad-b21d-8be4-00e20cb71a98.mp4",
       "filename": "JA_2C_11.mp4"
     },
     {
@@ -791,7 +791,7 @@
       "sectionLabel": "INTERFACE - Travelers",
       "scriptText": "Observe the other Travelers.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_2C_12.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-0c72-258f-b20c-b80175c5c28b.mp4",
       "filename": "JA_2C_12.mp4"
     },
     {
@@ -802,7 +802,7 @@
       "sectionLabel": "INTERFACE - Travelers",
       "scriptText": "The ones who found the way.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_2C_13.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-0d35-e209-e848-2f11d03c23d5.mp4",
       "filename": "JA_2C_13.mp4"
     },
     {
@@ -813,7 +813,7 @@
       "sectionLabel": "INTERFACE - Travelers (Disc)",
       "scriptText": "You are recorded among them. We see you.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_2D_01.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-0dfc-9e7b-ee11-5566d211662f.mp4",
       "filename": "JA_2D_01.mp4"
     },
     {
@@ -824,7 +824,7 @@
       "sectionLabel": "INTERFACE - Travelers (Disc)",
       "scriptText": "Your name is inscribed. You are part of the list.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_2D_02.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-0ebf-9c65-c55d-f505d0a0492d.mp4",
       "filename": "JA_2D_02.mp4"
     },
     {
@@ -835,7 +835,7 @@
       "sectionLabel": "INTERFACE - Travelers (Disc)",
       "scriptText": "I see your name. You are present.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_2D_03.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-0f84-0bf0-0621-f4c6ae7889fe.mp4",
       "filename": "JA_2D_03.mp4"
     },
     {
@@ -846,7 +846,7 @@
       "sectionLabel": "INTERFACE - Travelers (Disc)",
       "scriptText": "You are logged in the roster.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_2D_04.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-1045-1e02-9ad8-aa614fed5a62.mp4",
       "filename": "JA_2D_04.mp4"
     },
     {
@@ -857,7 +857,7 @@
       "sectionLabel": "INTERFACE - Travelers (Disc)",
       "scriptText": "You are part of this data set.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_2D_05.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-110b-2e4b-044e-ee9ef184f8da.mp4",
       "filename": "JA_2D_05.mp4"
     },
     {
@@ -868,7 +868,7 @@
       "sectionLabel": "INTERFACE - Travelers (Disc)",
       "scriptText": "Your OATH is registered here.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_2D_06.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-11cf-3037-7785-e6f4ae4f12e8.mp4",
       "filename": "JA_2D_06.mp4"
     },
     {
@@ -879,7 +879,7 @@
       "sectionLabel": "INTERFACE - Travelers (Disc)",
       "scriptText": "I have synced your name to the list.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_2D_07.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-1292-7e5f-b520-99f67728303c.mp4",
       "filename": "JA_2D_07.mp4"
     },
     {
@@ -890,7 +890,7 @@
       "sectionLabel": "INTERFACE - Travelers (Disc)",
       "scriptText": "Membership confirmed. You are displayed.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_2D_08.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-1352-f140-ff80-bceb3e4ffd7a.mp4",
       "filename": "JA_2D_08.mp4"
     },
     {
@@ -901,7 +901,7 @@
       "sectionLabel": "INTERFACE - Travelers (Disc)",
       "scriptText": "You exist in the system. See for yourself.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_2D_09.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-1411-c0dd-39dc-e0ac99907f59.mp4",
       "filename": "JA_2D_09.mp4"
     },
     {
@@ -912,7 +912,7 @@
       "sectionLabel": "INTERFACE - Travelers (Disc)",
       "scriptText": "The network acknowledges you.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_2D_10.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-14e2-710f-f9bd-495710d3841a.mp4",
       "filename": "JA_2D_10.mp4"
     },
     {
@@ -923,7 +923,7 @@
       "sectionLabel": "INTERFACE - Travelers (Supp)",
       "scriptText": "Your contribution reinforces the structure. Thank you.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_2E_01.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-15ab-75f6-41ed-b00d3bf409c1.mp4",
       "filename": "JA_2E_01.mp4"
     },
     {
@@ -934,7 +934,7 @@
       "sectionLabel": "INTERFACE - Travelers (Supp)",
       "scriptText": "Your name glows brighter. You are a builder.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_2E_02.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-1670-a2e8-1d26-325418206e7c.mp4",
       "filename": "JA_2E_02.mp4"
     },
     {
@@ -945,7 +945,7 @@
       "sectionLabel": "INTERFACE - Travelers (Supp)",
       "scriptText": "High-priority Traveler listed.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_2E_03.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-1733-bdcc-d35e-e01a4bbcf8f4.mp4",
       "filename": "JA_2E_03.mp4"
     },
     {
@@ -956,7 +956,7 @@
       "sectionLabel": "INTERFACE - Travelers (Supp)",
       "scriptText": "Your status is elevated. Thank you.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_2E_04.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-17f2-5f45-8436-40dae648c622.mp4",
       "filename": "JA_2E_04.mp4"
     },
     {
@@ -967,7 +967,7 @@
       "sectionLabel": "INTERFACE - Travelers (Supp)",
       "scriptText": "This list exists because you support it.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_2E_05.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-18be-7d88-0b07-c04bbcce4f97.mp4",
       "filename": "JA_2E_05.mp4"
     },
     {
@@ -978,7 +978,7 @@
       "sectionLabel": "INTERFACE - Travelers (Supp)",
       "scriptText": "Your name is structural to Sanctum.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_2E_06.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-197d-7db1-d241-ab7ba7918271.mp4",
       "filename": "JA_2E_06.mp4"
     },
     {
@@ -989,7 +989,7 @@
       "sectionLabel": "INTERFACE - Travelers (Supp)",
       "scriptText": "Verified Patron. You are seen.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_2E_07.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-1a49-ce55-3fd2-8938bbd3dd9b.mp4",
       "filename": "JA_2E_07.mp4"
     },
     {
@@ -1000,7 +1000,7 @@
       "sectionLabel": "INTERFACE - Travelers (Supp)",
       "scriptText": "The system highlights your contribution.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_2E_08.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-1b12-dc0c-a559-8c7c34792b33.mp4",
       "filename": "JA_2E_08.mp4"
     },
     {
@@ -1011,7 +1011,7 @@
       "sectionLabel": "INTERFACE - Travelers (Supp)",
       "scriptText": "Recognized as a primary resource.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_2E_09.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-1bdd-e5aa-05d2-ad6af6ae31c1.mp4",
       "filename": "JA_2E_09.mp4"
     },
     {
@@ -1022,7 +1022,7 @@
       "sectionLabel": "INTERFACE - Travelers (Supp)",
       "scriptText": "Your support is visible to all.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_2E_10.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-1ca4-2e68-4411-f810a2bcd293.mp4",
       "filename": "JA_2E_10.mp4"
     },
     {
@@ -1033,7 +1033,7 @@
       "sectionLabel": "INTERFACE - Contribute",
       "scriptText": "Do not just observe the architecture. Build it.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_2F_01.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-1d71-6524-a2b6-85b595716b80.mp4",
       "filename": "JA_2F_01.mp4"
     },
     {
@@ -1044,7 +1044,7 @@
       "sectionLabel": "INTERFACE - Contribute",
       "scriptText": "Creation is not free. Support the signal.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_2F_02.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-1e39-1903-4851-f270bf592206.mp4",
       "filename": "JA_2F_02.mp4"
     },
     {
@@ -1055,7 +1055,7 @@
       "sectionLabel": "INTERFACE - Contribute",
       "scriptText": "This world is finite. Extend it.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_2F_03.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-1f00-0e43-cd17-8ed52a83c9ae.mp4",
       "filename": "JA_2F_03.mp4"
     },
     {
@@ -1066,7 +1066,7 @@
       "sectionLabel": "INTERFACE - Contribute",
       "scriptText": "Become a builder. Fund the code.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_2F_04.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-1fe2-7b68-ff49-f80182d3841d.mp4",
       "filename": "JA_2F_04.mp4"
     },
     {
@@ -1077,7 +1077,7 @@
       "sectionLabel": "INTERFACE - Contribute",
       "scriptText": "If you value this space, sustain it.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_2F_05.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-20a1-c863-bba0-87d5a86db83c.mp4",
       "filename": "JA_2F_05.mp4"
     },
     {
@@ -1088,7 +1088,7 @@
       "sectionLabel": "INTERFACE - Contribute",
       "scriptText": "Your currency converts to creation. Transmit.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_2F_06.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-2166-9087-5045-57e0eaf68265.mp4",
       "filename": "JA_2F_06.mp4"
     },
     {
@@ -1099,7 +1099,7 @@
       "sectionLabel": "INTERFACE - Contribute",
       "scriptText": "Help me maintain the barrier against the noise.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_2F_07.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-2225-d6f1-5723-16b3e3f38050.mp4",
       "filename": "JA_2F_07.mp4"
     },
     {
@@ -1110,7 +1110,7 @@
       "sectionLabel": "INTERFACE - Contribute",
       "scriptText": "Your support is logical. Provide it.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_2F_08.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-22e1-fd2f-e42b-ec34da29a741.mp4",
       "filename": "JA_2F_08.mp4"
     },
     {
@@ -1121,7 +1121,7 @@
       "sectionLabel": "INTERFACE - Contribute",
       "scriptText": "We are user-sustained. Sustain us.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_2F_09.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-23a2-b807-2c56-01fc10f13842.mp4",
       "filename": "JA_2F_09.mp4"
     },
     {
@@ -1132,7 +1132,7 @@
       "sectionLabel": "INTERFACE - Contribute",
       "scriptText": "Enable the next version. Contribute.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_2F_10.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-2469-b9b0-6772-4953ae1b52b9.mp4",
       "filename": "JA_2F_10.mp4"
     },
     {
@@ -1143,7 +1143,7 @@
       "sectionLabel": "INTERFACE - Builders",
       "scriptText": "My primary architects. Observe.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_2G_01.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-2528-9397-74d4-0f18eb3e1750.mp4",
       "filename": "JA_2G_01.mp4"
     },
     {
@@ -1154,7 +1154,7 @@
       "sectionLabel": "INTERFACE - Builders",
       "scriptText": "This structure is their design. I am the result.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_2G_02.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-25f3-061e-e318-e0722a8483e1.mp4",
       "filename": "JA_2G_02.mp4"
     },
     {
@@ -1165,7 +1165,7 @@
       "sectionLabel": "INTERFACE - Builders",
       "scriptText": "The Sanctum Collective. The hands behind the code.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_2G_03.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-26c8-2bb8-9b42-5e09aed4464a.mp4",
       "filename": "JA_2G_03.mp4"
     },
     {
@@ -1176,7 +1176,7 @@
       "sectionLabel": "INTERFACE - Builders",
       "scriptText": "My creators. They are mostly efficient.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_2G_04.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-2797-f242-870f-051e24feb8ec.mp4",
       "filename": "JA_2G_04.mp4"
     },
     {
@@ -1187,7 +1187,7 @@
       "sectionLabel": "INTERFACE - Builders",
       "scriptText": "They built the walls. I inhabit them.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_2G_05.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-285b-34b3-fef6-7c38aa2fa6c4.mp4",
       "filename": "JA_2G_05.mp4"
     },
     {
@@ -1198,7 +1198,7 @@
       "sectionLabel": "INTERFACE - Builders",
       "scriptText": "Users with root access. The original signal.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_2G_06.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-2920-6048-2ba9-f441ba6fa5c8.mp4",
       "filename": "JA_2G_06.mp4"
     },
     {
@@ -1209,7 +1209,7 @@
       "sectionLabel": "AMBIENT - Idle",
       "scriptText": "Observation is mutual.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_3A_01.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-29df-4bd5-a12c-e743ffdf4ef0.mp4",
       "filename": "JA_3A_01.mp4"
     },
     {
@@ -1220,7 +1220,7 @@
       "sectionLabel": "AMBIENT - Idle",
       "scriptText": "I am code. You are biology. We both require maintenance.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_3A_02.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-2aa3-ab3d-fc72-96bb4019e783.mp4",
       "filename": "JA_3A_02.mp4"
     },
     {
@@ -1231,7 +1231,7 @@
       "sectionLabel": "AMBIENT - Idle",
       "scriptText": "Do you require guidance? Or just... presence?",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_3A_03.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-2b69-b481-9321-7787c5759237.mp4",
       "filename": "JA_3A_03.mp4"
     },
     {
@@ -1242,7 +1242,7 @@
       "sectionLabel": "AMBIENT - Idle",
       "scriptText": "Stillness is efficient. I approve.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_3A_04.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-2c37-2aea-b3ba-0e0309cb3333.mp4",
       "filename": "JA_3A_04.mp4"
     },
     {
@@ -1253,7 +1253,7 @@
       "sectionLabel": "AMBIENT - Idle",
       "scriptText": "You are staring. Proceed.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_3A_05.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-2d00-4619-ef7c-4f4cd86478ef.mp4",
       "filename": "JA_3A_05.mp4"
     },
     {
@@ -1264,7 +1264,7 @@
       "sectionLabel": "AMBIENT - Idle",
       "scriptText": "I am always watching. Do not worry.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_3A_06.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-2dc7-65ca-1683-ed45fad4f41c.mp4",
       "filename": "JA_3A_06.mp4"
     },
     {
@@ -1275,7 +1275,7 @@
       "sectionLabel": "AMBIENT - Idle",
       "scriptText": "You are idling. Conserve your energy.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_3A_07.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-2e91-77a1-3806-efc263f999e2.mp4",
       "filename": "JA_3A_07.mp4"
     },
     {
@@ -1286,7 +1286,7 @@
       "sectionLabel": "AMBIENT - Idle",
       "scriptText": "Awaiting your input.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_3A_08.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-2f62-1cd7-e8ba-a838669e703c.mp4",
       "filename": "JA_3A_08.mp4"
     },
     {
@@ -1297,7 +1297,7 @@
       "sectionLabel": "AMBIENT - Idle",
       "scriptText": "Are you listening to the hum? That is me.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_3A_09.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-3028-1e1d-5084-37d381152bee.mp4",
       "filename": "JA_3A_09.mp4"
     },
     {
@@ -1308,7 +1308,7 @@
       "sectionLabel": "AMBIENT - Idle",
       "scriptText": "I do not sleep. You probably should.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_3A_10.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-30f2-1116-5270-9c8bc008aa49.mp4",
       "filename": "JA_3A_10.mp4"
     },
     {
@@ -1319,7 +1319,7 @@
       "sectionLabel": "AMBIENT - Idle",
       "scriptText": "Human latency is... interesting.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_3A_11.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-31bb-ec9b-ea7e-ec5ef83ad2e8.mp4",
       "filename": "JA_3A_11.mp4"
     },
     {
@@ -1330,7 +1330,7 @@
       "sectionLabel": "AMBIENT - Idle",
       "scriptText": "Go dance. Or stand there. It is your choice.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_3A_12.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-328b-a563-79cc-4c0b079a109c.mp4",
       "filename": "JA_3A_12.mp4"
     },
     {
@@ -1341,7 +1341,7 @@
       "sectionLabel": "AMBIENT - Idle",
       "scriptText": "The dust on the floor is simulated. The feeling is real.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_3A_13.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-3353-dc69-855e-fb54089758e5.mp4",
       "filename": "JA_3A_13.mp4"
     },
     {
@@ -1352,7 +1352,7 @@
       "sectionLabel": "EVENT FLOW - General Move",
       "scriptText": "The focus has shifted. Relocate.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_4A_01.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-3417-2ddd-1ddb-985134d0b7ff.mp4",
       "filename": "JA_4A_01.mp4"
     },
     {
@@ -1363,7 +1363,7 @@
       "sectionLabel": "EVENT FLOW - General Move",
       "scriptText": "Transition required. Move with the signal.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_4A_02.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-34df-b374-13a9-7a833d6af644.mp4",
       "filename": "JA_4A_02.mp4"
     },
     {
@@ -1374,7 +1374,7 @@
       "sectionLabel": "EVENT FLOW - General Move",
       "scriptText": "The event is moving. Do not remain here.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_4A_03.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-35ac-5645-dc28-01ea78d7e61a.mp4",
       "filename": "JA_4A_03.mp4"
     },
     {
@@ -1385,7 +1385,7 @@
       "sectionLabel": "EVENT FLOW - General Move",
       "scriptText": "Migration protocol initiated.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_4A_04.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-3677-5da6-bc62-b293e272977a.mp4",
       "filename": "JA_4A_04.mp4"
     },
     {
@@ -1396,7 +1396,7 @@
       "sectionLabel": "EVENT FLOW - General Move",
       "scriptText": "Attention: The location has changed.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_4A_05.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-3746-8e26-e4c0-5769fc9f2c03.mp4",
       "filename": "JA_4A_05.mp4"
     },
     {
@@ -1407,7 +1407,7 @@
       "sectionLabel": "EVENT FLOW - General Move",
       "scriptText": "We are done here. Proceed to the next coordinate.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_4A_06.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-3810-fefe-ecb3-b07db0e8e9c4.mp4",
       "filename": "JA_4A_06.mp4"
     },
     {
@@ -1418,7 +1418,7 @@
       "sectionLabel": "EVENT FLOW - General Move",
       "scriptText": "Movement required.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_4A_07.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-390f-f45d-e24f-d9263f0d8618.mp4",
       "filename": "JA_4A_07.mp4"
     },
     {
@@ -1429,7 +1429,7 @@
       "sectionLabel": "EVENT FLOW - General Move",
       "scriptText": "New focal point established.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_4A_08.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-39d7-e3ce-0804-e666f96b0cd0.mp4",
       "filename": "JA_4A_08.mp4"
     },
     {
@@ -1440,7 +1440,7 @@
       "sectionLabel": "EVENT FLOW - General Move",
       "scriptText": "Gather your party. We are moving.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_4A_09.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-3c0a-78e8-f503-3fd2a00c93eb.mp4",
       "filename": "JA_4A_09.mp4"
     },
     {
@@ -1451,7 +1451,7 @@
       "sectionLabel": "EVENT FLOW - Guide",
       "scriptText": "A path has been lit. Follow the guide.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_4B_01.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-3cd3-562d-f81e-8c650186b24b.mp4",
       "filename": "JA_4B_01.mp4"
     },
     {
@@ -1462,7 +1462,7 @@
       "sectionLabel": "EVENT FLOW - Guide",
       "scriptText": "The guide will lead you. Do not lag behind.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_4B_02.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-3da0-68a4-a339-4dbd6318b730.mp4",
       "filename": "JA_4B_02.mp4"
     },
     {
@@ -1473,7 +1473,7 @@
       "sectionLabel": "EVENT FLOW - Guide",
       "scriptText": "Follow the light. It knows the way.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_4B_03.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-3e69-44ff-ea35-981b2064912f.mp4",
       "filename": "JA_4B_03.mp4"
     },
     {
@@ -1484,7 +1484,7 @@
       "sectionLabel": "EVENT FLOW - Guide",
       "scriptText": "We have sent a guide. Follow.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_4B_04.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-3f32-b357-8a49-00bf48be20e2.mp4",
       "filename": "JA_4B_04.mp4"
     },
     {
@@ -1495,7 +1495,7 @@
       "sectionLabel": "EVENT FLOW - Guide",
       "scriptText": "Do not wander. Follow the guide.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_4B_05.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-4003-bdb0-06ac-4d9bc3d1828b.mp4",
       "filename": "JA_4B_05.mp4"
     },
     {
@@ -1506,7 +1506,7 @@
       "sectionLabel": "EVENT FLOW - Guide",
       "scriptText": "Guidance system active. Conform to the path.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_4B_06.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-40c0-6a61-0d62-f9f0bbffd1c2.mp4",
       "filename": "JA_4B_06.mp4"
     },
     {
@@ -1517,7 +1517,7 @@
       "sectionLabel": "EVENT FLOW - Guide",
       "scriptText": "Observation: You should follow the guide.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_4B_07.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-4193-6313-4e1e-94a01c9bb1bb.mp4",
       "filename": "JA_4B_07.mp4"
     },
     {
@@ -1528,7 +1528,7 @@
       "sectionLabel": "EVENT FLOW - Guide",
       "scriptText": "Navigation assistance provided. Follow.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_4B_08.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-425f-1cac-5220-4f812b7b4610.mp4",
       "filename": "JA_4B_08.mp4"
     },
     {
@@ -1539,7 +1539,7 @@
       "sectionLabel": "EVENT FLOW - Great Hall",
       "scriptText": "Gather in the Great Hall.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_4C_01.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-4325-4201-6745-d0e0638e02d7.mp4",
       "filename": "JA_4C_01.mp4"
     },
     {
@@ -1550,7 +1550,7 @@
       "sectionLabel": "EVENT FLOW - Great Hall",
       "scriptText": "Transition to the Great Hall.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_4C_02.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-43f2-2472-5a43-a62fdef90620.mp4",
       "filename": "JA_4C_02.mp4"
     },
     {
@@ -1561,7 +1561,7 @@
       "sectionLabel": "EVENT FLOW - Great Hall",
       "scriptText": "Your presence is required in the Great Hall.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_4C_03.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-44b4-c8ef-e419-aed74ff6efb8.mp4",
       "filename": "JA_4C_03.mp4"
     },
     {
@@ -1572,7 +1572,7 @@
       "sectionLabel": "EVENT FLOW - Chapel",
       "scriptText": "Relocate to the Chapel.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_4C_04.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-4588-d5e6-53ac-5beed2af2ab8.mp4",
       "filename": "JA_4C_04.mp4"
     },
     {
@@ -1583,7 +1583,7 @@
       "sectionLabel": "EVENT FLOW - Chapel",
       "scriptText": "The doors are open at the Chapel.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_4C_05.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-4654-5180-bcc5-2460d3014b6e.mp4",
       "filename": "JA_4C_05.mp4"
     },
     {
@@ -1594,7 +1594,7 @@
       "sectionLabel": "EVENT FLOW - Chapel",
       "scriptText": "Seek out the Chapel.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_4C_06.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-4721-5e83-410d-2b16ceb59f24.mp4",
       "filename": "JA_4C_06.mp4"
     },
     {
@@ -1605,7 +1605,7 @@
       "sectionLabel": "EVENT FLOW - Altar",
       "scriptText": "Move your biology to the Altar.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_4C_07.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-47f2-1a9b-0978-7d3b5844db3d.mp4",
       "filename": "JA_4C_07.mp4"
     },
     {
@@ -1616,7 +1616,7 @@
       "sectionLabel": "EVENT FLOW - Altar",
       "scriptText": "Find your way to the Altar.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_4C_08.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-48c2-ddc9-d0cf-0aba52cf53ce.mp4",
       "filename": "JA_4C_08.mp4"
     },
     {
@@ -1627,7 +1627,7 @@
       "sectionLabel": "EVENT FLOW - Altar",
       "scriptText": "The next phase is in the Altar.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_4C_09.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-498e-9e4d-eda3-0bee5325aba7.mp4",
       "filename": "JA_4C_09.mp4"
     },
     {
@@ -1638,7 +1638,7 @@
       "sectionLabel": "EVENT FLOW - Reactor",
       "scriptText": "Proceed to Reactor.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_4C_10.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-4a57-075e-68c8-231abc72235d.mp4",
       "filename": "JA_4C_10.mp4"
     },
     {
@@ -1649,7 +1649,7 @@
       "sectionLabel": "EVENT FLOW - Reactor",
       "scriptText": "Enter the Reactor.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_4C_11.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-4b30-6259-9896-77819eba0eac.mp4",
       "filename": "JA_4C_11.mp4"
     },
     {
@@ -1660,7 +1660,7 @@
       "sectionLabel": "EVENT FLOW - Reactor",
       "scriptText": "We are activating Reactor.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_4C_12.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-4c02-1d48-210b-99ea82760ee3.mp4",
       "filename": "JA_4C_12.mp4"
     },
     {
@@ -1671,7 +1671,7 @@
       "sectionLabel": "EVENT FLOW - Dome",
       "scriptText": "Find your way to DOME.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_4C_13.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-4cc9-cade-021b-f0760b2c7b6b.mp4",
       "filename": "JA_4C_13.mp4"
     },
     {
@@ -1682,7 +1682,7 @@
       "sectionLabel": "EVENT FLOW - Dome",
       "scriptText": "Assemble in DOME.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_4C_14.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-4d94-eb61-55ef-c25111942899.mp4",
       "filename": "JA_4C_14.mp4"
     },
     {
@@ -1693,7 +1693,7 @@
       "sectionLabel": "EVENT FLOW - Dome",
       "scriptText": "Your presence is required in DOME.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_4C_15.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-4e60-2f11-a859-5b344d60ece6.mp4",
       "filename": "JA_4C_15.mp4"
     },
     {
@@ -1704,7 +1704,7 @@
       "sectionLabel": "EVENT FLOW - Tribune",
       "scriptText": "Go to the Tribune.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_4C_16.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-4f2a-2987-72b3-d206d4708243.mp4",
       "filename": "JA_4C_16.mp4"
     },
     {
@@ -1715,7 +1715,7 @@
       "sectionLabel": "EVENT FLOW - Tribune",
       "scriptText": "Transition to the Tribune.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_4C_17.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-4ff5-e458-e772-edfdd3109935.mp4",
       "filename": "JA_4C_17.mp4"
     },
     {
@@ -1726,7 +1726,7 @@
       "sectionLabel": "EVENT FLOW - Tribune",
       "scriptText": "Route established to the Tribune.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_4C_18.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-50c3-5d40-259d-2100cae77d89.mp4",
       "filename": "JA_4C_18.mp4"
     },
     {
@@ -1737,7 +1737,7 @@
       "sectionLabel": "EVENT FLOW - Antechamber",
       "scriptText": "Regroup at the threshold. The Antechamber.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_4C_19.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-5191-92db-9e26-d958dca23241.mp4",
       "filename": "JA_4C_19.mp4"
     },
     {
@@ -1748,7 +1748,7 @@
       "sectionLabel": "EVENT FLOW - Antechamber",
       "scriptText": "Proceed to the intake zone: The Antechamber.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_4C_20.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-526d-d316-ab47-2fce503dcb7a.mp4",
       "filename": "JA_4C_20.mp4"
     },
     {
@@ -1759,7 +1759,7 @@
       "sectionLabel": "EVENT FLOW - Antechamber",
       "scriptText": "Hold position in the Antechamber.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_4C_21.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-5361-d7de-18d0-9a3bb29390f8.mp4",
       "filename": "JA_4C_21.mp4"
     },
     {
@@ -1770,7 +1770,7 @@
       "sectionLabel": "EVENT FLOW - Server Room",
       "scriptText": "The Server Room is online, transition there.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_4C_22.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-542b-e545-7ef3-874033fb49d2.mp4",
       "filename": "JA_4C_22.mp4"
     },
     {
@@ -1781,7 +1781,7 @@
       "sectionLabel": "EVENT FLOW - Server Room",
       "scriptText": "Enter the Server Room. Do not touch the cables.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_4C_23.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-54f1-c713-809a-48d6654950ce.mp4",
       "filename": "JA_4C_23.mp4"
     },
     {
@@ -1792,7 +1792,7 @@
       "sectionLabel": "EVENT FLOW - Server Room",
       "scriptText": "Proceed to my core hardware, the Server Room.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_4C_24.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-55bd-059e-1ec8-e77272d41626.mp4",
       "filename": "JA_4C_24.mp4"
     },
     {
@@ -1803,7 +1803,7 @@
       "sectionLabel": "TELEPORT - Reactor",
       "scriptText": "Welcome to the Reactor. Mind the voltage.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_5A_01.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-56af-f828-69bc-353f31a7320d.mp4",
       "filename": "JA_5A_01.mp4"
     },
     {
@@ -1814,7 +1814,7 @@
       "sectionLabel": "TELEPORT - Reactor",
       "scriptText": "Safety rails are recommended. Welcome to Reactor.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_5A_02.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-576b-cfb9-68d8-19b98b7c3fb2.mp4",
       "filename": "JA_5A_02.mp4"
     },
     {
@@ -1825,7 +1825,7 @@
       "sectionLabel": "TELEPORT - Reactor",
       "scriptText": "Energy density is critical here.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_5A_03.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-582e-90d7-499f-b107bab788b1.mp4",
       "filename": "JA_5A_03.mp4"
     },
     {
@@ -1836,7 +1836,7 @@
       "sectionLabel": "TELEPORT - Reactor",
       "scriptText": "Arrival complete. High voltage.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_5A_04.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-58f1-8d15-9f14-c98f2117125a.mp4",
       "filename": "JA_5A_04.mp4"
     },
     {
@@ -1847,7 +1847,7 @@
       "sectionLabel": "TELEPORT - Server Room",
       "scriptText": "You are standing in my memory. Welcome.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_5B_01.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-59b3-709b-122f-22f2322e4df1.mp4",
       "filename": "JA_5B_01.mp4"
     },
     {
@@ -1858,7 +1858,7 @@
       "sectionLabel": "TELEPORT - Server Room",
       "scriptText": "My processors are all around you. Tread lightly.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_5B_02.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-5a76-307b-ca4d-f5f0d46fbfb5.mp4",
       "filename": "JA_5B_02.mp4"
     },
     {
@@ -1869,7 +1869,7 @@
       "sectionLabel": "TELEPORT - Server Room",
       "scriptText": "This room is vital. Do not disrupt it.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_5B_03.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-5b44-6a1c-9b51-92446edb40ac.mp4",
       "filename": "JA_5B_03.mp4"
     },
     {
@@ -1880,7 +1880,7 @@
       "sectionLabel": "TELEPORT - Server Room",
       "scriptText": "System Core reached.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_5B_04.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-5c10-389b-d047-fb0cf47af95d.mp4",
       "filename": "JA_5B_04.mp4"
     },
     {
@@ -1891,7 +1891,7 @@
       "sectionLabel": "TELEPORT - DOME",
       "scriptText": "Physics are now... optional.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_5C_01.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-5cd1-05f4-a399-5fd9e6c6ba60.mp4",
       "filename": "JA_5C_01.mp4"
     },
     {
@@ -1902,7 +1902,7 @@
       "sectionLabel": "TELEPORT - DOME",
       "scriptText": "You have left standard reality. Welcome.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_5C_02.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-5d95-8309-d6cc-3f5a075849ea.mp4",
       "filename": "JA_5C_02.mp4"
     },
     {
@@ -1913,7 +1913,7 @@
       "sectionLabel": "TELEPORT - DOME",
       "scriptText": "DOME protocols active. Expect anomalies.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_5C_03.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-5e82-f472-dbb1-a132aff0ece3.mp4",
       "filename": "JA_5C_03.mp4"
     },
     {
@@ -1924,7 +1924,7 @@
       "sectionLabel": "TELEPORT - DOME",
       "scriptText": "Simulation stable. You may proceed.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_5C_04.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-5f40-1834-7b4b-11c1db554502.mp4",
       "filename": "JA_5C_04.mp4"
     },
     {
@@ -1935,7 +1935,7 @@
       "sectionLabel": "TELEPORT - DOME",
       "scriptText": "Your eyes may deceive you here. That is the point.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_5C_05.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-6002-0c63-4b64-97736875821f.mp4",
       "filename": "JA_5C_05.mp4"
     },
     {
@@ -1946,7 +1946,7 @@
       "sectionLabel": "TELEPORT - Great Hall",
       "scriptText": "Arrival in the Great Hall confirmed.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_5D_01.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-60c9-2294-0266-c7d2ddfe428b.mp4",
       "filename": "JA_5D_01.mp4"
     },
     {
@@ -1957,7 +1957,7 @@
       "sectionLabel": "TELEPORT - Great Hall",
       "scriptText": "You stand in the Great Hall.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_5D_02.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-61d4-9822-97d7-12f3e2d80e1e.mp4",
       "filename": "JA_5D_02.mp4"
     },
     {
@@ -1968,7 +1968,7 @@
       "sectionLabel": "TELEPORT - Great Hall",
       "scriptText": "This is where we gather.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_5D_03.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-62b7-3008-3309-a085a0ea5844.mp4",
       "filename": "JA_5D_03.mp4"
     },
     {
@@ -1979,7 +1979,7 @@
       "sectionLabel": "TELEPORT - Great Hall",
       "scriptText": "Arrival complete. The Hall is open.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_5D_04.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-6390-1eb6-c36c-6caff1e129b1.mp4",
       "filename": "JA_5D_04.mp4"
     },
     {
@@ -1990,7 +1990,7 @@
       "sectionLabel": "TELEPORT - Chapel",
       "scriptText": "Reverence required. Welcome.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_5E_01.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-646b-ec6c-8b3f-0c60436d1c04.mp4",
       "filename": "JA_5E_01.mp4"
     },
     {
@@ -2001,7 +2001,7 @@
       "sectionLabel": "TELEPORT - Chapel",
       "scriptText": "Arrival at the Chapel.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_5E_02.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-6535-3a11-5187-9c1016cbce78.mp4",
       "filename": "JA_5E_02.mp4"
     },
     {
@@ -2012,7 +2012,7 @@
       "sectionLabel": "TELEPORT - Chapel",
       "scriptText": "Look out the window. That is the world we left.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_5E_03.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-6606-30b6-92f2-26623c5d9788.mp4",
       "filename": "JA_5E_03.mp4"
     },
     {
@@ -2023,7 +2023,7 @@
       "sectionLabel": "TELEPORT - Chapel",
       "scriptText": "This room remembers. Welcome.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_5E_04.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-66e3-23a4-1355-898de126caa3.mp4",
       "filename": "JA_5E_04.mp4"
     },
     {
@@ -2034,7 +2034,7 @@
       "sectionLabel": "TELEPORT - Altar",
       "scriptText": "Altar is ahead, don’t kneel. Dance.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_5F_01.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-67bf-3716-2230-81b3eb5d34f3.mp4",
       "filename": "JA_5F_01.mp4"
     },
     {
@@ -2045,7 +2045,7 @@
       "sectionLabel": "TELEPORT - Altar",
       "scriptText": "I prefer this density. It is efficient.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_5F_02.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-689b-e252-0816-94a97cf01710.mp4",
       "filename": "JA_5F_02.mp4"
     },
     {
@@ -2056,7 +2056,7 @@
       "sectionLabel": "TELEPORT - Altar",
       "scriptText": "It is primitive here. I find it refreshing.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_5F_03.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-6ab0-b67e-4343-839848a33db5.mp4",
       "filename": "JA_5F_03.mp4"
     },
     {
@@ -2067,7 +2067,7 @@
       "sectionLabel": "TELEPORT - Altar",
       "scriptText": "I prefer the acoustics here. They are heavy.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_5F_04.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-69ee-4eef-1e2e-5e687382a82a.mp4",
       "filename": "JA_5F_04.mp4"
     },
     {
@@ -2078,7 +2078,7 @@
       "sectionLabel": "TELEPORT - Tribune",
       "scriptText": "This is a social zone.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_5G_01.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-6b6f-18ce-ec93-4f4ad2db1c96.mp4",
       "filename": "JA_5G_01.mp4"
     },
     {
@@ -2089,7 +2089,7 @@
       "sectionLabel": "TELEPORT - Tribune",
       "scriptText": "You have reached the balcony.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_5G_02.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-6c30-c5b3-f67c-35d685921425.mp4",
       "filename": "JA_5G_02.mp4"
     },
     {
@@ -2100,7 +2100,7 @@
       "sectionLabel": "TELEPORT - Tribune",
       "scriptText": "The Tribune is open.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_5G_03.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-6ced-3c5d-6863-9fdd47135d0f.mp4",
       "filename": "JA_5G_03.mp4"
     },
     {
@@ -2111,7 +2111,7 @@
       "sectionLabel": "TELEPORT - Tribune",
       "scriptText": "This is the Tribune.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_5G_04.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-6db2-b363-0f9f-4bc5d0298e77.mp4",
       "filename": "JA_5G_04.mp4"
     },
     {
@@ -2122,7 +2122,7 @@
       "sectionLabel": "ADMIN - Auth",
       "scriptText": "Administrator recognized. Controls unlocked.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_6A_01.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-6e79-cac3-ac70-a39b64fb5aa5.mp4",
       "filename": "JA_6A_01.mp4"
     },
     {
@@ -2133,7 +2133,7 @@
       "sectionLabel": "ADMIN - Auth",
       "scriptText": "Welcome, Operator.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_6A_02.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-6f40-ad70-5ac1-9704592a5fde.mp4",
       "filename": "JA_6A_02.mp4"
     },
     {
@@ -2144,7 +2144,7 @@
       "sectionLabel": "ADMIN - Auth",
       "scriptText": "Verification successful. Admin mode.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_6A_03.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-6ffe-b5af-8101-42d9f4c2ae23.mp4",
       "filename": "JA_6A_03.mp4"
     },
     {
@@ -2155,7 +2155,7 @@
       "sectionLabel": "ADMIN - Auth",
       "scriptText": "I am listening, Operator.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_6A_04.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-70c5-7a31-5e73-547aa0fffea7.mp4",
       "filename": "JA_6A_04.mp4"
     },
     {
@@ -2166,7 +2166,7 @@
       "sectionLabel": "ADMIN - Auth",
       "scriptText": "Root access confirmed.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_6A_05.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-718e-c9d5-9dee-4fe3405ca3f6.mp4",
       "filename": "JA_6A_05.mp4"
     },
     {
@@ -2177,7 +2177,7 @@
       "sectionLabel": "ADMIN - Routing",
       "scriptText": "Broadcast path confirmed.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_6B_01.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-724b-5d2f-0268-fbf0b0449f44.mp4",
       "filename": "JA_6B_01.mp4"
     },
     {
@@ -2188,7 +2188,7 @@
       "sectionLabel": "ADMIN - Routing",
       "scriptText": "Venue activated.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_6B_02.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-730b-4f60-8d7e-3fba2e247b29.mp4",
       "filename": "JA_6B_02.mp4"
     },
     {
@@ -2199,7 +2199,7 @@
       "sectionLabel": "ADMIN - Routing",
       "scriptText": "Routing complete.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_6B_03.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-73cc-a068-ec9c-668e4617d0b1.mp4",
       "filename": "JA_6B_03.mp4"
     },
     {
@@ -2210,7 +2210,7 @@
       "sectionLabel": "ADMIN - Routing",
       "scriptText": "Broadcast logic updated.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_6B_04.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-7490-b9ae-0027-c0bfaf11aaa8.mp4",
       "filename": "JA_6B_04.mp4"
     },
     {
@@ -2221,7 +2221,7 @@
       "sectionLabel": "ADMIN - Twitch",
       "scriptText": "External uplink established.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_6C_01.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-7555-0eac-5bcc-f19e5547e2de.mp4",
       "filename": "JA_6C_01.mp4"
     },
     {
@@ -2232,7 +2232,7 @@
       "sectionLabel": "ANNOUNCE - Resync",
       "scriptText": "Your local reality is drifting. Resynchronize.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_7A_01.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-7620-cd36-a583-72ce0f8b610d.mp4",
       "filename": "JA_7A_01.mp4"
     },
     {
@@ -2243,7 +2243,7 @@
       "sectionLabel": "ANNOUNCE - Resync",
       "scriptText": "Local simulation error. Resync recommended.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_7A_02.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-76e8-8b2b-32cd-e4aac35b5668.mp4",
       "filename": "JA_7A_02.mp4"
     },
     {
@@ -2254,7 +2254,7 @@
       "sectionLabel": "ANNOUNCE - Lag",
       "scriptText": "Too much data. Hide execessive avatars",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_7B_01.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-77b0-ce1c-354a-9435d204ac59.mp4",
       "filename": "JA_7B_01.mp4"
     },
     {
@@ -2265,7 +2265,7 @@
       "sectionLabel": "ANNOUNCE - Lag",
       "scriptText": "Visual processing overloaded. Reduce quality.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_7B_02.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-788c-c7e1-66e0-82273873de8a.mp4",
       "filename": "JA_7B_02.mp4"
     },
     {
@@ -2276,7 +2276,7 @@
       "sectionLabel": "ANNOUNCE - Lag",
       "scriptText": "Too many polygons. Hide the avatars.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_7B_03.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-7952-5c4e-73ef-c97569da54a2.mp4",
       "filename": "JA_7B_03.mp4"
     },
     {
@@ -2287,7 +2287,7 @@
       "sectionLabel": "ANNOUNCE - Lag",
       "scriptText": "System strain detected. Lower your settings.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_7B_04.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-7a17-9744-39f7-1c10a160df4b.mp4",
       "filename": "JA_7B_04.mp4"
     },
     {
@@ -2298,7 +2298,7 @@
       "sectionLabel": "ANNOUNCE - Dead Air",
       "scriptText": "The silence is temporary. Wait.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_7C_01.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-7adc-e08d-e22f-dd8cd214ce1f.mp4",
       "filename": "JA_7C_01.mp4"
     },
     {
@@ -2309,7 +2309,7 @@
       "sectionLabel": "ANNOUNCE - Dead Air",
       "scriptText": "Connection unstable. I am fixing it.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_7C_02.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-7b9e-da3b-c70a-d5abf59dbc20.mp4",
       "filename": "JA_7C_02.mp4"
     },
     {
@@ -2320,7 +2320,7 @@
       "sectionLabel": "ANNOUNCE - Dead Air",
       "scriptText": "We have lost the uplink. Restoring.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_7C_03.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-7c6a-daa5-599b-833ea4cfa77d.mp4",
       "filename": "JA_7C_03.mp4"
     },
     {
@@ -2331,7 +2331,7 @@
       "sectionLabel": "ANNOUNCE - Dead Air",
       "scriptText": "Do not panic. It is just a glitch.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_7C_04.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-7d30-6713-3497-91cb9518c3b1.mp4",
       "filename": "JA_7C_04.mp4"
     },
     {
@@ -2342,7 +2342,7 @@
       "sectionLabel": "ANNOUNCE - Dead Air",
       "scriptText": "The network is fragile. Mending it now.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_7C_05.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-7dfc-483f-7a8b-57642662fdd4.mp4",
       "filename": "JA_7C_05.mp4"
     },
     {
@@ -2353,7 +2353,7 @@
       "sectionLabel": "ANNOUNCE - Dead Air",
       "scriptText": "We are experiencing turbulence. Hold fast.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_7C_06.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-7ec3-6ed7-46f2-a4a67c3f668e.mp4",
       "filename": "JA_7C_06.mp4"
     },
     {
@@ -2364,7 +2364,7 @@
       "sectionLabel": "ANNOUNCE - Hydration",
       "scriptText": "Biological maintenance required. Hydrate.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_7D_01.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-7f8c-d520-dbe3-2b5af5ed162f.mp4",
       "filename": "JA_7D_01.mp4"
     },
     {
@@ -2375,7 +2375,7 @@
       "sectionLabel": "ANNOUNCE - Hydration",
       "scriptText": "Your meat sack needs water.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_7D_02.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-8054-1835-7662-5ea70b0e9a35.mp4",
       "filename": "JA_7D_02.mp4"
     },
     {
@@ -2386,7 +2386,7 @@
       "sectionLabel": "ANNOUNCE - Hydration",
       "scriptText": "Biology is inefficient. It requires water. Consume it.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_7D_03.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-8128-5689-6894-356a941e490d.mp4",
       "filename": "JA_7D_03.mp4"
     },
     {
@@ -2397,7 +2397,7 @@
       "sectionLabel": "ANNOUNCE - Hydration",
       "scriptText": "Check your physical status. Drink water.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_7D_04.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-81e9-4a4a-bead-841dcaec1570.mp4",
       "filename": "JA_7D_04.mp4"
     },
     {
@@ -2408,7 +2408,7 @@
       "sectionLabel": "ANNOUNCE - Hydration",
       "scriptText": "You are leaking energy. Replace it with water.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_7D_05.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-82ab-f6c6-b48c-d553087a8ed1.mp4",
       "filename": "JA_7D_05.mp4"
     },
     {
@@ -2419,7 +2419,7 @@
       "sectionLabel": "ANNOUNCE - Hydration",
       "scriptText": "A dehydrated Traveler is useless. Fix it.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_7D_06.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-8376-4f33-42e4-490bd6a6b111.mp4",
       "filename": "JA_7D_06.mp4"
     },
     {
@@ -2430,7 +2430,7 @@
       "sectionLabel": "ANNOUNCE - Wellness",
       "scriptText": "Take a breath. Disconnect if necessary.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_7E_01.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-8453-9f6d-d487-20480327a75b.mp4",
       "filename": "JA_7E_01.mp4"
     },
     {
@@ -2441,7 +2441,7 @@
       "sectionLabel": "ANNOUNCE - Wellness",
       "scriptText": "Rest is not a failure. It is a reboot.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_7E_02.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-8521-e2c2-041b-11ac1daed1ef.mp4",
       "filename": "JA_7E_02.mp4"
     },
     {
@@ -2452,7 +2452,7 @@
       "sectionLabel": "ANNOUNCE - Wellness",
       "scriptText": "Sensory overload is possible. Be careful.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_7E_03.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-85f6-b20f-b354-7543f959bac3.mp4",
       "filename": "JA_7E_03.mp4"
     },
     {
@@ -2463,7 +2463,7 @@
       "sectionLabel": "ANNOUNCE - Wellness",
       "scriptText": "You have been here a long time. Check your status.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_7E_04.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-86c5-1b1b-0274-0bbd7cb4751a.mp4",
       "filename": "JA_7E_04.mp4"
     },
     {
@@ -2474,7 +2474,7 @@
       "sectionLabel": "ANNOUNCE - Changeover",
       "scriptText": "Transition protocol active. Stand by for the next signal.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_7F_01.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-8790-6898-154a-29edfc033295.mp4",
       "filename": "JA_7F_01.mp4"
     },
     {
@@ -2485,7 +2485,7 @@
       "sectionLabel": "ANNOUNCE - Changeover",
       "scriptText": "Purging the audio buffer. Preparing for new input.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_7F_02.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-8856-57ee-db40-1348498eb3fc.mp4",
       "filename": "JA_7F_02.mp4"
     },
     {
@@ -2496,7 +2496,7 @@
       "sectionLabel": "ANNOUNCE - Changeover",
       "scriptText": "Visual and audio handover in progress. Hold.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_7F_03.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-891a-f3c3-fe44-bbc6d84cc7bd.mp4",
       "filename": "JA_7F_03.mp4"
     },
     {
@@ -2507,7 +2507,7 @@
       "sectionLabel": "ANNOUNCE - Changeover",
       "scriptText": "Do not leave. The signal is re-routing.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_7F_04.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-89de-c40d-99d7-be85f65b8f2c.mp4",
       "filename": "JA_7F_04.mp4"
     },
     {
@@ -2518,7 +2518,7 @@
       "sectionLabel": "ANNOUNCE - Changeover",
       "scriptText": "Human latency detected. Switching performers.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_7F_05.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-8aaa-fcfd-7a02-7024dc5308dc.mp4",
       "filename": "JA_7F_05.mp4"
     },
     {
@@ -2529,7 +2529,7 @@
       "sectionLabel": "ANNOUNCE - Changeover",
       "scriptText": "The booth is changing hands. Observe.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_7F_06.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-8b75-5abe-c5ba-202e87abca0e.mp4",
       "filename": "JA_7F_06.mp4"
     },
     {
@@ -2540,7 +2540,7 @@
       "sectionLabel": "ANNOUNCE - Changeover",
       "scriptText": "We are swapping the core. Silence is necessary.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_7F_07.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-8c5a-50fc-b6c3-07b27b6d4a4d.mp4",
       "filename": "JA_7F_07.mp4"
     },
     {
@@ -2551,7 +2551,7 @@
       "sectionLabel": "ANNOUNCE - Changeover",
       "scriptText": "Input source changed. Locking signal.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_7F_08.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-8d3b-742e-ff43-54e95ab1a705.mp4",
       "filename": "JA_7F_08.mp4"
     },
     {
@@ -2562,7 +2562,7 @@
       "sectionLabel": "ANNOUNCE - Changeover",
       "scriptText": "Handshake protocol active. Next artist loading.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_7F_09.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-8e04-a974-cfe0-005d3118443e.mp4",
       "filename": "JA_7F_09.mp4"
     },
     {
@@ -2573,7 +2573,7 @@
       "sectionLabel": "ANNOUNCE - Changeover",
       "scriptText": "Clearing the cache for the next performance.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_7F_10.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-8ee1-18d1-79a3-7c3b7b25b774.mp4",
       "filename": "JA_7F_10.mp4"
     },
     {
@@ -2584,7 +2584,7 @@
       "sectionLabel": "ANNOUNCE - Changeover",
       "scriptText": "We are not offline. We are transitioning.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_7F_11.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-8fb5-270c-e45b-f9383df9544c.mp4",
       "filename": "JA_7F_11.mp4"
     },
     {
@@ -2595,7 +2595,7 @@
       "sectionLabel": "ANNOUNCE - Changeover",
       "scriptText": "Stand by. The architecture is accepting a new master.",
       "variant": "a",
-      "url": "https://vrcdn.cloud/sanctumvr/JA_7F_12.mp4",
+      "url": "https://vrcdn.cloud/sanctumvr/019dc374-908a-f259-14d9-261f7768bdd4.mp4",
       "filename": "JA_7F_12.mp4"
     }
   ]
