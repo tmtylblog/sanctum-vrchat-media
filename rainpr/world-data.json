@@ -1,0 +1,71 @@
+{
+  "generated": "2026-05-07T00:55:11.389Z",
+  "_permissions": {
+    "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
+    "Group Owner": "GATING — Community owner — full admin access",
+    "Admin": "GATING — Co-Leader or Administrator staff role — full admin access",
+    "Host": "GATING — Host staff role (permanent) or per-event host/coordinator (21-day window) — full admin access",
+    "Moderator": "GATING — Moderator staff role (permanent) or per-event moderator/security (21-day window) — moderation access",
+    "Dancer": "GATING — East/West dance team, active guest dancer, or event-assigned dancer (21-day window) — performance-area access",
+    "Staff": "GATING — isStaff or any CommunityStaffRole — full admin access",
+    "Traveler": "GATING — Anyone in the community Discord — basic verified-member access",
+    "Supporter": "GATING — Active supporter tier (VRC store, Stripe, Patreon, or community grant) — supporter-tier perks",
+    "Patron": "DISPLAY ONLY — Sanctum community members (Patron CommunityMemberRole). Use for name walls / credits, NOT for gating.",
+    "Performer": "DISPLAY ONLY — Anyone with an active performance booking (event-performer/event-dancer staff role, or 21-day SlotTalent / DanceBlockDancer / EventStaff photographer/staff/streamer). Use for lineup / credits, NOT for gating."
+  },
+  "permissions": {
+    "Group Owner": [
+      {
+        "userId": "usr_589a479b-80cf-42c4-92e4-63cbd900a82b",
+        "displayName": "Rain_Iwa"
+      }
+    ],
+    "Staff": [
+      {
+        "userId": "usr_589a479b-80cf-42c4-92e4-63cbd900a82b",
+        "displayName": "Rain_Iwa"
+      }
+    ],
+    "Traveler": [
+      {
+        "userId": "usr_589a479b-80cf-42c4-92e4-63cbd900a82b",
+        "displayName": "Rain_Iwa"
+      }
+    ]
+  },
+  "supporters": {
+    "entrySystemRecognition": [],
+    "terminalNameInclusion": [],
+    "floorCarvingNameInclusion": [],
+    "priorityInstanceQueue": [],
+    "privatePenthouseSpawn": [],
+    "performanceVodAccess": [],
+    "shareablePenthouseAccess": [],
+    "hostTribuneEvents": [],
+    "hostLunetteEvents": [],
+    "architectDesignation": []
+  },
+  "atlases": {
+    "canvasSize": {
+      "width": 2048,
+      "height": 2048
+    },
+    "grid": {
+      "cols": 3,
+      "rows": 3
+    },
+    "cellSize": {
+      "width": 544,
+      "height": 680
+    },
+    "files": []
+  },
+  "gallery": {},
+  "posterGallery": {
+    "altar": [],
+    "tribune": [],
+    "balcony": []
+  },
+  "vods": [],
+  "worldControl": null
+}
