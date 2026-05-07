@@ -116,7 +116,7 @@
       "rsvpCount": 0,
       "lineup": [
         {
-          "displayName": "sloth_cast",
+          "displayName": "slothcast",
           "vrchatUserId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
           "role": "DJ",
           "room": "tribune",
@@ -167,5 +167,5 @@
       ]
     }
   ],
-  "generatedAt": "2026-05-07T00:51:20.311Z"
+  "generatedAt": "2026-05-07T14:01:04.458Z"
 }
