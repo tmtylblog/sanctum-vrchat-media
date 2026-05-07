@@ -220,7 +220,7 @@
       },
       {
         "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
-        "displayName": "sloth_cast"
+        "displayName": "slothcast"
       },
       {
         "userId": "usr_e9217838-7cd9-4475-9e55-36cf58896cca",
@@ -301,6 +301,10 @@
         "displayName": "AcChosen"
       },
       {
+        "userId": "usr_617040d8-3560-497a-a38f-bdb274ba4ee5",
+        "displayName": "AyumiKoi"
+      },
+      {
         "userId": "usr_a367d6c3-ad94-4a88-83b2-822aaa071fac",
         "displayName": "AyyyyRik"
       },
@@ -346,7 +350,7 @@
       },
       {
         "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
-        "displayName": "sloth_cast"
+        "displayName": "slothcast"
       },
       {
         "userId": "usr_10624ac0-ae1b-4b79-9f4c-7bed09de2d94",
@@ -363,6 +367,10 @@
       {
         "userId": "usr_ffc409e3-0aad-41e1-8159-8a813f71e79e",
         "displayName": "witherdWhisper"
+      },
+      {
+        "userId": "usr_1516ca40-edd5-4a55-aafd-0a9fef9e329d",
+        "displayName": "Xyare"
       }
     ],
     "Moderator": [
@@ -462,7 +470,7 @@
       },
       {
         "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
-        "displayName": "sloth_cast"
+        "displayName": "slothcast"
       },
       {
         "userId": "usr_10624ac0-ae1b-4b79-9f4c-7bed09de2d94",
@@ -488,7 +496,7 @@
       },
       {
         "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
-        "displayName": "sloth_cast"
+        "displayName": "slothcast"
       }
     ],
     "Patron": [
@@ -1112,7 +1120,7 @@
       },
       {
         "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
-        "displayName": "sloth_cast"
+        "displayName": "slothcast"
       },
       {
         "userId": "usr_e9217838-7cd9-4475-9e55-36cf58896cca",
@@ -1430,7 +1438,7 @@
       },
       {
         "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
-        "displayName": "sloth_cast"
+        "displayName": "slothcast"
       },
       {
         "userId": "usr_e9217838-7cd9-4475-9e55-36cf58896cca",
@@ -1762,7 +1770,7 @@
       },
       {
         "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
-        "displayName": "sloth_cast"
+        "displayName": "slothcast"
       },
       {
         "userId": "usr_e9217838-7cd9-4475-9e55-36cf58896cca",
@@ -1819,5 +1827,5 @@
     "Patron": "DISPLAY ONLY — Sanctum community members (Patron CommunityMemberRole). Use for name walls / credits, NOT for gating.",
     "Performer": "DISPLAY ONLY — Anyone with an active performance booking (event-performer/event-dancer staff role, or 21-day SlotTalent / DanceBlockDancer / EventStaff photographer/staff/streamer). Use for lineup / credits, NOT for gating."
   },
-  "generatedAt": "2026-05-07T00:51:17.353Z"
+  "generatedAt": "2026-05-07T14:01:01.161Z"
 }
