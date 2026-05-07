@@ -1,0 +1,163 @@
+{
+  "generated": "2026-05-07T00:55:06.174Z",
+  "_permissions": {
+    "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
+    "Group Owner": "GATING — Community owner — full admin access",
+    "Admin": "GATING — Co-Leader or Administrator staff role — full admin access",
+    "Host": "GATING — Host staff role (permanent) or per-event host/coordinator (21-day window) — full admin access",
+    "Moderator": "GATING — Moderator staff role (permanent) or per-event moderator/security (21-day window) — moderation access",
+    "Dancer": "GATING — East/West dance team, active guest dancer, or event-assigned dancer (21-day window) — performance-area access",
+    "Staff": "GATING — isStaff or any CommunityStaffRole — full admin access",
+    "Traveler": "GATING — Anyone in the community Discord — basic verified-member access",
+    "Supporter": "GATING — Active supporter tier (VRC store, Stripe, Patreon, or community grant) — supporter-tier perks",
+    "Patron": "DISPLAY ONLY — Sanctum community members (Patron CommunityMemberRole). Use for name walls / credits, NOT for gating.",
+    "Performer": "DISPLAY ONLY — Anyone with an active performance booking (event-performer/event-dancer staff role, or 21-day SlotTalent / DanceBlockDancer / EventStaff photographer/staff/streamer). Use for lineup / credits, NOT for gating."
+  },
+  "permissions": {
+    "Host": [
+      {
+        "userId": "usr_858425e8-5c0c-461b-af0c-77190bf7b4af",
+        "displayName": "~Mathy~"
+      },
+      {
+        "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
+        "displayName": "Twilo"
+      }
+    ],
+    "Admin": [
+      {
+        "userId": "usr_858425e8-5c0c-461b-af0c-77190bf7b4af",
+        "displayName": "~Mathy~"
+      },
+      {
+        "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
+        "displayName": "Twilo"
+      }
+    ],
+    "Performer": [
+      {
+        "userId": "usr_858425e8-5c0c-461b-af0c-77190bf7b4af",
+        "displayName": "~Mathy~"
+      },
+      {
+        "userId": "usr_733cef97-961b-4cb3-9b83-40c53d182e76",
+        "displayName": "CRUZBOT"
+      },
+      {
+        "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
+        "displayName": "Twilo"
+      }
+    ],
+    "Moderator": [
+      {
+        "userId": "usr_858425e8-5c0c-461b-af0c-77190bf7b4af",
+        "displayName": "~Mathy~"
+      },
+      {
+        "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
+        "displayName": "Twilo"
+      }
+    ],
+    "Group Owner": [
+      {
+        "userId": "usr_858425e8-5c0c-461b-af0c-77190bf7b4af",
+        "displayName": "~Mathy~"
+      },
+      {
+        "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
+        "displayName": "Twilo"
+      }
+    ],
+    "Staff": [
+      {
+        "userId": "usr_858425e8-5c0c-461b-af0c-77190bf7b4af",
+        "displayName": "~Mathy~"
+      },
+      {
+        "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
+        "displayName": "Twilo"
+      }
+    ],
+    "Traveler": [
+      {
+        "userId": "usr_858425e8-5c0c-461b-af0c-77190bf7b4af",
+        "displayName": "~Mathy~"
+      },
+      {
+        "userId": "usr_650e279f-2c66-4bac-b768-7e56ea3db547",
+        "displayName": "~Prof~"
+      },
+      {
+        "userId": "usr_dd79e49b-680d-4ee9-a5bd-8a47030072c0",
+        "displayName": "Armedais"
+      },
+      {
+        "userId": "usr_ffc7d2e8-335a-41c1-aaf7-4fc392aea212",
+        "displayName": "Code Jin"
+      },
+      {
+        "userId": "usr_6d7b7cd3-3ebb-4a1d-af1d-4ad7d455e919",
+        "displayName": "CyD1＠N"
+      },
+      {
+        "userId": "usr_4d7a2386-6085-4013-ba6a-bb76ed47badb",
+        "displayName": "Gaming Skoot"
+      },
+      {
+        "userId": "usr_587bad0c-0968-4c7d-b101-432dbdc25450",
+        "displayName": "LylacSky"
+      },
+      {
+        "userId": "usr_41791eed-19ca-40c7-9422-c33322bc5616",
+        "displayName": "OmegaSol"
+      },
+      {
+        "userId": "usr_cf6c438f-778b-469c-9621-be9d7616e625",
+        "displayName": "SladeDaCat"
+      },
+      {
+        "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
+        "displayName": "sloth_cast"
+      },
+      {
+        "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
+        "displayName": "Twilo"
+      }
+    ]
+  },
+  "supporters": {
+    "entrySystemRecognition": [],
+    "terminalNameInclusion": [],
+    "floorCarvingNameInclusion": [],
+    "priorityInstanceQueue": [],
+    "privatePenthouseSpawn": [],
+    "performanceVodAccess": [],
+    "shareablePenthouseAccess": [],
+    "hostTribuneEvents": [],
+    "hostLunetteEvents": [],
+    "architectDesignation": []
+  },
+  "atlases": {
+    "canvasSize": {
+      "width": 2048,
+      "height": 2048
+    },
+    "grid": {
+      "cols": 3,
+      "rows": 3
+    },
+    "cellSize": {
+      "width": 544,
+      "height": 680
+    },
+    "files": []
+  },
+  "gallery": {},
+  "posterGallery": {
+    "altar": [],
+    "tribune": [],
+    "balcony": []
+  },
+  "vods": [],
+  "worldControl": null
+}
