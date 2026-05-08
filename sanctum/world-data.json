@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-08T02:21:39.681Z",
+  "generated": "2026-05-08T02:22:26.461Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -3286,6 +3286,22 @@
       },
       {
         "slotIndex": 6,
+        "url": null,
+        "orientation": "portrait",
+        "expectedOrientation": "portrait",
+        "photographer": null,
+        "composition": null
+      },
+      {
+        "slotIndex": 7,
+        "url": null,
+        "orientation": "portrait",
+        "expectedOrientation": "portrait",
+        "photographer": null,
+        "composition": null
+      },
+      {
+        "slotIndex": 8,
         "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/830cb6ed-1623-460c-b4b4-d0b8dbc3f073.jpg",
         "orientation": "landscape",
         "expectedOrientation": "landscape",
@@ -3293,7 +3309,7 @@
         "composition": null
       },
       {
-        "slotIndex": 7,
+        "slotIndex": 9,
         "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/3e43d60c-9745-4d4b-82b7-d3619d4848c0.jpg",
         "orientation": "landscape",
         "expectedOrientation": "landscape",
