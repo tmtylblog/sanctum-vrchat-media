@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-08T02:22:26.461Z",
+  "generated": "2026-05-08T08:56:17.491Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -3204,19 +3204,19 @@
       },
       {
         "slotIndex": 6,
-        "url": null,
+        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/4ce77742-c552-4b60-a2c3-1ff54ac1a352.jpg",
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": null
+        "photographer": "Miv2nir",
+        "composition": "Sanctum Relaunch East & West Events"
       },
       {
         "slotIndex": 7,
-        "url": null,
+        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/7e0247e2-aeb0-4cfd-8067-0fba2d4eccb4.jpg",
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": null
+        "photographer": "Grobi",
+        "composition": "Sanctum_2026_04_12"
       },
       {
         "slotIndex": 8,
@@ -3286,19 +3286,19 @@
       },
       {
         "slotIndex": 6,
-        "url": null,
+        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/3c61409f-1227-45fc-a3c6-dd91a932cd24.jpg",
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": null
+        "photographer": "Kaerun",
+        "composition": "2026-04-11 - Sanctum Returns - West"
       },
       {
         "slotIndex": 7,
-        "url": null,
+        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/e6e65a34-71d3-4362-bb8c-aa5200836bec.png",
         "orientation": "portrait",
         "expectedOrientation": "portrait",
         "photographer": null,
-        "composition": null
+        "composition": "Red Tunnel"
       },
       {
         "slotIndex": 8,
