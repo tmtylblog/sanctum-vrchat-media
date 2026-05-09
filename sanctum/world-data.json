@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-08T22:51:29.923Z",
+  "generated": "2026-05-09T00:00:25.834Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -138,6 +138,10 @@
       {
         "userId": "usr_40be82e7-f7d5-4548-b314-3fc7b26d22ee",
         "displayName": "Hackebein"
+      },
+      {
+        "userId": "usr_dcb302e4-fea9-498b-accb-90f62e95b02f",
+        "displayName": "Jᴜzo"
       },
       {
         "userId": "usr_1af5cd30-4890-47c8-8cad-7cb0266453d2",
@@ -336,6 +340,10 @@
       {
         "userId": "usr_0021bf6c-901e-4db7-87ba-031cb31e165e",
         "displayName": "ju․no"
+      },
+      {
+        "userId": "usr_dcb302e4-fea9-498b-accb-90f62e95b02f",
+        "displayName": "Jᴜzo"
       },
       {
         "userId": "usr_7fb63252-1681-4a5f-9fe6-31b75193fa27",
@@ -862,6 +870,10 @@
       {
         "userId": "usr_7953eb75-8b89-4121-bef2-b26caf94c7f0",
         "displayName": "JustJaime"
+      },
+      {
+        "userId": "usr_dcb302e4-fea9-498b-accb-90f62e95b02f",
+        "displayName": "Jᴜzo"
       },
       {
         "userId": "usr_21365772-c36a-45cd-8f8c-95f7fe7dd987",
@@ -1410,6 +1422,10 @@
         "displayName": "ju․no"
       },
       {
+        "userId": "usr_dcb302e4-fea9-498b-accb-90f62e95b02f",
+        "displayName": "Jᴜzo"
+      },
+      {
         "userId": "usr_7fb63252-1681-4a5f-9fe6-31b75193fa27",
         "displayName": "kohadachan"
       },
@@ -1558,6 +1574,10 @@
       {
         "userId": "usr_40be82e7-f7d5-4548-b314-3fc7b26d22ee",
         "displayName": "Hackebein"
+      },
+      {
+        "userId": "usr_dcb302e4-fea9-498b-accb-90f62e95b02f",
+        "displayName": "Jᴜzo"
       },
       {
         "userId": "usr_20440d0b-9a96-4eaf-8b05-58d48a803b21",
