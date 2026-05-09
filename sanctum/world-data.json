@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-09T04:58:24.486Z",
+  "generated": "2026-05-09T11:38:17.527Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -3212,10 +3212,10 @@
       },
       {
         "slotIndex": 3,
-        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/d2cfea4b-22b4-4223-8165-c0ed7163c778.jpg",
+        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/1768be1d-23a0-4c19-a5f1-39beb6390b2f.jpg",
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": "Fallen",
+        "photographer": "nekorogaru_vrc",
         "composition": null
       },
       {
@@ -3252,11 +3252,11 @@
       },
       {
         "slotIndex": 8,
-        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/b1aaeb42-ad64-4099-a383-a14e98413c9d.jpg",
+        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/a95cff31-8c51-4006-905d-e137c37839c2.jpg",
         "orientation": "landscape",
         "expectedOrientation": "landscape",
-        "photographer": "Fallen",
-        "composition": null
+        "photographer": "causya",
+        "composition": "SANCTUM REBOOT"
       },
       {
         "slotIndex": 9,
@@ -3294,11 +3294,11 @@
       },
       {
         "slotIndex": 3,
-        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/8a98d874-3b09-48a3-84ab-cd359e6d5eb7.jpg",
+        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/000da1df-fe8d-492d-be49-be02e1cc7ad3.jpg",
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": "Fallen",
-        "composition": null
+        "photographer": "SladeDaCat",
+        "composition": "Floor"
       },
       {
         "slotIndex": 4,
