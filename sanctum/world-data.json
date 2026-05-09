@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-09T18:19:34.937Z",
+  "generated": "2026-05-09T20:15:19.077Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -237,7 +237,7 @@
       },
       {
         "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
-        "displayName": "slothcast"
+        "displayName": "Slothcast"
       },
       {
         "userId": "usr_e9217838-7cd9-4475-9e55-36cf58896cca",
@@ -383,7 +383,7 @@
       },
       {
         "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
-        "displayName": "slothcast"
+        "displayName": "Slothcast"
       },
       {
         "userId": "usr_10624ac0-ae1b-4b79-9f4c-7bed09de2d94",
@@ -507,7 +507,7 @@
       },
       {
         "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
-        "displayName": "slothcast"
+        "displayName": "Slothcast"
       },
       {
         "userId": "usr_10624ac0-ae1b-4b79-9f4c-7bed09de2d94",
@@ -533,7 +533,7 @@
       },
       {
         "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
-        "displayName": "slothcast"
+        "displayName": "Slothcast"
       }
     ],
     "Patron": [
@@ -1165,7 +1165,7 @@
       },
       {
         "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
-        "displayName": "slothcast"
+        "displayName": "Slothcast"
       },
       {
         "userId": "usr_e9217838-7cd9-4475-9e55-36cf58896cca",
@@ -1491,7 +1491,7 @@
       },
       {
         "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
-        "displayName": "slothcast"
+        "displayName": "Slothcast"
       },
       {
         "userId": "usr_e9217838-7cd9-4475-9e55-36cf58896cca",
@@ -1827,7 +1827,7 @@
       },
       {
         "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
-        "displayName": "slothcast"
+        "displayName": "Slothcast"
       },
       {
         "userId": "usr_e9217838-7cd9-4475-9e55-36cf58896cca",
@@ -2063,7 +2063,7 @@
       },
       {
         "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
-        "displayName": "slothcast"
+        "displayName": "Slothcast"
       },
       {
         "userId": "usr_e9217838-7cd9-4475-9e55-36cf58896cca",
@@ -2297,7 +2297,7 @@
       },
       {
         "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
-        "displayName": "slothcast"
+        "displayName": "Slothcast"
       },
       {
         "userId": "usr_e9217838-7cd9-4475-9e55-36cf58896cca",
@@ -2527,7 +2527,7 @@
       },
       {
         "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
-        "displayName": "slothcast"
+        "displayName": "Slothcast"
       },
       {
         "userId": "usr_e9217838-7cd9-4475-9e55-36cf58896cca",
@@ -2757,7 +2757,7 @@
       },
       {
         "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
-        "displayName": "slothcast"
+        "displayName": "Slothcast"
       },
       {
         "userId": "usr_e9217838-7cd9-4475-9e55-36cf58896cca",
@@ -2987,7 +2987,7 @@
       },
       {
         "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
-        "displayName": "slothcast"
+        "displayName": "Slothcast"
       },
       {
         "userId": "usr_e9217838-7cd9-4475-9e55-36cf58896cca",
@@ -3053,7 +3053,7 @@
       },
       {
         "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
-        "displayName": "slothcast"
+        "displayName": "Slothcast"
       },
       {
         "userId": "usr_06aebe4f-e50c-46ef-a5d9-9dc6eb62d6d9",
@@ -3083,7 +3083,7 @@
       },
       {
         "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
-        "displayName": "slothcast"
+        "displayName": "Slothcast"
       },
       {
         "userId": "usr_06aebe4f-e50c-46ef-a5d9-9dc6eb62d6d9",
@@ -3113,7 +3113,7 @@
       },
       {
         "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
-        "displayName": "slothcast"
+        "displayName": "Slothcast"
       },
       {
         "userId": "usr_06aebe4f-e50c-46ef-a5d9-9dc6eb62d6d9",
@@ -3143,7 +3143,7 @@
       },
       {
         "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
-        "displayName": "slothcast"
+        "displayName": "Slothcast"
       },
       {
         "userId": "usr_06aebe4f-e50c-46ef-a5d9-9dc6eb62d6d9",
@@ -3165,7 +3165,7 @@
       },
       {
         "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
-        "displayName": "slothcast"
+        "displayName": "Slothcast"
       },
       {
         "userId": "usr_06aebe4f-e50c-46ef-a5d9-9dc6eb62d6d9",
@@ -3248,11 +3248,11 @@
       },
       {
         "slotIndex": 7,
-        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/7e0247e2-aeb0-4cfd-8067-0fba2d4eccb4.jpg",
+        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/36f60430-6704-486a-bee7-c55fe68542a4.jpg",
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": "Grobi",
-        "composition": "Sanctum_2026_04_12"
+        "photographer": "Kaerun",
+        "composition": "Sanctum Returns - World photos"
       },
       {
         "slotIndex": 8,
