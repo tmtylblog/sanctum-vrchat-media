@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-10T14:20:21.336Z",
+  "generated": "2026-05-10T16:54:53.130Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -184,6 +184,10 @@
         "displayName": "MoodyRECON"
       },
       {
+        "userId": "usr_9d55fe04-f979-46ab-bec6-007d5313b703",
+        "displayName": "MrBlueBucket"
+      },
+      {
         "userId": "usr_73498c41-eff9-404b-b15c-1364826e7cbe",
         "displayName": "Neon Lia"
       },
@@ -230,6 +234,10 @@
       {
         "userId": "usr_4521538e-a32c-41ac-9f98-ad987c52c412",
         "displayName": "tama_renko"
+      },
+      {
+        "userId": "usr_e530a793-7fbd-4261-933f-91a0e9d2c76e",
+        "displayName": "Theslythief"
       },
       {
         "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
@@ -828,6 +836,10 @@
         "displayName": "HYPERYCN"
       },
       {
+        "userId": "usr_17ce553f-96a5-4ab6-b079-3dcfa184f10e",
+        "displayName": "HΛSH"
+      },
+      {
         "userId": "usr_4811e034-1234-4f8b-b8af-9c193b8ea708",
         "displayName": "ItsCube"
       },
@@ -1114,6 +1126,10 @@
       {
         "userId": "usr_f087fc97-37d7-4a7c-a769-f10a26a5727f",
         "displayName": "Scl3ria"
+      },
+      {
+        "userId": "usr_c4e5e677-02d1-4da0-88ae-475ecf874abb",
+        "displayName": "SergeantFreeman"
       },
       {
         "userId": "usr_1159496d-4556-4f02-938e-c9b13e831946",
@@ -3232,11 +3248,11 @@
       },
       {
         "slotIndex": 9,
-        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/ac3beace-46a1-440c-90ab-b889e802efb3.png",
+        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/ba62ec39-e396-4137-a53d-acccd5dd31d7.jpg",
         "orientation": "landscape",
         "expectedOrientation": "landscape",
-        "photographer": null,
-        "composition": null
+        "photographer": "SyntheRux",
+        "composition": "SANCTUM WEST Sunday, 12 April 2026"
       }
     ],
     "right_cloister": [
