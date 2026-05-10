@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-10T00:00:23.671Z",
+  "generated": "2026-05-10T00:59:19.675Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -82,10 +82,6 @@
       {
         "userId": "usr_b0064545-51e9-4c87-b78b-c353c1dc8422",
         "displayName": "Bunrya"
-      },
-      {
-        "userId": "usr_4b695cfd-add0-4cc9-8c03-8df9c9b72b23",
-        "displayName": "Burgerbeast"
       },
       {
         "userId": "usr_7811a5b3-e523-452a-b35c-dc3118543542",
@@ -222,10 +218,6 @@
       {
         "userId": "usr_87b103d3-9572-4653-8c68-ec03118564a2",
         "displayName": "Rosy-senpai"
-      },
-      {
-        "userId": "usr_cf6c438f-778b-469c-9621-be9d7616e625",
-        "displayName": "SladeDaCat"
       },
       {
         "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
@@ -374,10 +366,6 @@
         "displayName": "Slothcast"
       },
       {
-        "userId": "usr_10624ac0-ae1b-4b79-9f4c-7bed09de2d94",
-        "displayName": "SwaMusic"
-      },
-      {
         "userId": "usr_e530a793-7fbd-4261-933f-91a0e9d2c76e",
         "displayName": "Theslythief"
       },
@@ -428,20 +416,12 @@
         "displayName": "Gaming Skoot"
       },
       {
-        "userId": "usr_0021bf6c-901e-4db7-87ba-031cb31e165e",
-        "displayName": "ju․no"
-      },
-      {
         "userId": "usr_7fb63252-1681-4a5f-9fe6-31b75193fa27",
         "displayName": "kohadachan"
       },
       {
         "userId": "usr_b8c1785e-fea6-4024-b536-c8ade20970aa",
         "displayName": "Nyan-Cyan"
-      },
-      {
-        "userId": "usr_589a479b-80cf-42c4-92e4-63cbd900a82b",
-        "displayName": "Rain_Iwa"
       },
       {
         "userId": "usr_fb022c9b-3d0b-40b7-a5bb-b903551d541a",
