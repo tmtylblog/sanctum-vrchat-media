@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-11T00:00:24.898Z",
+  "generated": "2026-05-11T00:34:48.835Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -184,10 +184,6 @@
         "displayName": "MoodyRECON"
       },
       {
-        "userId": "usr_9d55fe04-f979-46ab-bec6-007d5313b703",
-        "displayName": "MrBlueBucket"
-      },
-      {
         "userId": "usr_73498c41-eff9-404b-b15c-1364826e7cbe",
         "displayName": "Neon Lia"
       },
@@ -266,10 +262,6 @@
       {
         "userId": "usr_26e46669-825a-4145-bb35-491df3cfcabf",
         "displayName": "ZanderIronFox"
-      },
-      {
-        "userId": "usr_046a7462-74ff-42cc-96f9-a9b888d5a6e0",
-        "displayName": "zenapena"
       },
       {
         "userId": "usr_1983f0c1-89f8-4c9c-9917-b02a5678f117",
