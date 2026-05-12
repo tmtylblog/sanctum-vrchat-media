@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-12T16:22:40.800Z",
+  "generated": "2026-05-12T17:45:56.963Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -322,6 +322,10 @@
         "displayName": "ju․no"
       },
       {
+        "userId": "usr_c0f7de09-60c5-4eb0-b6bc-e18a1b873bc4",
+        "displayName": "JustARandom_"
+      },
+      {
         "userId": "usr_dcb302e4-fea9-498b-accb-90f62e95b02f",
         "displayName": "Jᴜzo"
       },
@@ -410,6 +414,10 @@
       {
         "userId": "usr_4d7a2386-6085-4013-ba6a-bb76ed47badb",
         "displayName": "Gaming Skoot"
+      },
+      {
+        "userId": "usr_c0f7de09-60c5-4eb0-b6bc-e18a1b873bc4",
+        "displayName": "JustARandom_"
       },
       {
         "userId": "usr_7fb63252-1681-4a5f-9fe6-31b75193fa27",
@@ -1424,6 +1432,10 @@
       {
         "userId": "usr_0021bf6c-901e-4db7-87ba-031cb31e165e",
         "displayName": "ju․no"
+      },
+      {
+        "userId": "usr_c0f7de09-60c5-4eb0-b6bc-e18a1b873bc4",
+        "displayName": "JustARandom_"
       },
       {
         "userId": "usr_dcb302e4-fea9-498b-accb-90f62e95b02f",
