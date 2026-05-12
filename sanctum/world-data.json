@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-12T22:47:56.955Z",
+  "generated": "2026-05-12T23:50:37.238Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -1686,28 +1686,12 @@
         "displayName": "-Tachyon-"
       },
       {
-        "userId": "usr_6f4a6258-8244-4ca1-bbd3-d3aaf1f78242",
-        "displayName": "-wintermute-"
-      },
-      {
         "userId": "usr_2805613d-ff9c-4120-82c6-7d5f4364ae07",
         "displayName": "〔レン〕"
       },
       {
-        "userId": "usr_91a86f77-96f9-4da7-9d62-7ce6b7a3e71b",
-        "displayName": "~ T o n y ~"
-      },
-      {
-        "userId": "usr_b6f1170f-8af0-4731-aa5c-498fa51e42e7",
-        "displayName": "8∗Bit"
-      },
-      {
         "userId": "usr_5ec8b436-4c68-4421-a038-ce5788d43502",
         "displayName": "AcChosen"
-      },
-      {
-        "userId": "usr_8139f5cc-6c70-49ca-840b-1fdcf7833230",
-        "displayName": "AgentChkn"
       },
       {
         "userId": "usr_8031b8de-f6da-4c0e-a5b1-a2f50d2e757b",
@@ -1718,148 +1702,24 @@
         "displayName": "Blackstr"
       },
       {
-        "userId": "usr_ce994fc8-271a-4b4d-bccb-9d92930cc2a7",
-        "displayName": "DeityAnubis"
-      },
-      {
-        "userId": "usr_03fc093f-0edc-4026-9464-bb604b949a35",
-        "displayName": "DJ Megu"
-      },
-      {
-        "userId": "usr_3f2d6978-5497-47da-a581-758d4d414e6e",
-        "displayName": "ducc-"
-      },
-      {
-        "userId": "usr_987db39a-454e-4b62-93f4-0fc184d39ddc",
-        "displayName": "ʚ ʜᴏɴᴇʏᴠᴇᴇ ɞ"
-      },
-      {
-        "userId": "usr_c2f0aa3a-b968-4630-b59d-42b4c6088b94",
-        "displayName": "frillz"
-      },
-      {
-        "userId": "usr_e7583b35-9133-45f3-b57d-deaa67b63dba",
-        "displayName": "Gwiz"
-      },
-      {
-        "userId": "usr_84029dd1-8fd0-4d2f-a85e-1dc5363bffa2",
-        "displayName": "Hadean"
-      },
-      {
-        "userId": "usr_980b65bb-0b54-4dc6-9be6-cf8754678713",
-        "displayName": "Jayden Rayes"
-      },
-      {
-        "userId": "usr_7fee1008-691a-43b1-b217-89951ef166b4",
-        "displayName": "jerk．"
-      },
-      {
         "userId": "usr_e99a6c11-a506-45d9-8bac-e98b21bf40b0",
         "displayName": "Kaerun"
-      },
-      {
-        "userId": "usr_6726e707-d8bd-410f-b5ff-1bdc309f75c1",
-        "displayName": "Kronic~"
-      },
-      {
-        "userId": "usr_782c0aca-268f-4861-b6a7-deba31c93959",
-        "displayName": "Kryptonite_DnB"
-      },
-      {
-        "userId": "usr_82c5732f-d80b-43b0-aa81-a734ac93bfc2",
-        "displayName": "Kurumych"
-      },
-      {
-        "userId": "usr_1e0b1fd4-ff19-47c2-b804-f4b24ed39aa6",
-        "displayName": "Lufz"
-      },
-      {
-        "userId": "usr_2c79c8a0-5b0f-4210-b56f-b6822c9a09db",
-        "displayName": "Luwpie"
-      },
-      {
-        "userId": "usr_a03d226d-f453-4bf3-b2ad-aa8c280cf0d7",
-        "displayName": "Memilous"
       },
       {
         "userId": "usr_97b6e256-c441-4dde-9cb9-f29f78727f1d",
         "displayName": "MUZZ_"
       },
       {
-        "userId": "usr_e9b2c819-8e13-4299-9cf4-4f6d7290c625",
-        "displayName": "neriH"
-      },
-      {
         "userId": "usr_b8c1785e-fea6-4024-b536-c8ade20970aa",
         "displayName": "Nyan-Cyan"
-      },
-      {
-        "userId": "usr_c90c026b-dd88-454c-8d5a-1cff3a88c57c",
-        "displayName": "okgold"
-      },
-      {
-        "userId": "usr_ea5436bb-5e9f-4405-98b4-9b2d744a7820",
-        "displayName": "OnyxGraves"
-      },
-      {
-        "userId": "usr_73540562-f2f6-42d3-bb1e-ba30c84b637e",
-        "displayName": "OrangeW"
-      },
-      {
-        "userId": "usr_e19d8e5d-51a3-4cf7-9eb1-025fc8308e39",
-        "displayName": "ProtostarMusic"
-      },
-      {
-        "userId": "usr_d912ae0a-a365-4b02-92a5-51a5cd4aa21d",
-        "displayName": "rach․"
       },
       {
         "userId": "usr_589a479b-80cf-42c4-92e4-63cbd900a82b",
         "displayName": "Rain_Iwa"
       },
       {
-        "userId": "usr_ed048f33-ca51-477e-ba94-b641f53e17bc",
-        "displayName": "Reava_レイ"
-      },
-      {
-        "userId": "usr_3d3dcd84-b4d2-45cc-bef8-fb91aa7188f0",
-        "displayName": "RoboCat․"
-      },
-      {
-        "userId": "usr_decad45a-dea9-492b-9342-0086fdad7a3f",
-        "displayName": "Rogizaza"
-      },
-      {
-        "userId": "usr_6480a590-1584-40d4-af57-f250d6799c38",
-        "displayName": "sebbrah"
-      },
-      {
-        "userId": "usr_890ad7df-e3ea-4b2a-82eb-0a55e3934995",
-        "displayName": "Serevn"
-      },
-      {
-        "userId": "usr_2b7129e4-f979-41f3-a960-17fbfaee232f",
-        "displayName": "Shuah"
-      },
-      {
-        "userId": "usr_764cc1ac-96d6-4d9c-8f84-c05cdd6e13c8",
-        "displayName": "Sidsky"
-      },
-      {
         "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
         "displayName": "Slothcast"
-      },
-      {
-        "userId": "usr_e9217838-7cd9-4475-9e55-36cf58896cca",
-        "displayName": "SoftlySteph"
-      },
-      {
-        "userId": "usr_e530a793-7fbd-4261-933f-91a0e9d2c76e",
-        "displayName": "Theslythief"
-      },
-      {
-        "userId": "usr_2086c8d1-7a58-46b3-9855-204f5df3dd02",
-        "displayName": "TsundereMJ"
       },
       {
         "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
@@ -1868,18 +1728,6 @@
       {
         "userId": "usr_06aebe4f-e50c-46ef-a5d9-9dc6eb62d6d9",
         "displayName": "Vesturo"
-      },
-      {
-        "userId": "usr_04a5d9f3-6a6c-4da8-ac09-55a45e96e03e",
-        "displayName": "Wesabii"
-      },
-      {
-        "userId": "usr_0672a509-e72e-41e6-85c0-fc26762a5cb4",
-        "displayName": "Xasu-"
-      },
-      {
-        "userId": "usr_fe663126-4f66-4d1e-a666-147f81c8115d",
-        "displayName": "Yυna~"
       }
     ]
   },
@@ -1890,28 +1738,12 @@
         "displayName": "-Tachyon-"
       },
       {
-        "userId": "usr_6f4a6258-8244-4ca1-bbd3-d3aaf1f78242",
-        "displayName": "-wintermute-"
-      },
-      {
         "userId": "usr_2805613d-ff9c-4120-82c6-7d5f4364ae07",
         "displayName": "〔レン〕"
       },
       {
-        "userId": "usr_91a86f77-96f9-4da7-9d62-7ce6b7a3e71b",
-        "displayName": "~ T o n y ~"
-      },
-      {
-        "userId": "usr_b6f1170f-8af0-4731-aa5c-498fa51e42e7",
-        "displayName": "8∗Bit"
-      },
-      {
         "userId": "usr_5ec8b436-4c68-4421-a038-ce5788d43502",
         "displayName": "AcChosen"
-      },
-      {
-        "userId": "usr_8139f5cc-6c70-49ca-840b-1fdcf7833230",
-        "displayName": "AgentChkn"
       },
       {
         "userId": "usr_8031b8de-f6da-4c0e-a5b1-a2f50d2e757b",
@@ -1922,148 +1754,24 @@
         "displayName": "Blackstr"
       },
       {
-        "userId": "usr_ce994fc8-271a-4b4d-bccb-9d92930cc2a7",
-        "displayName": "DeityAnubis"
-      },
-      {
-        "userId": "usr_03fc093f-0edc-4026-9464-bb604b949a35",
-        "displayName": "DJ Megu"
-      },
-      {
-        "userId": "usr_3f2d6978-5497-47da-a581-758d4d414e6e",
-        "displayName": "ducc-"
-      },
-      {
-        "userId": "usr_987db39a-454e-4b62-93f4-0fc184d39ddc",
-        "displayName": "ʚ ʜᴏɴᴇʏᴠᴇᴇ ɞ"
-      },
-      {
-        "userId": "usr_c2f0aa3a-b968-4630-b59d-42b4c6088b94",
-        "displayName": "frillz"
-      },
-      {
-        "userId": "usr_e7583b35-9133-45f3-b57d-deaa67b63dba",
-        "displayName": "Gwiz"
-      },
-      {
-        "userId": "usr_84029dd1-8fd0-4d2f-a85e-1dc5363bffa2",
-        "displayName": "Hadean"
-      },
-      {
-        "userId": "usr_980b65bb-0b54-4dc6-9be6-cf8754678713",
-        "displayName": "Jayden Rayes"
-      },
-      {
-        "userId": "usr_7fee1008-691a-43b1-b217-89951ef166b4",
-        "displayName": "jerk．"
-      },
-      {
         "userId": "usr_e99a6c11-a506-45d9-8bac-e98b21bf40b0",
         "displayName": "Kaerun"
-      },
-      {
-        "userId": "usr_6726e707-d8bd-410f-b5ff-1bdc309f75c1",
-        "displayName": "Kronic~"
-      },
-      {
-        "userId": "usr_782c0aca-268f-4861-b6a7-deba31c93959",
-        "displayName": "Kryptonite_DnB"
-      },
-      {
-        "userId": "usr_82c5732f-d80b-43b0-aa81-a734ac93bfc2",
-        "displayName": "Kurumych"
-      },
-      {
-        "userId": "usr_1e0b1fd4-ff19-47c2-b804-f4b24ed39aa6",
-        "displayName": "Lufz"
-      },
-      {
-        "userId": "usr_2c79c8a0-5b0f-4210-b56f-b6822c9a09db",
-        "displayName": "Luwpie"
-      },
-      {
-        "userId": "usr_a03d226d-f453-4bf3-b2ad-aa8c280cf0d7",
-        "displayName": "Memilous"
       },
       {
         "userId": "usr_97b6e256-c441-4dde-9cb9-f29f78727f1d",
         "displayName": "MUZZ_"
       },
       {
-        "userId": "usr_e9b2c819-8e13-4299-9cf4-4f6d7290c625",
-        "displayName": "neriH"
-      },
-      {
         "userId": "usr_b8c1785e-fea6-4024-b536-c8ade20970aa",
         "displayName": "Nyan-Cyan"
-      },
-      {
-        "userId": "usr_c90c026b-dd88-454c-8d5a-1cff3a88c57c",
-        "displayName": "okgold"
-      },
-      {
-        "userId": "usr_ea5436bb-5e9f-4405-98b4-9b2d744a7820",
-        "displayName": "OnyxGraves"
-      },
-      {
-        "userId": "usr_73540562-f2f6-42d3-bb1e-ba30c84b637e",
-        "displayName": "OrangeW"
-      },
-      {
-        "userId": "usr_e19d8e5d-51a3-4cf7-9eb1-025fc8308e39",
-        "displayName": "ProtostarMusic"
-      },
-      {
-        "userId": "usr_d912ae0a-a365-4b02-92a5-51a5cd4aa21d",
-        "displayName": "rach․"
       },
       {
         "userId": "usr_589a479b-80cf-42c4-92e4-63cbd900a82b",
         "displayName": "Rain_Iwa"
       },
       {
-        "userId": "usr_ed048f33-ca51-477e-ba94-b641f53e17bc",
-        "displayName": "Reava_レイ"
-      },
-      {
-        "userId": "usr_3d3dcd84-b4d2-45cc-bef8-fb91aa7188f0",
-        "displayName": "RoboCat․"
-      },
-      {
-        "userId": "usr_decad45a-dea9-492b-9342-0086fdad7a3f",
-        "displayName": "Rogizaza"
-      },
-      {
-        "userId": "usr_6480a590-1584-40d4-af57-f250d6799c38",
-        "displayName": "sebbrah"
-      },
-      {
-        "userId": "usr_890ad7df-e3ea-4b2a-82eb-0a55e3934995",
-        "displayName": "Serevn"
-      },
-      {
-        "userId": "usr_2b7129e4-f979-41f3-a960-17fbfaee232f",
-        "displayName": "Shuah"
-      },
-      {
-        "userId": "usr_764cc1ac-96d6-4d9c-8f84-c05cdd6e13c8",
-        "displayName": "Sidsky"
-      },
-      {
         "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
         "displayName": "Slothcast"
-      },
-      {
-        "userId": "usr_e9217838-7cd9-4475-9e55-36cf58896cca",
-        "displayName": "SoftlySteph"
-      },
-      {
-        "userId": "usr_e530a793-7fbd-4261-933f-91a0e9d2c76e",
-        "displayName": "Theslythief"
-      },
-      {
-        "userId": "usr_2086c8d1-7a58-46b3-9855-204f5df3dd02",
-        "displayName": "TsundereMJ"
       },
       {
         "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
@@ -2072,18 +1780,6 @@
       {
         "userId": "usr_06aebe4f-e50c-46ef-a5d9-9dc6eb62d6d9",
         "displayName": "Vesturo"
-      },
-      {
-        "userId": "usr_04a5d9f3-6a6c-4da8-ac09-55a45e96e03e",
-        "displayName": "Wesabii"
-      },
-      {
-        "userId": "usr_0672a509-e72e-41e6-85c0-fc26762a5cb4",
-        "displayName": "Xasu-"
-      },
-      {
-        "userId": "usr_fe663126-4f66-4d1e-a666-147f81c8115d",
-        "displayName": "Yυna~"
       }
     ],
     "terminalNameInclusion": [
@@ -2092,28 +1788,12 @@
         "displayName": "-Tachyon-"
       },
       {
-        "userId": "usr_6f4a6258-8244-4ca1-bbd3-d3aaf1f78242",
-        "displayName": "-wintermute-"
-      },
-      {
         "userId": "usr_2805613d-ff9c-4120-82c6-7d5f4364ae07",
         "displayName": "〔レン〕"
       },
       {
-        "userId": "usr_91a86f77-96f9-4da7-9d62-7ce6b7a3e71b",
-        "displayName": "~ T o n y ~"
-      },
-      {
-        "userId": "usr_b6f1170f-8af0-4731-aa5c-498fa51e42e7",
-        "displayName": "8∗Bit"
-      },
-      {
         "userId": "usr_5ec8b436-4c68-4421-a038-ce5788d43502",
         "displayName": "AcChosen"
-      },
-      {
-        "userId": "usr_8139f5cc-6c70-49ca-840b-1fdcf7833230",
-        "displayName": "AgentChkn"
       },
       {
         "userId": "usr_8031b8de-f6da-4c0e-a5b1-a2f50d2e757b",
@@ -2124,148 +1804,24 @@
         "displayName": "Blackstr"
       },
       {
-        "userId": "usr_ce994fc8-271a-4b4d-bccb-9d92930cc2a7",
-        "displayName": "DeityAnubis"
-      },
-      {
-        "userId": "usr_03fc093f-0edc-4026-9464-bb604b949a35",
-        "displayName": "DJ Megu"
-      },
-      {
-        "userId": "usr_3f2d6978-5497-47da-a581-758d4d414e6e",
-        "displayName": "ducc-"
-      },
-      {
-        "userId": "usr_987db39a-454e-4b62-93f4-0fc184d39ddc",
-        "displayName": "ʚ ʜᴏɴᴇʏᴠᴇᴇ ɞ"
-      },
-      {
-        "userId": "usr_c2f0aa3a-b968-4630-b59d-42b4c6088b94",
-        "displayName": "frillz"
-      },
-      {
-        "userId": "usr_e7583b35-9133-45f3-b57d-deaa67b63dba",
-        "displayName": "Gwiz"
-      },
-      {
-        "userId": "usr_84029dd1-8fd0-4d2f-a85e-1dc5363bffa2",
-        "displayName": "Hadean"
-      },
-      {
-        "userId": "usr_980b65bb-0b54-4dc6-9be6-cf8754678713",
-        "displayName": "Jayden Rayes"
-      },
-      {
-        "userId": "usr_7fee1008-691a-43b1-b217-89951ef166b4",
-        "displayName": "jerk．"
-      },
-      {
         "userId": "usr_e99a6c11-a506-45d9-8bac-e98b21bf40b0",
         "displayName": "Kaerun"
-      },
-      {
-        "userId": "usr_6726e707-d8bd-410f-b5ff-1bdc309f75c1",
-        "displayName": "Kronic~"
-      },
-      {
-        "userId": "usr_782c0aca-268f-4861-b6a7-deba31c93959",
-        "displayName": "Kryptonite_DnB"
-      },
-      {
-        "userId": "usr_82c5732f-d80b-43b0-aa81-a734ac93bfc2",
-        "displayName": "Kurumych"
-      },
-      {
-        "userId": "usr_1e0b1fd4-ff19-47c2-b804-f4b24ed39aa6",
-        "displayName": "Lufz"
-      },
-      {
-        "userId": "usr_2c79c8a0-5b0f-4210-b56f-b6822c9a09db",
-        "displayName": "Luwpie"
-      },
-      {
-        "userId": "usr_a03d226d-f453-4bf3-b2ad-aa8c280cf0d7",
-        "displayName": "Memilous"
       },
       {
         "userId": "usr_97b6e256-c441-4dde-9cb9-f29f78727f1d",
         "displayName": "MUZZ_"
       },
       {
-        "userId": "usr_e9b2c819-8e13-4299-9cf4-4f6d7290c625",
-        "displayName": "neriH"
-      },
-      {
         "userId": "usr_b8c1785e-fea6-4024-b536-c8ade20970aa",
         "displayName": "Nyan-Cyan"
-      },
-      {
-        "userId": "usr_c90c026b-dd88-454c-8d5a-1cff3a88c57c",
-        "displayName": "okgold"
-      },
-      {
-        "userId": "usr_ea5436bb-5e9f-4405-98b4-9b2d744a7820",
-        "displayName": "OnyxGraves"
-      },
-      {
-        "userId": "usr_73540562-f2f6-42d3-bb1e-ba30c84b637e",
-        "displayName": "OrangeW"
-      },
-      {
-        "userId": "usr_e19d8e5d-51a3-4cf7-9eb1-025fc8308e39",
-        "displayName": "ProtostarMusic"
-      },
-      {
-        "userId": "usr_d912ae0a-a365-4b02-92a5-51a5cd4aa21d",
-        "displayName": "rach․"
       },
       {
         "userId": "usr_589a479b-80cf-42c4-92e4-63cbd900a82b",
         "displayName": "Rain_Iwa"
       },
       {
-        "userId": "usr_ed048f33-ca51-477e-ba94-b641f53e17bc",
-        "displayName": "Reava_レイ"
-      },
-      {
-        "userId": "usr_3d3dcd84-b4d2-45cc-bef8-fb91aa7188f0",
-        "displayName": "RoboCat․"
-      },
-      {
-        "userId": "usr_decad45a-dea9-492b-9342-0086fdad7a3f",
-        "displayName": "Rogizaza"
-      },
-      {
-        "userId": "usr_6480a590-1584-40d4-af57-f250d6799c38",
-        "displayName": "sebbrah"
-      },
-      {
-        "userId": "usr_890ad7df-e3ea-4b2a-82eb-0a55e3934995",
-        "displayName": "Serevn"
-      },
-      {
-        "userId": "usr_2b7129e4-f979-41f3-a960-17fbfaee232f",
-        "displayName": "Shuah"
-      },
-      {
-        "userId": "usr_764cc1ac-96d6-4d9c-8f84-c05cdd6e13c8",
-        "displayName": "Sidsky"
-      },
-      {
         "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
         "displayName": "Slothcast"
-      },
-      {
-        "userId": "usr_e9217838-7cd9-4475-9e55-36cf58896cca",
-        "displayName": "SoftlySteph"
-      },
-      {
-        "userId": "usr_e530a793-7fbd-4261-933f-91a0e9d2c76e",
-        "displayName": "Theslythief"
-      },
-      {
-        "userId": "usr_2086c8d1-7a58-46b3-9855-204f5df3dd02",
-        "displayName": "TsundereMJ"
       },
       {
         "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
@@ -2274,18 +1830,6 @@
       {
         "userId": "usr_06aebe4f-e50c-46ef-a5d9-9dc6eb62d6d9",
         "displayName": "Vesturo"
-      },
-      {
-        "userId": "usr_04a5d9f3-6a6c-4da8-ac09-55a45e96e03e",
-        "displayName": "Wesabii"
-      },
-      {
-        "userId": "usr_0672a509-e72e-41e6-85c0-fc26762a5cb4",
-        "displayName": "Xasu-"
-      },
-      {
-        "userId": "usr_fe663126-4f66-4d1e-a666-147f81c8115d",
-        "displayName": "Yυna~"
       }
     ],
     "floorCarvingNameInclusion": [
@@ -2294,28 +1838,12 @@
         "displayName": "-Tachyon-"
       },
       {
-        "userId": "usr_6f4a6258-8244-4ca1-bbd3-d3aaf1f78242",
-        "displayName": "-wintermute-"
-      },
-      {
         "userId": "usr_2805613d-ff9c-4120-82c6-7d5f4364ae07",
         "displayName": "〔レン〕"
       },
       {
-        "userId": "usr_91a86f77-96f9-4da7-9d62-7ce6b7a3e71b",
-        "displayName": "~ T o n y ~"
-      },
-      {
-        "userId": "usr_b6f1170f-8af0-4731-aa5c-498fa51e42e7",
-        "displayName": "8∗Bit"
-      },
-      {
         "userId": "usr_5ec8b436-4c68-4421-a038-ce5788d43502",
         "displayName": "AcChosen"
-      },
-      {
-        "userId": "usr_8139f5cc-6c70-49ca-840b-1fdcf7833230",
-        "displayName": "AgentChkn"
       },
       {
         "userId": "usr_8031b8de-f6da-4c0e-a5b1-a2f50d2e757b",
@@ -2326,144 +1854,20 @@
         "displayName": "Blackstr"
       },
       {
-        "userId": "usr_ce994fc8-271a-4b4d-bccb-9d92930cc2a7",
-        "displayName": "DeityAnubis"
-      },
-      {
-        "userId": "usr_03fc093f-0edc-4026-9464-bb604b949a35",
-        "displayName": "DJ Megu"
-      },
-      {
-        "userId": "usr_3f2d6978-5497-47da-a581-758d4d414e6e",
-        "displayName": "ducc-"
-      },
-      {
-        "userId": "usr_987db39a-454e-4b62-93f4-0fc184d39ddc",
-        "displayName": "ʚ ʜᴏɴᴇʏᴠᴇᴇ ɞ"
-      },
-      {
-        "userId": "usr_c2f0aa3a-b968-4630-b59d-42b4c6088b94",
-        "displayName": "frillz"
-      },
-      {
-        "userId": "usr_e7583b35-9133-45f3-b57d-deaa67b63dba",
-        "displayName": "Gwiz"
-      },
-      {
-        "userId": "usr_84029dd1-8fd0-4d2f-a85e-1dc5363bffa2",
-        "displayName": "Hadean"
-      },
-      {
-        "userId": "usr_980b65bb-0b54-4dc6-9be6-cf8754678713",
-        "displayName": "Jayden Rayes"
-      },
-      {
-        "userId": "usr_7fee1008-691a-43b1-b217-89951ef166b4",
-        "displayName": "jerk．"
-      },
-      {
-        "userId": "usr_6726e707-d8bd-410f-b5ff-1bdc309f75c1",
-        "displayName": "Kronic~"
-      },
-      {
-        "userId": "usr_782c0aca-268f-4861-b6a7-deba31c93959",
-        "displayName": "Kryptonite_DnB"
-      },
-      {
-        "userId": "usr_82c5732f-d80b-43b0-aa81-a734ac93bfc2",
-        "displayName": "Kurumych"
-      },
-      {
-        "userId": "usr_1e0b1fd4-ff19-47c2-b804-f4b24ed39aa6",
-        "displayName": "Lufz"
-      },
-      {
-        "userId": "usr_2c79c8a0-5b0f-4210-b56f-b6822c9a09db",
-        "displayName": "Luwpie"
-      },
-      {
-        "userId": "usr_a03d226d-f453-4bf3-b2ad-aa8c280cf0d7",
-        "displayName": "Memilous"
-      },
-      {
         "userId": "usr_97b6e256-c441-4dde-9cb9-f29f78727f1d",
         "displayName": "MUZZ_"
-      },
-      {
-        "userId": "usr_e9b2c819-8e13-4299-9cf4-4f6d7290c625",
-        "displayName": "neriH"
       },
       {
         "userId": "usr_b8c1785e-fea6-4024-b536-c8ade20970aa",
         "displayName": "Nyan-Cyan"
       },
       {
-        "userId": "usr_c90c026b-dd88-454c-8d5a-1cff3a88c57c",
-        "displayName": "okgold"
-      },
-      {
-        "userId": "usr_ea5436bb-5e9f-4405-98b4-9b2d744a7820",
-        "displayName": "OnyxGraves"
-      },
-      {
-        "userId": "usr_73540562-f2f6-42d3-bb1e-ba30c84b637e",
-        "displayName": "OrangeW"
-      },
-      {
-        "userId": "usr_e19d8e5d-51a3-4cf7-9eb1-025fc8308e39",
-        "displayName": "ProtostarMusic"
-      },
-      {
-        "userId": "usr_d912ae0a-a365-4b02-92a5-51a5cd4aa21d",
-        "displayName": "rach․"
-      },
-      {
         "userId": "usr_589a479b-80cf-42c4-92e4-63cbd900a82b",
         "displayName": "Rain_Iwa"
       },
       {
-        "userId": "usr_ed048f33-ca51-477e-ba94-b641f53e17bc",
-        "displayName": "Reava_レイ"
-      },
-      {
-        "userId": "usr_3d3dcd84-b4d2-45cc-bef8-fb91aa7188f0",
-        "displayName": "RoboCat․"
-      },
-      {
-        "userId": "usr_decad45a-dea9-492b-9342-0086fdad7a3f",
-        "displayName": "Rogizaza"
-      },
-      {
-        "userId": "usr_6480a590-1584-40d4-af57-f250d6799c38",
-        "displayName": "sebbrah"
-      },
-      {
-        "userId": "usr_890ad7df-e3ea-4b2a-82eb-0a55e3934995",
-        "displayName": "Serevn"
-      },
-      {
-        "userId": "usr_2b7129e4-f979-41f3-a960-17fbfaee232f",
-        "displayName": "Shuah"
-      },
-      {
-        "userId": "usr_764cc1ac-96d6-4d9c-8f84-c05cdd6e13c8",
-        "displayName": "Sidsky"
-      },
-      {
         "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
         "displayName": "Slothcast"
-      },
-      {
-        "userId": "usr_e9217838-7cd9-4475-9e55-36cf58896cca",
-        "displayName": "SoftlySteph"
-      },
-      {
-        "userId": "usr_e530a793-7fbd-4261-933f-91a0e9d2c76e",
-        "displayName": "Theslythief"
-      },
-      {
-        "userId": "usr_2086c8d1-7a58-46b3-9855-204f5df3dd02",
-        "displayName": "TsundereMJ"
       },
       {
         "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
@@ -2472,18 +1876,6 @@
       {
         "userId": "usr_06aebe4f-e50c-46ef-a5d9-9dc6eb62d6d9",
         "displayName": "Vesturo"
-      },
-      {
-        "userId": "usr_04a5d9f3-6a6c-4da8-ac09-55a45e96e03e",
-        "displayName": "Wesabii"
-      },
-      {
-        "userId": "usr_0672a509-e72e-41e6-85c0-fc26762a5cb4",
-        "displayName": "Xasu-"
-      },
-      {
-        "userId": "usr_fe663126-4f66-4d1e-a666-147f81c8115d",
-        "displayName": "Yυna~"
       }
     ],
     "priorityInstanceQueue": [
@@ -2492,28 +1884,12 @@
         "displayName": "-Tachyon-"
       },
       {
-        "userId": "usr_6f4a6258-8244-4ca1-bbd3-d3aaf1f78242",
-        "displayName": "-wintermute-"
-      },
-      {
         "userId": "usr_2805613d-ff9c-4120-82c6-7d5f4364ae07",
         "displayName": "〔レン〕"
       },
       {
-        "userId": "usr_91a86f77-96f9-4da7-9d62-7ce6b7a3e71b",
-        "displayName": "~ T o n y ~"
-      },
-      {
-        "userId": "usr_b6f1170f-8af0-4731-aa5c-498fa51e42e7",
-        "displayName": "8∗Bit"
-      },
-      {
         "userId": "usr_5ec8b436-4c68-4421-a038-ce5788d43502",
         "displayName": "AcChosen"
-      },
-      {
-        "userId": "usr_8139f5cc-6c70-49ca-840b-1fdcf7833230",
-        "displayName": "AgentChkn"
       },
       {
         "userId": "usr_8031b8de-f6da-4c0e-a5b1-a2f50d2e757b",
@@ -2524,144 +1900,20 @@
         "displayName": "Blackstr"
       },
       {
-        "userId": "usr_ce994fc8-271a-4b4d-bccb-9d92930cc2a7",
-        "displayName": "DeityAnubis"
-      },
-      {
-        "userId": "usr_03fc093f-0edc-4026-9464-bb604b949a35",
-        "displayName": "DJ Megu"
-      },
-      {
-        "userId": "usr_3f2d6978-5497-47da-a581-758d4d414e6e",
-        "displayName": "ducc-"
-      },
-      {
-        "userId": "usr_987db39a-454e-4b62-93f4-0fc184d39ddc",
-        "displayName": "ʚ ʜᴏɴᴇʏᴠᴇᴇ ɞ"
-      },
-      {
-        "userId": "usr_c2f0aa3a-b968-4630-b59d-42b4c6088b94",
-        "displayName": "frillz"
-      },
-      {
-        "userId": "usr_e7583b35-9133-45f3-b57d-deaa67b63dba",
-        "displayName": "Gwiz"
-      },
-      {
-        "userId": "usr_84029dd1-8fd0-4d2f-a85e-1dc5363bffa2",
-        "displayName": "Hadean"
-      },
-      {
-        "userId": "usr_980b65bb-0b54-4dc6-9be6-cf8754678713",
-        "displayName": "Jayden Rayes"
-      },
-      {
-        "userId": "usr_7fee1008-691a-43b1-b217-89951ef166b4",
-        "displayName": "jerk．"
-      },
-      {
-        "userId": "usr_6726e707-d8bd-410f-b5ff-1bdc309f75c1",
-        "displayName": "Kronic~"
-      },
-      {
-        "userId": "usr_782c0aca-268f-4861-b6a7-deba31c93959",
-        "displayName": "Kryptonite_DnB"
-      },
-      {
-        "userId": "usr_82c5732f-d80b-43b0-aa81-a734ac93bfc2",
-        "displayName": "Kurumych"
-      },
-      {
-        "userId": "usr_1e0b1fd4-ff19-47c2-b804-f4b24ed39aa6",
-        "displayName": "Lufz"
-      },
-      {
-        "userId": "usr_2c79c8a0-5b0f-4210-b56f-b6822c9a09db",
-        "displayName": "Luwpie"
-      },
-      {
-        "userId": "usr_a03d226d-f453-4bf3-b2ad-aa8c280cf0d7",
-        "displayName": "Memilous"
-      },
-      {
         "userId": "usr_97b6e256-c441-4dde-9cb9-f29f78727f1d",
         "displayName": "MUZZ_"
-      },
-      {
-        "userId": "usr_e9b2c819-8e13-4299-9cf4-4f6d7290c625",
-        "displayName": "neriH"
       },
       {
         "userId": "usr_b8c1785e-fea6-4024-b536-c8ade20970aa",
         "displayName": "Nyan-Cyan"
       },
       {
-        "userId": "usr_c90c026b-dd88-454c-8d5a-1cff3a88c57c",
-        "displayName": "okgold"
-      },
-      {
-        "userId": "usr_ea5436bb-5e9f-4405-98b4-9b2d744a7820",
-        "displayName": "OnyxGraves"
-      },
-      {
-        "userId": "usr_73540562-f2f6-42d3-bb1e-ba30c84b637e",
-        "displayName": "OrangeW"
-      },
-      {
-        "userId": "usr_e19d8e5d-51a3-4cf7-9eb1-025fc8308e39",
-        "displayName": "ProtostarMusic"
-      },
-      {
-        "userId": "usr_d912ae0a-a365-4b02-92a5-51a5cd4aa21d",
-        "displayName": "rach․"
-      },
-      {
         "userId": "usr_589a479b-80cf-42c4-92e4-63cbd900a82b",
         "displayName": "Rain_Iwa"
       },
       {
-        "userId": "usr_ed048f33-ca51-477e-ba94-b641f53e17bc",
-        "displayName": "Reava_レイ"
-      },
-      {
-        "userId": "usr_3d3dcd84-b4d2-45cc-bef8-fb91aa7188f0",
-        "displayName": "RoboCat․"
-      },
-      {
-        "userId": "usr_decad45a-dea9-492b-9342-0086fdad7a3f",
-        "displayName": "Rogizaza"
-      },
-      {
-        "userId": "usr_6480a590-1584-40d4-af57-f250d6799c38",
-        "displayName": "sebbrah"
-      },
-      {
-        "userId": "usr_890ad7df-e3ea-4b2a-82eb-0a55e3934995",
-        "displayName": "Serevn"
-      },
-      {
-        "userId": "usr_2b7129e4-f979-41f3-a960-17fbfaee232f",
-        "displayName": "Shuah"
-      },
-      {
-        "userId": "usr_764cc1ac-96d6-4d9c-8f84-c05cdd6e13c8",
-        "displayName": "Sidsky"
-      },
-      {
         "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
         "displayName": "Slothcast"
-      },
-      {
-        "userId": "usr_e9217838-7cd9-4475-9e55-36cf58896cca",
-        "displayName": "SoftlySteph"
-      },
-      {
-        "userId": "usr_e530a793-7fbd-4261-933f-91a0e9d2c76e",
-        "displayName": "Theslythief"
-      },
-      {
-        "userId": "usr_2086c8d1-7a58-46b3-9855-204f5df3dd02",
-        "displayName": "TsundereMJ"
       },
       {
         "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
@@ -2670,18 +1922,6 @@
       {
         "userId": "usr_06aebe4f-e50c-46ef-a5d9-9dc6eb62d6d9",
         "displayName": "Vesturo"
-      },
-      {
-        "userId": "usr_04a5d9f3-6a6c-4da8-ac09-55a45e96e03e",
-        "displayName": "Wesabii"
-      },
-      {
-        "userId": "usr_0672a509-e72e-41e6-85c0-fc26762a5cb4",
-        "displayName": "Xasu-"
-      },
-      {
-        "userId": "usr_fe663126-4f66-4d1e-a666-147f81c8115d",
-        "displayName": "Yυna~"
       }
     ],
     "privatePenthouseSpawn": [
@@ -2690,28 +1930,12 @@
         "displayName": "-Tachyon-"
       },
       {
-        "userId": "usr_6f4a6258-8244-4ca1-bbd3-d3aaf1f78242",
-        "displayName": "-wintermute-"
-      },
-      {
         "userId": "usr_2805613d-ff9c-4120-82c6-7d5f4364ae07",
         "displayName": "〔レン〕"
       },
       {
-        "userId": "usr_91a86f77-96f9-4da7-9d62-7ce6b7a3e71b",
-        "displayName": "~ T o n y ~"
-      },
-      {
-        "userId": "usr_b6f1170f-8af0-4731-aa5c-498fa51e42e7",
-        "displayName": "8∗Bit"
-      },
-      {
         "userId": "usr_5ec8b436-4c68-4421-a038-ce5788d43502",
         "displayName": "AcChosen"
-      },
-      {
-        "userId": "usr_8139f5cc-6c70-49ca-840b-1fdcf7833230",
-        "displayName": "AgentChkn"
       },
       {
         "userId": "usr_8031b8de-f6da-4c0e-a5b1-a2f50d2e757b",
@@ -2722,144 +1946,20 @@
         "displayName": "Blackstr"
       },
       {
-        "userId": "usr_ce994fc8-271a-4b4d-bccb-9d92930cc2a7",
-        "displayName": "DeityAnubis"
-      },
-      {
-        "userId": "usr_03fc093f-0edc-4026-9464-bb604b949a35",
-        "displayName": "DJ Megu"
-      },
-      {
-        "userId": "usr_3f2d6978-5497-47da-a581-758d4d414e6e",
-        "displayName": "ducc-"
-      },
-      {
-        "userId": "usr_987db39a-454e-4b62-93f4-0fc184d39ddc",
-        "displayName": "ʚ ʜᴏɴᴇʏᴠᴇᴇ ɞ"
-      },
-      {
-        "userId": "usr_c2f0aa3a-b968-4630-b59d-42b4c6088b94",
-        "displayName": "frillz"
-      },
-      {
-        "userId": "usr_e7583b35-9133-45f3-b57d-deaa67b63dba",
-        "displayName": "Gwiz"
-      },
-      {
-        "userId": "usr_84029dd1-8fd0-4d2f-a85e-1dc5363bffa2",
-        "displayName": "Hadean"
-      },
-      {
-        "userId": "usr_980b65bb-0b54-4dc6-9be6-cf8754678713",
-        "displayName": "Jayden Rayes"
-      },
-      {
-        "userId": "usr_7fee1008-691a-43b1-b217-89951ef166b4",
-        "displayName": "jerk．"
-      },
-      {
-        "userId": "usr_6726e707-d8bd-410f-b5ff-1bdc309f75c1",
-        "displayName": "Kronic~"
-      },
-      {
-        "userId": "usr_782c0aca-268f-4861-b6a7-deba31c93959",
-        "displayName": "Kryptonite_DnB"
-      },
-      {
-        "userId": "usr_82c5732f-d80b-43b0-aa81-a734ac93bfc2",
-        "displayName": "Kurumych"
-      },
-      {
-        "userId": "usr_1e0b1fd4-ff19-47c2-b804-f4b24ed39aa6",
-        "displayName": "Lufz"
-      },
-      {
-        "userId": "usr_2c79c8a0-5b0f-4210-b56f-b6822c9a09db",
-        "displayName": "Luwpie"
-      },
-      {
-        "userId": "usr_a03d226d-f453-4bf3-b2ad-aa8c280cf0d7",
-        "displayName": "Memilous"
-      },
-      {
         "userId": "usr_97b6e256-c441-4dde-9cb9-f29f78727f1d",
         "displayName": "MUZZ_"
-      },
-      {
-        "userId": "usr_e9b2c819-8e13-4299-9cf4-4f6d7290c625",
-        "displayName": "neriH"
       },
       {
         "userId": "usr_b8c1785e-fea6-4024-b536-c8ade20970aa",
         "displayName": "Nyan-Cyan"
       },
       {
-        "userId": "usr_c90c026b-dd88-454c-8d5a-1cff3a88c57c",
-        "displayName": "okgold"
-      },
-      {
-        "userId": "usr_ea5436bb-5e9f-4405-98b4-9b2d744a7820",
-        "displayName": "OnyxGraves"
-      },
-      {
-        "userId": "usr_73540562-f2f6-42d3-bb1e-ba30c84b637e",
-        "displayName": "OrangeW"
-      },
-      {
-        "userId": "usr_e19d8e5d-51a3-4cf7-9eb1-025fc8308e39",
-        "displayName": "ProtostarMusic"
-      },
-      {
-        "userId": "usr_d912ae0a-a365-4b02-92a5-51a5cd4aa21d",
-        "displayName": "rach․"
-      },
-      {
         "userId": "usr_589a479b-80cf-42c4-92e4-63cbd900a82b",
         "displayName": "Rain_Iwa"
       },
       {
-        "userId": "usr_ed048f33-ca51-477e-ba94-b641f53e17bc",
-        "displayName": "Reava_レイ"
-      },
-      {
-        "userId": "usr_3d3dcd84-b4d2-45cc-bef8-fb91aa7188f0",
-        "displayName": "RoboCat․"
-      },
-      {
-        "userId": "usr_decad45a-dea9-492b-9342-0086fdad7a3f",
-        "displayName": "Rogizaza"
-      },
-      {
-        "userId": "usr_6480a590-1584-40d4-af57-f250d6799c38",
-        "displayName": "sebbrah"
-      },
-      {
-        "userId": "usr_890ad7df-e3ea-4b2a-82eb-0a55e3934995",
-        "displayName": "Serevn"
-      },
-      {
-        "userId": "usr_2b7129e4-f979-41f3-a960-17fbfaee232f",
-        "displayName": "Shuah"
-      },
-      {
-        "userId": "usr_764cc1ac-96d6-4d9c-8f84-c05cdd6e13c8",
-        "displayName": "Sidsky"
-      },
-      {
         "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
         "displayName": "Slothcast"
-      },
-      {
-        "userId": "usr_e9217838-7cd9-4475-9e55-36cf58896cca",
-        "displayName": "SoftlySteph"
-      },
-      {
-        "userId": "usr_e530a793-7fbd-4261-933f-91a0e9d2c76e",
-        "displayName": "Theslythief"
-      },
-      {
-        "userId": "usr_2086c8d1-7a58-46b3-9855-204f5df3dd02",
-        "displayName": "TsundereMJ"
       },
       {
         "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
@@ -2868,18 +1968,6 @@
       {
         "userId": "usr_06aebe4f-e50c-46ef-a5d9-9dc6eb62d6d9",
         "displayName": "Vesturo"
-      },
-      {
-        "userId": "usr_04a5d9f3-6a6c-4da8-ac09-55a45e96e03e",
-        "displayName": "Wesabii"
-      },
-      {
-        "userId": "usr_0672a509-e72e-41e6-85c0-fc26762a5cb4",
-        "displayName": "Xasu-"
-      },
-      {
-        "userId": "usr_fe663126-4f66-4d1e-a666-147f81c8115d",
-        "displayName": "Yυna~"
       }
     ],
     "performanceVodAccess": [
