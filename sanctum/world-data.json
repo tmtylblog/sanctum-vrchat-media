@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-12T18:27:59.273Z",
+  "generated": "2026-05-12T19:27:04.865Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -54,6 +54,10 @@
       {
         "userId": "usr_be1dd0fe-bac7-4a89-bf46-a1578e89b27d",
         "displayName": "5-HEX-7"
+      },
+      {
+        "userId": "usr_172bd6d5-bbb9-4fb6-8fa5-dde88985fa06",
+        "displayName": "AizenDove"
       },
       {
         "userId": "usr_8031b8de-f6da-4c0e-a5b1-a2f50d2e757b",
@@ -600,6 +604,10 @@
         "displayName": "AetheriosVR"
       },
       {
+        "userId": "usr_172bd6d5-bbb9-4fb6-8fa5-dde88985fa06",
+        "displayName": "AizenDove"
+      },
+      {
         "userId": "usr_29146cc5-2c74-4b4c-9789-ada07c656b64",
         "displayName": "Aku̲ma"
       },
@@ -726,6 +734,10 @@
       {
         "userId": "usr_6f516a79-b3b1-4345-bc88-71a5bab77877",
         "displayName": "DashVR"
+      },
+      {
+        "userId": "usr_b5010f84-189c-4575-ac76-acdd1603a49a",
+        "displayName": "De5t1ny_vr"
       },
       {
         "userId": "usr_c34027ab-0b67-4bb9-a4eb-5dbe24dffd7f",
@@ -1374,6 +1386,10 @@
         "displayName": "AcChosen"
       },
       {
+        "userId": "usr_172bd6d5-bbb9-4fb6-8fa5-dde88985fa06",
+        "displayName": "AizenDove"
+      },
+      {
         "userId": "usr_b56325f6-f494-4351-939f-7478db325657",
         "displayName": "Ariel Emerald"
       },
@@ -1570,6 +1586,10 @@
       {
         "userId": "usr_5ec8b436-4c68-4421-a038-ce5788d43502",
         "displayName": "AcChosen"
+      },
+      {
+        "userId": "usr_172bd6d5-bbb9-4fb6-8fa5-dde88985fa06",
+        "displayName": "AizenDove"
       },
       {
         "userId": "usr_617040d8-3560-497a-a38f-bdb274ba4ee5",
