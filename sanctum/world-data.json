@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-12T19:46:26.521Z",
+  "generated": "2026-05-12T22:47:56.955Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -1718,14 +1718,6 @@
         "displayName": "Blackstr"
       },
       {
-        "userId": "usr_b0064545-51e9-4c87-b78b-c353c1dc8422",
-        "displayName": "Bunrya"
-      },
-      {
-        "userId": "usr_6f516a79-b3b1-4345-bc88-71a5bab77877",
-        "displayName": "DashVR"
-      },
-      {
         "userId": "usr_ce994fc8-271a-4b4d-bccb-9d92930cc2a7",
         "displayName": "DeityAnubis"
       },
@@ -1738,10 +1730,6 @@
         "displayName": "ducc-"
       },
       {
-        "userId": "usr_e1f691ce-65c4-42e8-bef8-98db8a19a3e6",
-        "displayName": "EllieXY"
-      },
-      {
         "userId": "usr_987db39a-454e-4b62-93f4-0fc184d39ddc",
         "displayName": "ʚ ʜᴏɴᴇʏᴠᴇᴇ ɞ"
       },
@@ -1752,10 +1740,6 @@
       {
         "userId": "usr_e7583b35-9133-45f3-b57d-deaa67b63dba",
         "displayName": "Gwiz"
-      },
-      {
-        "userId": "usr_40be82e7-f7d5-4548-b314-3fc7b26d22ee",
-        "displayName": "Hackebein"
       },
       {
         "userId": "usr_84029dd1-8fd0-4d2f-a85e-1dc5363bffa2",
@@ -1796,10 +1780,6 @@
       {
         "userId": "usr_a03d226d-f453-4bf3-b2ad-aa8c280cf0d7",
         "displayName": "Memilous"
-      },
-      {
-        "userId": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b",
-        "displayName": "Mixieǃ"
       },
       {
         "userId": "usr_97b6e256-c441-4dde-9cb9-f29f78727f1d",
@@ -1866,10 +1846,6 @@
         "displayName": "Sidsky"
       },
       {
-        "userId": "usr_cf6c438f-778b-469c-9621-be9d7616e625",
-        "displayName": "SladeDaCat"
-      },
-      {
         "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
         "displayName": "Slothcast"
       },
@@ -1890,10 +1866,6 @@
         "displayName": "Twilo"
       },
       {
-        "userId": "usr_44eb716d-9e13-4228-a839-14388eda6a10",
-        "displayName": "Ｖ xo"
-      },
-      {
         "userId": "usr_06aebe4f-e50c-46ef-a5d9-9dc6eb62d6d9",
         "displayName": "Vesturo"
       },
@@ -1904,10 +1876,6 @@
       {
         "userId": "usr_0672a509-e72e-41e6-85c0-fc26762a5cb4",
         "displayName": "Xasu-"
-      },
-      {
-        "userId": "usr_1516ca40-edd5-4a55-aafd-0a9fef9e329d",
-        "displayName": "Xyare"
       },
       {
         "userId": "usr_fe663126-4f66-4d1e-a666-147f81c8115d",
@@ -1954,14 +1922,6 @@
         "displayName": "Blackstr"
       },
       {
-        "userId": "usr_b0064545-51e9-4c87-b78b-c353c1dc8422",
-        "displayName": "Bunrya"
-      },
-      {
-        "userId": "usr_6f516a79-b3b1-4345-bc88-71a5bab77877",
-        "displayName": "DashVR"
-      },
-      {
         "userId": "usr_ce994fc8-271a-4b4d-bccb-9d92930cc2a7",
         "displayName": "DeityAnubis"
       },
@@ -1974,10 +1934,6 @@
         "displayName": "ducc-"
       },
       {
-        "userId": "usr_e1f691ce-65c4-42e8-bef8-98db8a19a3e6",
-        "displayName": "EllieXY"
-      },
-      {
         "userId": "usr_987db39a-454e-4b62-93f4-0fc184d39ddc",
         "displayName": "ʚ ʜᴏɴᴇʏᴠᴇᴇ ɞ"
       },
@@ -1988,10 +1944,6 @@
       {
         "userId": "usr_e7583b35-9133-45f3-b57d-deaa67b63dba",
         "displayName": "Gwiz"
-      },
-      {
-        "userId": "usr_40be82e7-f7d5-4548-b314-3fc7b26d22ee",
-        "displayName": "Hackebein"
       },
       {
         "userId": "usr_84029dd1-8fd0-4d2f-a85e-1dc5363bffa2",
@@ -2032,10 +1984,6 @@
       {
         "userId": "usr_a03d226d-f453-4bf3-b2ad-aa8c280cf0d7",
         "displayName": "Memilous"
-      },
-      {
-        "userId": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b",
-        "displayName": "Mixieǃ"
       },
       {
         "userId": "usr_97b6e256-c441-4dde-9cb9-f29f78727f1d",
@@ -2102,10 +2050,6 @@
         "displayName": "Sidsky"
       },
       {
-        "userId": "usr_cf6c438f-778b-469c-9621-be9d7616e625",
-        "displayName": "SladeDaCat"
-      },
-      {
         "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
         "displayName": "Slothcast"
       },
@@ -2126,10 +2070,6 @@
         "displayName": "Twilo"
       },
       {
-        "userId": "usr_44eb716d-9e13-4228-a839-14388eda6a10",
-        "displayName": "Ｖ xo"
-      },
-      {
         "userId": "usr_06aebe4f-e50c-46ef-a5d9-9dc6eb62d6d9",
         "displayName": "Vesturo"
       },
@@ -2140,10 +2080,6 @@
       {
         "userId": "usr_0672a509-e72e-41e6-85c0-fc26762a5cb4",
         "displayName": "Xasu-"
-      },
-      {
-        "userId": "usr_1516ca40-edd5-4a55-aafd-0a9fef9e329d",
-        "displayName": "Xyare"
       },
       {
         "userId": "usr_fe663126-4f66-4d1e-a666-147f81c8115d",
@@ -2188,14 +2124,6 @@
         "displayName": "Blackstr"
       },
       {
-        "userId": "usr_b0064545-51e9-4c87-b78b-c353c1dc8422",
-        "displayName": "Bunrya"
-      },
-      {
-        "userId": "usr_6f516a79-b3b1-4345-bc88-71a5bab77877",
-        "displayName": "DashVR"
-      },
-      {
         "userId": "usr_ce994fc8-271a-4b4d-bccb-9d92930cc2a7",
         "displayName": "DeityAnubis"
       },
@@ -2208,10 +2136,6 @@
         "displayName": "ducc-"
       },
       {
-        "userId": "usr_e1f691ce-65c4-42e8-bef8-98db8a19a3e6",
-        "displayName": "EllieXY"
-      },
-      {
         "userId": "usr_987db39a-454e-4b62-93f4-0fc184d39ddc",
         "displayName": "ʚ ʜᴏɴᴇʏᴠᴇᴇ ɞ"
       },
@@ -2222,10 +2146,6 @@
       {
         "userId": "usr_e7583b35-9133-45f3-b57d-deaa67b63dba",
         "displayName": "Gwiz"
-      },
-      {
-        "userId": "usr_40be82e7-f7d5-4548-b314-3fc7b26d22ee",
-        "displayName": "Hackebein"
       },
       {
         "userId": "usr_84029dd1-8fd0-4d2f-a85e-1dc5363bffa2",
@@ -2266,10 +2186,6 @@
       {
         "userId": "usr_a03d226d-f453-4bf3-b2ad-aa8c280cf0d7",
         "displayName": "Memilous"
-      },
-      {
-        "userId": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b",
-        "displayName": "Mixieǃ"
       },
       {
         "userId": "usr_97b6e256-c441-4dde-9cb9-f29f78727f1d",
@@ -2336,10 +2252,6 @@
         "displayName": "Sidsky"
       },
       {
-        "userId": "usr_cf6c438f-778b-469c-9621-be9d7616e625",
-        "displayName": "SladeDaCat"
-      },
-      {
         "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
         "displayName": "Slothcast"
       },
@@ -2360,10 +2272,6 @@
         "displayName": "Twilo"
       },
       {
-        "userId": "usr_44eb716d-9e13-4228-a839-14388eda6a10",
-        "displayName": "Ｖ xo"
-      },
-      {
         "userId": "usr_06aebe4f-e50c-46ef-a5d9-9dc6eb62d6d9",
         "displayName": "Vesturo"
       },
@@ -2374,10 +2282,6 @@
       {
         "userId": "usr_0672a509-e72e-41e6-85c0-fc26762a5cb4",
         "displayName": "Xasu-"
-      },
-      {
-        "userId": "usr_1516ca40-edd5-4a55-aafd-0a9fef9e329d",
-        "displayName": "Xyare"
       },
       {
         "userId": "usr_fe663126-4f66-4d1e-a666-147f81c8115d",
@@ -2422,14 +2326,6 @@
         "displayName": "Blackstr"
       },
       {
-        "userId": "usr_b0064545-51e9-4c87-b78b-c353c1dc8422",
-        "displayName": "Bunrya"
-      },
-      {
-        "userId": "usr_6f516a79-b3b1-4345-bc88-71a5bab77877",
-        "displayName": "DashVR"
-      },
-      {
         "userId": "usr_ce994fc8-271a-4b4d-bccb-9d92930cc2a7",
         "displayName": "DeityAnubis"
       },
@@ -2442,10 +2338,6 @@
         "displayName": "ducc-"
       },
       {
-        "userId": "usr_e1f691ce-65c4-42e8-bef8-98db8a19a3e6",
-        "displayName": "EllieXY"
-      },
-      {
         "userId": "usr_987db39a-454e-4b62-93f4-0fc184d39ddc",
         "displayName": "ʚ ʜᴏɴᴇʏᴠᴇᴇ ɞ"
       },
@@ -2456,10 +2348,6 @@
       {
         "userId": "usr_e7583b35-9133-45f3-b57d-deaa67b63dba",
         "displayName": "Gwiz"
-      },
-      {
-        "userId": "usr_40be82e7-f7d5-4548-b314-3fc7b26d22ee",
-        "displayName": "Hackebein"
       },
       {
         "userId": "usr_84029dd1-8fd0-4d2f-a85e-1dc5363bffa2",
@@ -2496,10 +2384,6 @@
       {
         "userId": "usr_a03d226d-f453-4bf3-b2ad-aa8c280cf0d7",
         "displayName": "Memilous"
-      },
-      {
-        "userId": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b",
-        "displayName": "Mixieǃ"
       },
       {
         "userId": "usr_97b6e256-c441-4dde-9cb9-f29f78727f1d",
@@ -2566,10 +2450,6 @@
         "displayName": "Sidsky"
       },
       {
-        "userId": "usr_cf6c438f-778b-469c-9621-be9d7616e625",
-        "displayName": "SladeDaCat"
-      },
-      {
         "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
         "displayName": "Slothcast"
       },
@@ -2590,10 +2470,6 @@
         "displayName": "Twilo"
       },
       {
-        "userId": "usr_44eb716d-9e13-4228-a839-14388eda6a10",
-        "displayName": "Ｖ xo"
-      },
-      {
         "userId": "usr_06aebe4f-e50c-46ef-a5d9-9dc6eb62d6d9",
         "displayName": "Vesturo"
       },
@@ -2604,10 +2480,6 @@
       {
         "userId": "usr_0672a509-e72e-41e6-85c0-fc26762a5cb4",
         "displayName": "Xasu-"
-      },
-      {
-        "userId": "usr_1516ca40-edd5-4a55-aafd-0a9fef9e329d",
-        "displayName": "Xyare"
       },
       {
         "userId": "usr_fe663126-4f66-4d1e-a666-147f81c8115d",
@@ -2652,14 +2524,6 @@
         "displayName": "Blackstr"
       },
       {
-        "userId": "usr_b0064545-51e9-4c87-b78b-c353c1dc8422",
-        "displayName": "Bunrya"
-      },
-      {
-        "userId": "usr_6f516a79-b3b1-4345-bc88-71a5bab77877",
-        "displayName": "DashVR"
-      },
-      {
         "userId": "usr_ce994fc8-271a-4b4d-bccb-9d92930cc2a7",
         "displayName": "DeityAnubis"
       },
@@ -2672,10 +2536,6 @@
         "displayName": "ducc-"
       },
       {
-        "userId": "usr_e1f691ce-65c4-42e8-bef8-98db8a19a3e6",
-        "displayName": "EllieXY"
-      },
-      {
         "userId": "usr_987db39a-454e-4b62-93f4-0fc184d39ddc",
         "displayName": "ʚ ʜᴏɴᴇʏᴠᴇᴇ ɞ"
       },
@@ -2686,10 +2546,6 @@
       {
         "userId": "usr_e7583b35-9133-45f3-b57d-deaa67b63dba",
         "displayName": "Gwiz"
-      },
-      {
-        "userId": "usr_40be82e7-f7d5-4548-b314-3fc7b26d22ee",
-        "displayName": "Hackebein"
       },
       {
         "userId": "usr_84029dd1-8fd0-4d2f-a85e-1dc5363bffa2",
@@ -2726,10 +2582,6 @@
       {
         "userId": "usr_a03d226d-f453-4bf3-b2ad-aa8c280cf0d7",
         "displayName": "Memilous"
-      },
-      {
-        "userId": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b",
-        "displayName": "Mixieǃ"
       },
       {
         "userId": "usr_97b6e256-c441-4dde-9cb9-f29f78727f1d",
@@ -2796,10 +2648,6 @@
         "displayName": "Sidsky"
       },
       {
-        "userId": "usr_cf6c438f-778b-469c-9621-be9d7616e625",
-        "displayName": "SladeDaCat"
-      },
-      {
         "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
         "displayName": "Slothcast"
       },
@@ -2820,10 +2668,6 @@
         "displayName": "Twilo"
       },
       {
-        "userId": "usr_44eb716d-9e13-4228-a839-14388eda6a10",
-        "displayName": "Ｖ xo"
-      },
-      {
         "userId": "usr_06aebe4f-e50c-46ef-a5d9-9dc6eb62d6d9",
         "displayName": "Vesturo"
       },
@@ -2834,10 +2678,6 @@
       {
         "userId": "usr_0672a509-e72e-41e6-85c0-fc26762a5cb4",
         "displayName": "Xasu-"
-      },
-      {
-        "userId": "usr_1516ca40-edd5-4a55-aafd-0a9fef9e329d",
-        "displayName": "Xyare"
       },
       {
         "userId": "usr_fe663126-4f66-4d1e-a666-147f81c8115d",
@@ -2882,14 +2722,6 @@
         "displayName": "Blackstr"
       },
       {
-        "userId": "usr_b0064545-51e9-4c87-b78b-c353c1dc8422",
-        "displayName": "Bunrya"
-      },
-      {
-        "userId": "usr_6f516a79-b3b1-4345-bc88-71a5bab77877",
-        "displayName": "DashVR"
-      },
-      {
         "userId": "usr_ce994fc8-271a-4b4d-bccb-9d92930cc2a7",
         "displayName": "DeityAnubis"
       },
@@ -2902,10 +2734,6 @@
         "displayName": "ducc-"
       },
       {
-        "userId": "usr_e1f691ce-65c4-42e8-bef8-98db8a19a3e6",
-        "displayName": "EllieXY"
-      },
-      {
         "userId": "usr_987db39a-454e-4b62-93f4-0fc184d39ddc",
         "displayName": "ʚ ʜᴏɴᴇʏᴠᴇᴇ ɞ"
       },
@@ -2916,10 +2744,6 @@
       {
         "userId": "usr_e7583b35-9133-45f3-b57d-deaa67b63dba",
         "displayName": "Gwiz"
-      },
-      {
-        "userId": "usr_40be82e7-f7d5-4548-b314-3fc7b26d22ee",
-        "displayName": "Hackebein"
       },
       {
         "userId": "usr_84029dd1-8fd0-4d2f-a85e-1dc5363bffa2",
@@ -2956,10 +2780,6 @@
       {
         "userId": "usr_a03d226d-f453-4bf3-b2ad-aa8c280cf0d7",
         "displayName": "Memilous"
-      },
-      {
-        "userId": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b",
-        "displayName": "Mixieǃ"
       },
       {
         "userId": "usr_97b6e256-c441-4dde-9cb9-f29f78727f1d",
@@ -3026,10 +2846,6 @@
         "displayName": "Sidsky"
       },
       {
-        "userId": "usr_cf6c438f-778b-469c-9621-be9d7616e625",
-        "displayName": "SladeDaCat"
-      },
-      {
         "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
         "displayName": "Slothcast"
       },
@@ -3050,10 +2866,6 @@
         "displayName": "Twilo"
       },
       {
-        "userId": "usr_44eb716d-9e13-4228-a839-14388eda6a10",
-        "displayName": "Ｖ xo"
-      },
-      {
         "userId": "usr_06aebe4f-e50c-46ef-a5d9-9dc6eb62d6d9",
         "displayName": "Vesturo"
       },
@@ -3064,10 +2876,6 @@
       {
         "userId": "usr_0672a509-e72e-41e6-85c0-fc26762a5cb4",
         "displayName": "Xasu-"
-      },
-      {
-        "userId": "usr_1516ca40-edd5-4a55-aafd-0a9fef9e329d",
-        "displayName": "Xyare"
       },
       {
         "userId": "usr_fe663126-4f66-4d1e-a666-147f81c8115d",
