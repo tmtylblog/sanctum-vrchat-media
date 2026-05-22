@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-22T17:15:06.965Z",
+  "generated": "2026-05-22T23:55:38.047Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -1722,10 +1722,6 @@
         "displayName": "Aquaman56"
       },
       {
-        "userId": "usr_4c002462-8b84-4c8f-a238-2ee5a0ffd053",
-        "displayName": "Blackstr"
-      },
-      {
         "userId": "usr_e99a6c11-a506-45d9-8bac-e98b21bf40b0",
         "displayName": "Kaerun"
       },
@@ -1774,10 +1770,6 @@
         "displayName": "Aquaman56"
       },
       {
-        "userId": "usr_4c002462-8b84-4c8f-a238-2ee5a0ffd053",
-        "displayName": "Blackstr"
-      },
-      {
         "userId": "usr_e99a6c11-a506-45d9-8bac-e98b21bf40b0",
         "displayName": "Kaerun"
       },
@@ -1822,10 +1814,6 @@
       {
         "userId": "usr_8031b8de-f6da-4c0e-a5b1-a2f50d2e757b",
         "displayName": "Aquaman56"
-      },
-      {
-        "userId": "usr_4c002462-8b84-4c8f-a238-2ee5a0ffd053",
-        "displayName": "Blackstr"
       },
       {
         "userId": "usr_e99a6c11-a506-45d9-8bac-e98b21bf40b0",
@@ -1874,10 +1862,6 @@
         "displayName": "Aquaman56"
       },
       {
-        "userId": "usr_4c002462-8b84-4c8f-a238-2ee5a0ffd053",
-        "displayName": "Blackstr"
-      },
-      {
         "userId": "usr_97b6e256-c441-4dde-9cb9-f29f78727f1d",
         "displayName": "MUZZ_"
       },
@@ -1920,10 +1904,6 @@
         "displayName": "Aquaman56"
       },
       {
-        "userId": "usr_4c002462-8b84-4c8f-a238-2ee5a0ffd053",
-        "displayName": "Blackstr"
-      },
-      {
         "userId": "usr_97b6e256-c441-4dde-9cb9-f29f78727f1d",
         "displayName": "MUZZ_"
       },
@@ -1964,10 +1944,6 @@
       {
         "userId": "usr_8031b8de-f6da-4c0e-a5b1-a2f50d2e757b",
         "displayName": "Aquaman56"
-      },
-      {
-        "userId": "usr_4c002462-8b84-4c8f-a238-2ee5a0ffd053",
-        "displayName": "Blackstr"
       },
       {
         "userId": "usr_97b6e256-c441-4dde-9cb9-f29f78727f1d",
