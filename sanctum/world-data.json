@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-23T15:02:12.294Z",
+  "generated": "2026-05-23T19:53:37.259Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -564,6 +564,10 @@
         "displayName": "´ DyMattic `"
       },
       {
+        "userId": "usr_e75ebeae-ae99-4cb3-afb3-3eafcf17bca0",
+        "displayName": "¦~ＰＩＫＹＥＳ~¦"
+      },
+      {
         "userId": "usr_168e3855-53b5-43d7-b625-53e6a66606fb",
         "displayName": "~ Envy ~"
       },
@@ -596,6 +600,10 @@
         "displayName": "10xx"
       },
       {
+        "userId": "usr_8d4dbecc-a5d3-4b0d-82f8-a8c9badd4afe",
+        "displayName": "๑Ҝɨʇɍɨ๑"
+      },
+      {
         "userId": "usr_928c684c-a357-4d55-9a80-991fc14ae412",
         "displayName": "2Foxy4u"
       },
@@ -612,6 +620,10 @@
         "displayName": "AetheriosVR"
       },
       {
+        "userId": "usr_5c3e6ced-1e79-40c0-80e6-887c6cb2e1f6",
+        "displayName": "AFuxy"
+      },
+      {
         "userId": "usr_172bd6d5-bbb9-4fb6-8fa5-dde88985fa06",
         "displayName": "AizenDove"
       },
@@ -622,6 +634,10 @@
       {
         "userId": "usr_7978e569-3c05-4942-85c3-bd4f07e2ac49",
         "displayName": "alexxiidnb"
+      },
+      {
+        "userId": "usr_c38b9782-28c3-4647-9ff4-eb933da58472",
+        "displayName": "ANTІK"
       },
       {
         "userId": "usr_a06047a2-a1d7-4301-8cc8-79c503a6f8e8",
@@ -666,6 +682,10 @@
       {
         "userId": "usr_956a3fd6-4155-46e9-b536-4197432af0f3",
         "displayName": "BamCLC99"
+      },
+      {
+        "userId": "usr_a02a7604-ca82-4802-a465-a5f553a72556",
+        "displayName": "beesha"
       },
       {
         "userId": "usr_e11cc071-a147-4999-8bda-f1210636179a",
@@ -762,6 +782,10 @@
       {
         "userId": "usr_596d0b67-daf3-4374-89a6-89d998daa540",
         "displayName": "djay2012"
+      },
+      {
+        "userId": "usr_0471ae4e-a17d-46d3-acdb-e3e10303ed4e",
+        "displayName": "djgubz"
       },
       {
         "userId": "usr_35ea9cdf-3cb8-4b53-a340-01617c2acb1c",
@@ -864,6 +888,10 @@
         "displayName": "HanaBaekho"
       },
       {
+        "userId": "usr_d873bbee-7293-47cb-9989-3ca310c3888d",
+        "displayName": "HappyThoughts"
+      },
+      {
         "userId": "usr_a487ebe9-6c9a-47f1-adc7-b9ed1753cab2",
         "displayName": "Haze 247"
       },
@@ -942,6 +970,10 @@
       {
         "userId": "usr_c9561c43-4865-469e-a836-9684df874e61",
         "displayName": "L1NXX_"
+      },
+      {
+        "userId": "usr_791f1452-db4e-4262-874a-43f773103f9f",
+        "displayName": "Lavenderlustvr"
       },
       {
         "userId": "usr_99acc004-fc49-4263-b2ff-def9b1387989",
@@ -1188,6 +1220,10 @@
         "displayName": "SHVNE DUBS"
       },
       {
+        "userId": "usr_5eaffa64-94bb-45b1-9681-b92d9cfe7ec3",
+        "displayName": "Sir Rose"
+      },
+      {
         "userId": "usr_cf6c438f-778b-469c-9621-be9d7616e625",
         "displayName": "SladeDaCat"
       },
@@ -1240,6 +1276,10 @@
         "displayName": "Terr4"
       },
       {
+        "userId": "usr_bd2e6479-54a8-447d-9b1d-72f251507069",
+        "displayName": "Thegger"
+      },
+      {
         "userId": "usr_e530a793-7fbd-4261-933f-91a0e9d2c76e",
         "displayName": "Theslythief"
       },
@@ -1278,6 +1318,10 @@
       {
         "userId": "usr_42e59a54-9a7f-4dca-8c77-032c4677847b",
         "displayName": "Vivelric"
+      },
+      {
+        "userId": "usr_9d755119-3f7d-4501-9fba-155e19981b90",
+        "displayName": "Volcanor"
       },
       {
         "userId": "usr_1dcab67c-7d4f-4e28-be69-d6a9e31dc2d1",
@@ -1326,6 +1370,10 @@
       {
         "userId": "usr_4edc62fd-d01b-44cb-85a6-411e66b7606f",
         "displayName": "zophie"
+      },
+      {
+        "userId": "usr_f4fd6ed3-4561-41b9-b993-238acff22828",
+        "displayName": "ૡ Ş Λ Ƙ Ι ૡ"
       },
       {
         "userId": "usr_70ae5797-a56d-416d-b84c-1a0b05ec7ced",
@@ -1420,10 +1468,6 @@
       {
         "userId": "usr_a367d6c3-ad94-4a88-83b2-822aaa071fac",
         "displayName": "AyyyyRik"
-      },
-      {
-        "userId": "usr_a02a7604-ca82-4802-a465-a5f553a72556",
-        "displayName": "beesha"
       },
       {
         "userId": "usr_959c659f-7086-4b94-830f-7f136a0d85f1",
