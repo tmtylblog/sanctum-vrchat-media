@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-24T22:28:47.420Z",
+  "generated": "2026-05-25T00:00:27.268Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -885,7 +885,7 @@
       },
       {
         "userId": "usr_2944338f-7503-4647-9c15-97526c049b59",
-        "displayName": "HanaBaekho"
+        "displayName": "Hana Seong"
       },
       {
         "userId": "usr_d873bbee-7293-47cb-9989-3ca310c3888d",
