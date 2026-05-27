@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-27T10:24:17.397Z",
+  "generated": "2026-05-27T22:36:05.985Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -1794,10 +1794,6 @@
         "displayName": "Rain_Iwa"
       },
       {
-        "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
-        "displayName": "Slothcast"
-      },
-      {
         "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
         "displayName": "Twilo"
       },
@@ -1842,10 +1838,6 @@
         "displayName": "Rain_Iwa"
       },
       {
-        "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
-        "displayName": "Slothcast"
-      },
-      {
         "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
         "displayName": "Twilo"
       },
@@ -1888,10 +1880,6 @@
         "displayName": "Rain_Iwa"
       },
       {
-        "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
-        "displayName": "Slothcast"
-      },
-      {
         "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
         "displayName": "Twilo"
       },
@@ -1928,10 +1916,6 @@
       {
         "userId": "usr_589a479b-80cf-42c4-92e4-63cbd900a82b",
         "displayName": "Rain_Iwa"
-      },
-      {
-        "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
-        "displayName": "Slothcast"
       },
       {
         "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
@@ -1972,10 +1956,6 @@
         "displayName": "Rain_Iwa"
       },
       {
-        "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
-        "displayName": "Slothcast"
-      },
-      {
         "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
         "displayName": "Twilo"
       },
@@ -2014,10 +1994,6 @@
         "displayName": "Rain_Iwa"
       },
       {
-        "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
-        "displayName": "Slothcast"
-      },
-      {
         "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
         "displayName": "Twilo"
       },
@@ -2048,10 +2024,6 @@
         "displayName": "Rain_Iwa"
       },
       {
-        "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
-        "displayName": "Slothcast"
-      },
-      {
         "userId": "usr_06aebe4f-e50c-46ef-a5d9-9dc6eb62d6d9",
         "displayName": "Vesturo"
       }
@@ -2076,10 +2048,6 @@
       {
         "userId": "usr_589a479b-80cf-42c4-92e4-63cbd900a82b",
         "displayName": "Rain_Iwa"
-      },
-      {
-        "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
-        "displayName": "Slothcast"
       },
       {
         "userId": "usr_06aebe4f-e50c-46ef-a5d9-9dc6eb62d6d9",
@@ -2108,10 +2076,6 @@
         "displayName": "Rain_Iwa"
       },
       {
-        "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
-        "displayName": "Slothcast"
-      },
-      {
         "userId": "usr_06aebe4f-e50c-46ef-a5d9-9dc6eb62d6d9",
         "displayName": "Vesturo"
       }
@@ -2138,10 +2102,6 @@
         "displayName": "Rain_Iwa"
       },
       {
-        "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
-        "displayName": "Slothcast"
-      },
-      {
         "userId": "usr_06aebe4f-e50c-46ef-a5d9-9dc6eb62d6d9",
         "displayName": "Vesturo"
       }
@@ -2158,10 +2118,6 @@
       {
         "userId": "usr_97b6e256-c441-4dde-9cb9-f29f78727f1d",
         "displayName": "MUZZ_"
-      },
-      {
-        "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
-        "displayName": "Slothcast"
       },
       {
         "userId": "usr_06aebe4f-e50c-46ef-a5d9-9dc6eb62d6d9",
