@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-02T06:04:34.909Z",
+  "generated": "2026-06-02T12:45:15.608Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -122,6 +122,10 @@
       {
         "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
         "displayName": "Twilo"
+      },
+      {
+        "userId": "usr_3b40e78a-460f-44a3-bea1-4593a96c2c39",
+        "displayName": "よる_yoru"
       }
     ]
   },
