@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-03T22:26:43.019Z",
+  "generated": "2026-06-04T00:00:28.484Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -172,6 +172,10 @@
         "displayName": "Lovely Yumi"
       },
       {
+        "userId": "usr_7e95357e-9c61-45e0-b52c-87a615b80008",
+        "displayName": "Mairo__"
+      },
+      {
         "userId": "usr_20440d0b-9a96-4eaf-8b05-58d48a803b21",
         "displayName": "Maru-17"
       },
@@ -226,6 +230,10 @@
       {
         "userId": "usr_87b103d3-9572-4653-8c68-ec03118564a2",
         "displayName": "Rosy-senpai"
+      },
+      {
+        "userId": "usr_3227976d-8398-42ec-89f3-85c5c48517d2",
+        "displayName": "Senkatoga"
       },
       {
         "userId": "usr_e9217838-7cd9-4475-9e55-36cf58896cca",
@@ -1026,6 +1034,10 @@
         "displayName": "magictwin"
       },
       {
+        "userId": "usr_7e95357e-9c61-45e0-b52c-87a615b80008",
+        "displayName": "Mairo__"
+      },
+      {
         "userId": "usr_a33b0911-984e-4a42-aee3-f2e40bde0233",
         "displayName": "Malicore"
       },
@@ -1200,6 +1212,10 @@
       {
         "userId": "usr_f087fc97-37d7-4a7c-a769-f10a26a5727f",
         "displayName": "Scl3ria"
+      },
+      {
+        "userId": "usr_3227976d-8398-42ec-89f3-85c5c48517d2",
+        "displayName": "Senkatoga"
       },
       {
         "userId": "usr_c4e5e677-02d1-4da0-88ae-475ecf874abb",
