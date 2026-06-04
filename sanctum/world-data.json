@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-04T18:20:57.974Z",
+  "generated": "2026-06-04T20:12:00.870Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -1810,6 +1810,10 @@
         "displayName": "Kaerun"
       },
       {
+        "userId": "usr_339f54fd-17d3-42ed-820f-7fb7c0b5ee08",
+        "displayName": "Lobster"
+      },
+      {
         "userId": "usr_97b6e256-c441-4dde-9cb9-f29f78727f1d",
         "displayName": "MUZZ_"
       },
@@ -1858,6 +1862,10 @@
         "displayName": "Kaerun"
       },
       {
+        "userId": "usr_339f54fd-17d3-42ed-820f-7fb7c0b5ee08",
+        "displayName": "Lobster"
+      },
+      {
         "userId": "usr_97b6e256-c441-4dde-9cb9-f29f78727f1d",
         "displayName": "MUZZ_"
       },
@@ -1904,6 +1912,10 @@
         "displayName": "Kaerun"
       },
       {
+        "userId": "usr_339f54fd-17d3-42ed-820f-7fb7c0b5ee08",
+        "displayName": "Lobster"
+      },
+      {
         "userId": "usr_97b6e256-c441-4dde-9cb9-f29f78727f1d",
         "displayName": "MUZZ_"
       },
@@ -1944,6 +1956,10 @@
       {
         "userId": "usr_8031b8de-f6da-4c0e-a5b1-a2f50d2e757b",
         "displayName": "Aquaman56"
+      },
+      {
+        "userId": "usr_339f54fd-17d3-42ed-820f-7fb7c0b5ee08",
+        "displayName": "Lobster"
       },
       {
         "userId": "usr_97b6e256-c441-4dde-9cb9-f29f78727f1d",
@@ -1988,6 +2004,10 @@
         "displayName": "Aquaman56"
       },
       {
+        "userId": "usr_339f54fd-17d3-42ed-820f-7fb7c0b5ee08",
+        "displayName": "Lobster"
+      },
+      {
         "userId": "usr_97b6e256-c441-4dde-9cb9-f29f78727f1d",
         "displayName": "MUZZ_"
       },
@@ -2028,6 +2048,10 @@
       {
         "userId": "usr_8031b8de-f6da-4c0e-a5b1-a2f50d2e757b",
         "displayName": "Aquaman56"
+      },
+      {
+        "userId": "usr_339f54fd-17d3-42ed-820f-7fb7c0b5ee08",
+        "displayName": "Lobster"
       },
       {
         "userId": "usr_97b6e256-c441-4dde-9cb9-f29f78727f1d",
