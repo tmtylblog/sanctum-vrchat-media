@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-05T14:01:05.779Z",
+  "generated": "2026-06-05T14:23:59.598Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -110,10 +110,6 @@
       {
         "userId": "usr_35ea9cdf-3cb8-4b53-a340-01617c2acb1c",
         "displayName": "DJMurdokes"
-      },
-      {
-        "userId": "usr_f4ea5f3d-b54a-48f4-a897-3abd552cab2b",
-        "displayName": "Drumsuko"
       },
       {
         "userId": "usr_e1f691ce-65c4-42e8-bef8-98db8a19a3e6",
@@ -232,10 +228,6 @@
         "displayName": "Rosy-senpai"
       },
       {
-        "userId": "usr_3227976d-8398-42ec-89f3-85c5c48517d2",
-        "displayName": "Senkatoga"
-      },
-      {
         "userId": "usr_e9217838-7cd9-4475-9e55-36cf58896cca",
         "displayName": "SoftlySteph"
       },
@@ -316,6 +308,10 @@
       {
         "userId": "usr_5ec8b436-4c68-4421-a038-ce5788d43502",
         "displayName": "AcChosen"
+      },
+      {
+        "userId": "usr_af0f1a1f-0543-4182-a605-0c3ace8d27d9",
+        "displayName": "Ari Gold"
       },
       {
         "userId": "usr_617040d8-3560-497a-a38f-bdb274ba4ee5",
@@ -1492,6 +1488,10 @@
       {
         "userId": "usr_172bd6d5-bbb9-4fb6-8fa5-dde88985fa06",
         "displayName": "AizenDove"
+      },
+      {
+        "userId": "usr_af0f1a1f-0543-4182-a605-0c3ace8d27d9",
+        "displayName": "Ari Gold"
       },
       {
         "userId": "usr_b56325f6-f494-4351-939f-7478db325657",
