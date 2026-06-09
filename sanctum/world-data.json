@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-09T00:36:02.031Z",
+  "generated": "2026-06-09T03:48:35.763Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -1890,6 +1890,10 @@
         "displayName": "furedy"
       },
       {
+        "userId": "usr_61478e81-2353-40bf-a107-a3f2d4690fdc",
+        "displayName": "G-Catz"
+      },
+      {
         "userId": "usr_4d7a2386-6085-4013-ba6a-bb76ed47badb",
         "displayName": "Gaming Skoot"
       },
@@ -2138,6 +2142,10 @@
         "displayName": "furedy"
       },
       {
+        "userId": "usr_61478e81-2353-40bf-a107-a3f2d4690fdc",
+        "displayName": "G-Catz"
+      },
+      {
         "userId": "usr_4d7a2386-6085-4013-ba6a-bb76ed47badb",
         "displayName": "Gaming Skoot"
       },
@@ -2382,6 +2390,10 @@
       {
         "userId": "usr_70cb0794-431f-4a3b-aca2-6ba94221f9cf",
         "displayName": "furedy"
+      },
+      {
+        "userId": "usr_61478e81-2353-40bf-a107-a3f2d4690fdc",
+        "displayName": "G-Catz"
       },
       {
         "userId": "usr_4d7a2386-6085-4013-ba6a-bb76ed47badb",
@@ -2630,6 +2642,10 @@
         "displayName": "furedy"
       },
       {
+        "userId": "usr_61478e81-2353-40bf-a107-a3f2d4690fdc",
+        "displayName": "G-Catz"
+      },
+      {
         "userId": "usr_4d7a2386-6085-4013-ba6a-bb76ed47badb",
         "displayName": "Gaming Skoot"
       },
@@ -2874,6 +2890,10 @@
       {
         "userId": "usr_70cb0794-431f-4a3b-aca2-6ba94221f9cf",
         "displayName": "furedy"
+      },
+      {
+        "userId": "usr_61478e81-2353-40bf-a107-a3f2d4690fdc",
+        "displayName": "G-Catz"
       },
       {
         "userId": "usr_4d7a2386-6085-4013-ba6a-bb76ed47badb",
@@ -3122,6 +3142,10 @@
         "displayName": "furedy"
       },
       {
+        "userId": "usr_61478e81-2353-40bf-a107-a3f2d4690fdc",
+        "displayName": "G-Catz"
+      },
+      {
         "userId": "usr_4d7a2386-6085-4013-ba6a-bb76ed47badb",
         "displayName": "Gaming Skoot"
       },
@@ -3360,6 +3384,10 @@
         "displayName": "furedy"
       },
       {
+        "userId": "usr_61478e81-2353-40bf-a107-a3f2d4690fdc",
+        "displayName": "G-Catz"
+      },
+      {
         "userId": "usr_4d7a2386-6085-4013-ba6a-bb76ed47badb",
         "displayName": "Gaming Skoot"
       },
@@ -3588,6 +3616,10 @@
       {
         "userId": "usr_70cb0794-431f-4a3b-aca2-6ba94221f9cf",
         "displayName": "furedy"
+      },
+      {
+        "userId": "usr_61478e81-2353-40bf-a107-a3f2d4690fdc",
+        "displayName": "G-Catz"
       },
       {
         "userId": "usr_4d7a2386-6085-4013-ba6a-bb76ed47badb",
@@ -3820,6 +3852,10 @@
         "displayName": "furedy"
       },
       {
+        "userId": "usr_61478e81-2353-40bf-a107-a3f2d4690fdc",
+        "displayName": "G-Catz"
+      },
+      {
         "userId": "usr_4d7a2386-6085-4013-ba6a-bb76ed47badb",
         "displayName": "Gaming Skoot"
       },
@@ -4050,6 +4086,10 @@
         "displayName": "furedy"
       },
       {
+        "userId": "usr_61478e81-2353-40bf-a107-a3f2d4690fdc",
+        "displayName": "G-Catz"
+      },
+      {
         "userId": "usr_4d7a2386-6085-4013-ba6a-bb76ed47badb",
         "displayName": "Gaming Skoot"
       },
@@ -4198,6 +4238,10 @@
       {
         "userId": "usr_5ec8b436-4c68-4421-a038-ce5788d43502",
         "displayName": "AcChosen"
+      },
+      {
+        "userId": "usr_61478e81-2353-40bf-a107-a3f2d4690fdc",
+        "displayName": "G-Catz"
       },
       {
         "userId": "usr_7fb63252-1681-4a5f-9fe6-31b75193fa27",
