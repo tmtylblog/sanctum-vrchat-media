@@ -1,0 +1,93 @@
+{
+  "community": {
+    "slug": "sanctum"
+  },
+  "name": "Right Cloister",
+  "key": "right_cloister",
+  "description": "Art gallery right cloister — 6 portrait + 2 landscape displays",
+  "portraitSlots": 8,
+  "landscapeSlots": 2,
+  "slots": [
+    {
+      "slotIndex": 0,
+      "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/f6318de6-dc31-4e13-88cd-b352893f318e.jpg",
+      "orientation": "portrait",
+      "expectedOrientation": "portrait",
+      "photographer": "SladeDaCat",
+      "composition": "Mother Demands"
+    },
+    {
+      "slotIndex": 1,
+      "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/116b0455-b6e2-4745-8e6e-da9820ea8248.jpg",
+      "orientation": "portrait",
+      "expectedOrientation": "portrait",
+      "photographer": "grimwxre",
+      "composition": "No. 01 (Encoding of the Soul)"
+    },
+    {
+      "slotIndex": 2,
+      "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/bcfe3e40-2d34-4291-b6db-14a75054a3c0.jpg",
+      "orientation": "portrait",
+      "expectedOrientation": "portrait",
+      "photographer": "grimwxre",
+      "composition": "Hands Of The Void (Orbiting The Witness)"
+    },
+    {
+      "slotIndex": 3,
+      "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/000da1df-fe8d-492d-be49-be02e1cc7ad3.jpg",
+      "orientation": "portrait",
+      "expectedOrientation": "portrait",
+      "photographer": "SladeDaCat",
+      "composition": "Floor"
+    },
+    {
+      "slotIndex": 4,
+      "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/6183d676-f704-4ec0-ad26-e1094b74b497.jpg",
+      "orientation": "portrait",
+      "expectedOrientation": "portrait",
+      "photographer": "Fallen",
+      "composition": null
+    },
+    {
+      "slotIndex": 5,
+      "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/b0582a91-30a3-42b7-a75c-9441c3aab3a9.jpg",
+      "orientation": "portrait",
+      "expectedOrientation": "portrait",
+      "photographer": "grimwxre",
+      "composition": "Redgrass Reverie (Prayer In The Fog)"
+    },
+    {
+      "slotIndex": 6,
+      "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/3c61409f-1227-45fc-a3c6-dd91a932cd24.jpg",
+      "orientation": "portrait",
+      "expectedOrientation": "portrait",
+      "photographer": "Kaerun",
+      "composition": "2026-04-11 - Sanctum Returns - West"
+    },
+    {
+      "slotIndex": 7,
+      "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/e6e65a34-71d3-4362-bb8c-aa5200836bec.png",
+      "orientation": "portrait",
+      "expectedOrientation": "portrait",
+      "photographer": null,
+      "composition": "Red Tunnel"
+    },
+    {
+      "slotIndex": 8,
+      "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/830cb6ed-1623-460c-b4b4-d0b8dbc3f073.jpg",
+      "orientation": "landscape",
+      "expectedOrientation": "landscape",
+      "photographer": "Fallen",
+      "composition": null
+    },
+    {
+      "slotIndex": 9,
+      "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/3e43d60c-9745-4d4b-82b7-d3619d4848c0.jpg",
+      "orientation": "landscape",
+      "expectedOrientation": "landscape",
+      "photographer": "grimwxre",
+      "composition": "Triune Convergence (Kneeling at the Vector Shrine)"
+    }
+  ],
+  "generated": "2026-06-16T01:13:13.646Z"
+}
