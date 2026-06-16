@@ -1,0 +1,93 @@
+{
+  "community": {
+    "slug": "sanctum"
+  },
+  "name": "Left Cloister",
+  "key": "left_cloister",
+  "description": "Art gallery left cloister — 6 portrait + 2 landscape displays",
+  "portraitSlots": 8,
+  "landscapeSlots": 2,
+  "slots": [
+    {
+      "slotIndex": 0,
+      "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/87651e8f-f0e9-4765-9635-5343e745a9d1.jpg",
+      "orientation": "portrait",
+      "expectedOrientation": "portrait",
+      "photographer": "Kaerun",
+      "composition": "Sanctum Returns - World photos"
+    },
+    {
+      "slotIndex": 1,
+      "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/c468d33a-5726-493e-af49-4a1f00d2cf44.jpg",
+      "orientation": "portrait",
+      "expectedOrientation": "portrait",
+      "photographer": "grimwxre",
+      "composition": "White Corridor (Archive of Cubes)"
+    },
+    {
+      "slotIndex": 2,
+      "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/ccf80662-7430-4318-8d67-106517920729.jpg",
+      "orientation": "portrait",
+      "expectedOrientation": "portrait",
+      "photographer": "grimwxre",
+      "composition": "Crate of Light (The Quiet Cache)"
+    },
+    {
+      "slotIndex": 3,
+      "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/1768be1d-23a0-4c19-a5f1-39beb6390b2f.jpg",
+      "orientation": "portrait",
+      "expectedOrientation": "portrait",
+      "photographer": "nekorogaru_vrc",
+      "composition": null
+    },
+    {
+      "slotIndex": 4,
+      "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/492405d9-9833-469f-b0d2-fc2a54d38b0f.jpg",
+      "orientation": "portrait",
+      "expectedOrientation": "portrait",
+      "photographer": "grimwxre",
+      "composition": "Threshold Stretch (Mouth Of The Void)"
+    },
+    {
+      "slotIndex": 5,
+      "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/37b1144d-2660-48fd-85b8-eb2190350cbb.png",
+      "orientation": "portrait",
+      "expectedOrientation": "portrait",
+      "photographer": "xee_xee",
+      "composition": null
+    },
+    {
+      "slotIndex": 6,
+      "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/4ce77742-c552-4b60-a2c3-1ff54ac1a352.jpg",
+      "orientation": "portrait",
+      "expectedOrientation": "portrait",
+      "photographer": "Miv2nir",
+      "composition": "Sanctum Relaunch East & West Events"
+    },
+    {
+      "slotIndex": 7,
+      "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/36f60430-6704-486a-bee7-c55fe68542a4.jpg",
+      "orientation": "portrait",
+      "expectedOrientation": "portrait",
+      "photographer": "Kaerun",
+      "composition": "Sanctum Returns - World photos"
+    },
+    {
+      "slotIndex": 8,
+      "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/a95cff31-8c51-4006-905d-e137c37839c2.jpg",
+      "orientation": "landscape",
+      "expectedOrientation": "landscape",
+      "photographer": "causya",
+      "composition": "SANCTUM REBOOT"
+    },
+    {
+      "slotIndex": 9,
+      "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/ba62ec39-e396-4137-a53d-acccd5dd31d7.jpg",
+      "orientation": "landscape",
+      "expectedOrientation": "landscape",
+      "photographer": "SyntheRux",
+      "composition": "SANCTUM WEST Sunday, 12 April 2026"
+    }
+  ],
+  "generated": "2026-06-16T01:13:13.646Z"
+}
