@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-18T03:19:58.506Z",
+  "generated": "2026-06-18T10:03:45.182Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -4278,13 +4278,54 @@
       "width": 544,
       "height": 680
     },
-    "files": []
+    "files": [
+      {
+        "index": 0,
+        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/sanctum/posters/atlas_0.jpg",
+        "posterCount": 9
+      },
+      {
+        "index": 1,
+        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/sanctum/posters/atlas_1.jpg",
+        "posterCount": 9
+      },
+      {
+        "index": 2,
+        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/sanctum/posters/atlas_2.jpg",
+        "posterCount": 9
+      },
+      {
+        "index": 3,
+        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/sanctum/posters/atlas_3.jpg",
+        "posterCount": 9
+      },
+      {
+        "index": 4,
+        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/sanctum/posters/atlas_4.jpg",
+        "posterCount": 9
+      },
+      {
+        "index": 5,
+        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/sanctum/posters/atlas_5.jpg",
+        "posterCount": 9
+      },
+      {
+        "index": 6,
+        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/sanctum/posters/atlas_6.jpg",
+        "posterCount": 9
+      },
+      {
+        "index": 7,
+        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/sanctum/posters/atlas_7.jpg",
+        "posterCount": 2
+      }
+    ]
   },
   "gallery": {
     "left_cloister": [
       {
         "slotIndex": 0,
-        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/8d971154-fb2d-4667-bc79-7b94b87cc9e5.jpg",
+        "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/cd1a55a0-a811-4de4-aad4-146b5d56575b.jpg",
         "orientation": "portrait",
         "expectedOrientation": "portrait",
         "photographer": "Kaerun",
@@ -4915,51 +4956,51 @@
       {
         "slotIndex": 6,
         "filled": true,
-        "atlasIndex": -1,
-        "gridRow": -1,
-        "gridCol": -1
+        "atlasIndex": 6,
+        "gridRow": 0,
+        "gridCol": 0
       },
       {
         "slotIndex": 7,
         "filled": true,
-        "atlasIndex": -1,
-        "gridRow": -1,
-        "gridCol": -1
+        "atlasIndex": 6,
+        "gridRow": 0,
+        "gridCol": 1
       },
       {
         "slotIndex": 8,
         "filled": true,
-        "atlasIndex": -1,
-        "gridRow": -1,
-        "gridCol": -1
+        "atlasIndex": 6,
+        "gridRow": 0,
+        "gridCol": 2
       },
       {
         "slotIndex": 9,
         "filled": true,
-        "atlasIndex": -1,
-        "gridRow": -1,
-        "gridCol": -1
+        "atlasIndex": 6,
+        "gridRow": 1,
+        "gridCol": 0
       },
       {
         "slotIndex": 10,
         "filled": true,
-        "atlasIndex": -1,
-        "gridRow": -1,
-        "gridCol": -1
+        "atlasIndex": 6,
+        "gridRow": 1,
+        "gridCol": 1
       },
       {
         "slotIndex": 11,
         "filled": true,
-        "atlasIndex": -1,
-        "gridRow": -1,
-        "gridCol": -1
+        "atlasIndex": 6,
+        "gridRow": 1,
+        "gridCol": 2
       },
       {
         "slotIndex": 12,
         "filled": true,
-        "atlasIndex": -1,
-        "gridRow": -1,
-        "gridCol": -1
+        "atlasIndex": 6,
+        "gridRow": 2,
+        "gridCol": 0
       },
       {
         "slotIndex": 13,
@@ -4992,16 +5033,16 @@
       {
         "slotIndex": 17,
         "filled": true,
-        "atlasIndex": -1,
-        "gridRow": -1,
-        "gridCol": -1
+        "atlasIndex": 6,
+        "gridRow": 2,
+        "gridCol": 1
       },
       {
         "slotIndex": 18,
         "filled": true,
-        "atlasIndex": -1,
-        "gridRow": -1,
-        "gridCol": -1
+        "atlasIndex": 6,
+        "gridRow": 2,
+        "gridCol": 2
       },
       {
         "slotIndex": 19,
@@ -5013,9 +5054,9 @@
       {
         "slotIndex": 20,
         "filled": true,
-        "atlasIndex": -1,
-        "gridRow": -1,
-        "gridCol": -1
+        "atlasIndex": 7,
+        "gridRow": 0,
+        "gridCol": 0
       },
       {
         "slotIndex": 21,
@@ -5027,9 +5068,9 @@
       {
         "slotIndex": 22,
         "filled": true,
-        "atlasIndex": -1,
-        "gridRow": -1,
-        "gridCol": -1
+        "atlasIndex": 7,
+        "gridRow": 0,
+        "gridCol": 1
       },
       {
         "slotIndex": 23,
