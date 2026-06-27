@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-26T19:42:01.260Z",
+  "generated": "2026-06-27T00:00:25.807Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -1272,6 +1272,10 @@
       {
         "userId": "usr_42b6fc6e-e9bd-4766-88fc-66ec8178246d",
         "displayName": "SyntheRux"
+      },
+      {
+        "userId": "usr_2ef046a3-fec5-479f-a0c3-d18adb835d0b",
+        "displayName": "Szeb"
       },
       {
         "userId": "usr_4521538e-a32c-41ac-9f98-ad987c52c412",
