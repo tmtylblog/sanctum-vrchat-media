@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-28T17:14:58.909Z",
+  "generated": "2026-06-29T00:00:18.993Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -72,6 +72,14 @@
         "displayName": "AyyyyRik"
       },
       {
+        "userId": "usr_de6af2ae-8bdf-4aa9-89ae-8af79e2aa405",
+        "displayName": "BASICBIT"
+      },
+      {
+        "userId": "usr_a02a7604-ca82-4802-a465-a5f553a72556",
+        "displayName": "beesha"
+      },
+      {
         "userId": "usr_f0ad9938-b547-4de5-8c16-5da58606614b",
         "displayName": "Blind Prophet"
       },
@@ -126,6 +134,10 @@
       {
         "userId": "usr_1af5cd30-4890-47c8-8cad-7cb0266453d2",
         "displayName": "katzeA"
+      },
+      {
+        "userId": "usr_2a252346-c74a-4452-910c-ce3c960005b9",
+        "displayName": "KatzIn4k"
       },
       {
         "userId": "usr_7ede448f-06c9-49ea-9ced-5b226c3380d8",
@@ -342,6 +354,10 @@
         "displayName": "PammeMatth"
       },
       {
+        "userId": "usr_589a479b-80cf-42c4-92e4-63cbd900a82b",
+        "displayName": "Rain_Iwa"
+      },
+      {
         "userId": "usr_fb022c9b-3d0b-40b7-a5bb-b903551d541a",
         "displayName": "rei_reika"
       },
@@ -520,6 +536,10 @@
       {
         "userId": "usr_66f36b66-0917-4180-b2ee-fb285f530a84",
         "displayName": "-Wattson-"
+      },
+      {
+        "userId": "usr_dc83dc3e-22ed-4b2a-8a6a-afbe97f2db76",
+        "displayName": ".volonus"
       },
       {
         "userId": "usr_0a244393-8003-4f76-822c-da59dbcaabc0",
@@ -928,6 +948,10 @@
       {
         "userId": "usr_e99a6c11-a506-45d9-8bac-e98b21bf40b0",
         "displayName": "Kaerun"
+      },
+      {
+        "userId": "usr_2a252346-c74a-4452-910c-ce3c960005b9",
+        "displayName": "KatzIn4k"
       },
       {
         "userId": "usr_d0900863-abf5-403a-8e5c-a39bea142e71",
@@ -4336,80 +4360,100 @@
         "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/cd1a55a0-a811-4de4-aad4-146b5d56575b.jpg",
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": "Kaerun",
-        "composition": "2026-06-06 - Sanctum West"
+        "aspectRatio": "9:16",
+        "artist": "Kaerun",
+        "composition": "2026-06-06 - Sanctum West",
+        "photographer": "Kaerun"
       },
       {
         "slotIndex": 1,
         "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/c468d33a-5726-493e-af49-4a1f00d2cf44.jpg",
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": "grimwxre",
-        "composition": "White Corridor (Archive of Cubes)"
+        "aspectRatio": "9:16",
+        "artist": "grimwxre",
+        "composition": "White Corridor (Archive of Cubes)",
+        "photographer": "grimwxre"
       },
       {
         "slotIndex": 2,
         "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/ccf80662-7430-4318-8d67-106517920729.jpg",
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": "grimwxre",
-        "composition": "Crate of Light (The Quiet Cache)"
+        "aspectRatio": "9:16",
+        "artist": "grimwxre",
+        "composition": "Crate of Light (The Quiet Cache)",
+        "photographer": "grimwxre"
       },
       {
         "slotIndex": 3,
         "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/1768be1d-23a0-4c19-a5f1-39beb6390b2f.jpg",
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": "nekorogaru_vrc",
-        "composition": null
+        "aspectRatio": "9:16",
+        "artist": "nekorogaru_vrc",
+        "composition": null,
+        "photographer": "nekorogaru_vrc"
       },
       {
         "slotIndex": 4,
         "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/492405d9-9833-469f-b0d2-fc2a54d38b0f.jpg",
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": "grimwxre",
-        "composition": "Threshold Stretch (Mouth Of The Void)"
+        "aspectRatio": "9:16",
+        "artist": "grimwxre",
+        "composition": "Threshold Stretch (Mouth Of The Void)",
+        "photographer": "grimwxre"
       },
       {
         "slotIndex": 5,
         "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/37b1144d-2660-48fd-85b8-eb2190350cbb.png",
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": "xee_xee",
-        "composition": null
+        "aspectRatio": "9:16",
+        "artist": "xee_xee",
+        "composition": null,
+        "photographer": "xee_xee"
       },
       {
         "slotIndex": 6,
         "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/4ce77742-c552-4b60-a2c3-1ff54ac1a352.jpg",
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": "Miv2nir",
-        "composition": "Sanctum Relaunch East & West Events"
+        "aspectRatio": "9:16",
+        "artist": "Miv2nir",
+        "composition": "Sanctum Relaunch East & West Events",
+        "photographer": "Miv2nir"
       },
       {
         "slotIndex": 7,
         "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/36f60430-6704-486a-bee7-c55fe68542a4.jpg",
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": "Kaerun",
-        "composition": "Sanctum Returns - World photos"
+        "aspectRatio": "9:16",
+        "artist": "Kaerun",
+        "composition": "Sanctum Returns - World photos",
+        "photographer": "Kaerun"
       },
       {
         "slotIndex": 8,
         "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/a95cff31-8c51-4006-905d-e137c37839c2.jpg",
         "orientation": "landscape",
         "expectedOrientation": "landscape",
-        "photographer": "causya",
-        "composition": "SANCTUM REBOOT"
+        "aspectRatio": "16:9",
+        "artist": "causya",
+        "composition": "SANCTUM REBOOT",
+        "photographer": "causya"
       },
       {
         "slotIndex": 9,
         "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/ba62ec39-e396-4137-a53d-acccd5dd31d7.jpg",
         "orientation": "landscape",
         "expectedOrientation": "landscape",
-        "photographer": "SyntheRux",
-        "composition": "SANCTUM WEST Sunday, 12 April 2026"
+        "aspectRatio": "16:9",
+        "artist": "SyntheRux",
+        "composition": "SANCTUM WEST Sunday, 12 April 2026",
+        "photographer": "SyntheRux"
       }
     ],
     "right_cloister": [
@@ -4418,80 +4462,100 @@
         "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/f6318de6-dc31-4e13-88cd-b352893f318e.jpg",
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": "SladeDaCat",
-        "composition": "Mother Demands"
+        "aspectRatio": "9:16",
+        "artist": "SladeDaCat",
+        "composition": "Mother Demands",
+        "photographer": "SladeDaCat"
       },
       {
         "slotIndex": 1,
         "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/116b0455-b6e2-4745-8e6e-da9820ea8248.jpg",
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": "grimwxre",
-        "composition": "No. 01 (Encoding of the Soul)"
+        "aspectRatio": "9:16",
+        "artist": "grimwxre",
+        "composition": "No. 01 (Encoding of the Soul)",
+        "photographer": "grimwxre"
       },
       {
         "slotIndex": 2,
         "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/bcfe3e40-2d34-4291-b6db-14a75054a3c0.jpg",
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": "grimwxre",
-        "composition": "Hands Of The Void (Orbiting The Witness)"
+        "aspectRatio": "9:16",
+        "artist": "grimwxre",
+        "composition": "Hands Of The Void (Orbiting The Witness)",
+        "photographer": "grimwxre"
       },
       {
         "slotIndex": 3,
         "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/000da1df-fe8d-492d-be49-be02e1cc7ad3.jpg",
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": "SladeDaCat",
-        "composition": "Floor"
+        "aspectRatio": "9:16",
+        "artist": "SladeDaCat",
+        "composition": "Floor",
+        "photographer": "SladeDaCat"
       },
       {
         "slotIndex": 4,
         "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/6183d676-f704-4ec0-ad26-e1094b74b497.jpg",
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": "Fallen",
-        "composition": null
+        "aspectRatio": "9:16",
+        "artist": "Fallen",
+        "composition": null,
+        "photographer": "Fallen"
       },
       {
         "slotIndex": 5,
         "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/b0582a91-30a3-42b7-a75c-9441c3aab3a9.jpg",
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": "grimwxre",
-        "composition": "Redgrass Reverie (Prayer In The Fog)"
+        "aspectRatio": "9:16",
+        "artist": "grimwxre",
+        "composition": "Redgrass Reverie (Prayer In The Fog)",
+        "photographer": "grimwxre"
       },
       {
         "slotIndex": 6,
         "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/3c61409f-1227-45fc-a3c6-dd91a932cd24.jpg",
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": "Kaerun",
-        "composition": "2026-04-11 - Sanctum Returns - West"
+        "aspectRatio": "9:16",
+        "artist": "Kaerun",
+        "composition": "2026-04-11 - Sanctum Returns - West",
+        "photographer": "Kaerun"
       },
       {
         "slotIndex": 7,
         "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/e6e65a34-71d3-4362-bb8c-aa5200836bec.png",
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": "Red Tunnel"
+        "aspectRatio": "9:16",
+        "artist": null,
+        "composition": "Red Tunnel",
+        "photographer": null
       },
       {
         "slotIndex": 8,
         "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/830cb6ed-1623-460c-b4b4-d0b8dbc3f073.jpg",
         "orientation": "landscape",
         "expectedOrientation": "landscape",
-        "photographer": "Fallen",
-        "composition": null
+        "aspectRatio": "16:9",
+        "artist": "Fallen",
+        "composition": null,
+        "photographer": "Fallen"
       },
       {
         "slotIndex": 9,
         "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/3e43d60c-9745-4d4b-82b7-d3619d4848c0.jpg",
         "orientation": "landscape",
         "expectedOrientation": "landscape",
-        "photographer": "grimwxre",
-        "composition": "Triune Convergence (Kneeling at the Vector Shrine)"
+        "aspectRatio": "16:9",
+        "artist": "grimwxre",
+        "composition": "Triune Convergence (Kneeling at the Vector Shrine)",
+        "photographer": "grimwxre"
       }
     ],
     "the_flipside": [
@@ -4500,80 +4564,100 @@
         "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/5613befc-7f40-41fb-ae9e-bc3d33ba7c99.jpg",
         "orientation": "landscape",
         "expectedOrientation": "landscape",
-        "photographer": "Kaerun",
-        "composition": "2026-06-06 - Sanctum West"
+        "aspectRatio": "16:9",
+        "artist": "Kaerun",
+        "composition": "2026-06-06 - Sanctum West",
+        "photographer": "Kaerun"
       },
       {
         "slotIndex": 1,
         "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/44b21c9b-df71-43cb-868c-b518db54ee9d.jpg",
         "orientation": "landscape",
         "expectedOrientation": "landscape",
-        "photographer": "Kaerun",
-        "composition": "2026-06-06 - Sanctum West"
+        "aspectRatio": "16:9",
+        "artist": "Kaerun",
+        "composition": "2026-06-06 - Sanctum West",
+        "photographer": "Kaerun"
       },
       {
         "slotIndex": 2,
         "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/4320a7d1-5579-4859-85b9-9bc6936c51c1.jpg",
         "orientation": "landscape",
         "expectedOrientation": "landscape",
-        "photographer": "Kaerun",
-        "composition": "2026-06-06 - Sanctum West"
+        "aspectRatio": "16:9",
+        "artist": "Kaerun",
+        "composition": "2026-06-06 - Sanctum West",
+        "photographer": "Kaerun"
       },
       {
         "slotIndex": 3,
         "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/4192e1fc-66e3-4a7f-9603-13da8b40fe7c.jpg",
         "orientation": "landscape",
         "expectedOrientation": "landscape",
-        "photographer": "Kaerun",
-        "composition": "2026-06-06 - Sanctum West"
+        "aspectRatio": "16:9",
+        "artist": "Kaerun",
+        "composition": "2026-06-06 - Sanctum West",
+        "photographer": "Kaerun"
       },
       {
         "slotIndex": 4,
         "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/cf06dcfe-eb81-47a3-8ace-071b0269c2f7.jpg",
         "orientation": "landscape",
         "expectedOrientation": "landscape",
-        "photographer": "Kaerun",
-        "composition": "2026-06-06 - Sanctum West"
+        "aspectRatio": "16:9",
+        "artist": "Kaerun",
+        "composition": "2026-06-06 - Sanctum West",
+        "photographer": "Kaerun"
       },
       {
         "slotIndex": 5,
         "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/6fc4fb44-9d5f-4689-a8fc-89c0a092645d.jpg",
         "orientation": "landscape",
         "expectedOrientation": "landscape",
-        "photographer": "Kaerun",
-        "composition": "2026-06-06 - Sanctum West"
+        "aspectRatio": "16:9",
+        "artist": "Kaerun",
+        "composition": "2026-06-06 - Sanctum West",
+        "photographer": "Kaerun"
       },
       {
         "slotIndex": 6,
         "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/d375815f-dfca-46a6-a8f1-3e70b19d99dd.jpg",
         "orientation": "landscape",
         "expectedOrientation": "landscape",
-        "photographer": "Kaerun",
-        "composition": "2026-06-06 - Sanctum West"
+        "aspectRatio": "16:9",
+        "artist": "Kaerun",
+        "composition": "2026-06-06 - Sanctum West",
+        "photographer": "Kaerun"
       },
       {
         "slotIndex": 7,
         "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/bb256063-0bc6-4084-a0d9-d108ae6e93ce.jpg",
         "orientation": "landscape",
         "expectedOrientation": "landscape",
-        "photographer": "Kaerun",
-        "composition": "2026-06-06 - Sanctum West"
+        "aspectRatio": "16:9",
+        "artist": "Kaerun",
+        "composition": "2026-06-06 - Sanctum West",
+        "photographer": "Kaerun"
       },
       {
         "slotIndex": 8,
         "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/7f66ff33-07c9-4f22-8ce0-ec426729bcfa.jpg",
         "orientation": "landscape",
         "expectedOrientation": "landscape",
-        "photographer": "Kaerun",
-        "composition": "2026-06-06 - Sanctum West"
+        "aspectRatio": "16:9",
+        "artist": "Kaerun",
+        "composition": "2026-06-06 - Sanctum West",
+        "photographer": "Kaerun"
       },
       {
         "slotIndex": 9,
         "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/86bf8fc4-11ff-4b88-8c6c-71df803815d9.jpg",
         "orientation": "landscape",
         "expectedOrientation": "landscape",
-        "photographer": "Kaerun",
-        "composition": "2026-06-06 - Sanctum West"
+        "aspectRatio": "16:9",
+        "artist": "Kaerun",
+        "composition": "2026-06-06 - Sanctum West",
+        "photographer": "Kaerun"
       }
     ],
     "pear": [
@@ -4582,600 +4666,750 @@
         "url": null,
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "2:3",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       },
       {
         "slotIndex": 1,
         "url": null,
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "2:3",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       },
       {
         "slotIndex": 2,
         "url": null,
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "2:3",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       },
       {
         "slotIndex": 3,
         "url": null,
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "2:3",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       },
       {
         "slotIndex": 4,
         "url": null,
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "2:3",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       },
       {
         "slotIndex": 5,
         "url": null,
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "2:3",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       },
       {
         "slotIndex": 6,
         "url": null,
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "2:3",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       },
       {
         "slotIndex": 7,
         "url": null,
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "2:3",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       },
       {
         "slotIndex": 8,
         "url": null,
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "2:3",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       },
       {
         "slotIndex": 9,
         "url": null,
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "2:3",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       },
       {
         "slotIndex": 10,
         "url": null,
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "2:3",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       },
       {
         "slotIndex": 11,
         "url": null,
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "2:3",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       },
       {
         "slotIndex": 12,
         "url": null,
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "2:3",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       },
       {
         "slotIndex": 13,
         "url": null,
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "2:3",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       },
       {
         "slotIndex": 14,
         "url": null,
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "2:3",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       },
       {
         "slotIndex": 15,
         "url": null,
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "2:3",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       },
       {
         "slotIndex": 16,
         "url": null,
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "2:3",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       },
       {
         "slotIndex": 17,
         "url": null,
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "2:3",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       },
       {
         "slotIndex": 18,
         "url": null,
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "2:3",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       },
       {
         "slotIndex": 19,
         "url": null,
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "2:3",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       },
       {
         "slotIndex": 20,
         "url": "https://tmtylblog.github.io/sanctum-vrchat-media/gallery/8d971154-fb2d-4667-bc79-7b94b87cc9e5.jpg",
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": "Kaerun",
-        "composition": "2026-06-06 - Sanctum West"
+        "aspectRatio": "3:4",
+        "artist": "Kaerun",
+        "composition": null,
+        "photographer": "Kaerun"
       },
       {
         "slotIndex": 21,
         "url": null,
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "3:4",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       },
       {
         "slotIndex": 22,
         "url": null,
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "3:4",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       },
       {
         "slotIndex": 23,
         "url": null,
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "3:4",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       },
       {
         "slotIndex": 24,
         "url": null,
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "3:4",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       },
       {
         "slotIndex": 25,
         "url": null,
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "3:4",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       },
       {
         "slotIndex": 26,
         "url": null,
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "3:4",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       },
       {
         "slotIndex": 27,
         "url": null,
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "3:4",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       },
       {
         "slotIndex": 28,
         "url": null,
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "3:4",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       },
       {
         "slotIndex": 29,
         "url": null,
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "3:4",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       },
       {
         "slotIndex": 30,
         "url": null,
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "3:4",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       },
       {
         "slotIndex": 31,
         "url": null,
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "3:4",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       },
       {
         "slotIndex": 32,
         "url": null,
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "3:4",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       },
       {
         "slotIndex": 33,
         "url": null,
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "3:4",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       },
       {
         "slotIndex": 34,
         "url": null,
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "3:4",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       },
       {
         "slotIndex": 35,
         "url": null,
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "3:4",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       },
       {
         "slotIndex": 36,
         "url": null,
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "3:4",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       },
       {
         "slotIndex": 37,
         "url": null,
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "3:4",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       },
       {
         "slotIndex": 38,
         "url": null,
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "3:4",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       },
       {
         "slotIndex": 39,
         "url": null,
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "3:4",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       },
       {
         "slotIndex": 40,
         "url": null,
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "4:5",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       },
       {
         "slotIndex": 41,
         "url": null,
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "4:5",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       },
       {
         "slotIndex": 42,
         "url": null,
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "4:5",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       },
       {
         "slotIndex": 43,
         "url": null,
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "4:5",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       },
       {
         "slotIndex": 44,
         "url": null,
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "4:5",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       },
       {
         "slotIndex": 45,
         "url": null,
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "4:5",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       },
       {
         "slotIndex": 46,
         "url": null,
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "4:5",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       },
       {
         "slotIndex": 47,
         "url": null,
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "4:5",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       },
       {
         "slotIndex": 48,
         "url": null,
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "4:5",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       },
       {
         "slotIndex": 49,
         "url": null,
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "4:5",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       },
       {
         "slotIndex": 50,
         "url": null,
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "4:5",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       },
       {
         "slotIndex": 51,
         "url": null,
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "4:5",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       },
       {
         "slotIndex": 52,
         "url": null,
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "4:5",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       },
       {
         "slotIndex": 53,
         "url": null,
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "4:5",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       },
       {
         "slotIndex": 54,
         "url": null,
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "4:5",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       },
       {
         "slotIndex": 55,
         "url": null,
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "4:5",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       },
       {
         "slotIndex": 56,
         "url": null,
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "4:5",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       },
       {
         "slotIndex": 57,
         "url": null,
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "4:5",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       },
       {
         "slotIndex": 58,
         "url": null,
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "4:5",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       },
       {
         "slotIndex": 59,
         "url": null,
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "4:5",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       },
       {
         "slotIndex": 60,
         "url": null,
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "9:16",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       },
       {
         "slotIndex": 61,
         "url": null,
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "9:16",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       },
       {
         "slotIndex": 62,
         "url": null,
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "9:16",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       },
       {
         "slotIndex": 63,
         "url": null,
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "9:16",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       },
       {
         "slotIndex": 64,
         "url": null,
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "9:16",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       },
       {
         "slotIndex": 65,
         "url": null,
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "9:16",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       },
       {
         "slotIndex": 66,
         "url": null,
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "9:16",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       },
       {
         "slotIndex": 67,
         "url": null,
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "9:16",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       },
       {
         "slotIndex": 68,
         "url": null,
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "9:16",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       },
       {
         "slotIndex": 69,
         "url": null,
         "orientation": "portrait",
         "expectedOrientation": "portrait",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "9:16",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       },
       {
         "slotIndex": 70,
         "url": null,
         "orientation": "landscape",
         "expectedOrientation": "landscape",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "16:9",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       },
       {
         "slotIndex": 71,
         "url": null,
         "orientation": "landscape",
         "expectedOrientation": "landscape",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "16:9",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       },
       {
         "slotIndex": 72,
         "url": null,
         "orientation": "landscape",
         "expectedOrientation": "landscape",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "16:9",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       },
       {
         "slotIndex": 73,
         "url": null,
         "orientation": "landscape",
         "expectedOrientation": "landscape",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "16:9",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       },
       {
         "slotIndex": 74,
         "url": null,
         "orientation": "landscape",
         "expectedOrientation": "landscape",
-        "photographer": null,
-        "composition": null
+        "aspectRatio": "16:9",
+        "artist": null,
+        "composition": null,
+        "photographer": null
       }
     ]
   },
