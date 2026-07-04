@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-04T16:01:03.034Z",
+  "generated": "2026-07-04T16:30:35.744Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -14,6 +14,24 @@
     "Performer": "DISPLAY ONLY — Anyone with an active performance booking (event-performer/event-dancer staff role, or 21-day SlotTalent / DanceBlockDancer / EventStaff photographer/staff/streamer). Use for lineup / credits, NOT for gating."
   },
   "permissions": {
+    "Moderator": [
+      {
+        "userId": "usr_0f758a2e-0689-4fc6-b271-cde6b7188b46",
+        "displayName": "Auroradrago72"
+      },
+      {
+        "userId": "usr_d31c2caf-c827-4324-bb21-0f59829c202c",
+        "displayName": "BenjiTheCollie"
+      },
+      {
+        "userId": "usr_fe6007de-6d5a-4cec-a27e-9fc24c0ad00c",
+        "displayName": "S̳̿͟͞k̳̿͟͞y̳̿͟͞"
+      },
+      {
+        "userId": "usr_e674408b-5b84-4dcf-b765-6ef6a4d92c80",
+        "displayName": "Warrez"
+      }
+    ],
     "Group Owner": [
       {
         "userId": "usr_5c3e6ced-1e79-40c0-80e6-887c6cb2e1f6",
