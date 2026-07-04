@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-04T16:31:03.525Z",
+  "generated": "2026-07-04T16:32:50.655Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -13,7 +13,38 @@
     "Patron": "DISPLAY ONLY — Sanctum community members (Patron CommunityMemberRole). Use for name walls / credits, NOT for gating.",
     "Performer": "DISPLAY ONLY — Anyone with an active performance booking (event-performer/event-dancer staff role, or 21-day SlotTalent / DanceBlockDancer / EventStaff photographer/staff/streamer). Use for lineup / credits, NOT for gating."
   },
-  "permissions": {},
+  "permissions": {
+    "Admin": [
+      {
+        "userId": "usr_be74c779-c458-4e8d-be1d-3d9bfb66b3e3",
+        "displayName": "cutefush鱼"
+      },
+      {
+        "userId": "usr_c84e62d5-19e9-4587-ada6-ceca4426af43",
+        "displayName": "Huru"
+      },
+      {
+        "userId": "usr_0350b8ba-8397-4986-8e80-36018a504d2f",
+        "displayName": "无星之夜的流浪汉"
+      }
+    ],
+    "Moderator": [
+      {
+        "userId": "usr_3bc7fb53-0fee-49ea-987e-e5c26e80d1ec",
+        "displayName": "Momokawahuru"
+      },
+      {
+        "userId": "usr_3a09523a-25a6-4cfc-a4fa-d6fb39bd4cfb",
+        "displayName": "觉之瞳"
+      }
+    ],
+    "Group Owner": [
+      {
+        "userId": "usr_c84e62d5-19e9-4587-ada6-ceca4426af43",
+        "displayName": "Huru"
+      }
+    ]
+  },
   "supporters": {
     "entrySystemRecognition": [],
     "terminalNameInclusion": [],
