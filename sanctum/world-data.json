@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-04T10:14:27.121Z",
+  "generated": "2026-07-04T15:34:44.520Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -524,6 +524,20 @@
       {
         "userId": "usr_1516ca40-edd5-4a55-aafd-0a9fef9e329d",
         "displayName": "Xyare"
+      }
+    ],
+    "Group Owner": [
+      {
+        "userId": "usr_5ec8b436-4c68-4421-a038-ce5788d43502",
+        "displayName": "AcChosen"
+      },
+      {
+        "userId": "usr_b8c1785e-fea6-4024-b536-c8ade20970aa",
+        "displayName": "Nyan-Cyan"
+      },
+      {
+        "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
+        "displayName": "Slothcast"
       }
     ],
     "Patron": [
@@ -1496,20 +1510,6 @@
       {
         "userId": "usr_3ce2c796-bbe7-4add-b043-2ba5c0a77bf5",
         "displayName": "山丹尺ㄥ口尺刀"
-      }
-    ],
-    "Group Owner": [
-      {
-        "userId": "usr_5ec8b436-4c68-4421-a038-ce5788d43502",
-        "displayName": "AcChosen"
-      },
-      {
-        "userId": "usr_b8c1785e-fea6-4024-b536-c8ade20970aa",
-        "displayName": "Nyan-Cyan"
-      },
-      {
-        "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
-        "displayName": "Slothcast"
       }
     ],
     "Staff": [
