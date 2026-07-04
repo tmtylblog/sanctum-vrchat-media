@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-04T00:00:18.975Z",
+  "generated": "2026-07-04T00:09:59.475Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -32,10 +32,6 @@
         "displayName": "MUZZ_"
       },
       {
-        "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
-        "displayName": "Null_Omen"
-      },
-      {
         "userId": "usr_589a479b-80cf-42c4-92e4-63cbd900a82b",
         "displayName": "Rain_Iwa"
       },
@@ -54,6 +50,10 @@
       {
         "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
         "displayName": "Twilo"
+      },
+      {
+        "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
+        "displayName": "Upper Mgmt"
       },
       {
         "userId": "usr_06aebe4f-e50c-46ef-a5d9-9dc6eb62d6d9",
@@ -1638,10 +1638,6 @@
         "displayName": "MUZZ_"
       },
       {
-        "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
-        "displayName": "Null_Omen"
-      },
-      {
         "userId": "usr_b8c1785e-fea6-4024-b536-c8ade20970aa",
         "displayName": "Nyan-Cyan"
       },
@@ -1696,6 +1692,10 @@
       {
         "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
         "displayName": "Twilo"
+      },
+      {
+        "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
+        "displayName": "Upper Mgmt"
       },
       {
         "userId": "usr_44eb716d-9e13-4228-a839-14388eda6a10",
@@ -1990,10 +1990,6 @@
         "displayName": "MUZZ_"
       },
       {
-        "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
-        "displayName": "Null_Omen"
-      },
-      {
         "userId": "usr_b8c1785e-fea6-4024-b536-c8ade20970aa",
         "displayName": "Nyan-Cyan"
       },
@@ -2048,6 +2044,10 @@
       {
         "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
         "displayName": "Twilo"
+      },
+      {
+        "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
+        "displayName": "Upper Mgmt"
       },
       {
         "userId": "usr_44eb716d-9e13-4228-a839-14388eda6a10",
@@ -2242,10 +2242,6 @@
         "displayName": "MUZZ_"
       },
       {
-        "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
-        "displayName": "Null_Omen"
-      },
-      {
         "userId": "usr_b8c1785e-fea6-4024-b536-c8ade20970aa",
         "displayName": "Nyan-Cyan"
       },
@@ -2300,6 +2296,10 @@
       {
         "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
         "displayName": "Twilo"
+      },
+      {
+        "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
+        "displayName": "Upper Mgmt"
       },
       {
         "userId": "usr_44eb716d-9e13-4228-a839-14388eda6a10",
@@ -2492,10 +2492,6 @@
         "displayName": "MUZZ_"
       },
       {
-        "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
-        "displayName": "Null_Omen"
-      },
-      {
         "userId": "usr_b8c1785e-fea6-4024-b536-c8ade20970aa",
         "displayName": "Nyan-Cyan"
       },
@@ -2550,6 +2546,10 @@
       {
         "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
         "displayName": "Twilo"
+      },
+      {
+        "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
+        "displayName": "Upper Mgmt"
       },
       {
         "userId": "usr_44eb716d-9e13-4228-a839-14388eda6a10",
@@ -2742,10 +2742,6 @@
         "displayName": "MUZZ_"
       },
       {
-        "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
-        "displayName": "Null_Omen"
-      },
-      {
         "userId": "usr_b8c1785e-fea6-4024-b536-c8ade20970aa",
         "displayName": "Nyan-Cyan"
       },
@@ -2800,6 +2796,10 @@
       {
         "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
         "displayName": "Twilo"
+      },
+      {
+        "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
+        "displayName": "Upper Mgmt"
       },
       {
         "userId": "usr_44eb716d-9e13-4228-a839-14388eda6a10",
@@ -2992,10 +2992,6 @@
         "displayName": "MUZZ_"
       },
       {
-        "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
-        "displayName": "Null_Omen"
-      },
-      {
         "userId": "usr_b8c1785e-fea6-4024-b536-c8ade20970aa",
         "displayName": "Nyan-Cyan"
       },
@@ -3050,6 +3046,10 @@
       {
         "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
         "displayName": "Twilo"
+      },
+      {
+        "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
+        "displayName": "Upper Mgmt"
       },
       {
         "userId": "usr_44eb716d-9e13-4228-a839-14388eda6a10",
@@ -3242,10 +3242,6 @@
         "displayName": "MUZZ_"
       },
       {
-        "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
-        "displayName": "Null_Omen"
-      },
-      {
         "userId": "usr_b8c1785e-fea6-4024-b536-c8ade20970aa",
         "displayName": "Nyan-Cyan"
       },
@@ -3300,6 +3296,10 @@
       {
         "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
         "displayName": "Twilo"
+      },
+      {
+        "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
+        "displayName": "Upper Mgmt"
       },
       {
         "userId": "usr_44eb716d-9e13-4228-a839-14388eda6a10",
@@ -3480,10 +3480,6 @@
         "displayName": "MUZZ_"
       },
       {
-        "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
-        "displayName": "Null_Omen"
-      },
-      {
         "userId": "usr_b8c1785e-fea6-4024-b536-c8ade20970aa",
         "displayName": "Nyan-Cyan"
       },
@@ -3538,6 +3534,10 @@
       {
         "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
         "displayName": "Twilo"
+      },
+      {
+        "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
+        "displayName": "Upper Mgmt"
       },
       {
         "userId": "usr_44eb716d-9e13-4228-a839-14388eda6a10",
@@ -3714,10 +3714,6 @@
         "displayName": "MUZZ_"
       },
       {
-        "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
-        "displayName": "Null_Omen"
-      },
-      {
         "userId": "usr_b8c1785e-fea6-4024-b536-c8ade20970aa",
         "displayName": "Nyan-Cyan"
       },
@@ -3772,6 +3768,10 @@
       {
         "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
         "displayName": "Twilo"
+      },
+      {
+        "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
+        "displayName": "Upper Mgmt"
       },
       {
         "userId": "usr_44eb716d-9e13-4228-a839-14388eda6a10",
@@ -3948,10 +3948,6 @@
         "displayName": "MUZZ_"
       },
       {
-        "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
-        "displayName": "Null_Omen"
-      },
-      {
         "userId": "usr_b8c1785e-fea6-4024-b536-c8ade20970aa",
         "displayName": "Nyan-Cyan"
       },
@@ -4006,6 +4002,10 @@
       {
         "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
         "displayName": "Twilo"
+      },
+      {
+        "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
+        "displayName": "Upper Mgmt"
       },
       {
         "userId": "usr_44eb716d-9e13-4228-a839-14388eda6a10",
@@ -4182,10 +4182,6 @@
         "displayName": "MUZZ_"
       },
       {
-        "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
-        "displayName": "Null_Omen"
-      },
-      {
         "userId": "usr_b8c1785e-fea6-4024-b536-c8ade20970aa",
         "displayName": "Nyan-Cyan"
       },
@@ -4240,6 +4236,10 @@
       {
         "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
         "displayName": "Twilo"
+      },
+      {
+        "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
+        "displayName": "Upper Mgmt"
       },
       {
         "userId": "usr_44eb716d-9e13-4228-a839-14388eda6a10",
