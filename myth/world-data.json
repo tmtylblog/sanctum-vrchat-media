@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-04T10:08:55.509Z",
+  "generated": "2026-07-04T10:08:57.062Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -14,12 +14,6 @@
     "Performer": "DISPLAY ONLY — Anyone with an active performance booking (event-performer/event-dancer staff role, or 21-day SlotTalent / DanceBlockDancer / EventStaff photographer/staff/streamer). Use for lineup / credits, NOT for gating."
   },
   "permissions": {
-    "Patron": [
-      {
-        "userId": "usr_c134ac92-e19d-4092-a61e-e1464999b7cf",
-        "displayName": "MythicalCuddles"
-      }
-    ],
     "Group Owner": [
       {
         "userId": "usr_c134ac92-e19d-4092-a61e-e1464999b7cf",
