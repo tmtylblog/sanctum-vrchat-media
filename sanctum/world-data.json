@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-04T15:35:31.377Z",
+  "generated": "2026-07-04T15:36:00.177Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -14,50 +14,18 @@
     "Performer": "DISPLAY ONLY — Anyone with an active performance booking (event-performer/event-dancer staff role, or 21-day SlotTalent / DanceBlockDancer / EventStaff photographer/staff/streamer). Use for lineup / credits, NOT for gating."
   },
   "permissions": {
-    "Admin": [
+    "Group Owner": [
       {
-        "userId": "usr_858425e8-5c0c-461b-af0c-77190bf7b4af",
-        "displayName": "~Mathy~"
+        "userId": "usr_5ec8b436-4c68-4421-a038-ce5788d43502",
+        "displayName": "AcChosen"
       },
       {
-        "userId": "usr_7fb63252-1681-4a5f-9fe6-31b75193fa27",
-        "displayName": "kohadachan"
-      },
-      {
-        "userId": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b",
-        "displayName": "Mixieǃ"
-      },
-      {
-        "userId": "usr_97b6e256-c441-4dde-9cb9-f29f78727f1d",
-        "displayName": "MUZZ_"
-      },
-      {
-        "userId": "usr_589a479b-80cf-42c4-92e4-63cbd900a82b",
-        "displayName": "Rain_Iwa"
-      },
-      {
-        "userId": "usr_fb022c9b-3d0b-40b7-a5bb-b903551d541a",
-        "displayName": "rei_reika"
+        "userId": "usr_b8c1785e-fea6-4024-b536-c8ade20970aa",
+        "displayName": "Nyan-Cyan"
       },
       {
         "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
         "displayName": "Slothcast"
-      },
-      {
-        "userId": "usr_10624ac0-ae1b-4b79-9f4c-7bed09de2d94",
-        "displayName": "SwaMusic"
-      },
-      {
-        "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
-        "displayName": "Twilo"
-      },
-      {
-        "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
-        "displayName": "Upper Mgmt"
-      },
-      {
-        "userId": "usr_06aebe4f-e50c-46ef-a5d9-9dc6eb62d6d9",
-        "displayName": "Vesturo"
       }
     ],
     "Moderator": [
@@ -128,6 +96,52 @@
       {
         "userId": "usr_3b40e78a-460f-44a3-bea1-4593a96c2c39",
         "displayName": "よる_yoru"
+      }
+    ],
+    "Admin": [
+      {
+        "userId": "usr_858425e8-5c0c-461b-af0c-77190bf7b4af",
+        "displayName": "~Mathy~"
+      },
+      {
+        "userId": "usr_7fb63252-1681-4a5f-9fe6-31b75193fa27",
+        "displayName": "kohadachan"
+      },
+      {
+        "userId": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b",
+        "displayName": "Mixieǃ"
+      },
+      {
+        "userId": "usr_97b6e256-c441-4dde-9cb9-f29f78727f1d",
+        "displayName": "MUZZ_"
+      },
+      {
+        "userId": "usr_589a479b-80cf-42c4-92e4-63cbd900a82b",
+        "displayName": "Rain_Iwa"
+      },
+      {
+        "userId": "usr_fb022c9b-3d0b-40b7-a5bb-b903551d541a",
+        "displayName": "rei_reika"
+      },
+      {
+        "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
+        "displayName": "Slothcast"
+      },
+      {
+        "userId": "usr_10624ac0-ae1b-4b79-9f4c-7bed09de2d94",
+        "displayName": "SwaMusic"
+      },
+      {
+        "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
+        "displayName": "Twilo"
+      },
+      {
+        "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
+        "displayName": "Upper Mgmt"
+      },
+      {
+        "userId": "usr_06aebe4f-e50c-46ef-a5d9-9dc6eb62d6d9",
+        "displayName": "Vesturo"
       }
     ],
     "Performer": [
@@ -524,20 +538,6 @@
       {
         "userId": "usr_1516ca40-edd5-4a55-aafd-0a9fef9e329d",
         "displayName": "Xyare"
-      }
-    ],
-    "Group Owner": [
-      {
-        "userId": "usr_5ec8b436-4c68-4421-a038-ce5788d43502",
-        "displayName": "AcChosen"
-      },
-      {
-        "userId": "usr_b8c1785e-fea6-4024-b536-c8ade20970aa",
-        "displayName": "Nyan-Cyan"
-      },
-      {
-        "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
-        "displayName": "Slothcast"
       }
     ],
     "Patron": [
