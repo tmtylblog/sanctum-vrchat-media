@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-04T16:01:08.728Z",
+  "generated": "2026-07-04T16:30:41.524Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -14,6 +14,16 @@
     "Performer": "DISPLAY ONLY — Anyone with an active performance booking (event-performer/event-dancer staff role, or 21-day SlotTalent / DanceBlockDancer / EventStaff photographer/staff/streamer). Use for lineup / credits, NOT for gating."
   },
   "permissions": {
+    "Admin": [
+      {
+        "userId": "usr_853bcf72-6491-48df-a7f1-890a5bdc846c",
+        "displayName": "AetheriosVR"
+      },
+      {
+        "userId": "usr_7bdc555a-e9e7-4bf7-ad2c-9690b0b775ac",
+        "displayName": "Spaceship180"
+      }
+    ],
     "Group Owner": [
       {
         "userId": "usr_853bcf72-6491-48df-a7f1-890a5bdc846c",
