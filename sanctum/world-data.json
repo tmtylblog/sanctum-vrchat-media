@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-05T10:01:26.997Z",
+  "generated": "2026-07-05T10:30:23.366Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -54,10 +54,6 @@
       {
         "userId": "usr_be1dd0fe-bac7-4a89-bf46-a1578e89b27d",
         "displayName": "5-HEX-7"
-      },
-      {
-        "userId": "usr_853bcf72-6491-48df-a7f1-890a5bdc846c",
-        "displayName": "AetheriosVR"
       },
       {
         "userId": "usr_172bd6d5-bbb9-4fb6-8fa5-dde88985fa06",
@@ -246,6 +242,10 @@
       {
         "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
         "displayName": "Twilo"
+      },
+      {
+        "userId": "usr_853bcf72-6491-48df-a7f1-890a5bdc846c",
+        "displayName": "usr_853bcf72-6491-48df-a7f1-890a5bdc846c"
       },
       {
         "userId": "usr_44eb716d-9e13-4228-a839-14388eda6a10",
@@ -634,10 +634,6 @@
       {
         "userId": "usr_dd4d2e1e-20a5-40bb-8ae4-bb83210215e0",
         "displayName": "Ad Loud"
-      },
-      {
-        "userId": "usr_853bcf72-6491-48df-a7f1-890a5bdc846c",
-        "displayName": "AetheriosVR"
       },
       {
         "userId": "usr_5c3e6ced-1e79-40c0-80e6-887c6cb2e1f6",
@@ -1368,8 +1364,16 @@
         "displayName": "Twilo"
       },
       {
+        "userId": "usr_853bcf72-6491-48df-a7f1-890a5bdc846c",
+        "displayName": "usr_853bcf72-6491-48df-a7f1-890a5bdc846c"
+      },
+      {
         "userId": "usr_af0f1a1f-0543-4182-a605-0c3ace8d27d9",
         "displayName": "usr_af0f1a1f-0543-4182-a605-0c3ace8d27d9"
+      },
+      {
+        "userId": "usr_b0a3f681-7113-4383-ac47-a47119fdf4ec",
+        "displayName": "usr_b0a3f681-7113-4383-ac47-a47119fdf4ec"
       },
       {
         "userId": "usr_dea2b314-a7f9-4868-a56b-fe7fac9eb000",
@@ -1438,10 +1442,6 @@
       {
         "userId": "usr_4457c496-c508-4229-896a-ff6af74a7e16",
         "displayName": "YngwieAnders"
-      },
-      {
-        "userId": "usr_b0a3f681-7113-4383-ac47-a47119fdf4ec",
-        "displayName": "yukiware"
       },
       {
         "userId": "usr_9d6b078c-fd46-45d9-9b2c-147409104c9d",
