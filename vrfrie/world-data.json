@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-05T03:30:23.794Z",
+  "generated": "2026-07-05T03:42:20.564Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -13,7 +13,72 @@
     "Patron": "DISPLAY ONLY — Sanctum community members (Patron CommunityMemberRole). Use for name walls / credits, NOT for gating.",
     "Performer": "DISPLAY ONLY — Anyone with an active performance booking (event-performer/event-dancer staff role, or 21-day SlotTalent / DanceBlockDancer / EventStaff photographer/staff/streamer). Use for lineup / credits, NOT for gating."
   },
-  "permissions": {},
+  "permissions": {
+    "Moderator": [
+      {
+        "userId": "usr_7fd29998-e4ba-4f9c-8416-b504d4348d76",
+        "displayName": "Bia_Kawaii_Br"
+      },
+      {
+        "userId": "usr_fa0536ff-d567-4835-a2c1-8ea0ba6eafb0",
+        "displayName": "bit․howard"
+      },
+      {
+        "userId": "usr_244e6aab-8db8-4adf-854f-95d3e7361073",
+        "displayName": "grutum"
+      },
+      {
+        "userId": "usr_8d1c4ed0-b6cb-4052-8d14-c481be8619b2",
+        "displayName": "LevyKat"
+      },
+      {
+        "userId": "usr_6350dc3f-6102-44e4-baf9-97817cb1c6cb",
+        "displayName": "Meitt"
+      },
+      {
+        "userId": "usr_559867a8-bb61-4cc8-9ce5-b6af348ba794",
+        "displayName": "Mikalía"
+      },
+      {
+        "userId": "usr_975b1c0a-a0ab-4103-9935-c7caed002dab",
+        "displayName": "Ʀeneડuccubus"
+      },
+      {
+        "userId": "usr_14d3edef-6126-476e-9279-f03c1d4597a7",
+        "displayName": "Salemzito"
+      },
+      {
+        "userId": "usr_6b2e680e-fc79-4182-be99-05f2495822a3",
+        "displayName": "Talles Matheus"
+      },
+      {
+        "userId": "usr_fd8349f9-2cb9-4491-8432-1567c0a962ca",
+        "displayName": "Yruk․"
+      }
+    ],
+    "Group Owner": [
+      {
+        "userId": "usr_4fc9a921-d4c0-4932-a1e1-74406b0a3f00",
+        "displayName": "GilGalard"
+      }
+    ],
+    "Admin": [
+      {
+        "userId": "usr_6350dc3f-6102-44e4-baf9-97817cb1c6cb",
+        "displayName": "Meitt"
+      },
+      {
+        "userId": "usr_559867a8-bb61-4cc8-9ce5-b6af348ba794",
+        "displayName": "Mikalía"
+      }
+    ],
+    "Traveler": [
+      {
+        "userId": "usr_c34027ab-0b67-4bb9-a4eb-5dbe24dffd7f",
+        "displayName": "Demrie"
+      }
+    ]
+  },
   "supporters": {
     "entrySystemRecognition": [],
     "terminalNameInclusion": [],
