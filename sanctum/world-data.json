@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-05T08:01:01.304Z",
+  "generated": "2026-07-05T08:24:19.104Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -2082,10 +2082,6 @@
         "displayName": "Xyare"
       },
       {
-        "userId": "usr_b0a3f681-7113-4383-ac47-a47119fdf4ec",
-        "displayName": "yukiware"
-      },
-      {
         "userId": "usr_70ae5797-a56d-416d-b84c-1a0b05ec7ced",
         "displayName": "おさめなルナ"
       },
@@ -2334,10 +2330,6 @@
         "displayName": "Xyare"
       },
       {
-        "userId": "usr_b0a3f681-7113-4383-ac47-a47119fdf4ec",
-        "displayName": "yukiware"
-      },
-      {
         "userId": "usr_70ae5797-a56d-416d-b84c-1a0b05ec7ced",
         "displayName": "おさめなルナ"
       },
@@ -2582,10 +2574,6 @@
       {
         "userId": "usr_1516ca40-edd5-4a55-aafd-0a9fef9e329d",
         "displayName": "Xyare"
-      },
-      {
-        "userId": "usr_b0a3f681-7113-4383-ac47-a47119fdf4ec",
-        "displayName": "yukiware"
       },
       {
         "userId": "usr_70ae5797-a56d-416d-b84c-1a0b05ec7ced",
@@ -2834,10 +2822,6 @@
         "displayName": "Xyare"
       },
       {
-        "userId": "usr_b0a3f681-7113-4383-ac47-a47119fdf4ec",
-        "displayName": "yukiware"
-      },
-      {
         "userId": "usr_70ae5797-a56d-416d-b84c-1a0b05ec7ced",
         "displayName": "おさめなルナ"
       },
@@ -3082,10 +3066,6 @@
       {
         "userId": "usr_1516ca40-edd5-4a55-aafd-0a9fef9e329d",
         "displayName": "Xyare"
-      },
-      {
-        "userId": "usr_b0a3f681-7113-4383-ac47-a47119fdf4ec",
-        "displayName": "yukiware"
       },
       {
         "userId": "usr_70ae5797-a56d-416d-b84c-1a0b05ec7ced",
@@ -3334,10 +3314,6 @@
         "displayName": "Xyare"
       },
       {
-        "userId": "usr_b0a3f681-7113-4383-ac47-a47119fdf4ec",
-        "displayName": "yukiware"
-      },
-      {
         "userId": "usr_70ae5797-a56d-416d-b84c-1a0b05ec7ced",
         "displayName": "おさめなルナ"
       },
@@ -3582,10 +3558,6 @@
       {
         "userId": "usr_1516ca40-edd5-4a55-aafd-0a9fef9e329d",
         "displayName": "Xyare"
-      },
-      {
-        "userId": "usr_b0a3f681-7113-4383-ac47-a47119fdf4ec",
-        "displayName": "yukiware"
       },
       {
         "userId": "usr_70ae5797-a56d-416d-b84c-1a0b05ec7ced",
