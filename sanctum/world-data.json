@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-05T05:01:03.393Z",
+  "generated": "2026-07-05T05:30:21.780Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -519,7 +519,7 @@
       },
       {
         "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
-        "displayName": "Upper Mgmt"
+        "displayName": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe"
       },
       {
         "userId": "usr_06aebe4f-e50c-46ef-a5d9-9dc6eb62d6d9",
@@ -1707,7 +1707,7 @@
       },
       {
         "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
-        "displayName": "Upper Mgmt"
+        "displayName": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe"
       },
       {
         "userId": "usr_44eb716d-9e13-4228-a839-14388eda6a10",
@@ -2059,7 +2059,7 @@
       },
       {
         "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
-        "displayName": "Upper Mgmt"
+        "displayName": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe"
       },
       {
         "userId": "usr_44eb716d-9e13-4228-a839-14388eda6a10",
@@ -2311,7 +2311,7 @@
       },
       {
         "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
-        "displayName": "Upper Mgmt"
+        "displayName": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe"
       },
       {
         "userId": "usr_44eb716d-9e13-4228-a839-14388eda6a10",
@@ -2561,7 +2561,7 @@
       },
       {
         "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
-        "displayName": "Upper Mgmt"
+        "displayName": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe"
       },
       {
         "userId": "usr_44eb716d-9e13-4228-a839-14388eda6a10",
@@ -2811,7 +2811,7 @@
       },
       {
         "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
-        "displayName": "Upper Mgmt"
+        "displayName": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe"
       },
       {
         "userId": "usr_44eb716d-9e13-4228-a839-14388eda6a10",
@@ -3061,7 +3061,7 @@
       },
       {
         "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
-        "displayName": "Upper Mgmt"
+        "displayName": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe"
       },
       {
         "userId": "usr_44eb716d-9e13-4228-a839-14388eda6a10",
@@ -3311,7 +3311,7 @@
       },
       {
         "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
-        "displayName": "Upper Mgmt"
+        "displayName": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe"
       },
       {
         "userId": "usr_44eb716d-9e13-4228-a839-14388eda6a10",
@@ -3561,7 +3561,7 @@
       },
       {
         "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
-        "displayName": "Upper Mgmt"
+        "displayName": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe"
       },
       {
         "userId": "usr_44eb716d-9e13-4228-a839-14388eda6a10",
@@ -3799,7 +3799,7 @@
       },
       {
         "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
-        "displayName": "Upper Mgmt"
+        "displayName": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe"
       },
       {
         "userId": "usr_44eb716d-9e13-4228-a839-14388eda6a10",
@@ -4033,7 +4033,7 @@
       },
       {
         "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
-        "displayName": "Upper Mgmt"
+        "displayName": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe"
       },
       {
         "userId": "usr_44eb716d-9e13-4228-a839-14388eda6a10",
@@ -4267,7 +4267,7 @@
       },
       {
         "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
-        "displayName": "Upper Mgmt"
+        "displayName": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe"
       },
       {
         "userId": "usr_44eb716d-9e13-4228-a839-14388eda6a10",
