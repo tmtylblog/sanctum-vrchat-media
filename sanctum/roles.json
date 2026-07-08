@@ -235,6 +235,10 @@
         "displayName": "Twilo"
       },
       {
+        "userId": "usr_853bcf72-6491-48df-a7f1-890a5bdc846c",
+        "displayName": "usr_853bcf72-6491-48df-a7f1-890a5bdc846c"
+      },
+      {
         "userId": "usr_44eb716d-9e13-4228-a839-14388eda6a10",
         "displayName": "Ｖ xo"
       },
@@ -295,10 +299,6 @@
       {
         "userId": "usr_5ec8b436-4c68-4421-a038-ce5788d43502",
         "displayName": "AcChosen"
-      },
-      {
-        "userId": "usr_af0f1a1f-0543-4182-a605-0c3ace8d27d9",
-        "displayName": "Ari Gold"
       },
       {
         "userId": "usr_617040d8-3560-497a-a38f-bdb274ba4ee5",
@@ -510,11 +510,25 @@
       },
       {
         "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
-        "displayName": "Upper Mgmt"
+        "displayName": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe"
       },
       {
         "userId": "usr_06aebe4f-e50c-46ef-a5d9-9dc6eb62d6d9",
         "displayName": "Vesturo"
+      }
+    ],
+    "Group Owner": [
+      {
+        "userId": "usr_5ec8b436-4c68-4421-a038-ce5788d43502",
+        "displayName": "AcChosen"
+      },
+      {
+        "userId": "usr_b8c1785e-fea6-4024-b536-c8ade20970aa",
+        "displayName": "Nyan-Cyan"
+      },
+      {
+        "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
+        "displayName": "Slothcast"
       }
     ],
     "Patron": [
@@ -569,10 +583,6 @@
         "displayName": "~ Envy ~"
       },
       {
-        "userId": "usr_c081386a-a891-4cda-8b85-ef94e13c3295",
-        "displayName": "~IzzyXO~"
-      },
-      {
         "userId": "usr_858425e8-5c0c-461b-af0c-77190bf7b4af",
         "displayName": "~Mathy~"
       },
@@ -613,10 +623,6 @@
         "displayName": "Ad Loud"
       },
       {
-        "userId": "usr_853bcf72-6491-48df-a7f1-890a5bdc846c",
-        "displayName": "AetheriosVR"
-      },
-      {
         "userId": "usr_5c3e6ced-1e79-40c0-80e6-887c6cb2e1f6",
         "displayName": "AFuxy"
       },
@@ -647,10 +653,6 @@
       {
         "userId": "usr_8031b8de-f6da-4c0e-a5b1-a2f50d2e757b",
         "displayName": "Aquaman56"
-      },
-      {
-        "userId": "usr_af0f1a1f-0543-4182-a605-0c3ace8d27d9",
-        "displayName": "Ari Gold"
       },
       {
         "userId": "usr_b56325f6-f494-4351-939f-7478db325657",
@@ -783,6 +785,10 @@
       {
         "userId": "usr_c34027ab-0b67-4bb9-a4eb-5dbe24dffd7f",
         "displayName": "Demrie"
+      },
+      {
+        "userId": "usr_1e037d79-d349-4ca8-a0f1-f8beca476056",
+        "displayName": "Depereo"
       },
       {
         "userId": "usr_cbd29fd0-a8eb-4cbe-a65d-0c58c9d445f4",
@@ -1125,6 +1131,10 @@
         "displayName": "MUZZ_"
       },
       {
+        "userId": "usr_c134ac92-e19d-4092-a61e-e1464999b7cf",
+        "displayName": "MythicalCuddles"
+      },
+      {
         "userId": "usr_5a98edcd-9632-465b-b2f9-e339b5dbba3e",
         "displayName": "N10A"
       },
@@ -1341,6 +1351,18 @@
         "displayName": "Twilo"
       },
       {
+        "userId": "usr_853bcf72-6491-48df-a7f1-890a5bdc846c",
+        "displayName": "usr_853bcf72-6491-48df-a7f1-890a5bdc846c"
+      },
+      {
+        "userId": "usr_af0f1a1f-0543-4182-a605-0c3ace8d27d9",
+        "displayName": "usr_af0f1a1f-0543-4182-a605-0c3ace8d27d9"
+      },
+      {
+        "userId": "usr_b0a3f681-7113-4383-ac47-a47119fdf4ec",
+        "displayName": "usr_b0a3f681-7113-4383-ac47-a47119fdf4ec"
+      },
+      {
         "userId": "usr_dea2b314-a7f9-4868-a56b-fe7fac9eb000",
         "displayName": "Utena222"
       },
@@ -1409,10 +1431,6 @@
         "displayName": "YngwieAnders"
       },
       {
-        "userId": "usr_b0a3f681-7113-4383-ac47-a47119fdf4ec",
-        "displayName": "yukiware"
-      },
-      {
         "userId": "usr_9d6b078c-fd46-45d9-9b2c-147409104c9d",
         "displayName": "yuno_ゆうの"
       },
@@ -1449,6 +1467,10 @@
         "displayName": "ささかまぼこ"
       },
       {
+        "userId": "usr_ea92af73-8b90-4383-a21c-8891b70f4601",
+        "displayName": "ツクヨミ`"
+      },
+      {
         "userId": "usr_e5442f04-94db-4332-9fa9-c8309cbf85fb",
         "displayName": "ハニーBEE"
       },
@@ -1479,20 +1501,6 @@
       {
         "userId": "usr_3ce2c796-bbe7-4add-b043-2ba5c0a77bf5",
         "displayName": "山丹尺ㄥ口尺刀"
-      }
-    ],
-    "Group Owner": [
-      {
-        "userId": "usr_5ec8b436-4c68-4421-a038-ce5788d43502",
-        "displayName": "AcChosen"
-      },
-      {
-        "userId": "usr_b8c1785e-fea6-4024-b536-c8ade20970aa",
-        "displayName": "Nyan-Cyan"
-      },
-      {
-        "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
-        "displayName": "Slothcast"
       }
     ],
     "Staff": [
@@ -1531,10 +1539,6 @@
       {
         "userId": "usr_172bd6d5-bbb9-4fb6-8fa5-dde88985fa06",
         "displayName": "AizenDove"
-      },
-      {
-        "userId": "usr_af0f1a1f-0543-4182-a605-0c3ace8d27d9",
-        "displayName": "Ari Gold"
       },
       {
         "userId": "usr_b56325f6-f494-4351-939f-7478db325657",
@@ -1694,7 +1698,7 @@
       },
       {
         "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
-        "displayName": "Upper Mgmt"
+        "displayName": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe"
       },
       {
         "userId": "usr_44eb716d-9e13-4228-a839-14388eda6a10",
@@ -1997,6 +2001,10 @@
         "displayName": "O_nO"
       },
       {
+        "userId": "usr_41791eed-19ca-40c7-9422-c33322bc5616",
+        "displayName": "OmegaSol"
+      },
+      {
         "userId": "usr_a97e6118-0a6d-4a96-9d29-d6690d33b2a0",
         "displayName": "PammeMatth"
       },
@@ -2046,7 +2054,7 @@
       },
       {
         "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
-        "displayName": "Upper Mgmt"
+        "displayName": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe"
       },
       {
         "userId": "usr_44eb716d-9e13-4228-a839-14388eda6a10",
@@ -2067,10 +2075,6 @@
       {
         "userId": "usr_1516ca40-edd5-4a55-aafd-0a9fef9e329d",
         "displayName": "Xyare"
-      },
-      {
-        "userId": "usr_b0a3f681-7113-4383-ac47-a47119fdf4ec",
-        "displayName": "yukiware"
       },
       {
         "userId": "usr_70ae5797-a56d-416d-b84c-1a0b05ec7ced",
@@ -2099,5 +2103,5 @@
     "Patron": "DISPLAY ONLY — Sanctum community members (Patron CommunityMemberRole). Use for name walls / credits, NOT for gating.",
     "Performer": "DISPLAY ONLY — Anyone with an active performance booking (event-performer/event-dancer staff role, or 21-day SlotTalent / DanceBlockDancer / EventStaff photographer/staff/streamer). Use for lineup / credits, NOT for gating."
   },
-  "generatedAt": "2026-07-04T01:42:08.298Z"
+  "generatedAt": "2026-07-08T02:16:22.703Z"
 }
