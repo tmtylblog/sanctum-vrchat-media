@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-09T21:01:05.078Z",
+  "generated": "2026-07-09T21:02:53.944Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -286,6 +286,10 @@
       {
         "userId": "usr_70ae5797-a56d-416d-b84c-1a0b05ec7ced",
         "displayName": "おさめなルナ"
+      },
+      {
+        "userId": "usr_ea92af73-8b90-4383-a21c-8891b70f4601",
+        "displayName": "ツクヨミ`"
       },
       {
         "userId": "usr_e5442f04-94db-4332-9fa9-c8309cbf85fb",
@@ -1746,6 +1750,10 @@
         "displayName": "おさめなルナ"
       },
       {
+        "userId": "usr_ea92af73-8b90-4383-a21c-8891b70f4601",
+        "displayName": "ツクヨミ`"
+      },
+      {
         "userId": "usr_e5442f04-94db-4332-9fa9-c8309cbf85fb",
         "displayName": "ハニーBEE"
       },
@@ -1854,6 +1862,10 @@
       {
         "userId": "usr_70ae5797-a56d-416d-b84c-1a0b05ec7ced",
         "displayName": "おさめなルナ"
+      },
+      {
+        "userId": "usr_ea92af73-8b90-4383-a21c-8891b70f4601",
+        "displayName": "ツクヨミ`"
       },
       {
         "userId": "usr_e5442f04-94db-4332-9fa9-c8309cbf85fb",
