@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-10T19:01:19.298Z",
+  "generated": "2026-07-10T20:01:19.185Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -24,6 +24,10 @@
         "displayName": "bit․howard"
       },
       {
+        "userId": "usr_975b1c0a-a0ab-4103-9935-c7caed002dab",
+        "displayName": "Cleo-Goth"
+      },
+      {
         "userId": "usr_244e6aab-8db8-4adf-854f-95d3e7361073",
         "displayName": "grutum"
       },
@@ -38,10 +42,6 @@
       {
         "userId": "usr_559867a8-bb61-4cc8-9ce5-b6af348ba794",
         "displayName": "Mikalía"
-      },
-      {
-        "userId": "usr_975b1c0a-a0ab-4103-9935-c7caed002dab",
-        "displayName": "Ʀeneડuccubus"
       },
       {
         "userId": "usr_14d3edef-6126-476e-9279-f03c1d4597a7",
