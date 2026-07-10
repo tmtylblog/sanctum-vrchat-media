@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-10T07:01:49.847Z",
+  "generated": "2026-07-10T07:30:29.979Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -148,10 +148,6 @@
         "displayName": "kіbu"
       },
       {
-        "userId": "usr_5336f8d4-8716-448f-a773-35196036b110",
-        "displayName": "Llamahat"
-      },
-      {
         "userId": "usr_e58c1ad3-358b-4b39-8fae-8de0df3522e0",
         "displayName": "Lorraine40t"
       },
@@ -246,6 +242,10 @@
       {
         "userId": "usr_4577038c-8ae4-4f2d-8745-73a480ee345d",
         "displayName": "usr_4577038c-8ae4-4f2d-8745-73a480ee345d"
+      },
+      {
+        "userId": "usr_5336f8d4-8716-448f-a773-35196036b110",
+        "displayName": "usr_5336f8d4-8716-448f-a773-35196036b110"
       },
       {
         "userId": "usr_853bcf72-6491-48df-a7f1-890a5bdc846c",
@@ -1036,10 +1036,6 @@
         "displayName": "Lince《りんす》"
       },
       {
-        "userId": "usr_5336f8d4-8716-448f-a773-35196036b110",
-        "displayName": "Llamahat"
-      },
-      {
         "userId": "usr_339f54fd-17d3-42ed-820f-7fb7c0b5ee08",
         "displayName": "Lobster"
       },
@@ -1368,6 +1364,10 @@
         "displayName": "usr_4577038c-8ae4-4f2d-8745-73a480ee345d"
       },
       {
+        "userId": "usr_5336f8d4-8716-448f-a773-35196036b110",
+        "displayName": "usr_5336f8d4-8716-448f-a773-35196036b110"
+      },
+      {
         "userId": "usr_853bcf72-6491-48df-a7f1-890a5bdc846c",
         "displayName": "usr_853bcf72-6491-48df-a7f1-890a5bdc846c"
       },
@@ -1650,10 +1650,6 @@
         "displayName": "kxa_dnb"
       },
       {
-        "userId": "usr_5336f8d4-8716-448f-a773-35196036b110",
-        "displayName": "Llamahat"
-      },
-      {
         "userId": "usr_ca1dbc7b-7b20-4f45-ba0c-28f70f0c583c",
         "displayName": "Luxifinity"
       },
@@ -1728,6 +1724,10 @@
       {
         "userId": "usr_4577038c-8ae4-4f2d-8745-73a480ee345d",
         "displayName": "usr_4577038c-8ae4-4f2d-8745-73a480ee345d"
+      },
+      {
+        "userId": "usr_5336f8d4-8716-448f-a773-35196036b110",
+        "displayName": "usr_5336f8d4-8716-448f-a773-35196036b110"
       },
       {
         "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
