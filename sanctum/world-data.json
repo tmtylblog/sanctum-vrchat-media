@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-10T00:31:16.610Z",
+  "generated": "2026-07-10T01:00:26.376Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -54,10 +54,6 @@
       {
         "userId": "usr_be1dd0fe-bac7-4a89-bf46-a1578e89b27d",
         "displayName": "5-HEX-7"
-      },
-      {
-        "userId": "usr_4577038c-8ae4-4f2d-8745-73a480ee345d",
-        "displayName": "Adri123478"
       },
       {
         "userId": "usr_172bd6d5-bbb9-4fb6-8fa5-dde88985fa06",
@@ -244,12 +240,20 @@
         "displayName": "usr_4521538e-a32c-41ac-9f98-ad987c52c412"
       },
       {
+        "userId": "usr_4577038c-8ae4-4f2d-8745-73a480ee345d",
+        "displayName": "usr_4577038c-8ae4-4f2d-8745-73a480ee345d"
+      },
+      {
         "userId": "usr_853bcf72-6491-48df-a7f1-890a5bdc846c",
         "displayName": "usr_853bcf72-6491-48df-a7f1-890a5bdc846c"
       },
       {
         "userId": "usr_bf8e369b-fce7-42ad-ba0c-e12eeae138f1",
         "displayName": "usr_bf8e369b-fce7-42ad-ba0c-e12eeae138f1"
+      },
+      {
+        "userId": "usr_ea92af73-8b90-4383-a21c-8891b70f4601",
+        "displayName": "usr_ea92af73-8b90-4383-a21c-8891b70f4601"
       },
       {
         "userId": "usr_44eb716d-9e13-4228-a839-14388eda6a10",
@@ -286,10 +290,6 @@
       {
         "userId": "usr_70ae5797-a56d-416d-b84c-1a0b05ec7ced",
         "displayName": "おさめなルナ"
-      },
-      {
-        "userId": "usr_ea92af73-8b90-4383-a21c-8891b70f4601",
-        "displayName": "ツクヨミ`"
       },
       {
         "userId": "usr_e5442f04-94db-4332-9fa9-c8309cbf85fb",
@@ -638,10 +638,6 @@
       {
         "userId": "usr_dd4d2e1e-20a5-40bb-8ae4-bb83210215e0",
         "displayName": "Ad Loud"
-      },
-      {
-        "userId": "usr_4577038c-8ae4-4f2d-8745-73a480ee345d",
-        "displayName": "Adri123478"
       },
       {
         "userId": "usr_5c3e6ced-1e79-40c0-80e6-887c6cb2e1f6",
@@ -1364,6 +1360,10 @@
         "displayName": "usr_4521538e-a32c-41ac-9f98-ad987c52c412"
       },
       {
+        "userId": "usr_4577038c-8ae4-4f2d-8745-73a480ee345d",
+        "displayName": "usr_4577038c-8ae4-4f2d-8745-73a480ee345d"
+      },
+      {
         "userId": "usr_853bcf72-6491-48df-a7f1-890a5bdc846c",
         "displayName": "usr_853bcf72-6491-48df-a7f1-890a5bdc846c"
       },
@@ -1378,6 +1378,10 @@
       {
         "userId": "usr_bf8e369b-fce7-42ad-ba0c-e12eeae138f1",
         "displayName": "usr_bf8e369b-fce7-42ad-ba0c-e12eeae138f1"
+      },
+      {
+        "userId": "usr_ea92af73-8b90-4383-a21c-8891b70f4601",
+        "displayName": "usr_ea92af73-8b90-4383-a21c-8891b70f4601"
       },
       {
         "userId": "usr_eb0ce18d-6788-499e-a117-f066252215a0",
@@ -1488,10 +1492,6 @@
         "displayName": "ささかまぼこ"
       },
       {
-        "userId": "usr_ea92af73-8b90-4383-a21c-8891b70f4601",
-        "displayName": "ツクヨミ`"
-      },
-      {
         "userId": "usr_e5442f04-94db-4332-9fa9-c8309cbf85fb",
         "displayName": "ハニーBEE"
       },
@@ -1556,10 +1556,6 @@
       {
         "userId": "usr_5ec8b436-4c68-4421-a038-ce5788d43502",
         "displayName": "AcChosen"
-      },
-      {
-        "userId": "usr_4577038c-8ae4-4f2d-8745-73a480ee345d",
-        "displayName": "Adri123478"
       },
       {
         "userId": "usr_172bd6d5-bbb9-4fb6-8fa5-dde88985fa06",
@@ -1722,8 +1718,16 @@
         "displayName": "usr_4521538e-a32c-41ac-9f98-ad987c52c412"
       },
       {
+        "userId": "usr_4577038c-8ae4-4f2d-8745-73a480ee345d",
+        "displayName": "usr_4577038c-8ae4-4f2d-8745-73a480ee345d"
+      },
+      {
         "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
         "displayName": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe"
+      },
+      {
+        "userId": "usr_ea92af73-8b90-4383-a21c-8891b70f4601",
+        "displayName": "usr_ea92af73-8b90-4383-a21c-8891b70f4601"
       },
       {
         "userId": "usr_44eb716d-9e13-4228-a839-14388eda6a10",
@@ -1748,10 +1752,6 @@
       {
         "userId": "usr_70ae5797-a56d-416d-b84c-1a0b05ec7ced",
         "displayName": "おさめなルナ"
-      },
-      {
-        "userId": "usr_ea92af73-8b90-4383-a21c-8891b70f4601",
-        "displayName": "ツクヨミ`"
       },
       {
         "userId": "usr_e5442f04-94db-4332-9fa9-c8309cbf85fb",
@@ -1844,6 +1844,10 @@
         "displayName": "usr_4521538e-a32c-41ac-9f98-ad987c52c412"
       },
       {
+        "userId": "usr_ea92af73-8b90-4383-a21c-8891b70f4601",
+        "displayName": "usr_ea92af73-8b90-4383-a21c-8891b70f4601"
+      },
+      {
         "userId": "usr_44eb716d-9e13-4228-a839-14388eda6a10",
         "displayName": "Ｖ xo"
       },
@@ -1862,10 +1866,6 @@
       {
         "userId": "usr_70ae5797-a56d-416d-b84c-1a0b05ec7ced",
         "displayName": "おさめなルナ"
-      },
-      {
-        "userId": "usr_ea92af73-8b90-4383-a21c-8891b70f4601",
-        "displayName": "ツクヨミ`"
       },
       {
         "userId": "usr_e5442f04-94db-4332-9fa9-c8309cbf85fb",
