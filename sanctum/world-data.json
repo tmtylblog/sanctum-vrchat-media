@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-11T16:31:05.922Z",
+  "generated": "2026-07-11T16:31:52.169Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -60,6 +60,10 @@
         "displayName": "Adri123478"
       },
       {
+        "userId": "usr_853bcf72-6491-48df-a7f1-890a5bdc846c",
+        "displayName": "AetheriosVR"
+      },
+      {
         "userId": "usr_172bd6d5-bbb9-4fb6-8fa5-dde88985fa06",
         "displayName": "AizenDove"
       },
@@ -94,6 +98,10 @@
       {
         "userId": "usr_7811a5b3-e523-452a-b35c-dc3118543542",
         "displayName": "Candid_Tear"
+      },
+      {
+        "userId": "usr_d6aaf581-260e-474b-b4ee-02049dd0a9a9",
+        "displayName": "Dark~Matter"
       },
       {
         "userId": "usr_6f516a79-b3b1-4345-bc88-71a5bab77877",
@@ -248,14 +256,6 @@
         "displayName": "usr_4521538e-a32c-41ac-9f98-ad987c52c412"
       },
       {
-        "userId": "usr_853bcf72-6491-48df-a7f1-890a5bdc846c",
-        "displayName": "usr_853bcf72-6491-48df-a7f1-890a5bdc846c"
-      },
-      {
-        "userId": "usr_d6aaf581-260e-474b-b4ee-02049dd0a9a9",
-        "displayName": "usr_d6aaf581-260e-474b-b4ee-02049dd0a9a9"
-      },
-      {
         "userId": "usr_44eb716d-9e13-4228-a839-14388eda6a10",
         "displayName": "Ｖ xo"
       },
@@ -298,6 +298,76 @@
       {
         "userId": "usr_e5442f04-94db-4332-9fa9-c8309cbf85fb",
         "displayName": "ハニーBEE"
+      }
+    ],
+    "Moderator": [
+      {
+        "userId": "usr_c5de53c5-61da-4d19-b942-a9dd14e3343e",
+        "displayName": "_Silent"
+      },
+      {
+        "userId": "usr_858425e8-5c0c-461b-af0c-77190bf7b4af",
+        "displayName": "~Mathy~"
+      },
+      {
+        "userId": "usr_fc1164d5-baab-489a-a59a-6ad52dafb3c8",
+        "displayName": "CablesOnline"
+      },
+      {
+        "userId": "usr_06827b9e-5e46-494a-b26c-926c24dc4420",
+        "displayName": "domebot1"
+      },
+      {
+        "userId": "usr_de2a1378-8583-46ac-9c20-559f6e72639d",
+        "displayName": "domebot2"
+      },
+      {
+        "userId": "usr_4d7a2386-6085-4013-ba6a-bb76ed47badb",
+        "displayName": "Gaming Skoot"
+      },
+      {
+        "userId": "usr_c0f7de09-60c5-4eb0-b6bc-e18a1b873bc4",
+        "displayName": "JustARandom_"
+      },
+      {
+        "userId": "usr_7fb63252-1681-4a5f-9fe6-31b75193fa27",
+        "displayName": "kohadachan"
+      },
+      {
+        "userId": "usr_ca1dbc7b-7b20-4f45-ba0c-28f70f0c583c",
+        "displayName": "Luxifinity"
+      },
+      {
+        "userId": "usr_589a479b-80cf-42c4-92e4-63cbd900a82b",
+        "displayName": "Rain_Iwa"
+      },
+      {
+        "userId": "usr_fb022c9b-3d0b-40b7-a5bb-b903551d541a",
+        "displayName": "rei_reika"
+      },
+      {
+        "userId": "usr_3c4a1003-2237-4e1d-be0e-bb71ef6480b0",
+        "displayName": "susperia"
+      },
+      {
+        "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
+        "displayName": "Twilo"
+      },
+      {
+        "userId": "usr_06aebe4f-e50c-46ef-a5d9-9dc6eb62d6d9",
+        "displayName": "Vesturo"
+      },
+      {
+        "userId": "usr_ffc409e3-0aad-41e1-8159-8a813f71e79e",
+        "displayName": "witherdWhisper"
+      },
+      {
+        "userId": "usr_fa3b49a2-d50c-46e8-bc21-5ceec9fa1e73",
+        "displayName": "ღ ZEM ღ"
+      },
+      {
+        "userId": "usr_3b40e78a-460f-44a3-bea1-4593a96c2c39",
+        "displayName": "よる_yoru"
       }
     ],
     "Host": [
@@ -420,76 +490,6 @@
       {
         "userId": "usr_1516ca40-edd5-4a55-aafd-0a9fef9e329d",
         "displayName": "Xyare"
-      }
-    ],
-    "Moderator": [
-      {
-        "userId": "usr_c5de53c5-61da-4d19-b942-a9dd14e3343e",
-        "displayName": "_Silent"
-      },
-      {
-        "userId": "usr_858425e8-5c0c-461b-af0c-77190bf7b4af",
-        "displayName": "~Mathy~"
-      },
-      {
-        "userId": "usr_fc1164d5-baab-489a-a59a-6ad52dafb3c8",
-        "displayName": "CablesOnline"
-      },
-      {
-        "userId": "usr_06827b9e-5e46-494a-b26c-926c24dc4420",
-        "displayName": "domebot1"
-      },
-      {
-        "userId": "usr_de2a1378-8583-46ac-9c20-559f6e72639d",
-        "displayName": "domebot2"
-      },
-      {
-        "userId": "usr_4d7a2386-6085-4013-ba6a-bb76ed47badb",
-        "displayName": "Gaming Skoot"
-      },
-      {
-        "userId": "usr_c0f7de09-60c5-4eb0-b6bc-e18a1b873bc4",
-        "displayName": "JustARandom_"
-      },
-      {
-        "userId": "usr_7fb63252-1681-4a5f-9fe6-31b75193fa27",
-        "displayName": "kohadachan"
-      },
-      {
-        "userId": "usr_ca1dbc7b-7b20-4f45-ba0c-28f70f0c583c",
-        "displayName": "Luxifinity"
-      },
-      {
-        "userId": "usr_589a479b-80cf-42c4-92e4-63cbd900a82b",
-        "displayName": "Rain_Iwa"
-      },
-      {
-        "userId": "usr_fb022c9b-3d0b-40b7-a5bb-b903551d541a",
-        "displayName": "rei_reika"
-      },
-      {
-        "userId": "usr_3c4a1003-2237-4e1d-be0e-bb71ef6480b0",
-        "displayName": "susperia"
-      },
-      {
-        "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
-        "displayName": "Twilo"
-      },
-      {
-        "userId": "usr_06aebe4f-e50c-46ef-a5d9-9dc6eb62d6d9",
-        "displayName": "Vesturo"
-      },
-      {
-        "userId": "usr_ffc409e3-0aad-41e1-8159-8a813f71e79e",
-        "displayName": "witherdWhisper"
-      },
-      {
-        "userId": "usr_fa3b49a2-d50c-46e8-bc21-5ceec9fa1e73",
-        "displayName": "ღ ZEM ღ"
-      },
-      {
-        "userId": "usr_3b40e78a-460f-44a3-bea1-4593a96c2c39",
-        "displayName": "よる_yoru"
       }
     ],
     "Admin": [
@@ -648,6 +648,10 @@
         "displayName": "Adri123478"
       },
       {
+        "userId": "usr_853bcf72-6491-48df-a7f1-890a5bdc846c",
+        "displayName": "AetheriosVR"
+      },
+      {
         "userId": "usr_5c3e6ced-1e79-40c0-80e6-887c6cb2e1f6",
         "displayName": "AFuxy"
       },
@@ -678,6 +682,10 @@
       {
         "userId": "usr_8031b8de-f6da-4c0e-a5b1-a2f50d2e757b",
         "displayName": "Aquaman56"
+      },
+      {
+        "userId": "usr_af0f1a1f-0543-4182-a605-0c3ace8d27d9",
+        "displayName": "Ari Gold"
       },
       {
         "userId": "usr_b56325f6-f494-4351-939f-7478db325657",
@@ -1192,6 +1200,10 @@
         "displayName": "O_nO"
       },
       {
+        "userId": "usr_41791eed-19ca-40c7-9422-c33322bc5616",
+        "displayName": "OmegaSol"
+      },
+      {
         "userId": "usr_a97e6118-0a6d-4a96-9d29-d6690d33b2a0",
         "displayName": "PammeMatth"
       },
@@ -1254,6 +1266,10 @@
       {
         "userId": "usr_39bf97d2-c64b-4ceb-bdb1-961dcf8a9d39",
         "displayName": "RocioCereal"
+      },
+      {
+        "userId": "usr_04895f04-4b97-42ae-b0dd-10a252b95752",
+        "displayName": "Rossi_Tomus"
       },
       {
         "userId": "usr_0bb65b76-546e-4582-870b-a0ffc22139e8",
@@ -1356,28 +1372,12 @@
         "displayName": "Twilo"
       },
       {
-        "userId": "usr_04895f04-4b97-42ae-b0dd-10a252b95752",
-        "displayName": "usr_04895f04-4b97-42ae-b0dd-10a252b95752"
-      },
-      {
         "userId": "usr_2a252346-c74a-4452-910c-ce3c960005b9",
         "displayName": "usr_2a252346-c74a-4452-910c-ce3c960005b9"
       },
       {
-        "userId": "usr_41791eed-19ca-40c7-9422-c33322bc5616",
-        "displayName": "usr_41791eed-19ca-40c7-9422-c33322bc5616"
-      },
-      {
         "userId": "usr_4521538e-a32c-41ac-9f98-ad987c52c412",
         "displayName": "usr_4521538e-a32c-41ac-9f98-ad987c52c412"
-      },
-      {
-        "userId": "usr_853bcf72-6491-48df-a7f1-890a5bdc846c",
-        "displayName": "usr_853bcf72-6491-48df-a7f1-890a5bdc846c"
-      },
-      {
-        "userId": "usr_af0f1a1f-0543-4182-a605-0c3ace8d27d9",
-        "displayName": "usr_af0f1a1f-0543-4182-a605-0c3ace8d27d9"
       },
       {
         "userId": "usr_b0a3f681-7113-4383-ac47-a47119fdf4ec",
@@ -2042,6 +2042,10 @@
         "displayName": "O_nO"
       },
       {
+        "userId": "usr_41791eed-19ca-40c7-9422-c33322bc5616",
+        "displayName": "OmegaSol"
+      },
+      {
         "userId": "usr_a97e6118-0a6d-4a96-9d29-d6690d33b2a0",
         "displayName": "PammeMatth"
       },
@@ -2084,10 +2088,6 @@
       {
         "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
         "displayName": "Twilo"
-      },
-      {
-        "userId": "usr_41791eed-19ca-40c7-9422-c33322bc5616",
-        "displayName": "usr_41791eed-19ca-40c7-9422-c33322bc5616"
       },
       {
         "userId": "usr_4521538e-a32c-41ac-9f98-ad987c52c412",
@@ -2294,6 +2294,10 @@
         "displayName": "O_nO"
       },
       {
+        "userId": "usr_41791eed-19ca-40c7-9422-c33322bc5616",
+        "displayName": "OmegaSol"
+      },
+      {
         "userId": "usr_a97e6118-0a6d-4a96-9d29-d6690d33b2a0",
         "displayName": "PammeMatth"
       },
@@ -2336,10 +2340,6 @@
       {
         "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
         "displayName": "Twilo"
-      },
-      {
-        "userId": "usr_41791eed-19ca-40c7-9422-c33322bc5616",
-        "displayName": "usr_41791eed-19ca-40c7-9422-c33322bc5616"
       },
       {
         "userId": "usr_4521538e-a32c-41ac-9f98-ad987c52c412",
@@ -2544,6 +2544,10 @@
         "displayName": "O_nO"
       },
       {
+        "userId": "usr_41791eed-19ca-40c7-9422-c33322bc5616",
+        "displayName": "OmegaSol"
+      },
+      {
         "userId": "usr_a97e6118-0a6d-4a96-9d29-d6690d33b2a0",
         "displayName": "PammeMatth"
       },
@@ -2586,10 +2590,6 @@
       {
         "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
         "displayName": "Twilo"
-      },
-      {
-        "userId": "usr_41791eed-19ca-40c7-9422-c33322bc5616",
-        "displayName": "usr_41791eed-19ca-40c7-9422-c33322bc5616"
       },
       {
         "userId": "usr_4521538e-a32c-41ac-9f98-ad987c52c412",
@@ -2794,6 +2794,10 @@
         "displayName": "O_nO"
       },
       {
+        "userId": "usr_41791eed-19ca-40c7-9422-c33322bc5616",
+        "displayName": "OmegaSol"
+      },
+      {
         "userId": "usr_a97e6118-0a6d-4a96-9d29-d6690d33b2a0",
         "displayName": "PammeMatth"
       },
@@ -2836,10 +2840,6 @@
       {
         "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
         "displayName": "Twilo"
-      },
-      {
-        "userId": "usr_41791eed-19ca-40c7-9422-c33322bc5616",
-        "displayName": "usr_41791eed-19ca-40c7-9422-c33322bc5616"
       },
       {
         "userId": "usr_4521538e-a32c-41ac-9f98-ad987c52c412",
@@ -3044,6 +3044,10 @@
         "displayName": "O_nO"
       },
       {
+        "userId": "usr_41791eed-19ca-40c7-9422-c33322bc5616",
+        "displayName": "OmegaSol"
+      },
+      {
         "userId": "usr_a97e6118-0a6d-4a96-9d29-d6690d33b2a0",
         "displayName": "PammeMatth"
       },
@@ -3086,10 +3090,6 @@
       {
         "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
         "displayName": "Twilo"
-      },
-      {
-        "userId": "usr_41791eed-19ca-40c7-9422-c33322bc5616",
-        "displayName": "usr_41791eed-19ca-40c7-9422-c33322bc5616"
       },
       {
         "userId": "usr_4521538e-a32c-41ac-9f98-ad987c52c412",
@@ -3294,6 +3294,10 @@
         "displayName": "O_nO"
       },
       {
+        "userId": "usr_41791eed-19ca-40c7-9422-c33322bc5616",
+        "displayName": "OmegaSol"
+      },
+      {
         "userId": "usr_a97e6118-0a6d-4a96-9d29-d6690d33b2a0",
         "displayName": "PammeMatth"
       },
@@ -3336,10 +3340,6 @@
       {
         "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
         "displayName": "Twilo"
-      },
-      {
-        "userId": "usr_41791eed-19ca-40c7-9422-c33322bc5616",
-        "displayName": "usr_41791eed-19ca-40c7-9422-c33322bc5616"
       },
       {
         "userId": "usr_4521538e-a32c-41ac-9f98-ad987c52c412",
@@ -3544,6 +3544,10 @@
         "displayName": "O_nO"
       },
       {
+        "userId": "usr_41791eed-19ca-40c7-9422-c33322bc5616",
+        "displayName": "OmegaSol"
+      },
+      {
         "userId": "usr_a97e6118-0a6d-4a96-9d29-d6690d33b2a0",
         "displayName": "PammeMatth"
       },
@@ -3586,10 +3590,6 @@
       {
         "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
         "displayName": "Twilo"
-      },
-      {
-        "userId": "usr_41791eed-19ca-40c7-9422-c33322bc5616",
-        "displayName": "usr_41791eed-19ca-40c7-9422-c33322bc5616"
       },
       {
         "userId": "usr_4521538e-a32c-41ac-9f98-ad987c52c412",
@@ -3782,6 +3782,10 @@
         "displayName": "O_nO"
       },
       {
+        "userId": "usr_41791eed-19ca-40c7-9422-c33322bc5616",
+        "displayName": "OmegaSol"
+      },
+      {
         "userId": "usr_a97e6118-0a6d-4a96-9d29-d6690d33b2a0",
         "displayName": "PammeMatth"
       },
@@ -3824,10 +3828,6 @@
       {
         "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
         "displayName": "Twilo"
-      },
-      {
-        "userId": "usr_41791eed-19ca-40c7-9422-c33322bc5616",
-        "displayName": "usr_41791eed-19ca-40c7-9422-c33322bc5616"
       },
       {
         "userId": "usr_4521538e-a32c-41ac-9f98-ad987c52c412",
@@ -4020,6 +4020,10 @@
         "displayName": "O_nO"
       },
       {
+        "userId": "usr_41791eed-19ca-40c7-9422-c33322bc5616",
+        "displayName": "OmegaSol"
+      },
+      {
         "userId": "usr_a97e6118-0a6d-4a96-9d29-d6690d33b2a0",
         "displayName": "PammeMatth"
       },
@@ -4062,10 +4066,6 @@
       {
         "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
         "displayName": "Twilo"
-      },
-      {
-        "userId": "usr_41791eed-19ca-40c7-9422-c33322bc5616",
-        "displayName": "usr_41791eed-19ca-40c7-9422-c33322bc5616"
       },
       {
         "userId": "usr_4521538e-a32c-41ac-9f98-ad987c52c412",
@@ -4258,6 +4258,10 @@
         "displayName": "O_nO"
       },
       {
+        "userId": "usr_41791eed-19ca-40c7-9422-c33322bc5616",
+        "displayName": "OmegaSol"
+      },
+      {
         "userId": "usr_a97e6118-0a6d-4a96-9d29-d6690d33b2a0",
         "displayName": "PammeMatth"
       },
@@ -4300,10 +4304,6 @@
       {
         "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
         "displayName": "Twilo"
-      },
-      {
-        "userId": "usr_41791eed-19ca-40c7-9422-c33322bc5616",
-        "displayName": "usr_41791eed-19ca-40c7-9422-c33322bc5616"
       },
       {
         "userId": "usr_4521538e-a32c-41ac-9f98-ad987c52c412",
