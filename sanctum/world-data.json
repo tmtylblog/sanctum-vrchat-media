@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-11T16:06:25.203Z",
+  "generated": "2026-07-11T16:30:38.718Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -54,6 +54,10 @@
       {
         "userId": "usr_be1dd0fe-bac7-4a89-bf46-a1578e89b27d",
         "displayName": "5-HEX-7"
+      },
+      {
+        "userId": "usr_4577038c-8ae4-4f2d-8745-73a480ee345d",
+        "displayName": "Adri123478"
       },
       {
         "userId": "usr_172bd6d5-bbb9-4fb6-8fa5-dde88985fa06",
@@ -124,6 +128,10 @@
         "displayName": "Hackebein"
       },
       {
+        "userId": "usr_bf8e369b-fce7-42ad-ba0c-e12eeae138f1",
+        "displayName": "Jackit_DJ"
+      },
+      {
         "userId": "usr_dcb302e4-fea9-498b-accb-90f62e95b02f",
         "displayName": "Jᴜzo"
       },
@@ -144,12 +152,20 @@
         "displayName": "kіbu"
       },
       {
+        "userId": "usr_5336f8d4-8716-448f-a773-35196036b110",
+        "displayName": "Llamahat"
+      },
+      {
         "userId": "usr_e58c1ad3-358b-4b39-8fae-8de0df3522e0",
         "displayName": "Lorraine40t"
       },
       {
         "userId": "usr_20bac76a-2dd3-4ba5-b09d-ab6b82e626da",
         "displayName": "Lovely Yumi"
+      },
+      {
+        "userId": "usr_20440d0b-9a96-4eaf-8b05-58d48a803b21",
+        "displayName": "Maru-17"
       },
       {
         "userId": "usr_06ba118b-3579-4307-b57f-c41dcf0438de",
@@ -228,36 +244,16 @@
         "displayName": "Twilo"
       },
       {
-        "userId": "usr_20440d0b-9a96-4eaf-8b05-58d48a803b21",
-        "displayName": "usr_20440d0b-9a96-4eaf-8b05-58d48a803b21"
-      },
-      {
         "userId": "usr_4521538e-a32c-41ac-9f98-ad987c52c412",
         "displayName": "usr_4521538e-a32c-41ac-9f98-ad987c52c412"
-      },
-      {
-        "userId": "usr_4577038c-8ae4-4f2d-8745-73a480ee345d",
-        "displayName": "usr_4577038c-8ae4-4f2d-8745-73a480ee345d"
-      },
-      {
-        "userId": "usr_5336f8d4-8716-448f-a773-35196036b110",
-        "displayName": "usr_5336f8d4-8716-448f-a773-35196036b110"
       },
       {
         "userId": "usr_853bcf72-6491-48df-a7f1-890a5bdc846c",
         "displayName": "usr_853bcf72-6491-48df-a7f1-890a5bdc846c"
       },
       {
-        "userId": "usr_bf8e369b-fce7-42ad-ba0c-e12eeae138f1",
-        "displayName": "usr_bf8e369b-fce7-42ad-ba0c-e12eeae138f1"
-      },
-      {
         "userId": "usr_d6aaf581-260e-474b-b4ee-02049dd0a9a9",
         "displayName": "usr_d6aaf581-260e-474b-b4ee-02049dd0a9a9"
-      },
-      {
-        "userId": "usr_ea92af73-8b90-4383-a21c-8891b70f4601",
-        "displayName": "usr_ea92af73-8b90-4383-a21c-8891b70f4601"
       },
       {
         "userId": "usr_44eb716d-9e13-4228-a839-14388eda6a10",
@@ -294,6 +290,10 @@
       {
         "userId": "usr_70ae5797-a56d-416d-b84c-1a0b05ec7ced",
         "displayName": "おさめなルナ"
+      },
+      {
+        "userId": "usr_ea92af73-8b90-4383-a21c-8891b70f4601",
+        "displayName": "ツクヨミ`"
       },
       {
         "userId": "usr_e5442f04-94db-4332-9fa9-c8309cbf85fb",
@@ -644,6 +644,10 @@
         "displayName": "Ad Loud"
       },
       {
+        "userId": "usr_4577038c-8ae4-4f2d-8745-73a480ee345d",
+        "displayName": "Adri123478"
+      },
+      {
         "userId": "usr_5c3e6ced-1e79-40c0-80e6-887c6cb2e1f6",
         "displayName": "AFuxy"
       },
@@ -948,6 +952,10 @@
         "displayName": "ItsCube"
       },
       {
+        "userId": "usr_bf8e369b-fce7-42ad-ba0c-e12eeae138f1",
+        "displayName": "Jackit_DJ"
+      },
+      {
         "userId": "usr_f8ceabc3-5ba5-4ef5-a45f-f917d48bb93b",
         "displayName": "Jere."
       },
@@ -1036,6 +1044,10 @@
         "displayName": "Lince《りんす》"
       },
       {
+        "userId": "usr_5336f8d4-8716-448f-a773-35196036b110",
+        "displayName": "Llamahat"
+      },
+      {
         "userId": "usr_339f54fd-17d3-42ed-820f-7fb7c0b5ee08",
         "displayName": "Lobster"
       },
@@ -1078,6 +1090,10 @@
       {
         "userId": "usr_656871b2-9c99-4dbd-a3aa-2a85fc720889",
         "displayName": "Martinoz"
+      },
+      {
+        "userId": "usr_20440d0b-9a96-4eaf-8b05-58d48a803b21",
+        "displayName": "Maru-17"
       },
       {
         "userId": "usr_ec9a1561-1e7e-4772-9d6d-36566046d0e7",
@@ -1344,10 +1360,6 @@
         "displayName": "usr_04895f04-4b97-42ae-b0dd-10a252b95752"
       },
       {
-        "userId": "usr_20440d0b-9a96-4eaf-8b05-58d48a803b21",
-        "displayName": "usr_20440d0b-9a96-4eaf-8b05-58d48a803b21"
-      },
-      {
         "userId": "usr_2a252346-c74a-4452-910c-ce3c960005b9",
         "displayName": "usr_2a252346-c74a-4452-910c-ce3c960005b9"
       },
@@ -1360,14 +1372,6 @@
         "displayName": "usr_4521538e-a32c-41ac-9f98-ad987c52c412"
       },
       {
-        "userId": "usr_4577038c-8ae4-4f2d-8745-73a480ee345d",
-        "displayName": "usr_4577038c-8ae4-4f2d-8745-73a480ee345d"
-      },
-      {
-        "userId": "usr_5336f8d4-8716-448f-a773-35196036b110",
-        "displayName": "usr_5336f8d4-8716-448f-a773-35196036b110"
-      },
-      {
         "userId": "usr_853bcf72-6491-48df-a7f1-890a5bdc846c",
         "displayName": "usr_853bcf72-6491-48df-a7f1-890a5bdc846c"
       },
@@ -1378,14 +1382,6 @@
       {
         "userId": "usr_b0a3f681-7113-4383-ac47-a47119fdf4ec",
         "displayName": "usr_b0a3f681-7113-4383-ac47-a47119fdf4ec"
-      },
-      {
-        "userId": "usr_bf8e369b-fce7-42ad-ba0c-e12eeae138f1",
-        "displayName": "usr_bf8e369b-fce7-42ad-ba0c-e12eeae138f1"
-      },
-      {
-        "userId": "usr_ea92af73-8b90-4383-a21c-8891b70f4601",
-        "displayName": "usr_ea92af73-8b90-4383-a21c-8891b70f4601"
       },
       {
         "userId": "usr_eb0ce18d-6788-499e-a117-f066252215a0",
@@ -1496,6 +1492,10 @@
         "displayName": "ささかまぼこ"
       },
       {
+        "userId": "usr_ea92af73-8b90-4383-a21c-8891b70f4601",
+        "displayName": "ツクヨミ`"
+      },
+      {
         "userId": "usr_e5442f04-94db-4332-9fa9-c8309cbf85fb",
         "displayName": "ハニーBEE"
       },
@@ -1560,6 +1560,10 @@
       {
         "userId": "usr_5ec8b436-4c68-4421-a038-ce5788d43502",
         "displayName": "AcChosen"
+      },
+      {
+        "userId": "usr_4577038c-8ae4-4f2d-8745-73a480ee345d",
+        "displayName": "Adri123478"
       },
       {
         "userId": "usr_172bd6d5-bbb9-4fb6-8fa5-dde88985fa06",
@@ -1650,8 +1654,16 @@
         "displayName": "kxa_dnb"
       },
       {
+        "userId": "usr_5336f8d4-8716-448f-a773-35196036b110",
+        "displayName": "Llamahat"
+      },
+      {
         "userId": "usr_ca1dbc7b-7b20-4f45-ba0c-28f70f0c583c",
         "displayName": "Luxifinity"
+      },
+      {
+        "userId": "usr_20440d0b-9a96-4eaf-8b05-58d48a803b21",
+        "displayName": "Maru-17"
       },
       {
         "userId": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b",
@@ -1714,28 +1726,12 @@
         "displayName": "Twilo"
       },
       {
-        "userId": "usr_20440d0b-9a96-4eaf-8b05-58d48a803b21",
-        "displayName": "usr_20440d0b-9a96-4eaf-8b05-58d48a803b21"
-      },
-      {
         "userId": "usr_4521538e-a32c-41ac-9f98-ad987c52c412",
         "displayName": "usr_4521538e-a32c-41ac-9f98-ad987c52c412"
       },
       {
-        "userId": "usr_4577038c-8ae4-4f2d-8745-73a480ee345d",
-        "displayName": "usr_4577038c-8ae4-4f2d-8745-73a480ee345d"
-      },
-      {
-        "userId": "usr_5336f8d4-8716-448f-a773-35196036b110",
-        "displayName": "usr_5336f8d4-8716-448f-a773-35196036b110"
-      },
-      {
         "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
         "displayName": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe"
-      },
-      {
-        "userId": "usr_ea92af73-8b90-4383-a21c-8891b70f4601",
-        "displayName": "usr_ea92af73-8b90-4383-a21c-8891b70f4601"
       },
       {
         "userId": "usr_44eb716d-9e13-4228-a839-14388eda6a10",
@@ -1760,6 +1756,10 @@
       {
         "userId": "usr_70ae5797-a56d-416d-b84c-1a0b05ec7ced",
         "displayName": "おさめなルナ"
+      },
+      {
+        "userId": "usr_ea92af73-8b90-4383-a21c-8891b70f4601",
+        "displayName": "ツクヨミ`"
       },
       {
         "userId": "usr_e5442f04-94db-4332-9fa9-c8309cbf85fb",
@@ -1828,6 +1828,10 @@
         "displayName": "Jᴜzo"
       },
       {
+        "userId": "usr_20440d0b-9a96-4eaf-8b05-58d48a803b21",
+        "displayName": "Maru-17"
+      },
+      {
         "userId": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b",
         "displayName": "Mixieǃ"
       },
@@ -1844,16 +1848,8 @@
         "displayName": "SoftlySteph"
       },
       {
-        "userId": "usr_20440d0b-9a96-4eaf-8b05-58d48a803b21",
-        "displayName": "usr_20440d0b-9a96-4eaf-8b05-58d48a803b21"
-      },
-      {
         "userId": "usr_4521538e-a32c-41ac-9f98-ad987c52c412",
         "displayName": "usr_4521538e-a32c-41ac-9f98-ad987c52c412"
-      },
-      {
-        "userId": "usr_ea92af73-8b90-4383-a21c-8891b70f4601",
-        "displayName": "usr_ea92af73-8b90-4383-a21c-8891b70f4601"
       },
       {
         "userId": "usr_44eb716d-9e13-4228-a839-14388eda6a10",
@@ -1874,6 +1870,10 @@
       {
         "userId": "usr_70ae5797-a56d-416d-b84c-1a0b05ec7ced",
         "displayName": "おさめなルナ"
+      },
+      {
+        "userId": "usr_ea92af73-8b90-4383-a21c-8891b70f4601",
+        "displayName": "ツクヨミ`"
       },
       {
         "userId": "usr_e5442f04-94db-4332-9fa9-c8309cbf85fb",
@@ -2022,6 +2022,10 @@
         "displayName": "Luxifinity"
       },
       {
+        "userId": "usr_20440d0b-9a96-4eaf-8b05-58d48a803b21",
+        "displayName": "Maru-17"
+      },
+      {
         "userId": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b",
         "displayName": "Mixieǃ"
       },
@@ -2080,10 +2084,6 @@
       {
         "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
         "displayName": "Twilo"
-      },
-      {
-        "userId": "usr_20440d0b-9a96-4eaf-8b05-58d48a803b21",
-        "displayName": "usr_20440d0b-9a96-4eaf-8b05-58d48a803b21"
       },
       {
         "userId": "usr_41791eed-19ca-40c7-9422-c33322bc5616",
@@ -2274,6 +2274,10 @@
         "displayName": "Luxifinity"
       },
       {
+        "userId": "usr_20440d0b-9a96-4eaf-8b05-58d48a803b21",
+        "displayName": "Maru-17"
+      },
+      {
         "userId": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b",
         "displayName": "Mixieǃ"
       },
@@ -2332,10 +2336,6 @@
       {
         "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
         "displayName": "Twilo"
-      },
-      {
-        "userId": "usr_20440d0b-9a96-4eaf-8b05-58d48a803b21",
-        "displayName": "usr_20440d0b-9a96-4eaf-8b05-58d48a803b21"
       },
       {
         "userId": "usr_41791eed-19ca-40c7-9422-c33322bc5616",
@@ -2524,6 +2524,10 @@
         "displayName": "Luxifinity"
       },
       {
+        "userId": "usr_20440d0b-9a96-4eaf-8b05-58d48a803b21",
+        "displayName": "Maru-17"
+      },
+      {
         "userId": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b",
         "displayName": "Mixieǃ"
       },
@@ -2582,10 +2586,6 @@
       {
         "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
         "displayName": "Twilo"
-      },
-      {
-        "userId": "usr_20440d0b-9a96-4eaf-8b05-58d48a803b21",
-        "displayName": "usr_20440d0b-9a96-4eaf-8b05-58d48a803b21"
       },
       {
         "userId": "usr_41791eed-19ca-40c7-9422-c33322bc5616",
@@ -2774,6 +2774,10 @@
         "displayName": "Luxifinity"
       },
       {
+        "userId": "usr_20440d0b-9a96-4eaf-8b05-58d48a803b21",
+        "displayName": "Maru-17"
+      },
+      {
         "userId": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b",
         "displayName": "Mixieǃ"
       },
@@ -2832,10 +2836,6 @@
       {
         "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
         "displayName": "Twilo"
-      },
-      {
-        "userId": "usr_20440d0b-9a96-4eaf-8b05-58d48a803b21",
-        "displayName": "usr_20440d0b-9a96-4eaf-8b05-58d48a803b21"
       },
       {
         "userId": "usr_41791eed-19ca-40c7-9422-c33322bc5616",
@@ -3024,6 +3024,10 @@
         "displayName": "Luxifinity"
       },
       {
+        "userId": "usr_20440d0b-9a96-4eaf-8b05-58d48a803b21",
+        "displayName": "Maru-17"
+      },
+      {
         "userId": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b",
         "displayName": "Mixieǃ"
       },
@@ -3082,10 +3086,6 @@
       {
         "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
         "displayName": "Twilo"
-      },
-      {
-        "userId": "usr_20440d0b-9a96-4eaf-8b05-58d48a803b21",
-        "displayName": "usr_20440d0b-9a96-4eaf-8b05-58d48a803b21"
       },
       {
         "userId": "usr_41791eed-19ca-40c7-9422-c33322bc5616",
@@ -3274,6 +3274,10 @@
         "displayName": "Luxifinity"
       },
       {
+        "userId": "usr_20440d0b-9a96-4eaf-8b05-58d48a803b21",
+        "displayName": "Maru-17"
+      },
+      {
         "userId": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b",
         "displayName": "Mixieǃ"
       },
@@ -3332,10 +3336,6 @@
       {
         "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
         "displayName": "Twilo"
-      },
-      {
-        "userId": "usr_20440d0b-9a96-4eaf-8b05-58d48a803b21",
-        "displayName": "usr_20440d0b-9a96-4eaf-8b05-58d48a803b21"
       },
       {
         "userId": "usr_41791eed-19ca-40c7-9422-c33322bc5616",
@@ -3524,6 +3524,10 @@
         "displayName": "Luxifinity"
       },
       {
+        "userId": "usr_20440d0b-9a96-4eaf-8b05-58d48a803b21",
+        "displayName": "Maru-17"
+      },
+      {
         "userId": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b",
         "displayName": "Mixieǃ"
       },
@@ -3582,10 +3586,6 @@
       {
         "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
         "displayName": "Twilo"
-      },
-      {
-        "userId": "usr_20440d0b-9a96-4eaf-8b05-58d48a803b21",
-        "displayName": "usr_20440d0b-9a96-4eaf-8b05-58d48a803b21"
       },
       {
         "userId": "usr_41791eed-19ca-40c7-9422-c33322bc5616",
@@ -3762,6 +3762,10 @@
         "displayName": "Luxifinity"
       },
       {
+        "userId": "usr_20440d0b-9a96-4eaf-8b05-58d48a803b21",
+        "displayName": "Maru-17"
+      },
+      {
         "userId": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b",
         "displayName": "Mixieǃ"
       },
@@ -3820,10 +3824,6 @@
       {
         "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
         "displayName": "Twilo"
-      },
-      {
-        "userId": "usr_20440d0b-9a96-4eaf-8b05-58d48a803b21",
-        "displayName": "usr_20440d0b-9a96-4eaf-8b05-58d48a803b21"
       },
       {
         "userId": "usr_41791eed-19ca-40c7-9422-c33322bc5616",
@@ -4000,6 +4000,10 @@
         "displayName": "Luxifinity"
       },
       {
+        "userId": "usr_20440d0b-9a96-4eaf-8b05-58d48a803b21",
+        "displayName": "Maru-17"
+      },
+      {
         "userId": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b",
         "displayName": "Mixieǃ"
       },
@@ -4058,10 +4062,6 @@
       {
         "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
         "displayName": "Twilo"
-      },
-      {
-        "userId": "usr_20440d0b-9a96-4eaf-8b05-58d48a803b21",
-        "displayName": "usr_20440d0b-9a96-4eaf-8b05-58d48a803b21"
       },
       {
         "userId": "usr_41791eed-19ca-40c7-9422-c33322bc5616",
@@ -4238,6 +4238,10 @@
         "displayName": "Luxifinity"
       },
       {
+        "userId": "usr_20440d0b-9a96-4eaf-8b05-58d48a803b21",
+        "displayName": "Maru-17"
+      },
+      {
         "userId": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b",
         "displayName": "Mixieǃ"
       },
@@ -4296,10 +4300,6 @@
       {
         "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
         "displayName": "Twilo"
-      },
-      {
-        "userId": "usr_20440d0b-9a96-4eaf-8b05-58d48a803b21",
-        "displayName": "usr_20440d0b-9a96-4eaf-8b05-58d48a803b21"
       },
       {
         "userId": "usr_41791eed-19ca-40c7-9422-c33322bc5616",
