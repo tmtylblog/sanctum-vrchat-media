@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-11T16:31:15.941Z",
+  "generated": "2026-07-11T16:32:01.314Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -16,36 +16,36 @@
   "permissions": {
     "Admin": [
       {
-        "userId": "usr_7bdc555a-e9e7-4bf7-ad2c-9690b0b775ac",
-        "displayName": "Spaceship180"
+        "userId": "usr_853bcf72-6491-48df-a7f1-890a5bdc846c",
+        "displayName": "AetheriosVR"
       },
       {
-        "userId": "usr_853bcf72-6491-48df-a7f1-890a5bdc846c",
-        "displayName": "usr_853bcf72-6491-48df-a7f1-890a5bdc846c"
+        "userId": "usr_7bdc555a-e9e7-4bf7-ad2c-9690b0b775ac",
+        "displayName": "Spaceship180"
       }
     ],
     "Group Owner": [
       {
         "userId": "usr_853bcf72-6491-48df-a7f1-890a5bdc846c",
-        "displayName": "usr_853bcf72-6491-48df-a7f1-890a5bdc846c"
+        "displayName": "AetheriosVR"
       }
     ],
     "Staff": [
       {
         "userId": "usr_853bcf72-6491-48df-a7f1-890a5bdc846c",
-        "displayName": "usr_853bcf72-6491-48df-a7f1-890a5bdc846c"
+        "displayName": "AetheriosVR"
       }
     ],
     "Traveler": [
       {
         "userId": "usr_853bcf72-6491-48df-a7f1-890a5bdc846c",
-        "displayName": "usr_853bcf72-6491-48df-a7f1-890a5bdc846c"
+        "displayName": "AetheriosVR"
       }
     ],
     "Performer": [
       {
         "userId": "usr_853bcf72-6491-48df-a7f1-890a5bdc846c",
-        "displayName": "usr_853bcf72-6491-48df-a7f1-890a5bdc846c"
+        "displayName": "AetheriosVR"
       }
     ]
   },
