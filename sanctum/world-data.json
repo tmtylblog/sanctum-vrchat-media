@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-11T09:01:47.567Z",
+  "generated": "2026-07-11T09:30:29.477Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -90,10 +90,6 @@
       {
         "userId": "usr_7811a5b3-e523-452a-b35c-dc3118543542",
         "displayName": "Candid_Tear"
-      },
-      {
-        "userId": "usr_d6aaf581-260e-474b-b4ee-02049dd0a9a9",
-        "displayName": "Dark~Matter"
       },
       {
         "userId": "usr_6f516a79-b3b1-4345-bc88-71a5bab77877",
@@ -254,6 +250,10 @@
       {
         "userId": "usr_bf8e369b-fce7-42ad-ba0c-e12eeae138f1",
         "displayName": "usr_bf8e369b-fce7-42ad-ba0c-e12eeae138f1"
+      },
+      {
+        "userId": "usr_d6aaf581-260e-474b-b4ee-02049dd0a9a9",
+        "displayName": "usr_d6aaf581-260e-474b-b4ee-02049dd0a9a9"
       },
       {
         "userId": "usr_ea92af73-8b90-4383-a21c-8891b70f4601",
