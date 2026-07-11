@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-11T22:04:01.749Z",
+  "generated": "2026-07-11T22:34:01.012Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -244,16 +244,16 @@
         "displayName": "Space Cowboi"
       },
       {
+        "userId": "usr_4521538e-a32c-41ac-9f98-ad987c52c412",
+        "displayName": "tama_renko"
+      },
+      {
         "userId": "usr_e530a793-7fbd-4261-933f-91a0e9d2c76e",
         "displayName": "Theslythief"
       },
       {
         "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
         "displayName": "Twilo"
-      },
-      {
-        "userId": "usr_4521538e-a32c-41ac-9f98-ad987c52c412",
-        "displayName": "usr_4521538e-a32c-41ac-9f98-ad987c52c412"
       },
       {
         "userId": "usr_44eb716d-9e13-4228-a839-14388eda6a10",
@@ -1348,6 +1348,10 @@
         "displayName": "Szeb"
       },
       {
+        "userId": "usr_4521538e-a32c-41ac-9f98-ad987c52c412",
+        "displayName": "tama_renko"
+      },
+      {
         "userId": "usr_df56726c-8e30-465f-b6c5-4e00ec93188c",
         "displayName": "Techbun"
       },
@@ -1374,14 +1378,6 @@
       {
         "userId": "usr_2a252346-c74a-4452-910c-ce3c960005b9",
         "displayName": "usr_2a252346-c74a-4452-910c-ce3c960005b9"
-      },
-      {
-        "userId": "usr_4521538e-a32c-41ac-9f98-ad987c52c412",
-        "displayName": "usr_4521538e-a32c-41ac-9f98-ad987c52c412"
-      },
-      {
-        "userId": "usr_b0a3f681-7113-4383-ac47-a47119fdf4ec",
-        "displayName": "usr_b0a3f681-7113-4383-ac47-a47119fdf4ec"
       },
       {
         "userId": "usr_eb0ce18d-6788-499e-a117-f066252215a0",
@@ -1454,6 +1450,10 @@
       {
         "userId": "usr_4457c496-c508-4229-896a-ff6af74a7e16",
         "displayName": "YngwieAnders"
+      },
+      {
+        "userId": "usr_b0a3f681-7113-4383-ac47-a47119fdf4ec",
+        "displayName": "yukiware"
       },
       {
         "userId": "usr_9d6b078c-fd46-45d9-9b2c-147409104c9d",
@@ -1718,16 +1718,16 @@
         "displayName": "SwaMusic"
       },
       {
+        "userId": "usr_4521538e-a32c-41ac-9f98-ad987c52c412",
+        "displayName": "tama_renko"
+      },
+      {
         "userId": "usr_e530a793-7fbd-4261-933f-91a0e9d2c76e",
         "displayName": "Theslythief"
       },
       {
         "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
         "displayName": "Twilo"
-      },
-      {
-        "userId": "usr_4521538e-a32c-41ac-9f98-ad987c52c412",
-        "displayName": "usr_4521538e-a32c-41ac-9f98-ad987c52c412"
       },
       {
         "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
@@ -1849,7 +1849,7 @@
       },
       {
         "userId": "usr_4521538e-a32c-41ac-9f98-ad987c52c412",
-        "displayName": "usr_4521538e-a32c-41ac-9f98-ad987c52c412"
+        "displayName": "tama_renko"
       },
       {
         "userId": "usr_44eb716d-9e13-4228-a839-14388eda6a10",
@@ -2082,16 +2082,16 @@
         "displayName": "SwaMusic"
       },
       {
+        "userId": "usr_4521538e-a32c-41ac-9f98-ad987c52c412",
+        "displayName": "tama_renko"
+      },
+      {
         "userId": "usr_e530a793-7fbd-4261-933f-91a0e9d2c76e",
         "displayName": "Theslythief"
       },
       {
         "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
         "displayName": "Twilo"
-      },
-      {
-        "userId": "usr_4521538e-a32c-41ac-9f98-ad987c52c412",
-        "displayName": "usr_4521538e-a32c-41ac-9f98-ad987c52c412"
       },
       {
         "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
@@ -2334,16 +2334,16 @@
         "displayName": "SwaMusic"
       },
       {
+        "userId": "usr_4521538e-a32c-41ac-9f98-ad987c52c412",
+        "displayName": "tama_renko"
+      },
+      {
         "userId": "usr_e530a793-7fbd-4261-933f-91a0e9d2c76e",
         "displayName": "Theslythief"
       },
       {
         "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
         "displayName": "Twilo"
-      },
-      {
-        "userId": "usr_4521538e-a32c-41ac-9f98-ad987c52c412",
-        "displayName": "usr_4521538e-a32c-41ac-9f98-ad987c52c412"
       },
       {
         "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
@@ -2584,16 +2584,16 @@
         "displayName": "SwaMusic"
       },
       {
+        "userId": "usr_4521538e-a32c-41ac-9f98-ad987c52c412",
+        "displayName": "tama_renko"
+      },
+      {
         "userId": "usr_e530a793-7fbd-4261-933f-91a0e9d2c76e",
         "displayName": "Theslythief"
       },
       {
         "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
         "displayName": "Twilo"
-      },
-      {
-        "userId": "usr_4521538e-a32c-41ac-9f98-ad987c52c412",
-        "displayName": "usr_4521538e-a32c-41ac-9f98-ad987c52c412"
       },
       {
         "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
@@ -2834,16 +2834,16 @@
         "displayName": "SwaMusic"
       },
       {
+        "userId": "usr_4521538e-a32c-41ac-9f98-ad987c52c412",
+        "displayName": "tama_renko"
+      },
+      {
         "userId": "usr_e530a793-7fbd-4261-933f-91a0e9d2c76e",
         "displayName": "Theslythief"
       },
       {
         "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
         "displayName": "Twilo"
-      },
-      {
-        "userId": "usr_4521538e-a32c-41ac-9f98-ad987c52c412",
-        "displayName": "usr_4521538e-a32c-41ac-9f98-ad987c52c412"
       },
       {
         "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
@@ -3084,16 +3084,16 @@
         "displayName": "SwaMusic"
       },
       {
+        "userId": "usr_4521538e-a32c-41ac-9f98-ad987c52c412",
+        "displayName": "tama_renko"
+      },
+      {
         "userId": "usr_e530a793-7fbd-4261-933f-91a0e9d2c76e",
         "displayName": "Theslythief"
       },
       {
         "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
         "displayName": "Twilo"
-      },
-      {
-        "userId": "usr_4521538e-a32c-41ac-9f98-ad987c52c412",
-        "displayName": "usr_4521538e-a32c-41ac-9f98-ad987c52c412"
       },
       {
         "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
@@ -3334,16 +3334,16 @@
         "displayName": "SwaMusic"
       },
       {
+        "userId": "usr_4521538e-a32c-41ac-9f98-ad987c52c412",
+        "displayName": "tama_renko"
+      },
+      {
         "userId": "usr_e530a793-7fbd-4261-933f-91a0e9d2c76e",
         "displayName": "Theslythief"
       },
       {
         "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
         "displayName": "Twilo"
-      },
-      {
-        "userId": "usr_4521538e-a32c-41ac-9f98-ad987c52c412",
-        "displayName": "usr_4521538e-a32c-41ac-9f98-ad987c52c412"
       },
       {
         "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
@@ -3584,16 +3584,16 @@
         "displayName": "SwaMusic"
       },
       {
+        "userId": "usr_4521538e-a32c-41ac-9f98-ad987c52c412",
+        "displayName": "tama_renko"
+      },
+      {
         "userId": "usr_e530a793-7fbd-4261-933f-91a0e9d2c76e",
         "displayName": "Theslythief"
       },
       {
         "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
         "displayName": "Twilo"
-      },
-      {
-        "userId": "usr_4521538e-a32c-41ac-9f98-ad987c52c412",
-        "displayName": "usr_4521538e-a32c-41ac-9f98-ad987c52c412"
       },
       {
         "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
@@ -3822,16 +3822,16 @@
         "displayName": "SwaMusic"
       },
       {
+        "userId": "usr_4521538e-a32c-41ac-9f98-ad987c52c412",
+        "displayName": "tama_renko"
+      },
+      {
         "userId": "usr_e530a793-7fbd-4261-933f-91a0e9d2c76e",
         "displayName": "Theslythief"
       },
       {
         "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
         "displayName": "Twilo"
-      },
-      {
-        "userId": "usr_4521538e-a32c-41ac-9f98-ad987c52c412",
-        "displayName": "usr_4521538e-a32c-41ac-9f98-ad987c52c412"
       },
       {
         "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
@@ -4060,16 +4060,16 @@
         "displayName": "SwaMusic"
       },
       {
+        "userId": "usr_4521538e-a32c-41ac-9f98-ad987c52c412",
+        "displayName": "tama_renko"
+      },
+      {
         "userId": "usr_e530a793-7fbd-4261-933f-91a0e9d2c76e",
         "displayName": "Theslythief"
       },
       {
         "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
         "displayName": "Twilo"
-      },
-      {
-        "userId": "usr_4521538e-a32c-41ac-9f98-ad987c52c412",
-        "displayName": "usr_4521538e-a32c-41ac-9f98-ad987c52c412"
       },
       {
         "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
@@ -4298,16 +4298,16 @@
         "displayName": "SwaMusic"
       },
       {
+        "userId": "usr_4521538e-a32c-41ac-9f98-ad987c52c412",
+        "displayName": "tama_renko"
+      },
+      {
         "userId": "usr_e530a793-7fbd-4261-933f-91a0e9d2c76e",
         "displayName": "Theslythief"
       },
       {
         "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
         "displayName": "Twilo"
-      },
-      {
-        "userId": "usr_4521538e-a32c-41ac-9f98-ad987c52c412",
-        "displayName": "usr_4521538e-a32c-41ac-9f98-ad987c52c412"
       },
       {
         "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
