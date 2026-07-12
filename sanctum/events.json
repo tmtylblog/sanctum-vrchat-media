@@ -20,7 +20,7 @@
           "displayName": "MUNKS ＝ムンクス",
           "vrchatUserId": "usr_f25844b0-cb62-416d-a15b-2cda35d7a996",
           "role": "DJ",
-          "room": "Lunette",
+          "room": "Altar",
           "startTime": "2026-07-17T13:00:00.023Z",
           "endTime": "2026-07-17T14:00:00.023Z"
         },
@@ -28,9 +28,9 @@
           "displayName": "Jackit_DJ",
           "vrchatUserId": "usr_bf8e369b-fce7-42ad-ba0c-e12eeae138f1",
           "role": "DJ",
-          "room": "tribune",
-          "startTime": "2026-07-17T15:00:00.023Z",
-          "endTime": "2026-07-17T16:00:00.023Z"
+          "room": "Reactor",
+          "startTime": "2026-07-17T14:00:00.023Z",
+          "endTime": "2026-07-17T15:00:00.023Z"
         }
       ]
     },
@@ -49,55 +49,39 @@
       "rsvpCount": 0,
       "lineup": [
         {
+          "displayName": "Rain_Iwa",
+          "vrchatUserId": "usr_589a479b-80cf-42c4-92e4-63cbd900a82b",
+          "role": "DJ",
+          "room": "Altar",
+          "startTime": "2026-07-18T21:00:00.205Z",
+          "endTime": "2026-07-18T22:00:00.205Z"
+        },
+        {
+          "displayName": "beesha",
+          "vrchatUserId": "usr_a02a7604-ca82-4802-a465-a5f553a72556",
+          "role": "VJ",
+          "room": "Reactor",
+          "startTime": "2026-07-18T22:00:00.205Z",
+          "endTime": "2026-07-18T23:00:00.205Z"
+        },
+        {
           "displayName": "BASICBIT",
           "vrchatUserId": "usr_de6af2ae-8bdf-4aa9-89ae-8af79e2aa405",
           "role": "DJ",
-          "room": "Lunette",
-          "startTime": "2026-07-18T21:00:00.293Z",
-          "endTime": "2026-07-18T22:00:00.293Z"
+          "room": "Reactor",
+          "startTime": "2026-07-18T22:00:00.205Z",
+          "endTime": "2026-07-18T23:00:00.205Z"
         },
         {
           "displayName": "SoftlySteph",
           "vrchatUserId": "usr_e9217838-7cd9-4475-9e55-36cf58896cca",
           "role": "VJ",
           "room": "Lunette",
-          "startTime": "2026-07-18T21:00:00.293Z",
-          "endTime": "2026-07-18T22:00:00.293Z"
-        },
-        {
-          "displayName": "beesha",
-          "vrchatUserId": "usr_a02a7604-ca82-4802-a465-a5f553a72556",
-          "role": "VJ",
-          "room": "Chapel",
-          "startTime": "2026-07-18T22:00:00.293Z",
-          "endTime": "2026-07-18T23:00:00.293Z"
-        },
-        {
-          "displayName": "AyyyyRik",
-          "vrchatUserId": "usr_a367d6c3-ad94-4a88-83b2-822aaa071fac",
-          "role": "LD",
-          "room": "Chapel",
-          "startTime": "2026-07-18T22:00:00.293Z",
-          "endTime": "2026-07-18T23:00:00.293Z"
-        },
-        {
-          "displayName": "_Silent",
-          "vrchatUserId": "usr_c5de53c5-61da-4d19-b942-a9dd14e3343e",
-          "role": "VJ",
-          "room": "Altar",
-          "startTime": "2026-07-18T23:00:00.293Z",
-          "endTime": "2026-07-19T00:00:00.293Z"
-        },
-        {
-          "displayName": "KatzIn4k",
-          "vrchatUserId": "usr_2a252346-c74a-4452-910c-ce3c960005b9",
-          "role": "DJ",
-          "room": "Altar",
-          "startTime": "2026-07-18T23:00:00.293Z",
-          "endTime": "2026-07-19T00:00:00.293Z"
+          "startTime": "2026-07-18T23:00:00.205Z",
+          "endTime": "2026-07-19T00:00:00.205Z"
         }
       ]
     }
   ],
-  "generatedAt": "2026-07-08T02:16:25.483Z"
+  "generatedAt": "2026-07-12T02:41:15.062Z"
 }
