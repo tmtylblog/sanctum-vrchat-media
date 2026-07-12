@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-12T22:00:53.636Z",
+  "generated": "2026-07-12T23:00:54.358Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
