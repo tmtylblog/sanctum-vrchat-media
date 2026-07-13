@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-13T11:59:51.833Z",
+  "generated": "2026-07-13T12:01:11.232Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -6033,10 +6033,6 @@
     },
     "eventActive": false,
     "venue": null,
-    "venueName": null,
-    "virtuaMotionTracking": [
-      "Vesturo",
-      "muzz"
-    ]
+    "venueName": null
   }
 }
