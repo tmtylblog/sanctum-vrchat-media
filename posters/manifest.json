@@ -1,6 +1,16 @@
 {
-  "generated": "2026-07-12T02:41:00.951Z",
+  "generated": "2026-07-14T13:10:18.577Z",
   "atlases": [
+    {
+      "index": 0,
+      "url": "https://tmtylblog.github.io/sanctum-vrchat-media/posters/atlas_0.jpg",
+      "posterCount": 9
+    },
+    {
+      "index": 1,
+      "url": "https://tmtylblog.github.io/sanctum-vrchat-media/posters/atlas_1.jpg",
+      "posterCount": 9
+    },
     {
       "index": 2,
       "url": "https://tmtylblog.github.io/sanctum-vrchat-media/posters/atlas_2.jpg",
