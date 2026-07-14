@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-14T10:01:04.200Z",
+  "generated": "2026-07-14T11:01:05.751Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -298,6 +298,10 @@
       {
         "userId": "usr_d6d0474e-55c8-4887-8c7d-a06d90ff5d63",
         "displayName": "աǟӾＯʍӨʀքɦıƈʝǟƈӄ"
+      },
+      {
+        "userId": "usr_aee101c1-9ec1-4446-91d0-8508f56ba5d3",
+        "displayName": "おきらくモウモウ"
       },
       {
         "userId": "usr_70ae5797-a56d-416d-b84c-1a0b05ec7ced",
@@ -1488,6 +1492,10 @@
         "displayName": "ૡ ΗYΡͶΪΧ ૡ"
       },
       {
+        "userId": "usr_aee101c1-9ec1-4446-91d0-8508f56ba5d3",
+        "displayName": "おきらくモウモウ"
+      },
+      {
         "userId": "usr_70ae5797-a56d-416d-b84c-1a0b05ec7ced",
         "displayName": "おさめなルナ"
       },
@@ -1766,6 +1774,10 @@
         "displayName": "Xyare"
       },
       {
+        "userId": "usr_aee101c1-9ec1-4446-91d0-8508f56ba5d3",
+        "displayName": "おきらくモウモウ"
+      },
+      {
         "userId": "usr_70ae5797-a56d-416d-b84c-1a0b05ec7ced",
         "displayName": "おさめなルナ"
       },
@@ -1878,6 +1890,10 @@
       {
         "userId": "usr_1516ca40-edd5-4a55-aafd-0a9fef9e329d",
         "displayName": "Xyare"
+      },
+      {
+        "userId": "usr_aee101c1-9ec1-4446-91d0-8508f56ba5d3",
+        "displayName": "おきらくモウモウ"
       },
       {
         "userId": "usr_70ae5797-a56d-416d-b84c-1a0b05ec7ced",
