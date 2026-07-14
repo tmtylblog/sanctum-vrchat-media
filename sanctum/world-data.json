@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-14T03:24:10.843Z",
+  "generated": "2026-07-14T04:01:03.387Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -5956,10 +5956,6 @@
     },
     "eventActive": false,
     "venue": null,
-    "venueName": null,
-    "virtuaMotionTracking": [
-      "Vesturo",
-      "SwaMusic"
-    ]
+    "venueName": null
   }
 }
