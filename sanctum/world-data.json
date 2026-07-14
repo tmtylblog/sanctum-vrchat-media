@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-14T11:20:22.568Z",
+  "generated": "2026-07-14T11:21:40.839Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -5974,8 +5974,36 @@
     "venue": null,
     "venueName": null,
     "virtuaMotionTracking": [
-      "Vesturo",
-      "SwaMusic"
+      {
+        "role": "dj1",
+        "username": "Vesturo",
+        "puppetId": 1
+      },
+      {
+        "role": "dj2",
+        "username": "SwaMusic",
+        "puppetId": 1
+      },
+      {
+        "role": "dancer1",
+        "username": "Dancer",
+        "puppetId": 1
+      },
+      {
+        "role": "dancer2",
+        "username": "Dancer 2",
+        "puppetId": 1
+      },
+      {
+        "role": "dancer3",
+        "username": "Dancer 3",
+        "puppetId": 1
+      },
+      {
+        "role": "dancer4",
+        "username": "Dancer 4",
+        "puppetId": 1
+      }
     ]
   }
 }
