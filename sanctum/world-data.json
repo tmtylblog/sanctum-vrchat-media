@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-13T23:51:16.661Z",
+  "generated": "2026-07-14T00:00:22.683Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -1986,10 +1986,6 @@
         "displayName": "furedy"
       },
       {
-        "userId": "usr_61478e81-2353-40bf-a107-a3f2d4690fdc",
-        "displayName": "G-Catz"
-      },
-      {
         "userId": "usr_4d7a2386-6085-4013-ba6a-bb76ed47badb",
         "displayName": "Gaming Skoot"
       },
@@ -2238,10 +2234,6 @@
         "displayName": "furedy"
       },
       {
-        "userId": "usr_61478e81-2353-40bf-a107-a3f2d4690fdc",
-        "displayName": "G-Catz"
-      },
-      {
         "userId": "usr_4d7a2386-6085-4013-ba6a-bb76ed47badb",
         "displayName": "Gaming Skoot"
       },
@@ -2486,10 +2478,6 @@
       {
         "userId": "usr_70cb0794-431f-4a3b-aca2-6ba94221f9cf",
         "displayName": "furedy"
-      },
-      {
-        "userId": "usr_61478e81-2353-40bf-a107-a3f2d4690fdc",
-        "displayName": "G-Catz"
       },
       {
         "userId": "usr_4d7a2386-6085-4013-ba6a-bb76ed47badb",
@@ -2738,10 +2726,6 @@
         "displayName": "furedy"
       },
       {
-        "userId": "usr_61478e81-2353-40bf-a107-a3f2d4690fdc",
-        "displayName": "G-Catz"
-      },
-      {
         "userId": "usr_4d7a2386-6085-4013-ba6a-bb76ed47badb",
         "displayName": "Gaming Skoot"
       },
@@ -2986,10 +2970,6 @@
       {
         "userId": "usr_70cb0794-431f-4a3b-aca2-6ba94221f9cf",
         "displayName": "furedy"
-      },
-      {
-        "userId": "usr_61478e81-2353-40bf-a107-a3f2d4690fdc",
-        "displayName": "G-Catz"
       },
       {
         "userId": "usr_4d7a2386-6085-4013-ba6a-bb76ed47badb",
@@ -3238,10 +3218,6 @@
         "displayName": "furedy"
       },
       {
-        "userId": "usr_61478e81-2353-40bf-a107-a3f2d4690fdc",
-        "displayName": "G-Catz"
-      },
-      {
         "userId": "usr_4d7a2386-6085-4013-ba6a-bb76ed47badb",
         "displayName": "Gaming Skoot"
       },
@@ -3488,10 +3464,6 @@
         "displayName": "furedy"
       },
       {
-        "userId": "usr_61478e81-2353-40bf-a107-a3f2d4690fdc",
-        "displayName": "G-Catz"
-      },
-      {
         "userId": "usr_4d7a2386-6085-4013-ba6a-bb76ed47badb",
         "displayName": "Gaming Skoot"
       },
@@ -3730,10 +3702,6 @@
         "displayName": "furedy"
       },
       {
-        "userId": "usr_61478e81-2353-40bf-a107-a3f2d4690fdc",
-        "displayName": "G-Catz"
-      },
-      {
         "userId": "usr_4d7a2386-6085-4013-ba6a-bb76ed47badb",
         "displayName": "Gaming Skoot"
       },
@@ -3966,10 +3934,6 @@
       {
         "userId": "usr_70cb0794-431f-4a3b-aca2-6ba94221f9cf",
         "displayName": "furedy"
-      },
-      {
-        "userId": "usr_61478e81-2353-40bf-a107-a3f2d4690fdc",
-        "displayName": "G-Catz"
       },
       {
         "userId": "usr_4d7a2386-6085-4013-ba6a-bb76ed47badb",
@@ -4206,10 +4170,6 @@
         "displayName": "furedy"
       },
       {
-        "userId": "usr_61478e81-2353-40bf-a107-a3f2d4690fdc",
-        "displayName": "G-Catz"
-      },
-      {
         "userId": "usr_4d7a2386-6085-4013-ba6a-bb76ed47badb",
         "displayName": "Gaming Skoot"
       },
@@ -4354,44 +4314,7 @@
         "displayName": "よる_yoru"
       }
     ],
-    "architectDesignation": [
-      {
-        "userId": "usr_f70a6510-ae4a-40d5-80b3-54cf1e4b0737",
-        "displayName": "-Tachyon-"
-      },
-      {
-        "userId": "usr_5ec8b436-4c68-4421-a038-ce5788d43502",
-        "displayName": "AcChosen"
-      },
-      {
-        "userId": "usr_61478e81-2353-40bf-a107-a3f2d4690fdc",
-        "displayName": "G-Catz"
-      },
-      {
-        "userId": "usr_7fb63252-1681-4a5f-9fe6-31b75193fa27",
-        "displayName": "kohadachan"
-      },
-      {
-        "userId": "usr_97b6e256-c441-4dde-9cb9-f29f78727f1d",
-        "displayName": "MUZZ_"
-      },
-      {
-        "userId": "usr_589a479b-80cf-42c4-92e4-63cbd900a82b",
-        "displayName": "Rain_Iwa"
-      },
-      {
-        "userId": "usr_fb022c9b-3d0b-40b7-a5bb-b903551d541a",
-        "displayName": "rei_reika"
-      },
-      {
-        "userId": "usr_10624ac0-ae1b-4b79-9f4c-7bed09de2d94",
-        "displayName": "SwaMusic"
-      },
-      {
-        "userId": "usr_06aebe4f-e50c-46ef-a5d9-9dc6eb62d6d9",
-        "displayName": "Vesturo"
-      }
-    ]
+    "architectDesignation": []
   },
   "atlases": {
     "canvasSize": {
@@ -6033,10 +5956,6 @@
     },
     "eventActive": false,
     "venue": null,
-    "venueName": null,
-    "virtuaMotionTracking": [
-      "Vesturo",
-      "SwaMusic"
-    ]
+    "venueName": null
   }
 }
