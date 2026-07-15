@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-15T08:00:48.280Z",
+  "generated": "2026-07-15T08:01:23.278Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -104,20 +104,8 @@
         "displayName": "G-Catz"
       },
       {
-        "userId": "usr_4d7a2386-6085-4013-ba6a-bb76ed47badb",
-        "displayName": "Gaming Skoot"
-      },
-      {
         "userId": "usr_587bad0c-0968-4c7d-b101-432dbdc25450",
         "displayName": "LylacSky"
-      },
-      {
-        "userId": "usr_41791eed-19ca-40c7-9422-c33322bc5616",
-        "displayName": "OmegaSol"
-      },
-      {
-        "userId": "usr_cf6c438f-778b-469c-9621-be9d7616e625",
-        "displayName": "SladeDaCat"
       },
       {
         "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
@@ -126,6 +114,18 @@
       {
         "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
         "displayName": "Twilo"
+      },
+      {
+        "userId": "usr_41791eed-19ca-40c7-9422-c33322bc5616",
+        "displayName": "usr_41791eed-19ca-40c7-9422-c33322bc5616"
+      },
+      {
+        "userId": "usr_4d7a2386-6085-4013-ba6a-bb76ed47badb",
+        "displayName": "usr_4d7a2386-6085-4013-ba6a-bb76ed47badb"
+      },
+      {
+        "userId": "usr_cf6c438f-778b-469c-9621-be9d7616e625",
+        "displayName": "usr_cf6c438f-778b-469c-9621-be9d7616e625"
       },
       {
         "userId": "usr_3b40e78a-460f-44a3-bea1-4593a96c2c39",
