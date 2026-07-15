@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-15T11:23:46.842Z",
+  "generated": "2026-07-15T11:30:41.176Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -102,10 +102,6 @@
       {
         "userId": "usr_ba05b915-7c60-4123-8bc8-8c3c32fa119f",
         "displayName": "Merton"
-      },
-      {
-        "userId": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b",
-        "displayName": "Mixieǃ"
       },
       {
         "userId": "usr_82922a95-cc44-48e4-b5cb-5d2fa455e466",
@@ -260,6 +256,10 @@
         "displayName": "usr_b8c1785e-fea6-4024-b536-c8ade20970aa"
       },
       {
+        "userId": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b",
+        "displayName": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b"
+      },
+      {
         "userId": "usr_c5de53c5-61da-4d19-b942-a9dd14e3343e",
         "displayName": "usr_c5de53c5-61da-4d19-b942-a9dd14e3343e"
       },
@@ -396,10 +396,6 @@
         "displayName": "~Mathy~"
       },
       {
-        "userId": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b",
-        "displayName": "Mixieǃ"
-      },
-      {
         "userId": "usr_589a479b-80cf-42c4-92e4-63cbd900a82b",
         "displayName": "Rain_Iwa"
       },
@@ -476,6 +472,10 @@
         "displayName": "usr_c0f7de09-60c5-4eb0-b6bc-e18a1b873bc4"
       },
       {
+        "userId": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b",
+        "displayName": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b"
+      },
+      {
         "userId": "usr_c5de53c5-61da-4d19-b942-a9dd14e3343e",
         "displayName": "usr_c5de53c5-61da-4d19-b942-a9dd14e3343e"
       },
@@ -522,10 +522,6 @@
         "displayName": "~Mathy~"
       },
       {
-        "userId": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b",
-        "displayName": "Mixieǃ"
-      },
-      {
         "userId": "usr_97b6e256-c441-4dde-9cb9-f29f78727f1d",
         "displayName": "MUZZ_"
       },
@@ -556,6 +552,10 @@
       {
         "userId": "usr_7fb63252-1681-4a5f-9fe6-31b75193fa27",
         "displayName": "usr_7fb63252-1681-4a5f-9fe6-31b75193fa27"
+      },
+      {
+        "userId": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b",
+        "displayName": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b"
       },
       {
         "userId": "usr_fb022c9b-3d0b-40b7-a5bb-b903551d541a",
@@ -1028,10 +1028,6 @@
         "displayName": "Miv2nir"
       },
       {
-        "userId": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b",
-        "displayName": "Mixieǃ"
-      },
-      {
         "userId": "usr_2a04d29b-df79-47ff-9b1d-eec475cc540e",
         "displayName": "moethelawn"
       },
@@ -1384,6 +1380,10 @@
         "displayName": "usr_c0f7de09-60c5-4eb0-b6bc-e18a1b873bc4"
       },
       {
+        "userId": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b",
+        "displayName": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b"
+      },
+      {
         "userId": "usr_c5de53c5-61da-4d19-b942-a9dd14e3343e",
         "displayName": "usr_c5de53c5-61da-4d19-b942-a9dd14e3343e"
       },
@@ -1566,14 +1566,6 @@
         "displayName": "~Mathy~"
       },
       {
-        "userId": "usr_f48a23e4-098f-4e18-b06f-110ddd2bb54b",
-        "displayName": "domebot2-aggregator b54b"
-      },
-      {
-        "userId": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b",
-        "displayName": "Mixieǃ"
-      },
-      {
         "userId": "usr_97b6e256-c441-4dde-9cb9-f29f78727f1d",
         "displayName": "MUZZ_"
       },
@@ -1742,6 +1734,10 @@
         "displayName": "usr_c0f7de09-60c5-4eb0-b6bc-e18a1b873bc4"
       },
       {
+        "userId": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b",
+        "displayName": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b"
+      },
+      {
         "userId": "usr_c5de53c5-61da-4d19-b942-a9dd14e3343e",
         "displayName": "usr_c5de53c5-61da-4d19-b942-a9dd14e3343e"
       },
@@ -1790,6 +1786,10 @@
         "displayName": "usr_edebffaa-9192-450a-a2c9-df85c0afbfe7"
       },
       {
+        "userId": "usr_f48a23e4-098f-4e18-b06f-110ddd2bb54b",
+        "displayName": "usr_f48a23e4-098f-4e18-b06f-110ddd2bb54b"
+      },
+      {
         "userId": "usr_f70a6510-ae4a-40d5-80b3-54cf1e4b0737",
         "displayName": "usr_f70a6510-ae4a-40d5-80b3-54cf1e4b0737"
       },
@@ -1811,10 +1811,6 @@
       }
     ],
     "Dancer": [
-      {
-        "userId": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b",
-        "displayName": "Mixieǃ"
-      },
       {
         "userId": "usr_02d3858e-ae05-4d7e-a565-7ffa11e3b18f",
         "displayName": "usr_02d3858e-ae05-4d7e-a565-7ffa11e3b18f"
@@ -1890,6 +1886,10 @@
       {
         "userId": "usr_b5010f84-189c-4575-ac76-acdd1603a49a",
         "displayName": "usr_b5010f84-189c-4575-ac76-acdd1603a49a"
+      },
+      {
+        "userId": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b",
+        "displayName": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b"
       },
       {
         "userId": "usr_dcb302e4-fea9-498b-accb-90f62e95b02f",
@@ -1930,14 +1930,6 @@
         "displayName": "~Mathy~"
       },
       {
-        "userId": "usr_f48a23e4-098f-4e18-b06f-110ddd2bb54b",
-        "displayName": "domebot2-aggregator b54b"
-      },
-      {
-        "userId": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b",
-        "displayName": "Mixieǃ"
-      },
-      {
         "userId": "usr_97b6e256-c441-4dde-9cb9-f29f78727f1d",
         "displayName": "MUZZ_"
       },
@@ -2118,6 +2110,10 @@
         "displayName": "usr_c0f7de09-60c5-4eb0-b6bc-e18a1b873bc4"
       },
       {
+        "userId": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b",
+        "displayName": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b"
+      },
+      {
         "userId": "usr_c5de53c5-61da-4d19-b942-a9dd14e3343e",
         "displayName": "usr_c5de53c5-61da-4d19-b942-a9dd14e3343e"
       },
@@ -2164,6 +2160,10 @@
       {
         "userId": "usr_edebffaa-9192-450a-a2c9-df85c0afbfe7",
         "displayName": "usr_edebffaa-9192-450a-a2c9-df85c0afbfe7"
+      },
+      {
+        "userId": "usr_f48a23e4-098f-4e18-b06f-110ddd2bb54b",
+        "displayName": "usr_f48a23e4-098f-4e18-b06f-110ddd2bb54b"
       },
       {
         "userId": "usr_f70a6510-ae4a-40d5-80b3-54cf1e4b0737",
@@ -2194,14 +2194,6 @@
         "displayName": "~Mathy~"
       },
       {
-        "userId": "usr_f48a23e4-098f-4e18-b06f-110ddd2bb54b",
-        "displayName": "domebot2-aggregator b54b"
-      },
-      {
-        "userId": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b",
-        "displayName": "Mixieǃ"
-      },
-      {
         "userId": "usr_97b6e256-c441-4dde-9cb9-f29f78727f1d",
         "displayName": "MUZZ_"
       },
@@ -2382,6 +2374,10 @@
         "displayName": "usr_c0f7de09-60c5-4eb0-b6bc-e18a1b873bc4"
       },
       {
+        "userId": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b",
+        "displayName": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b"
+      },
+      {
         "userId": "usr_c5de53c5-61da-4d19-b942-a9dd14e3343e",
         "displayName": "usr_c5de53c5-61da-4d19-b942-a9dd14e3343e"
       },
@@ -2428,6 +2424,10 @@
       {
         "userId": "usr_edebffaa-9192-450a-a2c9-df85c0afbfe7",
         "displayName": "usr_edebffaa-9192-450a-a2c9-df85c0afbfe7"
+      },
+      {
+        "userId": "usr_f48a23e4-098f-4e18-b06f-110ddd2bb54b",
+        "displayName": "usr_f48a23e4-098f-4e18-b06f-110ddd2bb54b"
       },
       {
         "userId": "usr_f70a6510-ae4a-40d5-80b3-54cf1e4b0737",
@@ -2456,14 +2456,6 @@
         "displayName": "~Mathy~"
       },
       {
-        "userId": "usr_f48a23e4-098f-4e18-b06f-110ddd2bb54b",
-        "displayName": "domebot2-aggregator b54b"
-      },
-      {
-        "userId": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b",
-        "displayName": "Mixieǃ"
-      },
-      {
         "userId": "usr_97b6e256-c441-4dde-9cb9-f29f78727f1d",
         "displayName": "MUZZ_"
       },
@@ -2644,6 +2636,10 @@
         "displayName": "usr_c0f7de09-60c5-4eb0-b6bc-e18a1b873bc4"
       },
       {
+        "userId": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b",
+        "displayName": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b"
+      },
+      {
         "userId": "usr_c5de53c5-61da-4d19-b942-a9dd14e3343e",
         "displayName": "usr_c5de53c5-61da-4d19-b942-a9dd14e3343e"
       },
@@ -2690,6 +2686,10 @@
       {
         "userId": "usr_edebffaa-9192-450a-a2c9-df85c0afbfe7",
         "displayName": "usr_edebffaa-9192-450a-a2c9-df85c0afbfe7"
+      },
+      {
+        "userId": "usr_f48a23e4-098f-4e18-b06f-110ddd2bb54b",
+        "displayName": "usr_f48a23e4-098f-4e18-b06f-110ddd2bb54b"
       },
       {
         "userId": "usr_f70a6510-ae4a-40d5-80b3-54cf1e4b0737",
@@ -2724,14 +2724,6 @@
         "displayName": "~Mathy~"
       },
       {
-        "userId": "usr_f48a23e4-098f-4e18-b06f-110ddd2bb54b",
-        "displayName": "domebot2-aggregator b54b"
-      },
-      {
-        "userId": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b",
-        "displayName": "Mixieǃ"
-      },
-      {
         "userId": "usr_97b6e256-c441-4dde-9cb9-f29f78727f1d",
         "displayName": "MUZZ_"
       },
@@ -2912,6 +2904,10 @@
         "displayName": "usr_c0f7de09-60c5-4eb0-b6bc-e18a1b873bc4"
       },
       {
+        "userId": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b",
+        "displayName": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b"
+      },
+      {
         "userId": "usr_c5de53c5-61da-4d19-b942-a9dd14e3343e",
         "displayName": "usr_c5de53c5-61da-4d19-b942-a9dd14e3343e"
       },
@@ -2958,6 +2954,10 @@
       {
         "userId": "usr_edebffaa-9192-450a-a2c9-df85c0afbfe7",
         "displayName": "usr_edebffaa-9192-450a-a2c9-df85c0afbfe7"
+      },
+      {
+        "userId": "usr_f48a23e4-098f-4e18-b06f-110ddd2bb54b",
+        "displayName": "usr_f48a23e4-098f-4e18-b06f-110ddd2bb54b"
       },
       {
         "userId": "usr_f70a6510-ae4a-40d5-80b3-54cf1e4b0737",
@@ -2986,14 +2986,6 @@
         "displayName": "~Mathy~"
       },
       {
-        "userId": "usr_f48a23e4-098f-4e18-b06f-110ddd2bb54b",
-        "displayName": "domebot2-aggregator b54b"
-      },
-      {
-        "userId": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b",
-        "displayName": "Mixieǃ"
-      },
-      {
         "userId": "usr_97b6e256-c441-4dde-9cb9-f29f78727f1d",
         "displayName": "MUZZ_"
       },
@@ -3174,6 +3166,10 @@
         "displayName": "usr_c0f7de09-60c5-4eb0-b6bc-e18a1b873bc4"
       },
       {
+        "userId": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b",
+        "displayName": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b"
+      },
+      {
         "userId": "usr_c5de53c5-61da-4d19-b942-a9dd14e3343e",
         "displayName": "usr_c5de53c5-61da-4d19-b942-a9dd14e3343e"
       },
@@ -3220,6 +3216,10 @@
       {
         "userId": "usr_edebffaa-9192-450a-a2c9-df85c0afbfe7",
         "displayName": "usr_edebffaa-9192-450a-a2c9-df85c0afbfe7"
+      },
+      {
+        "userId": "usr_f48a23e4-098f-4e18-b06f-110ddd2bb54b",
+        "displayName": "usr_f48a23e4-098f-4e18-b06f-110ddd2bb54b"
       },
       {
         "userId": "usr_f70a6510-ae4a-40d5-80b3-54cf1e4b0737",
@@ -3248,14 +3248,6 @@
         "displayName": "~Mathy~"
       },
       {
-        "userId": "usr_f48a23e4-098f-4e18-b06f-110ddd2bb54b",
-        "displayName": "domebot2-aggregator b54b"
-      },
-      {
-        "userId": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b",
-        "displayName": "Mixieǃ"
-      },
-      {
         "userId": "usr_97b6e256-c441-4dde-9cb9-f29f78727f1d",
         "displayName": "MUZZ_"
       },
@@ -3436,6 +3428,10 @@
         "displayName": "usr_c0f7de09-60c5-4eb0-b6bc-e18a1b873bc4"
       },
       {
+        "userId": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b",
+        "displayName": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b"
+      },
+      {
         "userId": "usr_c5de53c5-61da-4d19-b942-a9dd14e3343e",
         "displayName": "usr_c5de53c5-61da-4d19-b942-a9dd14e3343e"
       },
@@ -3482,6 +3478,10 @@
       {
         "userId": "usr_edebffaa-9192-450a-a2c9-df85c0afbfe7",
         "displayName": "usr_edebffaa-9192-450a-a2c9-df85c0afbfe7"
+      },
+      {
+        "userId": "usr_f48a23e4-098f-4e18-b06f-110ddd2bb54b",
+        "displayName": "usr_f48a23e4-098f-4e18-b06f-110ddd2bb54b"
       },
       {
         "userId": "usr_f70a6510-ae4a-40d5-80b3-54cf1e4b0737",
@@ -3510,14 +3510,6 @@
         "displayName": "~Mathy~"
       },
       {
-        "userId": "usr_f48a23e4-098f-4e18-b06f-110ddd2bb54b",
-        "displayName": "domebot2-aggregator b54b"
-      },
-      {
-        "userId": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b",
-        "displayName": "Mixieǃ"
-      },
-      {
         "userId": "usr_97b6e256-c441-4dde-9cb9-f29f78727f1d",
         "displayName": "MUZZ_"
       },
@@ -3698,6 +3690,10 @@
         "displayName": "usr_c0f7de09-60c5-4eb0-b6bc-e18a1b873bc4"
       },
       {
+        "userId": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b",
+        "displayName": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b"
+      },
+      {
         "userId": "usr_c5de53c5-61da-4d19-b942-a9dd14e3343e",
         "displayName": "usr_c5de53c5-61da-4d19-b942-a9dd14e3343e"
       },
@@ -3744,6 +3740,10 @@
       {
         "userId": "usr_edebffaa-9192-450a-a2c9-df85c0afbfe7",
         "displayName": "usr_edebffaa-9192-450a-a2c9-df85c0afbfe7"
+      },
+      {
+        "userId": "usr_f48a23e4-098f-4e18-b06f-110ddd2bb54b",
+        "displayName": "usr_f48a23e4-098f-4e18-b06f-110ddd2bb54b"
       },
       {
         "userId": "usr_f70a6510-ae4a-40d5-80b3-54cf1e4b0737",
