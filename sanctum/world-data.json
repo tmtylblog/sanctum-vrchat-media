@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-15T01:51:41.076Z",
+  "generated": "2026-07-15T01:52:31.929Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -1596,6 +1596,10 @@
       {
         "userId": "usr_a367d6c3-ad94-4a88-83b2-822aaa071fac",
         "displayName": "AyyyyRik"
+      },
+      {
+        "userId": "usr_a02a7604-ca82-4802-a465-a5f553a72556",
+        "displayName": "beesha"
       },
       {
         "userId": "usr_959c659f-7086-4b94-830f-7f136a0d85f1",
@@ -5389,8 +5393,8 @@
   },
   "vods": [],
   "worldControl": {
-    "v": 166,
-    "ts": "2026-07-15T01:51:40.849Z",
+    "v": 167,
+    "ts": "2026-07-15T01:52:26.894Z",
     "doors": {
       "frontDoor": false,
       "reactorDoor": false,
@@ -5403,33 +5407,33 @@
     "virtuaMotionTracking": [
       {
         "role": "dj1",
-        "username": "Rain_Iwa",
-        "puppetId": 1
+        "username": null,
+        "puppetId": 0
       },
       {
         "role": "dj2",
-        "username": "Slothcast",
-        "puppetId": 2
+        "username": null,
+        "puppetId": 0
       },
       {
         "role": "dancer1",
         "username": null,
-        "puppetId": null
+        "puppetId": 0
       },
       {
         "role": "dancer2",
         "username": null,
-        "puppetId": null
+        "puppetId": 0
       },
       {
         "role": "dancer3",
         "username": null,
-        "puppetId": null
+        "puppetId": 0
       },
       {
         "role": "dancer4",
         "username": null,
-        "puppetId": null
+        "puppetId": 0
       }
     ]
   }
