@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-15T22:01:05.516Z",
+  "generated": "2026-07-15T22:15:38.112Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -608,10 +608,6 @@
         "displayName": "-Wattson-"
       },
       {
-        "userId": "usr_dc83dc3e-22ed-4b2a-8a6a-afbe97f2db76",
-        "displayName": ".volonus"
-      },
-      {
         "userId": "usr_0a244393-8003-4f76-822c-da59dbcaabc0",
         "displayName": "【data】"
       },
@@ -737,7 +733,7 @@
       },
       {
         "userId": "usr_d22c21a8-6bb1-4f24-921c-bb3feedff517",
-        "displayName": "azazelken"
+        "displayName": "AzazelKen"
       },
       {
         "userId": "usr_b4e996ed-3eeb-4c80-9548-fec22e8c9f08",
@@ -869,7 +865,7 @@
       },
       {
         "userId": "usr_0471ae4e-a17d-46d3-acdb-e3e10303ed4e",
-        "displayName": "djgubz"
+        "displayName": "DJGUBZ"
       },
       {
         "userId": "usr_35ea9cdf-3cb8-4b53-a340-01617c2acb1c",
@@ -889,7 +885,7 @@
       },
       {
         "userId": "usr_64a3b375-5029-4583-a565-f1347f38ef0e",
-        "displayName": "elitheproto"
+        "displayName": "EliTheProto"
       },
       {
         "userId": "usr_e1f691ce-65c4-42e8-bef8-98db8a19a3e6",
@@ -949,7 +945,7 @@
       },
       {
         "userId": "usr_6a66fa03-0c13-4466-9ee2-1b5347405d9f",
-        "displayName": "girlzpwn"
+        "displayName": "GirlzPwn"
       },
       {
         "userId": "usr_fa16e120-b240-4a1b-a2f1-a00970b60a22",
@@ -1009,7 +1005,7 @@
       },
       {
         "userId": "usr_868b2ccb-5b3f-4a0f-b507-f453c9f22d6e",
-        "displayName": "jivy ♱"
+        "displayName": "Jivy~"
       },
       {
         "userId": "usr_0021bf6c-901e-4db7-87ba-031cb31e165e",
@@ -1253,7 +1249,7 @@
       },
       {
         "userId": "usr_0dec109b-19df-49db-8e28-cccebb6a28be",
-        "displayName": "pandapropaganda"
+        "displayName": "Pandapropaganda"
       },
       {
         "userId": "usr_a9140db4-5efc-417f-a8e4-23b6932947dc",
@@ -1442,6 +1438,10 @@
       {
         "userId": "usr_9d755119-3f7d-4501-9fba-155e19981b90",
         "displayName": "Volcanor"
+      },
+      {
+        "userId": "usr_dc83dc3e-22ed-4b2a-8a6a-afbe97f2db76",
+        "displayName": "volo volo"
       },
       {
         "userId": "usr_1dcab67c-7d4f-4e28-be69-d6a9e31dc2d1",
