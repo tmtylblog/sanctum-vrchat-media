@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-15T20:00:47.716Z",
+  "generated": "2026-07-15T20:30:05.081Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -108,6 +108,18 @@
         "displayName": "LylacSky"
       },
       {
+        "userId": "usr_41791eed-19ca-40c7-9422-c33322bc5616",
+        "displayName": "OmegaSol"
+      },
+      {
+        "userId": "usr_4d7a2386-6085-4013-ba6a-bb76ed47badb",
+        "displayName": "skootaboss"
+      },
+      {
+        "userId": "usr_cf6c438f-778b-469c-9621-be9d7616e625",
+        "displayName": "SladeDaCat"
+      },
+      {
         "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
         "displayName": "Slothcast"
       },
@@ -117,19 +129,7 @@
       },
       {
         "userId": "usr_3b40e78a-460f-44a3-bea1-4593a96c2c39",
-        "displayName": "usr_3b40e78a-460f-44a3-bea1-4593a96c2c39"
-      },
-      {
-        "userId": "usr_41791eed-19ca-40c7-9422-c33322bc5616",
-        "displayName": "usr_41791eed-19ca-40c7-9422-c33322bc5616"
-      },
-      {
-        "userId": "usr_4d7a2386-6085-4013-ba6a-bb76ed47badb",
-        "displayName": "usr_4d7a2386-6085-4013-ba6a-bb76ed47badb"
-      },
-      {
-        "userId": "usr_cf6c438f-778b-469c-9621-be9d7616e625",
-        "displayName": "usr_cf6c438f-778b-469c-9621-be9d7616e625"
+        "displayName": "yoru1119"
       }
     ]
   },
