@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-15T01:52:31.929Z",
+  "generated": "2026-07-15T01:52:59.881Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -316,76 +316,6 @@
         "displayName": "ハニーBEE"
       }
     ],
-    "Moderator": [
-      {
-        "userId": "usr_c5de53c5-61da-4d19-b942-a9dd14e3343e",
-        "displayName": "_Silent"
-      },
-      {
-        "userId": "usr_858425e8-5c0c-461b-af0c-77190bf7b4af",
-        "displayName": "~Mathy~"
-      },
-      {
-        "userId": "usr_fc1164d5-baab-489a-a59a-6ad52dafb3c8",
-        "displayName": "CablesOnline"
-      },
-      {
-        "userId": "usr_06827b9e-5e46-494a-b26c-926c24dc4420",
-        "displayName": "domebot1"
-      },
-      {
-        "userId": "usr_de2a1378-8583-46ac-9c20-559f6e72639d",
-        "displayName": "domebot2"
-      },
-      {
-        "userId": "usr_4d7a2386-6085-4013-ba6a-bb76ed47badb",
-        "displayName": "Gaming Skoot"
-      },
-      {
-        "userId": "usr_c0f7de09-60c5-4eb0-b6bc-e18a1b873bc4",
-        "displayName": "JustARandom_"
-      },
-      {
-        "userId": "usr_7fb63252-1681-4a5f-9fe6-31b75193fa27",
-        "displayName": "kohadachan"
-      },
-      {
-        "userId": "usr_ca1dbc7b-7b20-4f45-ba0c-28f70f0c583c",
-        "displayName": "Luxifinity"
-      },
-      {
-        "userId": "usr_589a479b-80cf-42c4-92e4-63cbd900a82b",
-        "displayName": "Rain_Iwa"
-      },
-      {
-        "userId": "usr_fb022c9b-3d0b-40b7-a5bb-b903551d541a",
-        "displayName": "rei_reika"
-      },
-      {
-        "userId": "usr_3c4a1003-2237-4e1d-be0e-bb71ef6480b0",
-        "displayName": "susperia"
-      },
-      {
-        "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
-        "displayName": "Twilo"
-      },
-      {
-        "userId": "usr_06aebe4f-e50c-46ef-a5d9-9dc6eb62d6d9",
-        "displayName": "Vesturo"
-      },
-      {
-        "userId": "usr_ffc409e3-0aad-41e1-8159-8a813f71e79e",
-        "displayName": "witherdWhisper"
-      },
-      {
-        "userId": "usr_fa3b49a2-d50c-46e8-bc21-5ceec9fa1e73",
-        "displayName": "ღ ZEM ღ"
-      },
-      {
-        "userId": "usr_3b40e78a-460f-44a3-bea1-4593a96c2c39",
-        "displayName": "よる_yoru"
-      }
-    ],
     "Host": [
       {
         "userId": "usr_c5de53c5-61da-4d19-b942-a9dd14e3343e",
@@ -414,6 +344,10 @@
       {
         "userId": "usr_a367d6c3-ad94-4a88-83b2-822aaa071fac",
         "displayName": "AyyyyRik"
+      },
+      {
+        "userId": "usr_a02a7604-ca82-4802-a465-a5f553a72556",
+        "displayName": "beesha"
       },
       {
         "userId": "usr_6f516a79-b3b1-4345-bc88-71a5bab77877",
@@ -506,6 +440,76 @@
       {
         "userId": "usr_1516ca40-edd5-4a55-aafd-0a9fef9e329d",
         "displayName": "Xyare"
+      }
+    ],
+    "Moderator": [
+      {
+        "userId": "usr_c5de53c5-61da-4d19-b942-a9dd14e3343e",
+        "displayName": "_Silent"
+      },
+      {
+        "userId": "usr_858425e8-5c0c-461b-af0c-77190bf7b4af",
+        "displayName": "~Mathy~"
+      },
+      {
+        "userId": "usr_fc1164d5-baab-489a-a59a-6ad52dafb3c8",
+        "displayName": "CablesOnline"
+      },
+      {
+        "userId": "usr_06827b9e-5e46-494a-b26c-926c24dc4420",
+        "displayName": "domebot1"
+      },
+      {
+        "userId": "usr_de2a1378-8583-46ac-9c20-559f6e72639d",
+        "displayName": "domebot2"
+      },
+      {
+        "userId": "usr_4d7a2386-6085-4013-ba6a-bb76ed47badb",
+        "displayName": "Gaming Skoot"
+      },
+      {
+        "userId": "usr_c0f7de09-60c5-4eb0-b6bc-e18a1b873bc4",
+        "displayName": "JustARandom_"
+      },
+      {
+        "userId": "usr_7fb63252-1681-4a5f-9fe6-31b75193fa27",
+        "displayName": "kohadachan"
+      },
+      {
+        "userId": "usr_ca1dbc7b-7b20-4f45-ba0c-28f70f0c583c",
+        "displayName": "Luxifinity"
+      },
+      {
+        "userId": "usr_589a479b-80cf-42c4-92e4-63cbd900a82b",
+        "displayName": "Rain_Iwa"
+      },
+      {
+        "userId": "usr_fb022c9b-3d0b-40b7-a5bb-b903551d541a",
+        "displayName": "rei_reika"
+      },
+      {
+        "userId": "usr_3c4a1003-2237-4e1d-be0e-bb71ef6480b0",
+        "displayName": "susperia"
+      },
+      {
+        "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
+        "displayName": "Twilo"
+      },
+      {
+        "userId": "usr_06aebe4f-e50c-46ef-a5d9-9dc6eb62d6d9",
+        "displayName": "Vesturo"
+      },
+      {
+        "userId": "usr_ffc409e3-0aad-41e1-8159-8a813f71e79e",
+        "displayName": "witherdWhisper"
+      },
+      {
+        "userId": "usr_fa3b49a2-d50c-46e8-bc21-5ceec9fa1e73",
+        "displayName": "ღ ZEM ღ"
+      },
+      {
+        "userId": "usr_3b40e78a-460f-44a3-bea1-4593a96c2c39",
+        "displayName": "よる_yoru"
       }
     ],
     "Admin": [
