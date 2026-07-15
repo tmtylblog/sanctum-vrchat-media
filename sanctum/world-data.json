@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-15T14:01:41.182Z",
+  "generated": "2026-07-15T15:01:07.816Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -584,256 +584,6 @@
       {
         "userId": "usr_2805613d-ff9c-4120-82c6-7d5f4364ae07",
         "displayName": "usr_2805613d-ff9c-4120-82c6-7d5f4364ae07"
-      }
-    ],
-    "Staff": [
-      {
-        "userId": "usr_858425e8-5c0c-461b-af0c-77190bf7b4af",
-        "displayName": "~Mathy~"
-      },
-      {
-        "userId": "usr_97b6e256-c441-4dde-9cb9-f29f78727f1d",
-        "displayName": "MUZZ_"
-      },
-      {
-        "userId": "usr_589a479b-80cf-42c4-92e4-63cbd900a82b",
-        "displayName": "Rain_Iwa"
-      },
-      {
-        "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
-        "displayName": "Slothcast"
-      },
-      {
-        "userId": "usr_10624ac0-ae1b-4b79-9f4c-7bed09de2d94",
-        "displayName": "SwaMusic"
-      },
-      {
-        "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
-        "displayName": "Twilo"
-      },
-      {
-        "userId": "usr_0021bf6c-901e-4db7-87ba-031cb31e165e",
-        "displayName": "usr_0021bf6c-901e-4db7-87ba-031cb31e165e"
-      },
-      {
-        "userId": "usr_02d3858e-ae05-4d7e-a565-7ffa11e3b18f",
-        "displayName": "usr_02d3858e-ae05-4d7e-a565-7ffa11e3b18f"
-      },
-      {
-        "userId": "usr_06827b9e-5e46-494a-b26c-926c24dc4420",
-        "displayName": "usr_06827b9e-5e46-494a-b26c-926c24dc4420"
-      },
-      {
-        "userId": "usr_0a244393-8003-4f76-822c-da59dbcaabc0",
-        "displayName": "usr_0a244393-8003-4f76-822c-da59dbcaabc0"
-      },
-      {
-        "userId": "usr_1516ca40-edd5-4a55-aafd-0a9fef9e329d",
-        "displayName": "usr_1516ca40-edd5-4a55-aafd-0a9fef9e329d"
-      },
-      {
-        "userId": "usr_168e3855-53b5-43d7-b625-53e6a66606fb",
-        "displayName": "usr_168e3855-53b5-43d7-b625-53e6a66606fb"
-      },
-      {
-        "userId": "usr_172bd6d5-bbb9-4fb6-8fa5-dde88985fa06",
-        "displayName": "usr_172bd6d5-bbb9-4fb6-8fa5-dde88985fa06"
-      },
-      {
-        "userId": "usr_20440d0b-9a96-4eaf-8b05-58d48a803b21",
-        "displayName": "usr_20440d0b-9a96-4eaf-8b05-58d48a803b21"
-      },
-      {
-        "userId": "usr_2805613d-ff9c-4120-82c6-7d5f4364ae07",
-        "displayName": "usr_2805613d-ff9c-4120-82c6-7d5f4364ae07"
-      },
-      {
-        "userId": "usr_3b40e78a-460f-44a3-bea1-4593a96c2c39",
-        "displayName": "usr_3b40e78a-460f-44a3-bea1-4593a96c2c39"
-      },
-      {
-        "userId": "usr_3c4a1003-2237-4e1d-be0e-bb71ef6480b0",
-        "displayName": "usr_3c4a1003-2237-4e1d-be0e-bb71ef6480b0"
-      },
-      {
-        "userId": "usr_40be82e7-f7d5-4548-b314-3fc7b26d22ee",
-        "displayName": "usr_40be82e7-f7d5-4548-b314-3fc7b26d22ee"
-      },
-      {
-        "userId": "usr_44eb716d-9e13-4228-a839-14388eda6a10",
-        "displayName": "usr_44eb716d-9e13-4228-a839-14388eda6a10"
-      },
-      {
-        "userId": "usr_4521538e-a32c-41ac-9f98-ad987c52c412",
-        "displayName": "usr_4521538e-a32c-41ac-9f98-ad987c52c412"
-      },
-      {
-        "userId": "usr_4577038c-8ae4-4f2d-8745-73a480ee345d",
-        "displayName": "usr_4577038c-8ae4-4f2d-8745-73a480ee345d"
-      },
-      {
-        "userId": "usr_4d7a2386-6085-4013-ba6a-bb76ed47badb",
-        "displayName": "usr_4d7a2386-6085-4013-ba6a-bb76ed47badb"
-      },
-      {
-        "userId": "usr_5336f8d4-8716-448f-a773-35196036b110",
-        "displayName": "usr_5336f8d4-8716-448f-a773-35196036b110"
-      },
-      {
-        "userId": "usr_5ec8b436-4c68-4421-a038-ce5788d43502",
-        "displayName": "usr_5ec8b436-4c68-4421-a038-ce5788d43502"
-      },
-      {
-        "userId": "usr_617040d8-3560-497a-a38f-bdb274ba4ee5",
-        "displayName": "usr_617040d8-3560-497a-a38f-bdb274ba4ee5"
-      },
-      {
-        "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
-        "displayName": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe"
-      },
-      {
-        "userId": "usr_6f516a79-b3b1-4345-bc88-71a5bab77877",
-        "displayName": "usr_6f516a79-b3b1-4345-bc88-71a5bab77877"
-      },
-      {
-        "userId": "usr_70221641-74ac-41c3-b5b0-13e8f379f788",
-        "displayName": "usr_70221641-74ac-41c3-b5b0-13e8f379f788"
-      },
-      {
-        "userId": "usr_70ae5797-a56d-416d-b84c-1a0b05ec7ced",
-        "displayName": "usr_70ae5797-a56d-416d-b84c-1a0b05ec7ced"
-      },
-      {
-        "userId": "usr_70cb0794-431f-4a3b-aca2-6ba94221f9cf",
-        "displayName": "usr_70cb0794-431f-4a3b-aca2-6ba94221f9cf"
-      },
-      {
-        "userId": "usr_72c3698b-964b-4748-82f4-5e113d0f7ef9",
-        "displayName": "usr_72c3698b-964b-4748-82f4-5e113d0f7ef9"
-      },
-      {
-        "userId": "usr_7fb63252-1681-4a5f-9fe6-31b75193fa27",
-        "displayName": "usr_7fb63252-1681-4a5f-9fe6-31b75193fa27"
-      },
-      {
-        "userId": "usr_8b2b2aab-1604-4a91-88c9-db39c42d7c41",
-        "displayName": "usr_8b2b2aab-1604-4a91-88c9-db39c42d7c41"
-      },
-      {
-        "userId": "usr_959c659f-7086-4b94-830f-7f136a0d85f1",
-        "displayName": "usr_959c659f-7086-4b94-830f-7f136a0d85f1"
-      },
-      {
-        "userId": "usr_a02a7604-ca82-4802-a465-a5f553a72556",
-        "displayName": "usr_a02a7604-ca82-4802-a465-a5f553a72556"
-      },
-      {
-        "userId": "usr_a367d6c3-ad94-4a88-83b2-822aaa071fac",
-        "displayName": "usr_a367d6c3-ad94-4a88-83b2-822aaa071fac"
-      },
-      {
-        "userId": "usr_a97e6118-0a6d-4a96-9d29-d6690d33b2a0",
-        "displayName": "usr_a97e6118-0a6d-4a96-9d29-d6690d33b2a0"
-      },
-      {
-        "userId": "usr_aee101c1-9ec1-4446-91d0-8508f56ba5d3",
-        "displayName": "usr_aee101c1-9ec1-4446-91d0-8508f56ba5d3"
-      },
-      {
-        "userId": "usr_b0064545-51e9-4c87-b78b-c353c1dc8422",
-        "displayName": "usr_b0064545-51e9-4c87-b78b-c353c1dc8422"
-      },
-      {
-        "userId": "usr_b5010f84-189c-4575-ac76-acdd1603a49a",
-        "displayName": "usr_b5010f84-189c-4575-ac76-acdd1603a49a"
-      },
-      {
-        "userId": "usr_b56325f6-f494-4351-939f-7478db325657",
-        "displayName": "usr_b56325f6-f494-4351-939f-7478db325657"
-      },
-      {
-        "userId": "usr_b8c1785e-fea6-4024-b536-c8ade20970aa",
-        "displayName": "usr_b8c1785e-fea6-4024-b536-c8ade20970aa"
-      },
-      {
-        "userId": "usr_c0f7de09-60c5-4eb0-b6bc-e18a1b873bc4",
-        "displayName": "usr_c0f7de09-60c5-4eb0-b6bc-e18a1b873bc4"
-      },
-      {
-        "userId": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b",
-        "displayName": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b"
-      },
-      {
-        "userId": "usr_c5de53c5-61da-4d19-b942-a9dd14e3343e",
-        "displayName": "usr_c5de53c5-61da-4d19-b942-a9dd14e3343e"
-      },
-      {
-        "userId": "usr_ca1dbc7b-7b20-4f45-ba0c-28f70f0c583c",
-        "displayName": "usr_ca1dbc7b-7b20-4f45-ba0c-28f70f0c583c"
-      },
-      {
-        "userId": "usr_cf6c438f-778b-469c-9621-be9d7616e625",
-        "displayName": "usr_cf6c438f-778b-469c-9621-be9d7616e625"
-      },
-      {
-        "userId": "usr_dcb302e4-fea9-498b-accb-90f62e95b02f",
-        "displayName": "usr_dcb302e4-fea9-498b-accb-90f62e95b02f"
-      },
-      {
-        "userId": "usr_de2a1378-8583-46ac-9c20-559f6e72639d",
-        "displayName": "usr_de2a1378-8583-46ac-9c20-559f6e72639d"
-      },
-      {
-        "userId": "usr_e1f691ce-65c4-42e8-bef8-98db8a19a3e6",
-        "displayName": "usr_e1f691ce-65c4-42e8-bef8-98db8a19a3e6"
-      },
-      {
-        "userId": "usr_e530a793-7fbd-4261-933f-91a0e9d2c76e",
-        "displayName": "usr_e530a793-7fbd-4261-933f-91a0e9d2c76e"
-      },
-      {
-        "userId": "usr_e5442f04-94db-4332-9fa9-c8309cbf85fb",
-        "displayName": "usr_e5442f04-94db-4332-9fa9-c8309cbf85fb"
-      },
-      {
-        "userId": "usr_e9217838-7cd9-4475-9e55-36cf58896cca",
-        "displayName": "usr_e9217838-7cd9-4475-9e55-36cf58896cca"
-      },
-      {
-        "userId": "usr_e99a6c11-a506-45d9-8bac-e98b21bf40b0",
-        "displayName": "usr_e99a6c11-a506-45d9-8bac-e98b21bf40b0"
-      },
-      {
-        "userId": "usr_ea92af73-8b90-4383-a21c-8891b70f4601",
-        "displayName": "usr_ea92af73-8b90-4383-a21c-8891b70f4601"
-      },
-      {
-        "userId": "usr_edebffaa-9192-450a-a2c9-df85c0afbfe7",
-        "displayName": "usr_edebffaa-9192-450a-a2c9-df85c0afbfe7"
-      },
-      {
-        "userId": "usr_f48a23e4-098f-4e18-b06f-110ddd2bb54b",
-        "displayName": "usr_f48a23e4-098f-4e18-b06f-110ddd2bb54b"
-      },
-      {
-        "userId": "usr_f70a6510-ae4a-40d5-80b3-54cf1e4b0737",
-        "displayName": "usr_f70a6510-ae4a-40d5-80b3-54cf1e4b0737"
-      },
-      {
-        "userId": "usr_fb022c9b-3d0b-40b7-a5bb-b903551d541a",
-        "displayName": "usr_fb022c9b-3d0b-40b7-a5bb-b903551d541a"
-      },
-      {
-        "userId": "usr_fc1164d5-baab-489a-a59a-6ad52dafb3c8",
-        "displayName": "usr_fc1164d5-baab-489a-a59a-6ad52dafb3c8"
-      },
-      {
-        "userId": "usr_ffc409e3-0aad-41e1-8159-8a813f71e79e",
-        "displayName": "usr_ffc409e3-0aad-41e1-8159-8a813f71e79e"
-      },
-      {
-        "userId": "usr_06aebe4f-e50c-46ef-a5d9-9dc6eb62d6d9",
-        "displayName": "Vesturo"
       }
     ],
     "Traveler": [
@@ -1808,6 +1558,256 @@
       {
         "userId": "usr_3ce2c796-bbe7-4add-b043-2ba5c0a77bf5",
         "displayName": "山丹尺ㄥ口尺刀"
+      }
+    ],
+    "Staff": [
+      {
+        "userId": "usr_858425e8-5c0c-461b-af0c-77190bf7b4af",
+        "displayName": "~Mathy~"
+      },
+      {
+        "userId": "usr_97b6e256-c441-4dde-9cb9-f29f78727f1d",
+        "displayName": "MUZZ_"
+      },
+      {
+        "userId": "usr_589a479b-80cf-42c4-92e4-63cbd900a82b",
+        "displayName": "Rain_Iwa"
+      },
+      {
+        "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
+        "displayName": "Slothcast"
+      },
+      {
+        "userId": "usr_10624ac0-ae1b-4b79-9f4c-7bed09de2d94",
+        "displayName": "SwaMusic"
+      },
+      {
+        "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
+        "displayName": "Twilo"
+      },
+      {
+        "userId": "usr_0021bf6c-901e-4db7-87ba-031cb31e165e",
+        "displayName": "usr_0021bf6c-901e-4db7-87ba-031cb31e165e"
+      },
+      {
+        "userId": "usr_02d3858e-ae05-4d7e-a565-7ffa11e3b18f",
+        "displayName": "usr_02d3858e-ae05-4d7e-a565-7ffa11e3b18f"
+      },
+      {
+        "userId": "usr_06827b9e-5e46-494a-b26c-926c24dc4420",
+        "displayName": "usr_06827b9e-5e46-494a-b26c-926c24dc4420"
+      },
+      {
+        "userId": "usr_0a244393-8003-4f76-822c-da59dbcaabc0",
+        "displayName": "usr_0a244393-8003-4f76-822c-da59dbcaabc0"
+      },
+      {
+        "userId": "usr_1516ca40-edd5-4a55-aafd-0a9fef9e329d",
+        "displayName": "usr_1516ca40-edd5-4a55-aafd-0a9fef9e329d"
+      },
+      {
+        "userId": "usr_168e3855-53b5-43d7-b625-53e6a66606fb",
+        "displayName": "usr_168e3855-53b5-43d7-b625-53e6a66606fb"
+      },
+      {
+        "userId": "usr_172bd6d5-bbb9-4fb6-8fa5-dde88985fa06",
+        "displayName": "usr_172bd6d5-bbb9-4fb6-8fa5-dde88985fa06"
+      },
+      {
+        "userId": "usr_20440d0b-9a96-4eaf-8b05-58d48a803b21",
+        "displayName": "usr_20440d0b-9a96-4eaf-8b05-58d48a803b21"
+      },
+      {
+        "userId": "usr_2805613d-ff9c-4120-82c6-7d5f4364ae07",
+        "displayName": "usr_2805613d-ff9c-4120-82c6-7d5f4364ae07"
+      },
+      {
+        "userId": "usr_3b40e78a-460f-44a3-bea1-4593a96c2c39",
+        "displayName": "usr_3b40e78a-460f-44a3-bea1-4593a96c2c39"
+      },
+      {
+        "userId": "usr_3c4a1003-2237-4e1d-be0e-bb71ef6480b0",
+        "displayName": "usr_3c4a1003-2237-4e1d-be0e-bb71ef6480b0"
+      },
+      {
+        "userId": "usr_40be82e7-f7d5-4548-b314-3fc7b26d22ee",
+        "displayName": "usr_40be82e7-f7d5-4548-b314-3fc7b26d22ee"
+      },
+      {
+        "userId": "usr_44eb716d-9e13-4228-a839-14388eda6a10",
+        "displayName": "usr_44eb716d-9e13-4228-a839-14388eda6a10"
+      },
+      {
+        "userId": "usr_4521538e-a32c-41ac-9f98-ad987c52c412",
+        "displayName": "usr_4521538e-a32c-41ac-9f98-ad987c52c412"
+      },
+      {
+        "userId": "usr_4577038c-8ae4-4f2d-8745-73a480ee345d",
+        "displayName": "usr_4577038c-8ae4-4f2d-8745-73a480ee345d"
+      },
+      {
+        "userId": "usr_4d7a2386-6085-4013-ba6a-bb76ed47badb",
+        "displayName": "usr_4d7a2386-6085-4013-ba6a-bb76ed47badb"
+      },
+      {
+        "userId": "usr_5336f8d4-8716-448f-a773-35196036b110",
+        "displayName": "usr_5336f8d4-8716-448f-a773-35196036b110"
+      },
+      {
+        "userId": "usr_5ec8b436-4c68-4421-a038-ce5788d43502",
+        "displayName": "usr_5ec8b436-4c68-4421-a038-ce5788d43502"
+      },
+      {
+        "userId": "usr_617040d8-3560-497a-a38f-bdb274ba4ee5",
+        "displayName": "usr_617040d8-3560-497a-a38f-bdb274ba4ee5"
+      },
+      {
+        "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
+        "displayName": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe"
+      },
+      {
+        "userId": "usr_6f516a79-b3b1-4345-bc88-71a5bab77877",
+        "displayName": "usr_6f516a79-b3b1-4345-bc88-71a5bab77877"
+      },
+      {
+        "userId": "usr_70221641-74ac-41c3-b5b0-13e8f379f788",
+        "displayName": "usr_70221641-74ac-41c3-b5b0-13e8f379f788"
+      },
+      {
+        "userId": "usr_70ae5797-a56d-416d-b84c-1a0b05ec7ced",
+        "displayName": "usr_70ae5797-a56d-416d-b84c-1a0b05ec7ced"
+      },
+      {
+        "userId": "usr_70cb0794-431f-4a3b-aca2-6ba94221f9cf",
+        "displayName": "usr_70cb0794-431f-4a3b-aca2-6ba94221f9cf"
+      },
+      {
+        "userId": "usr_72c3698b-964b-4748-82f4-5e113d0f7ef9",
+        "displayName": "usr_72c3698b-964b-4748-82f4-5e113d0f7ef9"
+      },
+      {
+        "userId": "usr_7fb63252-1681-4a5f-9fe6-31b75193fa27",
+        "displayName": "usr_7fb63252-1681-4a5f-9fe6-31b75193fa27"
+      },
+      {
+        "userId": "usr_8b2b2aab-1604-4a91-88c9-db39c42d7c41",
+        "displayName": "usr_8b2b2aab-1604-4a91-88c9-db39c42d7c41"
+      },
+      {
+        "userId": "usr_959c659f-7086-4b94-830f-7f136a0d85f1",
+        "displayName": "usr_959c659f-7086-4b94-830f-7f136a0d85f1"
+      },
+      {
+        "userId": "usr_a02a7604-ca82-4802-a465-a5f553a72556",
+        "displayName": "usr_a02a7604-ca82-4802-a465-a5f553a72556"
+      },
+      {
+        "userId": "usr_a367d6c3-ad94-4a88-83b2-822aaa071fac",
+        "displayName": "usr_a367d6c3-ad94-4a88-83b2-822aaa071fac"
+      },
+      {
+        "userId": "usr_a97e6118-0a6d-4a96-9d29-d6690d33b2a0",
+        "displayName": "usr_a97e6118-0a6d-4a96-9d29-d6690d33b2a0"
+      },
+      {
+        "userId": "usr_aee101c1-9ec1-4446-91d0-8508f56ba5d3",
+        "displayName": "usr_aee101c1-9ec1-4446-91d0-8508f56ba5d3"
+      },
+      {
+        "userId": "usr_b0064545-51e9-4c87-b78b-c353c1dc8422",
+        "displayName": "usr_b0064545-51e9-4c87-b78b-c353c1dc8422"
+      },
+      {
+        "userId": "usr_b5010f84-189c-4575-ac76-acdd1603a49a",
+        "displayName": "usr_b5010f84-189c-4575-ac76-acdd1603a49a"
+      },
+      {
+        "userId": "usr_b56325f6-f494-4351-939f-7478db325657",
+        "displayName": "usr_b56325f6-f494-4351-939f-7478db325657"
+      },
+      {
+        "userId": "usr_b8c1785e-fea6-4024-b536-c8ade20970aa",
+        "displayName": "usr_b8c1785e-fea6-4024-b536-c8ade20970aa"
+      },
+      {
+        "userId": "usr_c0f7de09-60c5-4eb0-b6bc-e18a1b873bc4",
+        "displayName": "usr_c0f7de09-60c5-4eb0-b6bc-e18a1b873bc4"
+      },
+      {
+        "userId": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b",
+        "displayName": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b"
+      },
+      {
+        "userId": "usr_c5de53c5-61da-4d19-b942-a9dd14e3343e",
+        "displayName": "usr_c5de53c5-61da-4d19-b942-a9dd14e3343e"
+      },
+      {
+        "userId": "usr_ca1dbc7b-7b20-4f45-ba0c-28f70f0c583c",
+        "displayName": "usr_ca1dbc7b-7b20-4f45-ba0c-28f70f0c583c"
+      },
+      {
+        "userId": "usr_cf6c438f-778b-469c-9621-be9d7616e625",
+        "displayName": "usr_cf6c438f-778b-469c-9621-be9d7616e625"
+      },
+      {
+        "userId": "usr_dcb302e4-fea9-498b-accb-90f62e95b02f",
+        "displayName": "usr_dcb302e4-fea9-498b-accb-90f62e95b02f"
+      },
+      {
+        "userId": "usr_de2a1378-8583-46ac-9c20-559f6e72639d",
+        "displayName": "usr_de2a1378-8583-46ac-9c20-559f6e72639d"
+      },
+      {
+        "userId": "usr_e1f691ce-65c4-42e8-bef8-98db8a19a3e6",
+        "displayName": "usr_e1f691ce-65c4-42e8-bef8-98db8a19a3e6"
+      },
+      {
+        "userId": "usr_e530a793-7fbd-4261-933f-91a0e9d2c76e",
+        "displayName": "usr_e530a793-7fbd-4261-933f-91a0e9d2c76e"
+      },
+      {
+        "userId": "usr_e5442f04-94db-4332-9fa9-c8309cbf85fb",
+        "displayName": "usr_e5442f04-94db-4332-9fa9-c8309cbf85fb"
+      },
+      {
+        "userId": "usr_e9217838-7cd9-4475-9e55-36cf58896cca",
+        "displayName": "usr_e9217838-7cd9-4475-9e55-36cf58896cca"
+      },
+      {
+        "userId": "usr_e99a6c11-a506-45d9-8bac-e98b21bf40b0",
+        "displayName": "usr_e99a6c11-a506-45d9-8bac-e98b21bf40b0"
+      },
+      {
+        "userId": "usr_ea92af73-8b90-4383-a21c-8891b70f4601",
+        "displayName": "usr_ea92af73-8b90-4383-a21c-8891b70f4601"
+      },
+      {
+        "userId": "usr_edebffaa-9192-450a-a2c9-df85c0afbfe7",
+        "displayName": "usr_edebffaa-9192-450a-a2c9-df85c0afbfe7"
+      },
+      {
+        "userId": "usr_f48a23e4-098f-4e18-b06f-110ddd2bb54b",
+        "displayName": "usr_f48a23e4-098f-4e18-b06f-110ddd2bb54b"
+      },
+      {
+        "userId": "usr_f70a6510-ae4a-40d5-80b3-54cf1e4b0737",
+        "displayName": "usr_f70a6510-ae4a-40d5-80b3-54cf1e4b0737"
+      },
+      {
+        "userId": "usr_fb022c9b-3d0b-40b7-a5bb-b903551d541a",
+        "displayName": "usr_fb022c9b-3d0b-40b7-a5bb-b903551d541a"
+      },
+      {
+        "userId": "usr_fc1164d5-baab-489a-a59a-6ad52dafb3c8",
+        "displayName": "usr_fc1164d5-baab-489a-a59a-6ad52dafb3c8"
+      },
+      {
+        "userId": "usr_ffc409e3-0aad-41e1-8159-8a813f71e79e",
+        "displayName": "usr_ffc409e3-0aad-41e1-8159-8a813f71e79e"
+      },
+      {
+        "userId": "usr_06aebe4f-e50c-46ef-a5d9-9dc6eb62d6d9",
+        "displayName": "Vesturo"
       }
     ],
     "Dancer": [
