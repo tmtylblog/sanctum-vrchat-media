@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-15T08:01:07.451Z",
+  "generated": "2026-07-15T08:01:41.158Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -200,10 +200,6 @@
         "displayName": "O_nO"
       },
       {
-        "userId": "usr_41791eed-19ca-40c7-9422-c33322bc5616",
-        "displayName": "OmegaSol"
-      },
-      {
         "userId": "usr_0ed3cff3-8863-4168-a626-6cdbc046f45f",
         "displayName": "Pyrrhana"
       },
@@ -246,6 +242,10 @@
       {
         "userId": "usr_20440d0b-9a96-4eaf-8b05-58d48a803b21",
         "displayName": "usr_20440d0b-9a96-4eaf-8b05-58d48a803b21"
+      },
+      {
+        "userId": "usr_41791eed-19ca-40c7-9422-c33322bc5616",
+        "displayName": "usr_41791eed-19ca-40c7-9422-c33322bc5616"
       },
       {
         "userId": "usr_4577038c-8ae4-4f2d-8745-73a480ee345d",
@@ -326,20 +326,8 @@
         "displayName": "~Mathy~"
       },
       {
-        "userId": "usr_fc1164d5-baab-489a-a59a-6ad52dafb3c8",
-        "displayName": "CablesOnline"
-      },
-      {
         "userId": "usr_06827b9e-5e46-494a-b26c-926c24dc4420",
         "displayName": "domebot1"
-      },
-      {
-        "userId": "usr_de2a1378-8583-46ac-9c20-559f6e72639d",
-        "displayName": "domebot2"
-      },
-      {
-        "userId": "usr_4d7a2386-6085-4013-ba6a-bb76ed47badb",
-        "displayName": "Gaming Skoot"
       },
       {
         "userId": "usr_c0f7de09-60c5-4eb0-b6bc-e18a1b873bc4",
@@ -370,12 +358,24 @@
         "displayName": "Twilo"
       },
       {
-        "userId": "usr_06aebe4f-e50c-46ef-a5d9-9dc6eb62d6d9",
-        "displayName": "Vesturo"
+        "userId": "usr_4d7a2386-6085-4013-ba6a-bb76ed47badb",
+        "displayName": "usr_4d7a2386-6085-4013-ba6a-bb76ed47badb"
+      },
+      {
+        "userId": "usr_de2a1378-8583-46ac-9c20-559f6e72639d",
+        "displayName": "usr_de2a1378-8583-46ac-9c20-559f6e72639d"
+      },
+      {
+        "userId": "usr_fc1164d5-baab-489a-a59a-6ad52dafb3c8",
+        "displayName": "usr_fc1164d5-baab-489a-a59a-6ad52dafb3c8"
       },
       {
         "userId": "usr_ffc409e3-0aad-41e1-8159-8a813f71e79e",
-        "displayName": "witherdWhisper"
+        "displayName": "usr_ffc409e3-0aad-41e1-8159-8a813f71e79e"
+      },
+      {
+        "userId": "usr_06aebe4f-e50c-46ef-a5d9-9dc6eb62d6d9",
+        "displayName": "Vesturo"
       },
       {
         "userId": "usr_fa3b49a2-d50c-46e8-bc21-5ceec9fa1e73",
@@ -404,10 +404,6 @@
         "displayName": "~Mathy~"
       },
       {
-        "userId": "usr_5ec8b436-4c68-4421-a038-ce5788d43502",
-        "displayName": "AcChosen"
-      },
-      {
         "userId": "usr_617040d8-3560-497a-a38f-bdb274ba4ee5",
         "displayName": "AyumiKoi"
       },
@@ -422,10 +418,6 @@
       {
         "userId": "usr_e1f691ce-65c4-42e8-bef8-98db8a19a3e6",
         "displayName": "EllieXY"
-      },
-      {
-        "userId": "usr_4d7a2386-6085-4013-ba6a-bb76ed47badb",
-        "displayName": "Gaming Skoot"
       },
       {
         "userId": "usr_0021bf6c-901e-4db7-87ba-031cb31e165e",
@@ -468,10 +460,6 @@
         "displayName": "SANCTUM_STUDIO"
       },
       {
-        "userId": "usr_cf6c438f-778b-469c-9621-be9d7616e625",
-        "displayName": "SladeDaCat"
-      },
-      {
         "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
         "displayName": "Slothcast"
       },
@@ -488,6 +476,14 @@
         "displayName": "Twilo"
       },
       {
+        "userId": "usr_4d7a2386-6085-4013-ba6a-bb76ed47badb",
+        "displayName": "usr_4d7a2386-6085-4013-ba6a-bb76ed47badb"
+      },
+      {
+        "userId": "usr_5ec8b436-4c68-4421-a038-ce5788d43502",
+        "displayName": "usr_5ec8b436-4c68-4421-a038-ce5788d43502"
+      },
+      {
         "userId": "usr_a02a7604-ca82-4802-a465-a5f553a72556",
         "displayName": "usr_a02a7604-ca82-4802-a465-a5f553a72556"
       },
@@ -496,16 +492,20 @@
         "displayName": "usr_b8c1785e-fea6-4024-b536-c8ade20970aa"
       },
       {
+        "userId": "usr_cf6c438f-778b-469c-9621-be9d7616e625",
+        "displayName": "usr_cf6c438f-778b-469c-9621-be9d7616e625"
+      },
+      {
+        "userId": "usr_ffc409e3-0aad-41e1-8159-8a813f71e79e",
+        "displayName": "usr_ffc409e3-0aad-41e1-8159-8a813f71e79e"
+      },
+      {
         "userId": "usr_44eb716d-9e13-4228-a839-14388eda6a10",
         "displayName": "Ｖ xo"
       },
       {
         "userId": "usr_06aebe4f-e50c-46ef-a5d9-9dc6eb62d6d9",
         "displayName": "Vesturo"
-      },
-      {
-        "userId": "usr_ffc409e3-0aad-41e1-8159-8a813f71e79e",
-        "displayName": "witherdWhisper"
       },
       {
         "userId": "usr_1516ca40-edd5-4a55-aafd-0a9fef9e329d",
@@ -686,10 +686,6 @@
       {
         "userId": "usr_d0f71f1a-ae3f-4d15-883c-b9ab587cea0c",
         "displayName": "Apow"
-      },
-      {
-        "userId": "usr_8031b8de-f6da-4c0e-a5b1-a2f50d2e757b",
-        "displayName": "Aquaman56"
       },
       {
         "userId": "usr_af0f1a1f-0543-4182-a605-0c3ace8d27d9",
@@ -1180,10 +1176,6 @@
         "displayName": "O_nO"
       },
       {
-        "userId": "usr_41791eed-19ca-40c7-9422-c33322bc5616",
-        "displayName": "OmegaSol"
-      },
-      {
         "userId": "usr_a97e6118-0a6d-4a96-9d29-d6690d33b2a0",
         "displayName": "PammeMatth"
       },
@@ -1360,6 +1352,10 @@
         "displayName": "usr_2a252346-c74a-4452-910c-ce3c960005b9"
       },
       {
+        "userId": "usr_41791eed-19ca-40c7-9422-c33322bc5616",
+        "displayName": "usr_41791eed-19ca-40c7-9422-c33322bc5616"
+      },
+      {
         "userId": "usr_4577038c-8ae4-4f2d-8745-73a480ee345d",
         "displayName": "usr_4577038c-8ae4-4f2d-8745-73a480ee345d"
       },
@@ -1374,6 +1370,10 @@
       {
         "userId": "usr_5ec8b436-4c68-4421-a038-ce5788d43502",
         "displayName": "usr_5ec8b436-4c68-4421-a038-ce5788d43502"
+      },
+      {
+        "userId": "usr_8031b8de-f6da-4c0e-a5b1-a2f50d2e757b",
+        "displayName": "usr_8031b8de-f6da-4c0e-a5b1-a2f50d2e757b"
       },
       {
         "userId": "usr_a02a7604-ca82-4802-a465-a5f553a72556",
