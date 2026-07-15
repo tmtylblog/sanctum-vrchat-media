@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-15T10:31:03.844Z",
+  "generated": "2026-07-15T11:00:42.565Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -116,6 +116,10 @@
         "displayName": "Twilo"
       },
       {
+        "userId": "usr_3b40e78a-460f-44a3-bea1-4593a96c2c39",
+        "displayName": "usr_3b40e78a-460f-44a3-bea1-4593a96c2c39"
+      },
+      {
         "userId": "usr_41791eed-19ca-40c7-9422-c33322bc5616",
         "displayName": "usr_41791eed-19ca-40c7-9422-c33322bc5616"
       },
@@ -126,10 +130,6 @@
       {
         "userId": "usr_cf6c438f-778b-469c-9621-be9d7616e625",
         "displayName": "usr_cf6c438f-778b-469c-9621-be9d7616e625"
-      },
-      {
-        "userId": "usr_3b40e78a-460f-44a3-bea1-4593a96c2c39",
-        "displayName": "よる_yoru"
       }
     ]
   },
