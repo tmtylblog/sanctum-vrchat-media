@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-16T13:44:07.377Z",
+  "generated": "2026-07-16T14:02:56.534Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -36,7 +36,12 @@
   "supporters": {
     "entrySystemRecognition": [],
     "terminalNameInclusion": [],
-    "floorCarvingNameInclusion": [],
+    "floorCarvingNameInclusion": [
+      {
+        "userId": "usr_4811e034-1234-4f8b-b8af-9c193b8ea708",
+        "displayName": "ItsCube"
+      }
+    ],
     "privatePenthouseSpawn": [],
     "performanceVodAccess": [],
     "hostTribuneEvents": [],
