@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-16T15:30:24.510Z",
+  "generated": "2026-07-16T15:44:06.888Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -70,6 +70,10 @@
       {
         "userId": "usr_172bd6d5-bbb9-4fb6-8fa5-dde88985fa06",
         "displayName": "AizenDove"
+      },
+      {
+        "userId": "usr_af0f1a1f-0543-4182-a605-0c3ace8d27d9",
+        "displayName": "Ari Gold"
       },
       {
         "userId": "usr_b56325f6-f494-4351-939f-7478db325657",
@@ -410,6 +414,10 @@
       {
         "userId": "usr_5ec8b436-4c68-4421-a038-ce5788d43502",
         "displayName": "AcChosen"
+      },
+      {
+        "userId": "usr_af0f1a1f-0543-4182-a605-0c3ace8d27d9",
+        "displayName": "Ari Gold"
       },
       {
         "userId": "usr_617040d8-3560-497a-a38f-bdb274ba4ee5",
@@ -1602,6 +1610,10 @@
         "displayName": "AizenDove"
       },
       {
+        "userId": "usr_af0f1a1f-0543-4182-a605-0c3ace8d27d9",
+        "displayName": "Ari Gold"
+      },
+      {
         "userId": "usr_b56325f6-f494-4351-939f-7478db325657",
         "displayName": "Ariel Emerald"
       },
@@ -2756,6 +2768,10 @@
       {
         "userId": "usr_172bd6d5-bbb9-4fb6-8fa5-dde88985fa06",
         "displayName": "AizenDove"
+      },
+      {
+        "userId": "usr_af0f1a1f-0543-4182-a605-0c3ace8d27d9",
+        "displayName": "Ari Gold"
       },
       {
         "userId": "usr_b56325f6-f494-4351-939f-7478db325657",
