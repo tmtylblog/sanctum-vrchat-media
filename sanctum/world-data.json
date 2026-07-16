@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-16T01:01:24.746Z",
+  "generated": "2026-07-16T01:03:31.144Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -5397,8 +5397,8 @@
   },
   "vods": [],
   "worldControl": {
-    "v": 213,
-    "ts": "2026-07-16T01:01:24.460Z",
+    "v": 214,
+    "ts": "2026-07-16T01:03:30.976Z",
     "doors": {
       "frontDoor": false,
       "reactorDoor": false,
@@ -5415,9 +5415,9 @@
       "aux4": false,
       "aux5": false
     },
-    "eventActive": true,
-    "venue": 2,
-    "venueName": "Lunette",
+    "eventActive": false,
+    "venue": null,
+    "venueName": null,
     "virtuaMotionTracking": [
       {
         "role": "dj1",
