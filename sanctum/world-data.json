@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-16T17:01:06.003Z",
+  "generated": "2026-07-16T17:30:22.340Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -218,6 +218,10 @@
       {
         "userId": "usr_73498c41-eff9-404b-b15c-1364826e7cbe",
         "displayName": "Neon Lia"
+      },
+      {
+        "userId": "usr_e9b2c819-8e13-4299-9cf4-4f6d7290c625",
+        "displayName": "neriH"
       },
       {
         "userId": "usr_500483d6-6a0c-4ca4-9370-1746886843c7",
@@ -1216,6 +1220,10 @@
         "displayName": "NekoTiki"
       },
       {
+        "userId": "usr_e9b2c819-8e13-4299-9cf4-4f6d7290c625",
+        "displayName": "neriH"
+      },
+      {
         "userId": "usr_cf279939-6e33-4ae0-af78-db109cef7817",
         "displayName": "Nerosun"
       },
@@ -1726,6 +1734,10 @@
         "displayName": "MUZZ_"
       },
       {
+        "userId": "usr_e9b2c819-8e13-4299-9cf4-4f6d7290c625",
+        "displayName": "neriH"
+      },
+      {
         "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
         "displayName": "Null_Omen"
       },
@@ -1890,6 +1902,10 @@
       {
         "userId": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b",
         "displayName": "Mixieǃ"
+      },
+      {
+        "userId": "usr_e9b2c819-8e13-4299-9cf4-4f6d7290c625",
+        "displayName": "neriH"
       },
       {
         "userId": "usr_70221641-74ac-41c3-b5b0-13e8f379f788",
@@ -2096,6 +2112,10 @@
       {
         "userId": "usr_97b6e256-c441-4dde-9cb9-f29f78727f1d",
         "displayName": "MUZZ_"
+      },
+      {
+        "userId": "usr_e9b2c819-8e13-4299-9cf4-4f6d7290c625",
+        "displayName": "neriH"
       },
       {
         "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
@@ -2362,6 +2382,10 @@
         "displayName": "MUZZ_"
       },
       {
+        "userId": "usr_e9b2c819-8e13-4299-9cf4-4f6d7290c625",
+        "displayName": "neriH"
+      },
+      {
         "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
         "displayName": "Null_Omen"
       },
@@ -2622,6 +2646,10 @@
       {
         "userId": "usr_97b6e256-c441-4dde-9cb9-f29f78727f1d",
         "displayName": "MUZZ_"
+      },
+      {
+        "userId": "usr_e9b2c819-8e13-4299-9cf4-4f6d7290c625",
+        "displayName": "neriH"
       },
       {
         "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
@@ -2886,6 +2914,10 @@
         "displayName": "MUZZ_"
       },
       {
+        "userId": "usr_e9b2c819-8e13-4299-9cf4-4f6d7290c625",
+        "displayName": "neriH"
+      },
+      {
         "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
         "displayName": "Null_Omen"
       },
@@ -3146,6 +3178,10 @@
       {
         "userId": "usr_97b6e256-c441-4dde-9cb9-f29f78727f1d",
         "displayName": "MUZZ_"
+      },
+      {
+        "userId": "usr_e9b2c819-8e13-4299-9cf4-4f6d7290c625",
+        "displayName": "neriH"
       },
       {
         "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
@@ -3410,6 +3446,10 @@
         "displayName": "MUZZ_"
       },
       {
+        "userId": "usr_e9b2c819-8e13-4299-9cf4-4f6d7290c625",
+        "displayName": "neriH"
+      },
+      {
         "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
         "displayName": "Null_Omen"
       },
@@ -3672,6 +3712,10 @@
         "displayName": "MUZZ_"
       },
       {
+        "userId": "usr_e9b2c819-8e13-4299-9cf4-4f6d7290c625",
+        "displayName": "neriH"
+      },
+      {
         "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
         "displayName": "Null_Omen"
       },
@@ -3932,6 +3976,10 @@
       {
         "userId": "usr_97b6e256-c441-4dde-9cb9-f29f78727f1d",
         "displayName": "MUZZ_"
+      },
+      {
+        "userId": "usr_e9b2c819-8e13-4299-9cf4-4f6d7290c625",
+        "displayName": "neriH"
       },
       {
         "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
