@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-16T13:44:08.532Z",
+  "generated": "2026-07-16T14:02:57.845Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -36,7 +36,12 @@
   "supporters": {
     "entrySystemRecognition": [],
     "terminalNameInclusion": [],
-    "floorCarvingNameInclusion": [],
+    "floorCarvingNameInclusion": [
+      {
+        "userId": "usr_8d1fcd11-2a93-4821-ab68-6c61f3f0b20b",
+        "displayName": "EngineerIsaac"
+      }
+    ],
     "privatePenthouseSpawn": [],
     "performanceVodAccess": [],
     "hostTribuneEvents": [],
