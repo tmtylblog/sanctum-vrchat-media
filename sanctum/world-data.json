@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-17T21:01:30.753Z",
+  "generated": "2026-07-17T21:30:16.796Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -2130,10 +2130,6 @@
         "displayName": "Llamahat"
       },
       {
-        "userId": "usr_339f54fd-17d3-42ed-820f-7fb7c0b5ee08",
-        "displayName": "Lobster"
-      },
-      {
         "userId": "usr_ca1dbc7b-7b20-4f45-ba0c-28f70f0c583c",
         "displayName": "Luxifinity"
       },
@@ -2390,16 +2386,16 @@
         "displayName": "kohadachan"
       },
       {
+        "userId": "usr_82c5732f-d80b-43b0-aa81-a734ac93bfc2",
+        "displayName": "Kurumych"
+      },
+      {
         "userId": "usr_72c3698b-964b-4748-82f4-5e113d0f7ef9",
         "displayName": "kxa_dnb"
       },
       {
         "userId": "usr_5336f8d4-8716-448f-a773-35196036b110",
         "displayName": "Llamahat"
-      },
-      {
-        "userId": "usr_339f54fd-17d3-42ed-820f-7fb7c0b5ee08",
-        "displayName": "Lobster"
       },
       {
         "userId": "usr_ca1dbc7b-7b20-4f45-ba0c-28f70f0c583c",
@@ -2656,16 +2652,16 @@
         "displayName": "kohadachan"
       },
       {
+        "userId": "usr_82c5732f-d80b-43b0-aa81-a734ac93bfc2",
+        "displayName": "Kurumych"
+      },
+      {
         "userId": "usr_72c3698b-964b-4748-82f4-5e113d0f7ef9",
         "displayName": "kxa_dnb"
       },
       {
         "userId": "usr_5336f8d4-8716-448f-a773-35196036b110",
         "displayName": "Llamahat"
-      },
-      {
-        "userId": "usr_339f54fd-17d3-42ed-820f-7fb7c0b5ee08",
-        "displayName": "Lobster"
       },
       {
         "userId": "usr_ca1dbc7b-7b20-4f45-ba0c-28f70f0c583c",
@@ -3188,16 +3184,16 @@
         "displayName": "kohadachan"
       },
       {
+        "userId": "usr_82c5732f-d80b-43b0-aa81-a734ac93bfc2",
+        "displayName": "Kurumych"
+      },
+      {
         "userId": "usr_72c3698b-964b-4748-82f4-5e113d0f7ef9",
         "displayName": "kxa_dnb"
       },
       {
         "userId": "usr_5336f8d4-8716-448f-a773-35196036b110",
         "displayName": "Llamahat"
-      },
-      {
-        "userId": "usr_339f54fd-17d3-42ed-820f-7fb7c0b5ee08",
-        "displayName": "Lobster"
       },
       {
         "userId": "usr_ca1dbc7b-7b20-4f45-ba0c-28f70f0c583c",
@@ -3454,16 +3450,16 @@
         "displayName": "kohadachan"
       },
       {
+        "userId": "usr_82c5732f-d80b-43b0-aa81-a734ac93bfc2",
+        "displayName": "Kurumych"
+      },
+      {
         "userId": "usr_72c3698b-964b-4748-82f4-5e113d0f7ef9",
         "displayName": "kxa_dnb"
       },
       {
         "userId": "usr_5336f8d4-8716-448f-a773-35196036b110",
         "displayName": "Llamahat"
-      },
-      {
-        "userId": "usr_339f54fd-17d3-42ed-820f-7fb7c0b5ee08",
-        "displayName": "Lobster"
       },
       {
         "userId": "usr_ca1dbc7b-7b20-4f45-ba0c-28f70f0c583c",
@@ -3720,16 +3716,16 @@
         "displayName": "kohadachan"
       },
       {
+        "userId": "usr_82c5732f-d80b-43b0-aa81-a734ac93bfc2",
+        "displayName": "Kurumych"
+      },
+      {
         "userId": "usr_72c3698b-964b-4748-82f4-5e113d0f7ef9",
         "displayName": "kxa_dnb"
       },
       {
         "userId": "usr_5336f8d4-8716-448f-a773-35196036b110",
         "displayName": "Llamahat"
-      },
-      {
-        "userId": "usr_339f54fd-17d3-42ed-820f-7fb7c0b5ee08",
-        "displayName": "Lobster"
       },
       {
         "userId": "usr_ca1dbc7b-7b20-4f45-ba0c-28f70f0c583c",
@@ -3986,16 +3982,16 @@
         "displayName": "kohadachan"
       },
       {
+        "userId": "usr_82c5732f-d80b-43b0-aa81-a734ac93bfc2",
+        "displayName": "Kurumych"
+      },
+      {
         "userId": "usr_72c3698b-964b-4748-82f4-5e113d0f7ef9",
         "displayName": "kxa_dnb"
       },
       {
         "userId": "usr_5336f8d4-8716-448f-a773-35196036b110",
         "displayName": "Llamahat"
-      },
-      {
-        "userId": "usr_339f54fd-17d3-42ed-820f-7fb7c0b5ee08",
-        "displayName": "Lobster"
       },
       {
         "userId": "usr_ca1dbc7b-7b20-4f45-ba0c-28f70f0c583c",
