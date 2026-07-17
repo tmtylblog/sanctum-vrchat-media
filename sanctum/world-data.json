@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-17T12:39:38.381Z",
+  "generated": "2026-07-17T12:40:08.947Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -458,6 +458,10 @@
       {
         "userId": "usr_de2a1378-8583-46ac-9c20-559f6e72639d",
         "displayName": "domebot2"
+      },
+      {
+        "userId": "usr_f48a23e4-098f-4e18-b06f-110ddd2bb54b",
+        "displayName": "domebot2-aggregator b54b"
       },
       {
         "userId": "usr_e1f691ce-65c4-42e8-bef8-98db8a19a3e6",
