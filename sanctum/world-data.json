@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-18T01:01:00.920Z",
+  "generated": "2026-07-18T01:26:40.960Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -852,6 +852,10 @@
         "displayName": "Code Jin"
       },
       {
+        "userId": "usr_b0ec06d7-5fa6-4675-b1b5-1eaa48a69fdf",
+        "displayName": "crabman823"
+      },
+      {
         "userId": "usr_733cef97-961b-4cb3-9b83-40c53d182e76",
         "displayName": "CRUZBOT"
       },
@@ -1426,6 +1430,10 @@
       {
         "userId": "usr_b747fd16-75f8-4118-bd48-7523770ffc15",
         "displayName": "Syn'"
+      },
+      {
+        "userId": "usr_55170282-59a0-4ba9-b627-22fd7b2017b9",
+        "displayName": "SynexBB"
       },
       {
         "userId": "usr_42b6fc6e-e9bd-4766-88fc-66ec8178246d",
