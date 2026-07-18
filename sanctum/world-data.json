@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-18T03:30:15.196Z",
+  "generated": "2026-07-18T03:33:22.792Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -494,6 +494,10 @@
       {
         "userId": "usr_b8c1785e-fea6-4024-b536-c8ade20970aa",
         "displayName": "Nyan-Cyan"
+      },
+      {
+        "userId": "usr_41791eed-19ca-40c7-9422-c33322bc5616",
+        "displayName": "OmegaSol"
       },
       {
         "userId": "usr_a97e6118-0a6d-4a96-9d29-d6690d33b2a0",
@@ -1792,6 +1796,10 @@
       {
         "userId": "usr_70221641-74ac-41c3-b5b0-13e8f379f788",
         "displayName": "O_nO"
+      },
+      {
+        "userId": "usr_41791eed-19ca-40c7-9422-c33322bc5616",
+        "displayName": "OmegaSol"
       },
       {
         "userId": "usr_a97e6118-0a6d-4a96-9d29-d6690d33b2a0",
