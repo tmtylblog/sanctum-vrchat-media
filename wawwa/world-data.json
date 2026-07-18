@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-18T05:45:35.157Z",
+  "generated": "2026-07-18T06:01:11.016Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -37,12 +37,6 @@
       }
     ],
     "Traveler": [
-      {
-        "userId": "usr_853bcf72-6491-48df-a7f1-890a5bdc846c",
-        "displayName": "AetheriosVR"
-      }
-    ],
-    "Performer": [
       {
         "userId": "usr_853bcf72-6491-48df-a7f1-890a5bdc846c",
         "displayName": "AetheriosVR"
