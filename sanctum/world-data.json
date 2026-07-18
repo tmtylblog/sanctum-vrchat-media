@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-18T21:00:15.926Z",
+  "generated": "2026-07-18T21:01:13.568Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -82,14 +82,6 @@
       {
         "userId": "usr_a367d6c3-ad94-4a88-83b2-822aaa071fac",
         "displayName": "AyyyyRik"
-      },
-      {
-        "userId": "usr_de6af2ae-8bdf-4aa9-89ae-8af79e2aa405",
-        "displayName": "BASICBIT"
-      },
-      {
-        "userId": "usr_a02a7604-ca82-4802-a465-a5f553a72556",
-        "displayName": "beesha"
       },
       {
         "userId": "usr_f0ad9938-b547-4de5-8c16-5da58606614b",
@@ -208,10 +200,6 @@
         "displayName": "MoodyRECON"
       },
       {
-        "userId": "usr_97b6e256-c441-4dde-9cb9-f29f78727f1d",
-        "displayName": "MUZZ_"
-      },
-      {
         "userId": "usr_73498c41-eff9-404b-b15c-1364826e7cbe",
         "displayName": "Neon Lia"
       },
@@ -242,10 +230,6 @@
       {
         "userId": "usr_42aece14-7ae5-4187-93bb-d6af6ca5103f",
         "displayName": "R-O-S-H-I-E"
-      },
-      {
-        "userId": "usr_589a479b-80cf-42c4-92e4-63cbd900a82b",
-        "displayName": "Rain_Iwa"
       },
       {
         "userId": "usr_fb022c9b-3d0b-40b7-a5bb-b903551d541a",
@@ -502,10 +486,6 @@
       {
         "userId": "usr_a97e6118-0a6d-4a96-9d29-d6690d33b2a0",
         "displayName": "PammeMatth"
-      },
-      {
-        "userId": "usr_589a479b-80cf-42c4-92e4-63cbd900a82b",
-        "displayName": "Rain_Iwa"
       },
       {
         "userId": "usr_fb022c9b-3d0b-40b7-a5bb-b903551d541a",
