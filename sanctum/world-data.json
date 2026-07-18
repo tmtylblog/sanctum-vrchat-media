@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-18T12:11:25.362Z",
+  "generated": "2026-07-18T12:11:40.503Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -285,7 +285,7 @@
       },
       {
         "userId": "usr_edebffaa-9192-450a-a2c9-df85c0afbfe7",
-        "displayName": "Xee Xee"
+        "displayName": "xee_xee"
       },
       {
         "userId": "usr_1516ca40-edd5-4a55-aafd-0a9fef9e329d",
@@ -1521,7 +1521,7 @@
       },
       {
         "userId": "usr_edebffaa-9192-450a-a2c9-df85c0afbfe7",
-        "displayName": "Xee Xee"
+        "displayName": "xee_xee"
       },
       {
         "userId": "usr_bb33b9f7-0a51-44e5-875a-d9df1de6b2dd",
@@ -1863,7 +1863,7 @@
       },
       {
         "userId": "usr_edebffaa-9192-450a-a2c9-df85c0afbfe7",
-        "displayName": "Xee Xee"
+        "displayName": "xee_xee"
       },
       {
         "userId": "usr_1516ca40-edd5-4a55-aafd-0a9fef9e329d",
@@ -1985,7 +1985,7 @@
       },
       {
         "userId": "usr_edebffaa-9192-450a-a2c9-df85c0afbfe7",
-        "displayName": "Xee Xee"
+        "displayName": "xee_xee"
       },
       {
         "userId": "usr_1516ca40-edd5-4a55-aafd-0a9fef9e329d",
@@ -2259,7 +2259,7 @@
       },
       {
         "userId": "usr_edebffaa-9192-450a-a2c9-df85c0afbfe7",
-        "displayName": "Xee Xee"
+        "displayName": "xee_xee"
       },
       {
         "userId": "usr_1516ca40-edd5-4a55-aafd-0a9fef9e329d",
@@ -2268,10 +2268,6 @@
       {
         "userId": "usr_b0a3f681-7113-4383-ac47-a47119fdf4ec",
         "displayName": "yukiware"
-      },
-      {
-        "userId": "usr_14449297-1948-4a9b-875b-3dfa844d0e77",
-        "displayName": "Ψ Cryss Ψ"
       },
       {
         "userId": "usr_aee101c1-9ec1-4446-91d0-8508f56ba5d3",
@@ -2547,7 +2543,7 @@
       },
       {
         "userId": "usr_edebffaa-9192-450a-a2c9-df85c0afbfe7",
-        "displayName": "Xee Xee"
+        "displayName": "xee_xee"
       },
       {
         "userId": "usr_1516ca40-edd5-4a55-aafd-0a9fef9e329d",
@@ -2556,10 +2552,6 @@
       {
         "userId": "usr_b0a3f681-7113-4383-ac47-a47119fdf4ec",
         "displayName": "yukiware"
-      },
-      {
-        "userId": "usr_14449297-1948-4a9b-875b-3dfa844d0e77",
-        "displayName": "Ψ Cryss Ψ"
       },
       {
         "userId": "usr_aee101c1-9ec1-4446-91d0-8508f56ba5d3",
@@ -2833,7 +2825,7 @@
       },
       {
         "userId": "usr_edebffaa-9192-450a-a2c9-df85c0afbfe7",
-        "displayName": "Xee Xee"
+        "displayName": "xee_xee"
       },
       {
         "userId": "usr_1516ca40-edd5-4a55-aafd-0a9fef9e329d",
@@ -2842,10 +2834,6 @@
       {
         "userId": "usr_b0a3f681-7113-4383-ac47-a47119fdf4ec",
         "displayName": "yukiware"
-      },
-      {
-        "userId": "usr_14449297-1948-4a9b-875b-3dfa844d0e77",
-        "displayName": "Ψ Cryss Ψ"
       },
       {
         "userId": "usr_aee101c1-9ec1-4446-91d0-8508f56ba5d3",
@@ -3111,7 +3099,7 @@
       },
       {
         "userId": "usr_edebffaa-9192-450a-a2c9-df85c0afbfe7",
-        "displayName": "Xee Xee"
+        "displayName": "xee_xee"
       },
       {
         "userId": "usr_1516ca40-edd5-4a55-aafd-0a9fef9e329d",
@@ -3389,7 +3377,7 @@
       },
       {
         "userId": "usr_edebffaa-9192-450a-a2c9-df85c0afbfe7",
-        "displayName": "Xee Xee"
+        "displayName": "xee_xee"
       },
       {
         "userId": "usr_1516ca40-edd5-4a55-aafd-0a9fef9e329d",
@@ -3398,10 +3386,6 @@
       {
         "userId": "usr_b0a3f681-7113-4383-ac47-a47119fdf4ec",
         "displayName": "yukiware"
-      },
-      {
-        "userId": "usr_14449297-1948-4a9b-875b-3dfa844d0e77",
-        "displayName": "Ψ Cryss Ψ"
       },
       {
         "userId": "usr_aee101c1-9ec1-4446-91d0-8508f56ba5d3",
@@ -3675,7 +3659,7 @@
       },
       {
         "userId": "usr_edebffaa-9192-450a-a2c9-df85c0afbfe7",
-        "displayName": "Xee Xee"
+        "displayName": "xee_xee"
       },
       {
         "userId": "usr_1516ca40-edd5-4a55-aafd-0a9fef9e329d",
@@ -3684,10 +3668,6 @@
       {
         "userId": "usr_b0a3f681-7113-4383-ac47-a47119fdf4ec",
         "displayName": "yukiware"
-      },
-      {
-        "userId": "usr_14449297-1948-4a9b-875b-3dfa844d0e77",
-        "displayName": "Ψ Cryss Ψ"
       },
       {
         "userId": "usr_aee101c1-9ec1-4446-91d0-8508f56ba5d3",
@@ -3961,7 +3941,7 @@
       },
       {
         "userId": "usr_edebffaa-9192-450a-a2c9-df85c0afbfe7",
-        "displayName": "Xee Xee"
+        "displayName": "xee_xee"
       },
       {
         "userId": "usr_1516ca40-edd5-4a55-aafd-0a9fef9e329d",
@@ -3970,10 +3950,6 @@
       {
         "userId": "usr_b0a3f681-7113-4383-ac47-a47119fdf4ec",
         "displayName": "yukiware"
-      },
-      {
-        "userId": "usr_14449297-1948-4a9b-875b-3dfa844d0e77",
-        "displayName": "Ψ Cryss Ψ"
       },
       {
         "userId": "usr_aee101c1-9ec1-4446-91d0-8508f56ba5d3",
@@ -4247,7 +4223,7 @@
       },
       {
         "userId": "usr_edebffaa-9192-450a-a2c9-df85c0afbfe7",
-        "displayName": "Xee Xee"
+        "displayName": "xee_xee"
       },
       {
         "userId": "usr_1516ca40-edd5-4a55-aafd-0a9fef9e329d",
@@ -4256,10 +4232,6 @@
       {
         "userId": "usr_b0a3f681-7113-4383-ac47-a47119fdf4ec",
         "displayName": "yukiware"
-      },
-      {
-        "userId": "usr_14449297-1948-4a9b-875b-3dfa844d0e77",
-        "displayName": "Ψ Cryss Ψ"
       },
       {
         "userId": "usr_aee101c1-9ec1-4446-91d0-8508f56ba5d3",
@@ -5913,8 +5885,8 @@
   },
   "vods": [],
   "worldControl": {
-    "v": 248,
-    "ts": "2026-07-17T16:06:56.942Z",
+    "v": 249,
+    "ts": "2026-07-18T12:11:40.050Z",
     "doors": {
       "frontDoor": true,
       "reactorDoor": false,
@@ -5937,33 +5909,33 @@
     "virtuaMotionTracking": [
       {
         "role": "dj1",
-        "username": null,
-        "puppetId": 0
+        "username": "Vesturo",
+        "puppetId": 1
       },
       {
         "role": "dj2",
         "username": null,
-        "puppetId": 0
+        "puppetId": null
       },
       {
         "role": "dancer1",
         "username": null,
-        "puppetId": 0
+        "puppetId": null
       },
       {
         "role": "dancer2",
         "username": null,
-        "puppetId": 0
+        "puppetId": null
       },
       {
         "role": "dancer3",
         "username": null,
-        "puppetId": 0
+        "puppetId": null
       },
       {
         "role": "dancer4",
         "username": null,
-        "puppetId": 0
+        "puppetId": null
       }
     ]
   }
