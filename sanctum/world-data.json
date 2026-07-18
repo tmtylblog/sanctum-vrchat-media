@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-18T14:02:00.545Z",
+  "generated": "2026-07-18T14:08:27.631Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -1018,6 +1018,10 @@
       {
         "userId": "usr_a487ebe9-6c9a-47f1-adc7-b9ed1753cab2",
         "displayName": "Haze 247"
+      },
+      {
+        "userId": "usr_c2700122-1e42-4328-b135-b06121940214",
+        "displayName": "HowToMakeSushi"
       },
       {
         "userId": "usr_afd9cf2c-ce5d-41af-ae6f-06038d3e3041",
@@ -2074,6 +2078,10 @@
         "displayName": "AznManDown"
       },
       {
+        "userId": "usr_94be15e9-f1af-42a0-8f72-b61ab1ed36f9",
+        "displayName": "BlankTheFool"
+      },
+      {
         "userId": "usr_959c659f-7086-4b94-830f-7f136a0d85f1",
         "displayName": "Bobby J"
       },
@@ -2362,6 +2370,10 @@
         "displayName": "AznManDown"
       },
       {
+        "userId": "usr_94be15e9-f1af-42a0-8f72-b61ab1ed36f9",
+        "displayName": "BlankTheFool"
+      },
+      {
         "userId": "usr_959c659f-7086-4b94-830f-7f136a0d85f1",
         "displayName": "Bobby J"
       },
@@ -2646,6 +2658,10 @@
       {
         "userId": "usr_b4e996ed-3eeb-4c80-9548-fec22e8c9f08",
         "displayName": "AznManDown"
+      },
+      {
+        "userId": "usr_94be15e9-f1af-42a0-8f72-b61ab1ed36f9",
+        "displayName": "BlankTheFool"
       },
       {
         "userId": "usr_959c659f-7086-4b94-830f-7f136a0d85f1",
@@ -3204,6 +3220,10 @@
         "displayName": "AznManDown"
       },
       {
+        "userId": "usr_94be15e9-f1af-42a0-8f72-b61ab1ed36f9",
+        "displayName": "BlankTheFool"
+      },
+      {
         "userId": "usr_959c659f-7086-4b94-830f-7f136a0d85f1",
         "displayName": "Bobby J"
       },
@@ -3488,6 +3508,10 @@
       {
         "userId": "usr_b4e996ed-3eeb-4c80-9548-fec22e8c9f08",
         "displayName": "AznManDown"
+      },
+      {
+        "userId": "usr_94be15e9-f1af-42a0-8f72-b61ab1ed36f9",
+        "displayName": "BlankTheFool"
       },
       {
         "userId": "usr_959c659f-7086-4b94-830f-7f136a0d85f1",
@@ -3776,6 +3800,10 @@
         "displayName": "AznManDown"
       },
       {
+        "userId": "usr_94be15e9-f1af-42a0-8f72-b61ab1ed36f9",
+        "displayName": "BlankTheFool"
+      },
+      {
         "userId": "usr_959c659f-7086-4b94-830f-7f136a0d85f1",
         "displayName": "Bobby J"
       },
@@ -4060,6 +4088,10 @@
       {
         "userId": "usr_b4e996ed-3eeb-4c80-9548-fec22e8c9f08",
         "displayName": "AznManDown"
+      },
+      {
+        "userId": "usr_94be15e9-f1af-42a0-8f72-b61ab1ed36f9",
+        "displayName": "BlankTheFool"
       },
       {
         "userId": "usr_959c659f-7086-4b94-830f-7f136a0d85f1",
