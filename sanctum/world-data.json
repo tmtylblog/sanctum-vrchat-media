@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-19T11:01:01.761Z",
+  "generated": "2026-07-19T11:03:05.993Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -2306,6 +2306,10 @@
         "displayName": "ハニーBEE"
       },
       {
+        "userId": "usr_646c1851-8b85-4aa0-b751-606280907642",
+        "displayName": "む－さん"
+      },
+      {
         "userId": "usr_3b40e78a-460f-44a3-bea1-4593a96c2c39",
         "displayName": "よる_yoru"
       }
@@ -2606,6 +2610,10 @@
         "displayName": "ハニーBEE"
       },
       {
+        "userId": "usr_646c1851-8b85-4aa0-b751-606280907642",
+        "displayName": "む－さん"
+      },
+      {
         "userId": "usr_3b40e78a-460f-44a3-bea1-4593a96c2c39",
         "displayName": "よる_yoru"
       }
@@ -2902,6 +2910,10 @@
       {
         "userId": "usr_e5442f04-94db-4332-9fa9-c8309cbf85fb",
         "displayName": "ハニーBEE"
+      },
+      {
+        "userId": "usr_646c1851-8b85-4aa0-b751-606280907642",
+        "displayName": "む－さん"
       },
       {
         "userId": "usr_3b40e78a-460f-44a3-bea1-4593a96c2c39",
@@ -3476,6 +3488,10 @@
         "displayName": "ハニーBEE"
       },
       {
+        "userId": "usr_646c1851-8b85-4aa0-b751-606280907642",
+        "displayName": "む－さん"
+      },
+      {
         "userId": "usr_3b40e78a-460f-44a3-bea1-4593a96c2c39",
         "displayName": "よる_yoru"
       }
@@ -3772,6 +3788,10 @@
       {
         "userId": "usr_e5442f04-94db-4332-9fa9-c8309cbf85fb",
         "displayName": "ハニーBEE"
+      },
+      {
+        "userId": "usr_646c1851-8b85-4aa0-b751-606280907642",
+        "displayName": "む－さん"
       },
       {
         "userId": "usr_3b40e78a-460f-44a3-bea1-4593a96c2c39",
