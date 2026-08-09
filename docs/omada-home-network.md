@@ -121,6 +121,31 @@ All WPA-Personal, all broadcast. Band code: 2.4/5/6 GHz.
   Default so the Sonos app works from the main SSID without network-switching
   (would retire the `new-horizons-sonos` SSID and VLAN 150 eventually).
 
+## WAN diagnosis (Sonos/Spotify stream drops) — 2026-08-09
+
+Symptom: streaming to Sonos cuts out intermittently (music stops on all
+speakers). Firewall ruled out — ACL engine disabled, zero ACL rules on
+gateway/switches/APs (note: this also means VLANs are not actually isolated).
+
+Findings:
+- **Primary WAN (SFP+ WAN1) is double-NAT'd**: ER8411 WAN has a private IP
+  (192.168.1.234) behind an AT&T Fiber gateway (ARRIS BGW-class) at
+  192.168.1.254 doing its own NAT. Every LAN session consumes the BGW's
+  limited NAT session table — with this house's device/agent load, session
+  exhaustion there is the prime suspect for random mid-stream drops.
+- **Backup WAN (port 11) is Starlink** (CGNAT). Its online-detection is
+  disabled/failing (onlineDetection=0), so failover can fire onto a link
+  that isn't actually usable, and any failover/failback resets all sessions.
+- WAN mode: failover (primary/backup, weight 1,0), app-optimized routing on.
+
+Fix plan:
+1. Put the AT&T gateway into **IP Passthrough** mode targeting the ER8411's
+   WAN MAC — removes double NAT; ER8411 gets the public IP directly.
+2. Enable online detection on the Starlink WAN (custom ping targets
+   1.1.1.1 / 8.8.8.8) so failover only fires when Starlink is genuinely up.
+3. Re-evaluate stream stability after 1–2; then tune failover timing if
+   needed.
+
 ## Open items
 
 - **Firmware**: updates available for ER8411 (gateway) and EAP625-Outdoor.
