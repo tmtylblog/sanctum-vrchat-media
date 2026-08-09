@@ -1,30 +1,127 @@
-# Omada Home Network — Hardware Inventory
+# Omada Home Network — Hardware Inventory & Discovered Topology
 
 Reference notes so Claude sessions can pick up context about this network.
-Sourced from Amazon order history screenshots (shared 2026-08-09).
+Originally sourced from Amazon order history screenshots (2026-08-09); this
+revision adds live discovery pulled from the Omada controller web API by a
+LAN-side session on 2026-08-09.
 
-## Gear
+> **Redaction policy (this repo is PUBLIC):** no passwords, API secrets, or
+> public IPs. Additionally withheld because the repo is public: device serial
+> numbers, full MAC addresses (last 3 octets only — AP MACs are geolocatable
+> BSSIDs), and camera location names (generic labels used). Full detail is
+> visible in the controller UI.
+
+## Gear (purchase inventory)
 
 | Device | Role | Qty | Ordered |
 |---|---|---|---|
-| TP-Link Omada Hardware Controller (OC200-class) | Omada SDN controller | 1 | Jun 15, 2025 |
+| TP-Link Omada Hardware Controller (OC200 2.0) | Omada SDN controller | 1 | Jun 15, 2025 |
 | TP-Link ER8411 | 10G VPN router (WAN/gateway) | 1 | Jun 8, 2025 |
 | TP-Link TL-SX3008F | 8-port 10G SFP+ aggregation switch | 1 | Jun 21, 2025 |
-| TP-Link TL-SG3428XMP | Jetstream 24-port Gigabit PoE+ switch | 2 | Nov 19, 2024 |
+| TP-Link TL-SG3428XMP | Jetstream 24-port Gigabit PoE+ switch (4× SFP+) | 2 | Nov 19, 2024 |
 | Omada EAP783 | BE22000 tri-band Wi-Fi 7 ceiling AP | 3 | May 17, 2024 |
 | TP-Link Omada EAP625-Outdoor HD | AX1800 Wi-Fi 6 outdoor AP | 1 | Jun 8, 2025 |
+| TP-Link RE515X | AX1500 Wi-Fi 6 range extender w/ Ethernet port | 1 | Aug 2026 (new) |
 
-## Topology notes
+Note: the RE515X is a consumer EasyMesh device — it can NOT be adopted by the
+Omada controller. It will appear as a regular client wherever it's deployed.
 
-- Fully Omada-managed stack: router, switches, and APs all adoptable by the
-  hardware controller.
-- 10G core: ER8411 (10G SFP+ WAN/LAN) → TL-SX3008F aggregation → SG3428XMP
-  PoE+ access switches (4× SFP+ uplinks each).
-- PoE budget: each SG3428XMP provides 384W PoE+ — plenty for the EAP783s
-  (PoE++/802.3bt preferred for full Wi-Fi 7 performance; check per-port
-  wattage) and the EAP625-Outdoor.
-- Known open items / details to fill in as they come up:
-  - VLAN layout
-  - SSID plan
-  - Firmware/controller version
-  - WAN details
+## Controller
+
+- **OC200 2.0** hardware controller, name `Omada Controller_101`
+- Controller version **6.2.0.17** (API v3), device firmware 2.24.9 (Apr 2026)
+- Management IP **192.168.0.8** (HTTPS UI on 443/8043), timezone America/New_York
+- Cloud-registered to omada.tplinkcloud.com; MSP mode off; single site
+- Capacity in use: 4/100 APs, 3/20 switches, 1/10 gateways (8 devices total)
+- Storage: 1.45 / 3.0 GB used
+
+## Adopted devices (all CONNECTED — nothing pending adoption or offline)
+
+| Type | Model | Name | IP | MAC (last 3) | Firmware | Clients | Uptime @ discovery | Update avail. |
+|---|---|---|---|---|---|---|---|---|
+| Gateway | ER8411 v1.0 | Office Router | 192.168.0.1 | …B7-2F-F0 | 1.3.6 (Oct 2025) | — | ~10 h | **YES** |
+| Switch | SG3428XMP v3.20 | Office Main PoE Switch | 192.168.0.14 | …7B-A4-99 | 3.20.28 (May 2026) | 8 | ~12 h | no |
+| Switch | SG3428XMP v3.20 | Third Floor PoE Switch | 192.168.0.124 | …7B-A5-93 | 3.20.28 (May 2026) | 11 | 68 d | no |
+| Switch | SX3008F v1.20 | Office 10G Switch | 192.168.0.2 | …4C-98-59 | 1.20.23 (May 2026) | 1 | ~12 h | no |
+| AP | EAP783 v1.0 | Main Floor EAP | 192.168.0.13 | …24-E0-80 | 1.1.5 (Dec 2025) | 9 | 129 d | no |
+| AP | EAP783 v1.0 | Office EAP | 192.168.0.18 | …24-E2-C0 | 1.1.5 (Dec 2025) | 13 | 129 d | no |
+| AP | EAP783 v1.0 | Third Floor EAP | 192.168.0.125 | …24-E2-E0 | 1.1.5 (Dec 2025) | 6 | 120 d | no |
+| AP | EAP625-Outdoor HD v1.0 | Fairy Falls EAP | 192.168.0.6 | …22-5F-42 | 1.4.4 (Jul 2025) | 1 | ~12 h | **YES** |
+
+## LAN networks / VLANs
+
+| Network | VLAN | Gateway/Subnet | Purpose |
+|---|---|---|---|
+| Default | 1 | 192.168.0.1/24 | Management + trusted LAN (all Omada gear lives here) |
+| SonosZP | 150 | 192.168.150.1/24 | Sonos zone players |
+| Camera | 160 | 192.168.160.1/24 | PoE cameras + NVR |
+| VR | 170 | 192.168.170.1/24 | VR / gaming PCs (incl. the RTX workstations) |
+
+## SSIDs (WLAN group "Default")
+
+All WPA-Personal, all broadcast. Band code: 2.4/5/6 GHz.
+
+| SSID | Bands | VLAN → network |
+|---|---|---|
+| new-horizons | 2.4 + 5 | untagged → Default (VLAN 1) |
+| new-horizons-gaming | 2.4 + 5 + 6 | 170 → VR |
+| new-horizons-sonos | 2.4 only | 150 → SonosZP |
+| new-horizons-security | 2.4 + 5 | 160 → Camera |
+
+2.4 GHz channels are 1/6/11 across the three EAP783s (19 dBm); 5 GHz and
+6 GHz enabled on all three; the outdoor EAP625 runs 2.4 (ch 6, 25 dBm) + 5 GHz.
+
+## WAN (ER8411 "Office Router")
+
+- **Dual WAN, both up and online, both DHCP** (no PPPoE):
+  - SFP+ WAN1 — link up at 1 G, primary internet
+  - WAN/LAN11 (RJ45) — link up at 1 G, second internet uplink
+  - Public IPs redacted.
+- SFP+ WAN/LAN2 in LAN mode, 10 G link up (feeds the 10G core).
+- Router health at discovery: CPU 5 %, RAM 62 %, temp 60 °C, fan OK.
+- **Firmware update available** (running 1.3.6 Build 20251028).
+
+## Switching / PoE
+
+**Office Main PoE Switch** (SG3428XMP, PoE budget 384 W, ~20.6 W in use):
+- 2 PoE cameras (Camera profile), 5 Sonos Ports (SonosZP profile, ports 8–12)
+- Ports 18/23/24 up on `All` profile (23/24 drawing PoE — likely APs)
+- Port 28 = 10 G uplink (active). Port 25 is labeled "Third Floor Uplink" but
+  is **link-down** — label appears stale; inter-switch traffic rides the 10G core.
+
+**Third Floor PoE Switch** (SG3428XMP, PoE budget 384 W, ~40.4 W in use):
+- 8 PoE cameras (Camera profile) + Reolink NVR (port 21, Camera profile)
+- Dream PC "SUSPERIA-OG" on port 19 (VR profile, 1 G), LG TV on port 17
+- Port 27 "Office Uplink" 10 G up (= designated uplink) and port 28 also 10 G up
+- Port 25 labeled "Third Floor EAP" is link-down (stale label — the EAP is
+  online via another path)
+
+**Office 10G Switch** (SX3008F, no PoE):
+- Port 1: "CHAMELEON-OG2 (VR PC)" — 10 G, VR profile
+- Ports 2/3/4/7/8 up at 10 G on `All` profile; port 8 = designated uplink
+
+## Topology summary
+
+- 10G core confirmed: ER8411 (SFP+ LAN2, 10 G) → SX3008F aggregation → both
+  SG3428XMP PoE switches uplinked at 10 G; SG3428XMPs cross-connected at 10 G.
+- All Omada devices manage on VLAN 1 (192.168.0.x); user traffic is segmented
+  onto VLANs 150/160/170 by SSID mapping and switch-port profiles
+  (`Camera`, `SonosZP`, `VR`, `All`).
+- Client load at discovery: 29 wireless clients across 4 APs; ~20 wired.
+
+## Open items
+
+- **Firmware**: updates available for ER8411 (gateway) and EAP625-Outdoor.
+  Everything else current as of 2026-08-09.
+- **Reboot event ~12 h before discovery** hit the router, both office
+  switches, and the outdoor AP (uptimes all ~10–12 h) while the Third Floor
+  switch (68 d) and the three EAP783s (120–129 d, PoE-powered) stayed up —
+  looks like a power blip on the office circuit. Worth a small UPS on the
+  office rack if not already planned.
+- **Stale port labels**: port 25 on both SG3428XMPs is labeled as an
+  uplink/EAP port but link-down. Relabel to match current cabling.
+- **RE515X placement**: decide where the new extender goes; it's EasyMesh
+  (not Omada), so it extends an SSID but won't be controller-managed.
+- **Repo visibility**: this repo is public — serials, full MACs, and camera
+  location names are intentionally withheld. Consider a private repo for
+  fuller documentation.
