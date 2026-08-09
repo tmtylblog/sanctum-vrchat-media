@@ -138,13 +138,25 @@ Findings:
   that isn't actually usable, and any failover/failback resets all sessions.
 - WAN mode: failover (primary/backup, weight 1,0), app-optimized routing on.
 
-Fix plan:
-1. Put the AT&T gateway into **IP Passthrough** mode targeting the ER8411's
-   WAN MAC — removes double NAT; ER8411 gets the public IP directly.
-2. Enable online detection on the Starlink WAN (custom ping targets
-   1.1.1.1 / 8.8.8.8) so failover only fires when Starlink is genuinely up.
-3. Re-evaluate stream stability after 1–2; then tune failover timing if
-   needed.
+Fix status (2026-08-09):
+1. **DONE — IP Passthrough enabled.** AT&T BGW320-500 → Firewall → IP
+   Passthrough → Passthrough / DHCPS-fixed, targeting the ER8411's
+   AT&T-facing WAN interface **MAC ...2f:f1** (SFP+ WAN1, the one holding
+   the 192.168.1.x lease). NOTE: the gateway had prefilled the WRONG MAC
+   (...2f:fb = the Starlink-facing WAN); using it would have broken WAN.
+   Correct MAC confirmed against controller port-stats before saving.
+   Gateway restarted to apply. **Verified: ER8411 SFP+ WAN1 now holds a
+   PUBLIC IP directly — double NAT eliminated.** This is the likely root
+   cause of the Sonos/Spotify stream drops (BGW NAT-session-table
+   exhaustion under this house's device load).
+2. **Starlink backup online-detection: NO CHANGE — working as designed.**
+   Reconsidered: `onlineDetection=0` on the backup WAN is normal for a
+   standby link in Link-Backup mode; detection that matters is on the
+   PRIMARY (AT&T, =1). And we live-tested failover during the AT&T reboot:
+   WAN1 went down, the house rode Starlink with no outage, then failed back
+   to AT&T on the public IP. Failover verified good — left untouched.
+3. **TODO: confirm the Sonos/Spotify drops are actually gone** now that
+   double-NAT is fixed (requires playing music over a day or two).
 
 ## Open items
 
