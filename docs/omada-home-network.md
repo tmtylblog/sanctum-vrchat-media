@@ -21,10 +21,8 @@ LAN-side session on 2026-08-09.
 | TP-Link TL-SG3428XMP | Jetstream 24-port Gigabit PoE+ switch (4× SFP+) | 2 | Nov 19, 2024 |
 | Omada EAP783 | BE22000 tri-band Wi-Fi 7 ceiling AP | 3 | May 17, 2024 |
 | TP-Link Omada EAP625-Outdoor HD | AX1800 Wi-Fi 6 outdoor AP | 1 | Jun 8, 2025 |
-| TP-Link RE515X | AX1500 Wi-Fi 6 range extender w/ Ethernet port | 1 | Aug 2026 (new) |
-
-Note: the RE515X is a consumer EasyMesh device — it can NOT be adopted by the
-Omada controller. It will appear as a regular client wherever it's deployed.
+| TP-Link RE515X | AX1500 Wi-Fi 6 range extender w/ Ethernet port | 1 | Aug 2026 — **being returned** (EasyMesh, can't join Omada) |
+| Omada EAP772-Outdoor | BE11000 Wi-Fi 7 outdoor AP — for back patio coverage | 1 | Ordered Aug 9, 2026 |
 
 ## Controller
 
@@ -108,6 +106,20 @@ All WPA-Personal, all broadcast. Band code: 2.4/5/6 GHz.
   onto VLANs 150/160/170 by SSID mapping and switch-port profiles
   (`Camera`, `SonosZP`, `VR`, `All`).
 - Client load at discovery: 29 wireless clients across 4 APs; ~20 wired.
+
+## Coverage plan (back patio) — in progress 2026-08-09
+
+- Problem: weak Wi-Fi on the back patio. Fairy Falls EAP is deep in the
+  forest (covers the waterfall area) and can't be relocated.
+- **EAP772-Outdoor ordered** (Aug 9) — will be wired to a PoE switch port,
+  adopted as "Back Patio EAP"; existing SSIDs propagate automatically.
+- Stopgap applied: Main Floor EAP 2.4 GHz tx power raised 19 → 26 dBm
+  (custom level). Revisit after the patio AP is adopted — may drop back to
+  High/auto to keep indoor roaming crisp.
+- RE515X extender being returned (consumer EasyMesh — incompatible with Omada).
+- Proposed, not yet approved: move Sonos speakers off the SonosZP VLAN onto
+  Default so the Sonos app works from the main SSID without network-switching
+  (would retire the `new-horizons-sonos` SSID and VLAN 150 eventually).
 
 ## Open items
 
