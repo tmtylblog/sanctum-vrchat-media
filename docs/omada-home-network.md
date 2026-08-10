@@ -132,6 +132,22 @@ All WPA-Personal, all broadcast. Band code: 2.4/5/6 GHz.
   port lit up — port unknown, works fine on Default). Trueplay tuning
   failures during the migration were resolved by a Sonos software update.
 
+## Printer & IoT on the gaming VLAN — 2026-08-10
+
+- **HP Color LaserJet Pro M478f-9f**: now Ethernet-only on **Office Main
+  switch port 4** (labeled), gigabit, **fixed IP 192.168.170.13** (gateway
+  DHCP reservation), Wi-Fi radio off. Verified end-to-end with raw-9100 test
+  prints. NOTE: the wall-jack/path it was first plugged into passes link but
+  drops traffic — flaky, do not reuse without testing. Its IP changed
+  .11 → .13 after a clean boot; reservation prevents future drift.
+  TODO: printer firmware update via EWS (https://192.168.170.13).
+- ESP32 devices (2× Home Sensor + Voice PE) remain on `new-horizons-gaming`
+  2.4 GHz — they are the only reason 2.4 stays enabled on that SSID (slime
+  trackers abandoned). When they're re-homed to Default, drop 2.4 GHz from
+  the gaming SSID.
+- MLO (Wi-Fi 7 multi-link) remains OFF on the gaming SSID — offered as an
+  optional performance upgrade for MLO-capable clients (Pixel 9, new laptops).
+
 ## WAN diagnosis (Sonos/Spotify stream drops) — 2026-08-09
 
 Symptom: streaming to Sonos cuts out intermittently (music stops on all
