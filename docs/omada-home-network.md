@@ -140,7 +140,8 @@ All WPA-Personal, all broadcast. Band code: 2.4/5/6 GHz.
   prints. NOTE: the wall-jack/path it was first plugged into passes link but
   drops traffic — flaky, do not reuse without testing. Its IP changed
   .11 → .13 after a clean boot; reservation prevents future drift.
-  TODO: printer firmware update via EWS (https://192.168.170.13).
+  Model per EWS: M479fdw (panel shows M478f-9f). Firmware updated
+  2026-08-10, now CLRWTRXXXN002.2539E.00 — no update pending.
 - ESP32 devices (2× Home Sensor + Voice PE) remain on `new-horizons-gaming`
   2.4 GHz — they are the only reason 2.4 stays enabled on that SSID (slime
   trackers abandoned). When they're re-homed to Default, drop 2.4 GHz from
