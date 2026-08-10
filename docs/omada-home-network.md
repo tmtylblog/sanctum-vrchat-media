@@ -188,8 +188,15 @@ Fix status (2026-08-09):
 
 ## Open items
 
-- **Firmware**: updates available for ER8411 (gateway) and EAP625-Outdoor.
-  Everything else current as of 2026-08-09.
+- **Firmware**: ER8411 upgraded 2026-08-10 to 1.4.3 Build 20260721 (by
+  Freddie via controller UI; IP Passthrough and public IP survived the
+  reboot, verified). EAP625-Outdoor update still pending — last device
+  with an available update. Everything else current.
+- **MLO on the gaming SSID**: attempted via API 2026-08-10 — controller
+  v6.2 rejects all direct SSID patches (wants its UI wizard to manage the
+  WPA3/PMF transition). Do via UI if desired: Settings → Wireless Networks
+  → new-horizons-gaming → MLO. Benefit limited to Pixel/newest laptops;
+  Quests gain nothing. SSID left unchanged (5+6 GHz, WPA2/3, MLO off).
 - **Reboot event ~12 h before discovery** hit the router, both office
   switches, and the outdoor AP (uptimes all ~10–12 h) while the Third Floor
   switch (68 d) and the three EAP783s (120–129 d, PoE-powered) stayed up —
