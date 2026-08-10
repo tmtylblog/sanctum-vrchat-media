@@ -50,10 +50,14 @@ LAN-side session on 2026-08-09.
 
 | Network | VLAN | Gateway/Subnet | Purpose |
 |---|---|---|---|
-| Default | 1 | 192.168.0.1/24 | Management + trusted LAN (all Omada gear lives here) |
-| SonosZP | 150 | 192.168.150.1/24 | Sonos zone players |
+| Default | 1 | 192.168.0.1/24 | Management + trusted LAN + all Sonos (consolidated 2026-08-09) |
 | Camera | 160 | 192.168.160.1/24 | PoE cameras + NVR |
 | VR | 170 | 192.168.170.1/24 | VR / gaming PCs (incl. the RTX workstations) |
+
+(SonosZP / VLAN 150 deleted 2026-08-09: all Sonos — 5 wired units on Office
+Main ports 8-12 + ~12 wireless speakers — consolidated onto Default so the
+Sonos app works from the main SSID. The dedicated `new-horizons-sonos` SSID,
+both Sonos port profiles, and the VLAN were removed.)
 
 ## SSIDs (WLAN group "Default")
 
@@ -61,9 +65,8 @@ All WPA-Personal, all broadcast. Band code: 2.4/5/6 GHz.
 
 | SSID | Bands | VLAN → network |
 |---|---|---|
-| new-horizons | 2.4 + 5 | untagged → Default (VLAN 1) |
+| new-horizons | 2.4 + 5 | untagged → Default (VLAN 1) — now also carries all wireless Sonos |
 | new-horizons-gaming | 2.4 + 5 + 6 | 170 → VR |
-| new-horizons-sonos | 2.4 only | 150 → SonosZP |
 | new-horizons-security | 2.4 + 5 | 160 → Camera |
 
 2.4 GHz channels are 1/6/11 across the three EAP783s (19 dBm); 5 GHz and
@@ -117,9 +120,11 @@ All WPA-Personal, all broadcast. Band code: 2.4/5/6 GHz.
   (custom level). Revisit after the patio AP is adopted — may drop back to
   High/auto to keep indoor roaming crisp.
 - RE515X extender being returned (consumer EasyMesh — incompatible with Omada).
-- Proposed, not yet approved: move Sonos speakers off the SonosZP VLAN onto
-  Default so the Sonos app works from the main SSID without network-switching
-  (would retire the `new-horizons-sonos` SSID and VLAN 150 eventually).
+- **DONE 2026-08-09: Sonos consolidation.** SSID retagged to Default (the
+  controller's `vlanSetting` object is authoritative, not the legacy
+  `vlanEnable` field), wired ports 8-12 + spares 21-22 re-profiled to
+  Default, speakers re-homed to `new-horizons` via the Sonos app, then the
+  `new-horizons-sonos` SSID, both Sonos profiles, and VLAN 150 deleted.
 
 ## WAN diagnosis (Sonos/Spotify stream drops) — 2026-08-09
 
