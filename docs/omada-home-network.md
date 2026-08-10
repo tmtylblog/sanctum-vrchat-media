@@ -66,7 +66,7 @@ All WPA-Personal, all broadcast. Band code: 2.4/5/6 GHz.
 | SSID | Bands | VLAN → network |
 |---|---|---|
 | new-horizons | 2.4 + 5 | untagged → Default (VLAN 1) — now also carries all wireless Sonos |
-| new-horizons-gaming | 2.4 + 5 + 6 | 170 → VR |
+| new-horizons-gaming | 5 + 6 only (2.4 dropped 2026-08-10) | 170 → VR |
 | new-horizons-security | 2.4 + 5 | 160 → Camera |
 
 2.4 GHz channels are 1/6/11 across the three EAP783s (19 dBm); 5 GHz and
@@ -142,10 +142,10 @@ All WPA-Personal, all broadcast. Band code: 2.4/5/6 GHz.
   .11 → .13 after a clean boot; reservation prevents future drift.
   Model per EWS: M479fdw (panel shows M478f-9f). Firmware updated
   2026-08-10, now CLRWTRXXXN002.2539E.00 — no update pending.
-- ESP32 devices (2× Home Sensor + Voice PE) remain on `new-horizons-gaming`
-  2.4 GHz — they are the only reason 2.4 stays enabled on that SSID (slime
-  trackers abandoned). When they're re-homed to Default, drop 2.4 GHz from
-  the gaming SSID.
+- **2026-08-10: 2.4 GHz removed from `new-horizons-gaming`** — now 5+6 GHz
+  only. The ESP32s that were its last 2.4 tenants are dead/being redone
+  anyway (Freddie's call); when rebuilt they should join `new-horizons`
+  (Default), not the gaming SSID.
 - MLO (Wi-Fi 7 multi-link) remains OFF on the gaming SSID — offered as an
   optional performance upgrade for MLO-capable clients (Pixel 9, new laptops).
 
