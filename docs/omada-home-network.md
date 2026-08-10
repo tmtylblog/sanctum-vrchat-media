@@ -125,6 +125,12 @@ All WPA-Personal, all broadcast. Band code: 2.4/5/6 GHz.
   `vlanEnable` field), wired ports 8-12 + spares 21-22 re-profiled to
   Default, speakers re-homed to `new-horizons` via the Sonos app, then the
   `new-horizons-sonos` SSID, both Sonos profiles, and VLAN 150 deleted.
+  Verified after settling: all 17 Sonos units on the main network.
+  New wired additions same evening: Sonos Amp → Office Main port 3
+  (re-profiled VR→Default, labeled "Sonos Amp (Living Room)"); a Beam in
+  the master bedroom is wired via a shared jack/port (no distinct switch
+  port lit up — port unknown, works fine on Default). Trueplay tuning
+  failures during the migration were resolved by a Sonos software update.
 
 ## WAN diagnosis (Sonos/Spotify stream drops) — 2026-08-09
 
