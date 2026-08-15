@@ -45,6 +45,7 @@ LAN-side session on 2026-08-09.
 | AP | EAP783 v1.0 | Office EAP | 192.168.0.18 | …24-E2-C0 | 1.1.5 (Dec 2025) | 13 | 129 d | no |
 | AP | EAP783 v1.0 | Third Floor EAP | 192.168.0.125 | …24-E2-E0 | 1.1.5 (Dec 2025) | 6 | 120 d | no |
 | AP | EAP625-Outdoor HD v1.0 | Fairy Falls EAP | 192.168.0.6 | …22-5F-42 | 1.4.4 (Jul 2025) | 1 | ~12 h | **YES** |
+| AP | EAP772-Outdoor v1.0 | Back Patio EAP | 192.168.0.40 | …F4-6D-70 | 1.3.14 (Jan 2026) | — | adopted 2026-08-10 | no |
 
 ## LAN networks / VLANs
 
@@ -114,8 +115,17 @@ All WPA-Personal, all broadcast. Band code: 2.4/5/6 GHz.
 
 - Problem: weak Wi-Fi on the back patio. Fairy Falls EAP is deep in the
   forest (covers the waterfall area) and can't be relocated.
-- **EAP772-Outdoor ordered** (Aug 9) — will be wired to a PoE switch port,
-  adopted as "Back Patio EAP"; existing SSIDs propagate automatically.
+- **DONE 2026-08-10: EAP772-Outdoor adopted as "Back Patio EAP".** Wired to
+  **Office Main PoE switch port 6** (1 Gbps uplink, ~8 W PoE draw), IP
+  192.168.0.40, firmware 1.3.14 (current). All three radios on (2.4/5/6 GHz,
+  auto-channel, 25 dBm). Bound to the "Default" WLAN group, so all three
+  SSIDs broadcast from it automatically. Adoption via API:
+  `POST /{cid}/api/v2/sites/{sid}/cmd/devices/adopt` with body `{"mac": "..."}`.
+  Note: switch-port custom labels are rejected (-1001) on ports carrying an
+  adopted Omada device — the controller manages those labels itself.
+- **PENDING: revert Main Floor EAP 2.4 GHz tx power** (currently the 26 dBm
+  stopgap) back to 19 dBm to match the other two EAP783s for clean roaming —
+  do this once patio coverage is confirmed good by a human on the patio.
 - Stopgap applied: Main Floor EAP 2.4 GHz tx power raised 19 → 26 dBm
   (custom level). Revisit after the patio AP is adopted — may drop back to
   High/auto to keep indoor roaming crisp.
