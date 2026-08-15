@@ -123,12 +123,13 @@ All WPA-Personal, all broadcast. Band code: 2.4/5/6 GHz.
   `POST /{cid}/api/v2/sites/{sid}/cmd/devices/adopt` with body `{"mac": "..."}`.
   Note: switch-port custom labels are rejected (-1001) on ports carrying an
   adopted Omada device — the controller manages those labels itself.
-- **PENDING: revert Main Floor EAP 2.4 GHz tx power** (currently the 26 dBm
-  stopgap) back to 19 dBm to match the other two EAP783s for clean roaming —
-  do this once patio coverage is confirmed good by a human on the patio.
-- Stopgap applied: Main Floor EAP 2.4 GHz tx power raised 19 → 26 dBm
-  (custom level). Revisit after the patio AP is adopted — may drop back to
-  High/auto to keep indoor roaming crisp.
+- **DONE 2026-08-10: Main Floor EAP 2.4 GHz tx power reverted** to Low /
+  19 dBm now that the patio has its own AP. (It had drifted to 28 dBm — the
+  radio applied its ceiling after the custom-level stopgap.) All three
+  EAP783s are now matched at 19 dBm / level 1 on channels 6 / 11 / 1 —
+  non-overlapping with equal power, which is what keeps roaming boundaries
+  clean. Do not raise a single indoor AP again without matching the others:
+  an over-loud AP makes clients cling instead of roam.
 - RE515X extender being returned (consumer EasyMesh — incompatible with Omada).
 - **DONE 2026-08-09: Sonos consolidation.** SSID retagged to Default (the
   controller's `vlanSetting` object is authoritative, not the legacy
