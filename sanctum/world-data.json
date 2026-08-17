@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-17T23:00:52.225Z",
+  "generated": "2026-08-17T23:48:07.291Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -1364,6 +1364,10 @@
         "displayName": "Pedro4prez"
       },
       {
+        "userId": "usr_3890c79a-3ed4-4def-83ca-aba7ced119c7",
+        "displayName": "Pidge_Streams"
+      },
+      {
         "userId": "usr_6fb31eed-5ec3-4d22-9d1c-f4f1318c2bc1",
         "displayName": "PotatoThoughts"
       },
@@ -2370,10 +2374,6 @@
         "displayName": "ハニーBEE"
       },
       {
-        "userId": "usr_646c1851-8b85-4aa0-b751-606280907642",
-        "displayName": "む－さん"
-      },
-      {
         "userId": "usr_3b40e78a-460f-44a3-bea1-4593a96c2c39",
         "displayName": "よる_yoru"
       }
@@ -2662,10 +2662,6 @@
         "displayName": "ハニーBEE"
       },
       {
-        "userId": "usr_646c1851-8b85-4aa0-b751-606280907642",
-        "displayName": "む－さん"
-      },
-      {
         "userId": "usr_3b40e78a-460f-44a3-bea1-4593a96c2c39",
         "displayName": "よる_yoru"
       }
@@ -2950,10 +2946,6 @@
       {
         "userId": "usr_e5442f04-94db-4332-9fa9-c8309cbf85fb",
         "displayName": "ハニーBEE"
-      },
-      {
-        "userId": "usr_646c1851-8b85-4aa0-b751-606280907642",
-        "displayName": "む－さん"
       },
       {
         "userId": "usr_3b40e78a-460f-44a3-bea1-4593a96c2c39",
@@ -3520,10 +3512,6 @@
         "displayName": "ハニーBEE"
       },
       {
-        "userId": "usr_646c1851-8b85-4aa0-b751-606280907642",
-        "displayName": "む－さん"
-      },
-      {
         "userId": "usr_3b40e78a-460f-44a3-bea1-4593a96c2c39",
         "displayName": "よる_yoru"
       }
@@ -3808,10 +3796,6 @@
       {
         "userId": "usr_e5442f04-94db-4332-9fa9-c8309cbf85fb",
         "displayName": "ハニーBEE"
-      },
-      {
-        "userId": "usr_646c1851-8b85-4aa0-b751-606280907642",
-        "displayName": "む－さん"
       },
       {
         "userId": "usr_3b40e78a-460f-44a3-bea1-4593a96c2c39",
