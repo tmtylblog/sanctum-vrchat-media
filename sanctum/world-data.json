@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-29T21:01:02.772Z",
+  "generated": "2026-08-29T21:28:56.080Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -88,10 +88,6 @@
         "displayName": "BASICBIT"
       },
       {
-        "userId": "usr_4c002462-8b84-4c8f-a238-2ee5a0ffd053",
-        "displayName": "Blackstr"
-      },
-      {
         "userId": "usr_f0ad9938-b547-4de5-8c16-5da58606614b",
         "displayName": "Blind Prophet"
       },
@@ -116,10 +112,6 @@
         "displayName": "Delicious Deli"
       },
       {
-        "userId": "usr_1e037d79-d349-4ca8-a0f1-f8beca476056",
-        "displayName": "Depereo"
-      },
-      {
         "userId": "usr_06827b9e-5e46-494a-b26c-926c24dc4420",
         "displayName": "domebot1"
       },
@@ -136,20 +128,12 @@
         "displayName": "Eshton2911"
       },
       {
-        "userId": "usr_46751bc7-e80c-445d-b642-5e4a5f3e5c05",
-        "displayName": "Finalfix"
-      },
-      {
         "userId": "usr_0865033f-2a91-40ab-b23e-f87cc7e53311",
         "displayName": "Foxz_"
       },
       {
         "userId": "usr_70cb0794-431f-4a3b-aca2-6ba94221f9cf",
         "displayName": "furedy"
-      },
-      {
-        "userId": "usr_61478e81-2353-40bf-a107-a3f2d4690fdc",
-        "displayName": "G-Catz"
       },
       {
         "userId": "usr_40be82e7-f7d5-4548-b314-3fc7b26d22ee",
@@ -262,10 +246,6 @@
       {
         "userId": "usr_4c514280-8925-4a05-894f-538dc3e57cf7",
         "displayName": "Space Cowboi"
-      },
-      {
-        "userId": "usr_2ef046a3-fec5-479f-a0c3-d18adb835d0b",
-        "displayName": "Szeb"
       },
       {
         "userId": "usr_4521538e-a32c-41ac-9f98-ad987c52c412",
@@ -510,10 +490,6 @@
       {
         "userId": "usr_a97e6118-0a6d-4a96-9d29-d6690d33b2a0",
         "displayName": "PammeMatth"
-      },
-      {
-        "userId": "usr_589a479b-80cf-42c4-92e4-63cbd900a82b",
-        "displayName": "Rain_Iwa"
       },
       {
         "userId": "usr_fb022c9b-3d0b-40b7-a5bb-b903551d541a",
@@ -1452,6 +1428,10 @@
         "displayName": "ririruna"
       },
       {
+        "userId": "usr_5d86ebde-8b78-4717-859a-ebd39fd867f1",
+        "displayName": "rivlia"
+      },
+      {
         "userId": "usr_cca20eea-9271-47c7-84e5-5bd2ab46a2d2",
         "displayName": "robromansvoice"
       },
@@ -1634,6 +1614,10 @@
       {
         "userId": "usr_edebffaa-9192-450a-a2c9-df85c0afbfe7",
         "displayName": "Xee Xee"
+      },
+      {
+        "userId": "usr_be1c67f5-c45b-4ab4-b995-8dcbaf2239d5",
+        "displayName": "xenxenxenxen"
       },
       {
         "userId": "usr_bb33b9f7-0a51-44e5-875a-d9df1de6b2dd",
@@ -2346,6 +2330,10 @@
         "displayName": "rei.reika"
       },
       {
+        "userId": "usr_5d86ebde-8b78-4717-859a-ebd39fd867f1",
+        "displayName": "rivlia"
+      },
+      {
         "userId": "usr_8b2b2aab-1604-4a91-88c9-db39c42d7c41",
         "displayName": "SANCTUM_STUDIO"
       },
@@ -2634,6 +2622,10 @@
         "displayName": "rei.reika"
       },
       {
+        "userId": "usr_5d86ebde-8b78-4717-859a-ebd39fd867f1",
+        "displayName": "rivlia"
+      },
+      {
         "userId": "usr_8b2b2aab-1604-4a91-88c9-db39c42d7c41",
         "displayName": "SANCTUM_STUDIO"
       },
@@ -2918,6 +2910,10 @@
       {
         "userId": "usr_fb022c9b-3d0b-40b7-a5bb-b903551d541a",
         "displayName": "rei.reika"
+      },
+      {
+        "userId": "usr_5d86ebde-8b78-4717-859a-ebd39fd867f1",
+        "displayName": "rivlia"
       },
       {
         "userId": "usr_8b2b2aab-1604-4a91-88c9-db39c42d7c41",
@@ -3484,6 +3480,10 @@
         "displayName": "rei.reika"
       },
       {
+        "userId": "usr_5d86ebde-8b78-4717-859a-ebd39fd867f1",
+        "displayName": "rivlia"
+      },
+      {
         "userId": "usr_8b2b2aab-1604-4a91-88c9-db39c42d7c41",
         "displayName": "SANCTUM_STUDIO"
       },
@@ -3770,6 +3770,10 @@
         "displayName": "rei.reika"
       },
       {
+        "userId": "usr_5d86ebde-8b78-4717-859a-ebd39fd867f1",
+        "displayName": "rivlia"
+      },
+      {
         "userId": "usr_8b2b2aab-1604-4a91-88c9-db39c42d7c41",
         "displayName": "SANCTUM_STUDIO"
       },
@@ -4052,6 +4056,10 @@
         "displayName": "rei.reika"
       },
       {
+        "userId": "usr_5d86ebde-8b78-4717-859a-ebd39fd867f1",
+        "displayName": "rivlia"
+      },
+      {
         "userId": "usr_8b2b2aab-1604-4a91-88c9-db39c42d7c41",
         "displayName": "SANCTUM_STUDIO"
       },
@@ -4332,6 +4340,10 @@
       {
         "userId": "usr_fb022c9b-3d0b-40b7-a5bb-b903551d541a",
         "displayName": "rei.reika"
+      },
+      {
+        "userId": "usr_5d86ebde-8b78-4717-859a-ebd39fd867f1",
+        "displayName": "rivlia"
       },
       {
         "userId": "usr_8b2b2aab-1604-4a91-88c9-db39c42d7c41",
