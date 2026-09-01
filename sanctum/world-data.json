@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-01T08:33:04.899Z",
+  "generated": "2026-09-01T08:33:46.840Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -5313,8 +5313,8 @@
   },
   "vods": [],
   "worldControl": {
-    "v": 302,
-    "ts": "2026-09-01T08:33:04.107Z",
+    "v": 303,
+    "ts": "2026-09-01T08:33:31.730Z",
     "doors": {
       "frontDoor": false,
       "reactorDoor": false,
@@ -5337,33 +5337,33 @@
     "virtuaMotionTracking": [
       {
         "role": "dj1",
-        "username": null,
-        "puppetId": 0
+        "username": "Vesturo",
+        "puppetId": 1
       },
       {
         "role": "dj2",
         "username": null,
-        "puppetId": 0
+        "puppetId": null
       },
       {
         "role": "dancer1",
         "username": null,
-        "puppetId": 0
+        "puppetId": null
       },
       {
         "role": "dancer2",
         "username": null,
-        "puppetId": 0
+        "puppetId": null
       },
       {
         "role": "dancer3",
         "username": null,
-        "puppetId": 0
+        "puppetId": null
       },
       {
         "role": "dancer4",
         "username": null,
-        "puppetId": 0
+        "puppetId": null
       }
     ]
   }
