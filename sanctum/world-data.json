@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-09T02:00:56.208Z",
+  "generated": "2026-09-09T03:00:54.952Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -1334,6 +1334,10 @@
       {
         "userId": "usr_f8b04104-5187-42a7-9593-c6a0c951a72b",
         "displayName": "MicRoesoft"
+      },
+      {
+        "userId": "usr_93388d40-7a02-44a8-9e4c-16ab77990162",
+        "displayName": "Midnight City"
       },
       {
         "userId": "usr_cf17d101-fdbc-4295-bac3-3957737e7a45",
