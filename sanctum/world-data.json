@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-09T16:00:55.273Z",
+  "generated": "2026-09-09T17:00:54.860Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -710,6 +710,10 @@
       {
         "userId": "usr_5ec8b436-4c68-4421-a038-ce5788d43502",
         "displayName": "AcChosen"
+      },
+      {
+        "userId": "usr_930b918b-7e97-4393-ad65-1daffc7ab190",
+        "displayName": "ActionAdvntr"
       },
       {
         "userId": "usr_dd4d2e1e-20a5-40bb-8ae4-bb83210215e0",
@@ -1450,6 +1454,10 @@
       {
         "userId": "usr_a97e6118-0a6d-4a96-9d29-d6690d33b2a0",
         "displayName": "PammeMatth"
+      },
+      {
+        "userId": "usr_20191ab9-7046-47a9-b7d9-0bf8ac68783f",
+        "displayName": "Pancreas Thief"
       },
       {
         "userId": "usr_0dec109b-19df-49db-8e28-cccebb6a28be",
