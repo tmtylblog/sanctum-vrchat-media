@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-09T22:00:52.802Z",
+  "generated": "2026-09-09T22:50:03.386Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -126,6 +126,10 @@
       {
         "userId": "usr_6385958f-041c-4680-b2d4-e5b7194410d2",
         "displayName": "Eshton2911"
+      },
+      {
+        "userId": "usr_0941040e-0c07-4a37-8775-4b41add45fee",
+        "displayName": "flowersoul-"
       },
       {
         "userId": "usr_0865033f-2a91-40ab-b23e-f87cc7e53311",
@@ -1950,6 +1954,10 @@
         "displayName": "FishcakesMY"
       },
       {
+        "userId": "usr_0941040e-0c07-4a37-8775-4b41add45fee",
+        "displayName": "flowersoul-"
+      },
+      {
         "userId": "usr_70cb0794-431f-4a3b-aca2-6ba94221f9cf",
         "displayName": "furedy"
       },
@@ -2166,6 +2174,10 @@
       {
         "userId": "usr_e1f691ce-65c4-42e8-bef8-98db8a19a3e6",
         "displayName": "EllieXY"
+      },
+      {
+        "userId": "usr_0941040e-0c07-4a37-8775-4b41add45fee",
+        "displayName": "flowersoul-"
       },
       {
         "userId": "usr_70cb0794-431f-4a3b-aca2-6ba94221f9cf",
@@ -3244,6 +3256,10 @@
       {
         "userId": "usr_6b12855e-2397-4092-9a3f-c818785a99c9",
         "displayName": "FishcakesMY"
+      },
+      {
+        "userId": "usr_0941040e-0c07-4a37-8775-4b41add45fee",
+        "displayName": "flowersoul-"
       },
       {
         "userId": "usr_70cb0794-431f-4a3b-aca2-6ba94221f9cf",
