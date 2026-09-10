@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-10T23:30:22.359Z",
+  "generated": "2026-09-10T23:32:18.159Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -154,6 +154,10 @@
       {
         "userId": "usr_e99a6c11-a506-45d9-8bac-e98b21bf40b0",
         "displayName": "Kaerun"
+      },
+      {
+        "userId": "usr_36bd5a41-3e47-40c4-b937-78e892912d5e",
+        "displayName": "Katyzon"
       },
       {
         "userId": "usr_1af5cd30-4890-47c8-8cad-7cb0266453d2",
@@ -1998,6 +2002,10 @@
         "displayName": "Kaerun"
       },
       {
+        "userId": "usr_36bd5a41-3e47-40c4-b937-78e892912d5e",
+        "displayName": "Katyzon"
+      },
+      {
         "userId": "usr_7fb63252-1681-4a5f-9fe6-31b75193fa27",
         "displayName": "kohadachan"
       },
@@ -2198,6 +2206,10 @@
       {
         "userId": "usr_dcb302e4-fea9-498b-accb-90f62e95b02f",
         "displayName": "Jᴜzo"
+      },
+      {
+        "userId": "usr_36bd5a41-3e47-40c4-b937-78e892912d5e",
+        "displayName": "Katyzon"
       },
       {
         "userId": "usr_20440d0b-9a96-4eaf-8b05-58d48a803b21",
@@ -3300,6 +3312,10 @@
       {
         "userId": "usr_e99a6c11-a506-45d9-8bac-e98b21bf40b0",
         "displayName": "Kaerun"
+      },
+      {
+        "userId": "usr_36bd5a41-3e47-40c4-b937-78e892912d5e",
+        "displayName": "Katyzon"
       },
       {
         "userId": "usr_7fb63252-1681-4a5f-9fe6-31b75193fa27",
