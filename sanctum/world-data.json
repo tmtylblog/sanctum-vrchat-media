@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-12T18:10:56.386Z",
+  "generated": "2026-09-12T19:00:59.526Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -126,6 +126,10 @@
       {
         "userId": "usr_6385958f-041c-4680-b2d4-e5b7194410d2",
         "displayName": "Eshton2911"
+      },
+      {
+        "userId": "usr_b48924b2-f2c4-4d4f-9b34-3742f9924490",
+        "displayName": "EveningSleepy"
       },
       {
         "userId": "usr_0941040e-0c07-4a37-8775-4b41add45fee",
@@ -1002,6 +1006,10 @@
       {
         "userId": "usr_d1b65b41-6c65-4c78-8490-a7f0adfd9475",
         "displayName": "enrique798"
+      },
+      {
+        "userId": "usr_b48924b2-f2c4-4d4f-9b34-3742f9924490",
+        "displayName": "EveningSleepy"
       },
       {
         "userId": "usr_14c90170-dddb-42f2-a599-fc17c6e93ff9",
@@ -1958,6 +1966,10 @@
         "displayName": "EllieXY"
       },
       {
+        "userId": "usr_b48924b2-f2c4-4d4f-9b34-3742f9924490",
+        "displayName": "EveningSleepy"
+      },
+      {
         "userId": "usr_6b12855e-2397-4092-9a3f-c818785a99c9",
         "displayName": "FishcakesMY"
       },
@@ -2186,6 +2198,10 @@
       {
         "userId": "usr_e1f691ce-65c4-42e8-bef8-98db8a19a3e6",
         "displayName": "EllieXY"
+      },
+      {
+        "userId": "usr_b48924b2-f2c4-4d4f-9b34-3742f9924490",
+        "displayName": "EveningSleepy"
       },
       {
         "userId": "usr_0941040e-0c07-4a37-8775-4b41add45fee",
@@ -3268,6 +3284,10 @@
       {
         "userId": "usr_e1f691ce-65c4-42e8-bef8-98db8a19a3e6",
         "displayName": "EllieXY"
+      },
+      {
+        "userId": "usr_b48924b2-f2c4-4d4f-9b34-3742f9924490",
+        "displayName": "EveningSleepy"
       },
       {
         "userId": "usr_6b12855e-2397-4092-9a3f-c818785a99c9",
