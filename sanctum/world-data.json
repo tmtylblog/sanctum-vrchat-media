@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-15T07:00:51.890Z",
+  "generated": "2026-09-15T07:27:03.980Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -398,6 +398,20 @@
         "displayName": "よる_yoru"
       }
     ],
+    "Group Owner": [
+      {
+        "userId": "usr_5ec8b436-4c68-4421-a038-ce5788d43502",
+        "displayName": "AcChosen"
+      },
+      {
+        "userId": "usr_b8c1785e-fea6-4024-b536-c8ade20970aa",
+        "displayName": "Nyan-Cyan"
+      },
+      {
+        "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
+        "displayName": "Slothcast"
+      }
+    ],
     "Host": [
       {
         "userId": "usr_c5de53c5-61da-4d19-b942-a9dd14e3343e",
@@ -550,20 +564,6 @@
       {
         "userId": "usr_1516ca40-edd5-4a55-aafd-0a9fef9e329d",
         "displayName": "Xyare"
-      }
-    ],
-    "Group Owner": [
-      {
-        "userId": "usr_5ec8b436-4c68-4421-a038-ce5788d43502",
-        "displayName": "AcChosen"
-      },
-      {
-        "userId": "usr_b8c1785e-fea6-4024-b536-c8ade20970aa",
-        "displayName": "Nyan-Cyan"
-      },
-      {
-        "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
-        "displayName": "Slothcast"
       }
     ],
     "Admin": [
