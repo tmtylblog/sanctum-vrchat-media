@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-15T15:00:52.008Z",
+  "generated": "2026-09-15T15:14:53.370Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -2450,6 +2450,10 @@
         "displayName": "kxa_dnb"
       },
       {
+        "userId": "usr_6e20239e-efd3-4327-971e-1007cd8ab9a9",
+        "displayName": "La Chevre"
+      },
+      {
         "userId": "usr_5336f8d4-8716-448f-a773-35196036b110",
         "displayName": "Llamahat"
       },
@@ -2750,6 +2754,10 @@
         "displayName": "kxa_dnb"
       },
       {
+        "userId": "usr_6e20239e-efd3-4327-971e-1007cd8ab9a9",
+        "displayName": "La Chevre"
+      },
+      {
         "userId": "usr_5336f8d4-8716-448f-a773-35196036b110",
         "displayName": "Llamahat"
       },
@@ -3046,6 +3054,10 @@
       {
         "userId": "usr_72c3698b-964b-4748-82f4-5e113d0f7ef9",
         "displayName": "kxa_dnb"
+      },
+      {
+        "userId": "usr_6e20239e-efd3-4327-971e-1007cd8ab9a9",
+        "displayName": "La Chevre"
       },
       {
         "userId": "usr_5336f8d4-8716-448f-a773-35196036b110",
@@ -3644,6 +3656,10 @@
         "displayName": "kxa_dnb"
       },
       {
+        "userId": "usr_6e20239e-efd3-4327-971e-1007cd8ab9a9",
+        "displayName": "La Chevre"
+      },
+      {
         "userId": "usr_5336f8d4-8716-448f-a773-35196036b110",
         "displayName": "Llamahat"
       },
@@ -3940,6 +3956,10 @@
       {
         "userId": "usr_72c3698b-964b-4748-82f4-5e113d0f7ef9",
         "displayName": "kxa_dnb"
+      },
+      {
+        "userId": "usr_6e20239e-efd3-4327-971e-1007cd8ab9a9",
+        "displayName": "La Chevre"
       },
       {
         "userId": "usr_5336f8d4-8716-448f-a773-35196036b110",
@@ -4240,6 +4260,10 @@
         "displayName": "kxa_dnb"
       },
       {
+        "userId": "usr_6e20239e-efd3-4327-971e-1007cd8ab9a9",
+        "displayName": "La Chevre"
+      },
+      {
         "userId": "usr_5336f8d4-8716-448f-a773-35196036b110",
         "displayName": "Llamahat"
       },
@@ -4532,6 +4556,10 @@
       {
         "userId": "usr_72c3698b-964b-4748-82f4-5e113d0f7ef9",
         "displayName": "kxa_dnb"
+      },
+      {
+        "userId": "usr_6e20239e-efd3-4327-971e-1007cd8ab9a9",
+        "displayName": "La Chevre"
       },
       {
         "userId": "usr_5336f8d4-8716-448f-a773-35196036b110",
