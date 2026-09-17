@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-16T23:00:58.110Z",
+  "generated": "2026-09-17T00:00:16.309Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -842,6 +842,10 @@
       {
         "userId": "usr_a02a7604-ca82-4802-a465-a5f553a72556",
         "displayName": "beesha"
+      },
+      {
+        "userId": "usr_316788d1-2fa1-4b53-afb7-90cd43473aa8",
+        "displayName": "BeetleKieran"
       },
       {
         "userId": "usr_e11cc071-a147-4999-8bda-f1210636179a",
@@ -2570,10 +2574,6 @@
         "displayName": "Xyare"
       },
       {
-        "userId": "usr_b0a3f681-7113-4383-ac47-a47119fdf4ec",
-        "displayName": "yukiware"
-      },
-      {
         "userId": "usr_14449297-1948-4a9b-875b-3dfa844d0e77",
         "displayName": "Ψ Cryss Ψ"
       },
@@ -2874,10 +2874,6 @@
         "displayName": "Xyare"
       },
       {
-        "userId": "usr_b0a3f681-7113-4383-ac47-a47119fdf4ec",
-        "displayName": "yukiware"
-      },
-      {
         "userId": "usr_14449297-1948-4a9b-875b-3dfa844d0e77",
         "displayName": "Ψ Cryss Ψ"
       },
@@ -3174,10 +3170,6 @@
       {
         "userId": "usr_1516ca40-edd5-4a55-aafd-0a9fef9e329d",
         "displayName": "Xyare"
-      },
-      {
-        "userId": "usr_b0a3f681-7113-4383-ac47-a47119fdf4ec",
-        "displayName": "yukiware"
       },
       {
         "userId": "usr_14449297-1948-4a9b-875b-3dfa844d0e77",
@@ -3776,10 +3768,6 @@
         "displayName": "Xyare"
       },
       {
-        "userId": "usr_b0a3f681-7113-4383-ac47-a47119fdf4ec",
-        "displayName": "yukiware"
-      },
-      {
         "userId": "usr_14449297-1948-4a9b-875b-3dfa844d0e77",
         "displayName": "Ψ Cryss Ψ"
       },
@@ -4078,10 +4066,6 @@
         "displayName": "Xyare"
       },
       {
-        "userId": "usr_b0a3f681-7113-4383-ac47-a47119fdf4ec",
-        "displayName": "yukiware"
-      },
-      {
         "userId": "usr_14449297-1948-4a9b-875b-3dfa844d0e77",
         "displayName": "Ψ Cryss Ψ"
       },
@@ -4376,10 +4360,6 @@
         "displayName": "Xyare"
       },
       {
-        "userId": "usr_b0a3f681-7113-4383-ac47-a47119fdf4ec",
-        "displayName": "yukiware"
-      },
-      {
         "userId": "usr_14449297-1948-4a9b-875b-3dfa844d0e77",
         "displayName": "Ψ Cryss Ψ"
       },
@@ -4672,10 +4652,6 @@
       {
         "userId": "usr_1516ca40-edd5-4a55-aafd-0a9fef9e329d",
         "displayName": "Xyare"
-      },
-      {
-        "userId": "usr_b0a3f681-7113-4383-ac47-a47119fdf4ec",
-        "displayName": "yukiware"
       },
       {
         "userId": "usr_14449297-1948-4a9b-875b-3dfa844d0e77",
