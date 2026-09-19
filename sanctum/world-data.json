@@ -1,11 +1,11 @@
 {
-  "generated": "2026-09-19T18:44:25.684Z",
+  "generated": "2026-09-19T18:45:20.479Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
     "Admin": "GATING — Co-Leader or Administrator staff role — full admin access",
     "Host": "GATING — Host staff role (permanent) or per-event host/coordinator (21-day window) — full admin access",
-    "Moderator": "GATING — Moderator staff role (permanent) or per-event moderator/security (21-day window) — moderation access",
+    "Moderator": "GATING — Moderator staff role (permanent), per-event moderator/security (21-day window), or implied by Group Owner / Admin — moderation access",
     "Dancer": "GATING — East/West dance team, active guest dancer, or event-assigned dancer (21-day window) — performance-area access",
     "Staff": "GATING — isStaff or any CommunityStaffRole — full admin access",
     "Traveler": "GATING — Anyone in the community Discord — basic verified-member access",
@@ -338,6 +338,10 @@
         "displayName": "~Mathy~"
       },
       {
+        "userId": "usr_5ec8b436-4c68-4421-a038-ce5788d43502",
+        "displayName": "AcChosen"
+      },
+      {
         "userId": "usr_fc1164d5-baab-489a-a59a-6ad52dafb3c8",
         "displayName": "CablesOnline"
       },
@@ -366,6 +370,22 @@
         "displayName": "Luxifinity"
       },
       {
+        "userId": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b",
+        "displayName": "Mixieǃ"
+      },
+      {
+        "userId": "usr_97b6e256-c441-4dde-9cb9-f29f78727f1d",
+        "displayName": "MUZZ_"
+      },
+      {
+        "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
+        "displayName": "Null_Omen"
+      },
+      {
+        "userId": "usr_b8c1785e-fea6-4024-b536-c8ade20970aa",
+        "displayName": "Nyan-Cyan"
+      },
+      {
         "userId": "usr_589a479b-80cf-42c4-92e4-63cbd900a82b",
         "displayName": "Rain_Iwa"
       },
@@ -374,8 +394,16 @@
         "displayName": "rei.reika"
       },
       {
+        "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
+        "displayName": "Slothcast"
+      },
+      {
         "userId": "usr_3c4a1003-2237-4e1d-be0e-bb71ef6480b0",
         "displayName": "susperia"
+      },
+      {
+        "userId": "usr_10624ac0-ae1b-4b79-9f4c-7bed09de2d94",
+        "displayName": "SwaMusic"
       },
       {
         "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
