@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-19T23:00:58.551Z",
+  "generated": "2026-09-20T00:00:20.116Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -1421,7 +1421,7 @@
       },
       {
         "userId": "usr_0b6bd803-fdae-4285-b819-6d5fecf65a36",
-        "displayName": "Miv2nir"
+        "displayName": "MivJustMiv"
       },
       {
         "userId": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b",
@@ -4815,9 +4815,9 @@
         "orientation": "portrait",
         "expectedOrientation": "portrait",
         "aspectRatio": "9:16",
-        "artist": "Miv2nir",
+        "artist": "MivJustMiv",
         "composition": "Sanctum Relaunch East & West Events",
-        "photographer": "Miv2nir"
+        "photographer": "MivJustMiv"
       },
       {
         "slotIndex": 7,
