@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-21T21:00:58.461Z",
+  "generated": "2026-09-21T22:00:40.252Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -206,6 +206,10 @@
       {
         "userId": "usr_ba05b915-7c60-4123-8bc8-8c3c32fa119f",
         "displayName": "Merton"
+      },
+      {
+        "userId": "usr_ecb97ee3-2a8a-421b-9f06-2991e60af693",
+        "displayName": "Misosa"
       },
       {
         "userId": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b",
@@ -1428,6 +1432,10 @@
         "displayName": "mikka-bouzu"
       },
       {
+        "userId": "usr_ecb97ee3-2a8a-421b-9f06-2991e60af693",
+        "displayName": "Misosa"
+      },
+      {
         "userId": "usr_0b6bd803-fdae-4285-b819-6d5fecf65a36",
         "displayName": "MivJustMiv"
       },
@@ -2094,6 +2102,10 @@
         "displayName": "maru17"
       },
       {
+        "userId": "usr_ecb97ee3-2a8a-421b-9f06-2991e60af693",
+        "displayName": "Misosa"
+      },
+      {
         "userId": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b",
         "displayName": "Mixieǃ"
       },
@@ -2282,6 +2294,10 @@
       {
         "userId": "usr_20440d0b-9a96-4eaf-8b05-58d48a803b21",
         "displayName": "maru17"
+      },
+      {
+        "userId": "usr_ecb97ee3-2a8a-421b-9f06-2991e60af693",
+        "displayName": "Misosa"
       },
       {
         "userId": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b",
@@ -3400,6 +3416,10 @@
       {
         "userId": "usr_20440d0b-9a96-4eaf-8b05-58d48a803b21",
         "displayName": "maru17"
+      },
+      {
+        "userId": "usr_ecb97ee3-2a8a-421b-9f06-2991e60af693",
+        "displayName": "Misosa"
       },
       {
         "userId": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b",
