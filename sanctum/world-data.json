@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-22T03:00:53.797Z",
+  "generated": "2026-09-22T03:11:26.035Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -2358,6 +2358,10 @@
         "displayName": "_Silent"
       },
       {
+        "userId": "usr_d3a10936-a54b-4506-9bce-93d879a9b65c",
+        "displayName": "-~Snow~-"
+      },
+      {
         "userId": "usr_f70a6510-ae4a-40d5-80b3-54cf1e4b0737",
         "displayName": "-Tachyon-"
       },
@@ -2654,6 +2658,10 @@
         "displayName": "_Silent"
       },
       {
+        "userId": "usr_d3a10936-a54b-4506-9bce-93d879a9b65c",
+        "displayName": "-~Snow~-"
+      },
+      {
         "userId": "usr_f70a6510-ae4a-40d5-80b3-54cf1e4b0737",
         "displayName": "-Tachyon-"
       },
@@ -2946,6 +2954,10 @@
       {
         "userId": "usr_c5de53c5-61da-4d19-b942-a9dd14e3343e",
         "displayName": "_Silent"
+      },
+      {
+        "userId": "usr_d3a10936-a54b-4506-9bce-93d879a9b65c",
+        "displayName": "-~Snow~-"
       },
       {
         "userId": "usr_f70a6510-ae4a-40d5-80b3-54cf1e4b0737",
@@ -3544,6 +3556,10 @@
         "displayName": "_Silent"
       },
       {
+        "userId": "usr_d3a10936-a54b-4506-9bce-93d879a9b65c",
+        "displayName": "-~Snow~-"
+      },
+      {
         "userId": "usr_f70a6510-ae4a-40d5-80b3-54cf1e4b0737",
         "displayName": "-Tachyon-"
       },
@@ -3836,6 +3852,10 @@
       {
         "userId": "usr_c5de53c5-61da-4d19-b942-a9dd14e3343e",
         "displayName": "_Silent"
+      },
+      {
+        "userId": "usr_d3a10936-a54b-4506-9bce-93d879a9b65c",
+        "displayName": "-~Snow~-"
       },
       {
         "userId": "usr_f70a6510-ae4a-40d5-80b3-54cf1e4b0737",
@@ -4132,6 +4152,10 @@
         "displayName": "_Silent"
       },
       {
+        "userId": "usr_d3a10936-a54b-4506-9bce-93d879a9b65c",
+        "displayName": "-~Snow~-"
+      },
+      {
         "userId": "usr_f70a6510-ae4a-40d5-80b3-54cf1e4b0737",
         "displayName": "-Tachyon-"
       },
@@ -4424,6 +4448,10 @@
       {
         "userId": "usr_c5de53c5-61da-4d19-b942-a9dd14e3343e",
         "displayName": "_Silent"
+      },
+      {
+        "userId": "usr_d3a10936-a54b-4506-9bce-93d879a9b65c",
+        "displayName": "-~Snow~-"
       },
       {
         "userId": "usr_f70a6510-ae4a-40d5-80b3-54cf1e4b0737",
