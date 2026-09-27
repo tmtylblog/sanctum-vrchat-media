@@ -1,7 +1,7 @@
 {
   "schema": 2,
-  "generatedAt": "2026-09-27T20:00:53.525Z",
-  "revision": 1790539253,
+  "generatedAt": "2026-09-27T21:01:04.495Z",
+  "revision": 1790542864,
   "hash": {
     "saltVersion": "default"
   },
@@ -3463,6 +3463,17 @@
     "eventActive": false,
     "venue": null,
     "venueName": null,
+    "activeVenues": [
+      "Tribune",
+      "Chapel",
+      "Lunette",
+      "Great Room",
+      "Server Room",
+      "Reactor",
+      "DOME",
+      "Altar",
+      "Cloisters"
+    ],
     "virtuaMotionTracking": [
       {
         "role": "dj1",
