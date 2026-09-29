@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-29T21:00:55.168Z",
+  "generated": "2026-09-29T21:29:24.727Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -2598,10 +2598,6 @@
         "displayName": "rei.reika"
       },
       {
-        "userId": "usr_5d86ebde-8b78-4717-859a-ebd39fd867f1",
-        "displayName": "rivlia"
-      },
-      {
         "userId": "usr_8b2b2aab-1604-4a91-88c9-db39c42d7c41",
         "displayName": "SANCTUM_STUDIO"
       },
@@ -2906,10 +2902,6 @@
         "displayName": "rei.reika"
       },
       {
-        "userId": "usr_5d86ebde-8b78-4717-859a-ebd39fd867f1",
-        "displayName": "rivlia"
-      },
-      {
         "userId": "usr_8b2b2aab-1604-4a91-88c9-db39c42d7c41",
         "displayName": "SANCTUM_STUDIO"
       },
@@ -3210,10 +3202,6 @@
       {
         "userId": "usr_fb022c9b-3d0b-40b7-a5bb-b903551d541a",
         "displayName": "rei.reika"
-      },
-      {
-        "userId": "usr_5d86ebde-8b78-4717-859a-ebd39fd867f1",
-        "displayName": "rivlia"
       },
       {
         "userId": "usr_8b2b2aab-1604-4a91-88c9-db39c42d7c41",
@@ -3554,10 +3542,6 @@
         "displayName": "rei.reika"
       },
       {
-        "userId": "usr_5d86ebde-8b78-4717-859a-ebd39fd867f1",
-        "displayName": "rivlia"
-      },
-      {
         "userId": "usr_8b2b2aab-1604-4a91-88c9-db39c42d7c41",
         "displayName": "SANCTUM_STUDIO"
       },
@@ -3858,10 +3842,6 @@
       {
         "userId": "usr_fb022c9b-3d0b-40b7-a5bb-b903551d541a",
         "displayName": "rei.reika"
-      },
-      {
-        "userId": "usr_5d86ebde-8b78-4717-859a-ebd39fd867f1",
-        "displayName": "rivlia"
       },
       {
         "userId": "usr_8b2b2aab-1604-4a91-88c9-db39c42d7c41",
@@ -4166,10 +4146,6 @@
         "displayName": "rei.reika"
       },
       {
-        "userId": "usr_5d86ebde-8b78-4717-859a-ebd39fd867f1",
-        "displayName": "rivlia"
-      },
-      {
         "userId": "usr_8b2b2aab-1604-4a91-88c9-db39c42d7c41",
         "displayName": "SANCTUM_STUDIO"
       },
@@ -4468,10 +4444,6 @@
         "displayName": "rei.reika"
       },
       {
-        "userId": "usr_5d86ebde-8b78-4717-859a-ebd39fd867f1",
-        "displayName": "rivlia"
-      },
-      {
         "userId": "usr_8b2b2aab-1604-4a91-88c9-db39c42d7c41",
         "displayName": "SANCTUM_STUDIO"
       },
@@ -4768,10 +4740,6 @@
       {
         "userId": "usr_fb022c9b-3d0b-40b7-a5bb-b903551d541a",
         "displayName": "rei.reika"
-      },
-      {
-        "userId": "usr_5d86ebde-8b78-4717-859a-ebd39fd867f1",
-        "displayName": "rivlia"
       },
       {
         "userId": "usr_8b2b2aab-1604-4a91-88c9-db39c42d7c41",
