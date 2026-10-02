@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-02T12:00:56.827Z",
+  "generated": "2026-10-02T13:00:17.185Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -1906,6 +1906,10 @@
       {
         "userId": "usr_f4fd6ed3-4561-41b9-b993-238acff22828",
         "displayName": "ૡ Ş Λ Ƙ Ι ૡ"
+      },
+      {
+        "userId": "usr_c9b28bfa-93f6-483f-b01a-e286c0f630ed",
+        "displayName": "あまね〜じゅ"
       },
       {
         "userId": "usr_aee101c1-9ec1-4446-91d0-8508f56ba5d3",
