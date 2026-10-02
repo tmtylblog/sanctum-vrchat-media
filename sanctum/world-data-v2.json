@@ -1,7 +1,7 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-02T13:06:52.662Z",
-  "revision": 1790946412,
+  "generatedAt": "2026-10-02T13:11:04.243Z",
+  "revision": 1790946664,
   "hash": {
     "saltVersion": "default"
   },
@@ -3438,8 +3438,8 @@
   },
   "vods": [],
   "worldControl": {
-    "v": 310,
-    "ts": "2026-10-02T13:06:04.340Z",
+    "v": 311,
+    "ts": "2026-10-02T13:11:01.108Z",
     "doors": {
       "frontDoor": false,
       "reactorDoor": false,
@@ -3473,7 +3473,7 @@
     "virtuaMotionTracking": [
       {
         "role": "dj1",
-        "username": "Vesturo",
+        "username": "Scl3ria",
         "puppetId": 1
       },
       {
