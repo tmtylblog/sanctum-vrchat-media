@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-06T03:30:26.771Z",
+  "generated": "2026-10-06T04:01:05.791Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -169,7 +169,7 @@
       },
       {
         "userId": "usr_fb022c9b-3d0b-40b7-a5bb-b903551d541a",
-        "displayName": "rei.reika"
+        "displayName": "rei_reika"
       },
       {
         "userId": "usr_12456594-e284-45b3-90c8-2e1c0bbacf5e",
@@ -279,7 +279,7 @@
       },
       {
         "userId": "usr_fb022c9b-3d0b-40b7-a5bb-b903551d541a",
-        "displayName": "rei.reika"
+        "displayName": "rei_reika"
       },
       {
         "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
@@ -435,7 +435,7 @@
       },
       {
         "userId": "usr_fb022c9b-3d0b-40b7-a5bb-b903551d541a",
-        "displayName": "rei.reika"
+        "displayName": "rei_reika"
       },
       {
         "userId": "usr_8b2b2aab-1604-4a91-88c9-db39c42d7c41",
@@ -509,7 +509,7 @@
       },
       {
         "userId": "usr_fb022c9b-3d0b-40b7-a5bb-b903551d541a",
-        "displayName": "rei.reika"
+        "displayName": "rei_reika"
       },
       {
         "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
@@ -1525,7 +1525,7 @@
       },
       {
         "userId": "usr_fb022c9b-3d0b-40b7-a5bb-b903551d541a",
-        "displayName": "rei.reika"
+        "displayName": "rei_reika"
       },
       {
         "userId": "usr_b49fc6a6-f63f-4985-b158-5c892e76875b",
@@ -2087,7 +2087,7 @@
       },
       {
         "userId": "usr_fb022c9b-3d0b-40b7-a5bb-b903551d541a",
-        "displayName": "rei.reika"
+        "displayName": "rei_reika"
       },
       {
         "userId": "usr_8b2b2aab-1604-4a91-88c9-db39c42d7c41",
@@ -2261,7 +2261,7 @@
       },
       {
         "userId": "usr_fb022c9b-3d0b-40b7-a5bb-b903551d541a",
-        "displayName": "rei.reika"
+        "displayName": "rei_reika"
       },
       {
         "userId": "usr_e9217838-7cd9-4475-9e55-36cf58896cca",
@@ -2515,7 +2515,7 @@
       },
       {
         "userId": "usr_fb022c9b-3d0b-40b7-a5bb-b903551d541a",
-        "displayName": "rei.reika"
+        "displayName": "rei_reika"
       },
       {
         "userId": "usr_8b2b2aab-1604-4a91-88c9-db39c42d7c41",
@@ -2819,7 +2819,7 @@
       },
       {
         "userId": "usr_fb022c9b-3d0b-40b7-a5bb-b903551d541a",
-        "displayName": "rei.reika"
+        "displayName": "rei_reika"
       },
       {
         "userId": "usr_8b2b2aab-1604-4a91-88c9-db39c42d7c41",
@@ -3121,7 +3121,7 @@
       },
       {
         "userId": "usr_fb022c9b-3d0b-40b7-a5bb-b903551d541a",
-        "displayName": "rei.reika"
+        "displayName": "rei_reika"
       },
       {
         "userId": "usr_8b2b2aab-1604-4a91-88c9-db39c42d7c41",
@@ -3459,7 +3459,7 @@
       },
       {
         "userId": "usr_fb022c9b-3d0b-40b7-a5bb-b903551d541a",
-        "displayName": "rei.reika"
+        "displayName": "rei_reika"
       },
       {
         "userId": "usr_8b2b2aab-1604-4a91-88c9-db39c42d7c41",
@@ -3761,7 +3761,7 @@
       },
       {
         "userId": "usr_fb022c9b-3d0b-40b7-a5bb-b903551d541a",
-        "displayName": "rei.reika"
+        "displayName": "rei_reika"
       },
       {
         "userId": "usr_8b2b2aab-1604-4a91-88c9-db39c42d7c41",
@@ -4063,7 +4063,7 @@
       },
       {
         "userId": "usr_fb022c9b-3d0b-40b7-a5bb-b903551d541a",
-        "displayName": "rei.reika"
+        "displayName": "rei_reika"
       },
       {
         "userId": "usr_8b2b2aab-1604-4a91-88c9-db39c42d7c41",
@@ -4361,7 +4361,7 @@
       },
       {
         "userId": "usr_fb022c9b-3d0b-40b7-a5bb-b903551d541a",
-        "displayName": "rei.reika"
+        "displayName": "rei_reika"
       },
       {
         "userId": "usr_8b2b2aab-1604-4a91-88c9-db39c42d7c41",
@@ -4659,7 +4659,7 @@
       },
       {
         "userId": "usr_fb022c9b-3d0b-40b7-a5bb-b903551d541a",
-        "displayName": "rei.reika"
+        "displayName": "rei_reika"
       },
       {
         "userId": "usr_8b2b2aab-1604-4a91-88c9-db39c42d7c41",
