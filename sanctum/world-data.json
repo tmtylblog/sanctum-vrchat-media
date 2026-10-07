@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-07T00:00:57.542Z",
+  "generated": "2026-10-07T00:15:03.771Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -5633,10 +5633,10 @@
   },
   "vods": [],
   "worldControl": {
-    "v": 332,
-    "ts": "2026-10-06T02:42:52.645Z",
+    "v": 333,
+    "ts": "2026-10-07T00:15:01.544Z",
     "doors": {
-      "frontDoor": true,
+      "frontDoor": false,
       "reactorDoor": false,
       "reactorShielding": false,
       "domeEntrySequence": false
