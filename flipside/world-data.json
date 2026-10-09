@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09T12:01:02.728Z",
+  "generated": "2026-10-09T12:44:53.510Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -344,6 +344,10 @@
       {
         "userId": "usr_fc1164d5-baab-489a-a59a-6ad52dafb3c8",
         "displayName": "CablesOnline"
+      },
+      {
+        "userId": "usr_9a3877a6-306f-4735-8205-f563c5837b05",
+        "displayName": "Corrupted1"
       },
       {
         "userId": "usr_6f516a79-b3b1-4345-bc88-71a5bab77877",
@@ -2014,6 +2018,10 @@
         "displayName": "CablesOnline"
       },
       {
+        "userId": "usr_9a3877a6-306f-4735-8205-f563c5837b05",
+        "displayName": "Corrupted1"
+      },
+      {
         "userId": "usr_6f516a79-b3b1-4345-bc88-71a5bab77877",
         "displayName": "DashVR"
       },
@@ -3368,6 +3376,10 @@
       {
         "userId": "usr_fc1164d5-baab-489a-a59a-6ad52dafb3c8",
         "displayName": "CablesOnline"
+      },
+      {
+        "userId": "usr_9a3877a6-306f-4735-8205-f563c5837b05",
+        "displayName": "Corrupted1"
       },
       {
         "userId": "usr_6f516a79-b3b1-4345-bc88-71a5bab77877",
