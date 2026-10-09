@@ -1,7 +1,7 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-09T12:01:04.300Z",
-  "revision": 1791547264,
+  "generatedAt": "2026-10-09T12:44:54.927Z",
+  "revision": 1791549894,
   "hash": {
     "saltVersion": "default"
   },
@@ -27,6 +27,7 @@
       "035e00134eacb1c0",
       "058a07981462faa2",
       "0ec174998e303cd4",
+      "182bed3a2a2851da",
       "35338534e301671f",
       "380e0c3a3f0e0e67",
       "47a9426594193db8",
@@ -91,6 +92,7 @@
       "0ec174998e303cd4",
       "1138593c2b58c48e",
       "12a1d16051f2a8e7",
+      "182bed3a2a2851da",
       "19b294285a29b88c",
       "23b5f26a33d7c5a9",
       "2855806437b741ed",
@@ -658,7 +660,8 @@
       "f84663436399102d",
       "fa1a4b89c86ce73a",
       "fb7192c8cae02a19",
-      "fdacc7b85bb999f4"
+      "fdacc7b85bb999f4",
+      "fe023e182609dadd"
     ],
     "Moderator": [
       "086676d8f9d1d59c",
@@ -753,7 +756,8 @@
       "f84663436399102d",
       "fa1a4b89c86ce73a",
       "fb7192c8cae02a19",
-      "fdacc7b85bb999f4"
+      "fdacc7b85bb999f4",
+      "fe023e182609dadd"
     ],
     "Dancer": [
       "02641b4ef0f65308",
@@ -1315,6 +1319,7 @@
       "Bobby J",
       "Bunrya",
       "CablesOnline",
+      "Corrupted1",
       "DashVR",
       "De5t1ny_vr",
       "domebot1",
@@ -1620,6 +1625,7 @@
       "0ec174998e303cd4",
       "1138593c2b58c48e",
       "12a1d16051f2a8e7",
+      "182bed3a2a2851da",
       "19b294285a29b88c",
       "23b5f26a33d7c5a9",
       "2855806437b741ed",
@@ -2244,7 +2250,8 @@
       "f84663436399102d",
       "fa1a4b89c86ce73a",
       "fb7192c8cae02a19",
-      "fdacc7b85bb999f4"
+      "fdacc7b85bb999f4",
+      "fe023e182609dadd"
     ],
     "privatePenthouseSpawn": [
       "02641b4ef0f65308",
