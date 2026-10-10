@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-10T22:06:44.967Z",
+  "generated": "2026-10-10T22:12:07.899Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -5677,8 +5677,8 @@
   },
   "vods": [],
   "worldControl": {
-    "v": 346,
-    "ts": "2026-10-10T22:06:44.329Z",
+    "v": 347,
+    "ts": "2026-10-10T22:12:07.250Z",
     "doors": {
       "frontDoor": true,
       "reactorDoor": false,
@@ -5713,7 +5713,7 @@
       {
         "role": "dj1",
         "username": "SenkyDragon",
-        "puppetId": 2
+        "puppetId": 1
       },
       {
         "role": "dj2",
