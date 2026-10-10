@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-10T11:00:18.457Z",
+  "generated": "2026-10-10T20:00:44.261Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -174,6 +174,10 @@
       {
         "userId": "usr_589a479b-80cf-42c4-92e4-63cbd900a82b",
         "displayName": "Rain_Iwa"
+      },
+      {
+        "userId": "usr_20d4a5d0-0634-4cd1-8eee-253138eea21b",
+        "displayName": "redpil1"
       },
       {
         "userId": "usr_fb022c9b-3d0b-40b7-a5bb-b903551d541a",
@@ -543,6 +547,10 @@
       }
     ],
     "Traveler": [
+      {
+        "userId": "usr_10a296de-8e81-4636-a3a8-2e8759f537f6",
+        "displayName": "_Gehenna_"
+      },
       {
         "userId": "usr_c5de53c5-61da-4d19-b942-a9dd14e3343e",
         "displayName": "_Silent"
@@ -1546,6 +1554,10 @@
       {
         "userId": "usr_589a479b-80cf-42c4-92e4-63cbd900a82b",
         "displayName": "Rain_Iwa"
+      },
+      {
+        "userId": "usr_20d4a5d0-0634-4cd1-8eee-253138eea21b",
+        "displayName": "redpil1"
       },
       {
         "userId": "usr_fb022c9b-3d0b-40b7-a5bb-b903551d541a",
