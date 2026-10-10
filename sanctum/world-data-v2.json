@@ -1,7 +1,7 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-10T21:00:25.051Z",
-  "revision": 1791666025,
+  "generatedAt": "2026-10-10T21:13:08.866Z",
+  "revision": 1791666788,
   "hash": {
     "saltVersion": "default"
   },
@@ -3445,8 +3445,8 @@
   },
   "vods": [],
   "worldControl": {
-    "v": 341,
-    "ts": "2026-10-10T20:59:34.744Z",
+    "v": 342,
+    "ts": "2026-10-10T21:13:06.228Z",
     "doors": {
       "frontDoor": false,
       "reactorDoor": false,
@@ -3481,7 +3481,7 @@
       {
         "role": "dj1",
         "username": "MUZZ_",
-        "puppetId": 2
+        "puppetId": 1
       },
       {
         "role": "dj2",
