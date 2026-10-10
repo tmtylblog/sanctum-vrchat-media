@@ -1,7 +1,7 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-10T22:06:46.492Z",
-  "revision": 1791670006,
+  "generatedAt": "2026-10-10T22:12:09.441Z",
+  "revision": 1791670329,
   "hash": {
     "saltVersion": "default"
   },
@@ -3448,8 +3448,8 @@
   },
   "vods": [],
   "worldControl": {
-    "v": 346,
-    "ts": "2026-10-10T22:06:44.329Z",
+    "v": 347,
+    "ts": "2026-10-10T22:12:07.250Z",
     "doors": {
       "frontDoor": true,
       "reactorDoor": false,
@@ -3484,7 +3484,7 @@
       {
         "role": "dj1",
         "username": "SenkyDragon",
-        "puppetId": 2
+        "puppetId": 1
       },
       {
         "role": "dj2",
