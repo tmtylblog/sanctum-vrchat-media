@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-10T20:30:21.960Z",
+  "generated": "2026-10-10T22:01:03.733Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -1264,6 +1264,10 @@
         "displayName": "KriegChiffre"
       },
       {
+        "userId": "usr_395955b6-384b-424c-8ad7-278e29bfd9e3",
+        "displayName": "KrinSodan"
+      },
+      {
         "userId": "usr_012ba7cf-ac71-4d2f-a953-d4f3f0cd963b",
         "displayName": "Krystalchan"
       },
@@ -1310,6 +1314,10 @@
       {
         "userId": "usr_99acc004-fc49-4263-b2ff-def9b1387989",
         "displayName": "lazyicon"
+      },
+      {
+        "userId": "usr_be7e720b-fae4-4b6e-a50e-05f8f6972207",
+        "displayName": "legerity"
       },
       {
         "userId": "usr_ff1571be-0638-4bef-bb6b-216562ff20a7",
@@ -1820,8 +1828,16 @@
         "displayName": "volo volo"
       },
       {
+        "userId": "usr_a6f7f858-46a1-4219-9183-d69600032aed",
+        "displayName": "Weisz"
+      },
+      {
         "userId": "usr_1dcab67c-7d4f-4e28-be69-d6a9e31dc2d1",
         "displayName": "Weltyspider266"
+      },
+      {
+        "userId": "usr_46e73fc0-2f97-4572-8dc6-0b199bd0801c",
+        "displayName": "WildPika"
       },
       {
         "userId": "usr_ffc409e3-0aad-41e1-8159-8a813f71e79e",
