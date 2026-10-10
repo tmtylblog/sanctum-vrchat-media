@@ -1,7 +1,7 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-10T22:57:30.454Z",
-  "revision": 1791673050,
+  "generatedAt": "2026-10-10T22:58:24.413Z",
+  "revision": 1791673104,
   "hash": {
     "saltVersion": "default"
   },
@@ -3448,8 +3448,8 @@
   },
   "vods": [],
   "worldControl": {
-    "v": 350,
-    "ts": "2026-10-10T22:57:27.584Z",
+    "v": 351,
+    "ts": "2026-10-10T22:57:49.025Z",
     "doors": {
       "frontDoor": true,
       "reactorDoor": false,
@@ -3483,8 +3483,8 @@
     "virtuaMotionTracking": [
       {
         "role": "dj1",
-        "username": "SenkyDragon",
-        "puppetId": 1
+        "username": "redpil1",
+        "puppetId": 2
       },
       {
         "role": "dj2",
