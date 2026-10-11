@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-11T02:01:03.312Z",
+  "generated": "2026-10-11T02:29:04.038Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -802,6 +802,10 @@
       {
         "userId": "usr_b4e996ed-3eeb-4c80-9548-fec22e8c9f08",
         "displayName": "AznManDown"
+      },
+      {
+        "userId": "usr_6c78504c-c857-4a2f-b85d-ce55f3fc5d4b",
+        "displayName": "Azzy123"
       },
       {
         "userId": "usr_bf9d66df-4fbb-4e11-b2d6-cea687f02e52",
@@ -1660,6 +1664,10 @@
         "displayName": "ruinaebanaya"
       },
       {
+        "userId": "usr_f8c50579-0a91-4882-9abe-2e71d9e6d195",
+        "displayName": "RusselB"
+      },
+      {
         "userId": "usr_dc26bec2-9779-4672-b361-30c219673d95",
         "displayName": "Ry6000"
       },
@@ -2498,6 +2506,10 @@
         "displayName": "AznManDown"
       },
       {
+        "userId": "usr_6c78504c-c857-4a2f-b85d-ce55f3fc5d4b",
+        "displayName": "Azzy123"
+      },
+      {
         "userId": "usr_94be15e9-f1af-42a0-8f72-b61ab1ed36f9",
         "displayName": "BlankTheFool"
       },
@@ -2806,6 +2818,10 @@
         "displayName": "AznManDown"
       },
       {
+        "userId": "usr_6c78504c-c857-4a2f-b85d-ce55f3fc5d4b",
+        "displayName": "Azzy123"
+      },
+      {
         "userId": "usr_94be15e9-f1af-42a0-8f72-b61ab1ed36f9",
         "displayName": "BlankTheFool"
       },
@@ -3110,6 +3126,10 @@
       {
         "userId": "usr_b4e996ed-3eeb-4c80-9548-fec22e8c9f08",
         "displayName": "AznManDown"
+      },
+      {
+        "userId": "usr_6c78504c-c857-4a2f-b85d-ce55f3fc5d4b",
+        "displayName": "Azzy123"
       },
       {
         "userId": "usr_94be15e9-f1af-42a0-8f72-b61ab1ed36f9",
@@ -3768,6 +3788,10 @@
         "displayName": "AznManDown"
       },
       {
+        "userId": "usr_6c78504c-c857-4a2f-b85d-ce55f3fc5d4b",
+        "displayName": "Azzy123"
+      },
+      {
         "userId": "usr_94be15e9-f1af-42a0-8f72-b61ab1ed36f9",
         "displayName": "BlankTheFool"
       },
@@ -4072,6 +4096,10 @@
       {
         "userId": "usr_b4e996ed-3eeb-4c80-9548-fec22e8c9f08",
         "displayName": "AznManDown"
+      },
+      {
+        "userId": "usr_6c78504c-c857-4a2f-b85d-ce55f3fc5d4b",
+        "displayName": "Azzy123"
       },
       {
         "userId": "usr_94be15e9-f1af-42a0-8f72-b61ab1ed36f9",
