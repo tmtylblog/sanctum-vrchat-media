@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-11T02:28:55.153Z",
+  "generated": "2026-10-11T04:11:07.523Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -426,6 +426,10 @@
         "displayName": "Luxifinity"
       },
       {
+        "userId": "usr_656871b2-9c99-4dbd-a3aa-2a85fc720889",
+        "displayName": "Martinoz"
+      },
+      {
         "userId": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b",
         "displayName": "Mixieǃ"
       },
@@ -574,6 +578,10 @@
       {
         "userId": "usr_66f36b66-0917-4180-b2ee-fb285f530a84",
         "displayName": "-Wattson-"
+      },
+      {
+        "userId": "usr_4b89b2b6-6f44-4142-9a26-086e29d7e8dd",
+        "displayName": "（ ALIEN ）"
       },
       {
         "userId": "usr_0a244393-8003-4f76-822c-da59dbcaabc0",
@@ -868,6 +876,10 @@
         "displayName": "CUBE_1031"
       },
       {
+        "userId": "usr_dcc873a9-8237-4579-8523-9511a9e536a7",
+        "displayName": "Curious Geck"
+      },
+      {
         "userId": "usr_6d7b7cd3-3ebb-4a1d-af1d-4ad7d455e919",
         "displayName": "CyD1＠N"
       },
@@ -882,6 +894,10 @@
       {
         "userId": "usr_6f516a79-b3b1-4345-bc88-71a5bab77877",
         "displayName": "DashVR"
+      },
+      {
+        "userId": "usr_044915d4-1294-4871-96d1-c7497d4672f1",
+        "displayName": "dataphiles"
       },
       {
         "userId": "usr_b5010f84-189c-4575-ac76-acdd1603a49a",
@@ -1318,6 +1334,10 @@
       {
         "userId": "usr_1e0b1fd4-ff19-47c2-b804-f4b24ed39aa6",
         "displayName": "Lufz"
+      },
+      {
+        "userId": "usr_defec390-f5c8-4ca4-a15d-2ebcff4ec4f3",
+        "displayName": "lul"
       },
       {
         "userId": "usr_ec4411df-204d-4150-8696-ec7b0edba9f1",
@@ -3512,6 +3532,10 @@
       {
         "userId": "usr_ca1dbc7b-7b20-4f45-ba0c-28f70f0c583c",
         "displayName": "Luxifinity"
+      },
+      {
+        "userId": "usr_656871b2-9c99-4dbd-a3aa-2a85fc720889",
+        "displayName": "Martinoz"
       },
       {
         "userId": "usr_20440d0b-9a96-4eaf-8b05-58d48a803b21",
