@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-11T14:00:27.813Z",
+  "generated": "2026-10-11T20:30:50.215Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -828,6 +828,10 @@
         "displayName": "BASICBIT"
       },
       {
+        "userId": "usr_219f8339-c7c5-4c96-b476-28d2eadca4b1",
+        "displayName": "beam_"
+      },
+      {
         "userId": "usr_dacef808-2d00-418a-b1e9-3bd76000ee3b",
         "displayName": "Bean`"
       },
@@ -1000,6 +1004,10 @@
         "displayName": "DІCE"
       },
       {
+        "userId": "usr_0b93d00b-460c-464c-a054-9878b115c41f",
+        "displayName": "Eeve~"
+      },
+      {
         "userId": "usr_2cccb96d-87f5-46dd-b4d1-f42a90b5f48a",
         "displayName": "Egguwugy"
       },
@@ -1130,6 +1138,10 @@
       {
         "userId": "usr_61679e50-d5a7-42a6-9dce-457eced13678",
         "displayName": "haxtormoogle"
+      },
+      {
+        "userId": "qYZJsbJRqA",
+        "displayName": "Haxy"
       },
       {
         "userId": "usr_a487ebe9-6c9a-47f1-adc7-b9ed1753cab2",
@@ -1326,6 +1338,10 @@
       {
         "userId": "usr_6e20239e-efd3-4327-971e-1007cd8ab9a9",
         "displayName": "La Chevre"
+      },
+      {
+        "userId": "usr_86831e72-1ab0-46d3-84f9-07046363fc15",
+        "displayName": "Laika`"
       },
       {
         "userId": "usr_791f1452-db4e-4262-874a-43f773103f9f",
@@ -1710,6 +1726,10 @@
       {
         "userId": "usr_c4e5e677-02d1-4da0-88ae-475ecf874abb",
         "displayName": "SergeantFreeman"
+      },
+      {
+        "userId": "usr_77e5cfe6-d46f-45a2-bdec-707ddb6e535b",
+        "displayName": "Shanskylar"
       },
       {
         "userId": "usr_1159496d-4556-4f02-938e-c9b13e831946",
