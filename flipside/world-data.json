@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-12T21:01:25.592Z",
+  "generated": "2026-10-12T22:30:41.410Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -38,10 +38,6 @@
       {
         "userId": "usr_168e3855-53b5-43d7-b625-53e6a66606fb",
         "displayName": "~ Envy ~"
-      },
-      {
-        "userId": "usr_858425e8-5c0c-461b-af0c-77190bf7b4af",
-        "displayName": "~Mathy~"
       },
       {
         "userId": "usr_02d3858e-ae05-4d7e-a565-7ffa11e3b18f",
@@ -256,10 +252,6 @@
         "displayName": "tama_renko"
       },
       {
-        "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
-        "displayName": "Twilo"
-      },
-      {
         "userId": "usr_44eb716d-9e13-4228-a839-14388eda6a10",
         "displayName": "Ｖ xo"
       },
@@ -316,10 +308,6 @@
       {
         "userId": "usr_2805613d-ff9c-4120-82c6-7d5f4364ae07",
         "displayName": "〔レン〕"
-      },
-      {
-        "userId": "usr_858425e8-5c0c-461b-af0c-77190bf7b4af",
-        "displayName": "~Mathy~"
       },
       {
         "userId": "usr_5ec8b436-4c68-4421-a038-ce5788d43502",
@@ -438,10 +426,6 @@
         "displayName": "Theslythief"
       },
       {
-        "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
-        "displayName": "Twilo"
-      },
-      {
         "userId": "usr_44eb716d-9e13-4228-a839-14388eda6a10",
         "displayName": "Ｖ xo"
       },
@@ -459,10 +443,6 @@
       }
     ],
     "Admin": [
-      {
-        "userId": "usr_858425e8-5c0c-461b-af0c-77190bf7b4af",
-        "displayName": "~Mathy~"
-      },
       {
         "userId": "usr_5ec8b436-4c68-4421-a038-ce5788d43502",
         "displayName": "AcChosen"
@@ -486,17 +466,9 @@
       {
         "userId": "usr_10624ac0-ae1b-4b79-9f4c-7bed09de2d94",
         "displayName": "SwaMusic"
-      },
-      {
-        "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
-        "displayName": "Twilo"
       }
     ],
     "Moderator": [
-      {
-        "userId": "usr_858425e8-5c0c-461b-af0c-77190bf7b4af",
-        "displayName": "~Mathy~"
-      },
       {
         "userId": "usr_5ec8b436-4c68-4421-a038-ce5788d43502",
         "displayName": "AcChosen"
@@ -564,10 +536,6 @@
       {
         "userId": "usr_10624ac0-ae1b-4b79-9f4c-7bed09de2d94",
         "displayName": "SwaMusic"
-      },
-      {
-        "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
-        "displayName": "Twilo"
       },
       {
         "userId": "usr_06aebe4f-e50c-46ef-a5d9-9dc6eb62d6d9",
