@@ -1,7 +1,7 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-12T19:01:32.534Z",
-  "revision": 1791831692,
+  "generatedAt": "2026-10-12T20:01:44.796Z",
+  "revision": 1791835304,
   "hash": {
     "saltVersion": "default"
   },
@@ -19,12 +19,8 @@
       "7c29d434d736dced",
       "97818284a13e3425",
       "9f9e2df5ad8197ba",
-      "d064fc6f8fc20c19",
       "d151d1c33a5dc8aa",
-      "d44f8f534c693d7b",
-      "e328a7411ee43636",
-      "e915081b8d8e8e7c",
-      "f4d099a4c65bef97"
+      "d44f8f534c693d7b"
     ],
     "Host": [
       "035e00134eacb1c0",
@@ -653,16 +649,12 @@
     ],
     "Admin": [
       "086676d8f9d1d59c",
-      "0a952be2505ef8ea",
       "126840dcb268c254",
-      "15ea25e90a55914b",
       "1b15e3b82b9d7272",
       "2152f9fb6fe55731",
       "30a193d23dacfc6c",
-      "546a1e2bdf8fa918",
       "5577ed6a33687434",
       "7a779675afdeb478",
-      "93b65f887acbc900",
       "ca9d98c27b46197c"
     ],
     "Host": [
