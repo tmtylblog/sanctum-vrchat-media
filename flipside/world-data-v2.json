@@ -1,7 +1,7 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-12T21:01:27.355Z",
-  "revision": 1791838887,
+  "generatedAt": "2026-10-12T22:30:44.006Z",
+  "revision": 1791844244,
   "hash": {
     "saltVersion": "default"
   },
@@ -18,9 +18,7 @@
       "735a8d46c9aed90c",
       "7c29d434d736dced",
       "97818284a13e3425",
-      "9f9e2df5ad8197ba",
-      "d151d1c33a5dc8aa",
-      "d44f8f534c693d7b"
+      "9f9e2df5ad8197ba"
     ],
     "Host": [
       "035e00134eacb1c0",
@@ -46,8 +44,6 @@
       "c3d9025e5652ac19",
       "c50567f55cce0de5",
       "d064fc6f8fc20c19",
-      "d151d1c33a5dc8aa",
-      "d44f8f534c693d7b",
       "d9fff65eb971c3ec",
       "dea0be1346aa7812",
       "df49554175ed5fdc",
@@ -76,8 +72,6 @@
       "afd0adec62e9730f",
       "b9eb58e22fdad22f",
       "d064fc6f8fc20c19",
-      "d151d1c33a5dc8aa",
-      "d44f8f534c693d7b",
       "dea0be1346aa7812",
       "e328a7411ee43636",
       "e915081b8d8e8e7c",
@@ -652,19 +646,16 @@
       "cc1f82cbcd2fc0d5"
     ],
     "Admin": [
-      "086676d8f9d1d59c",
       "126840dcb268c254",
       "1b15e3b82b9d7272",
       "2152f9fb6fe55731",
       "30a193d23dacfc6c",
       "5577ed6a33687434",
-      "7a779675afdeb478",
       "ca9d98c27b46197c"
     ],
     "Host": [
       "03f4baec8377b40a",
       "049dad8ba856b53c",
-      "086676d8f9d1d59c",
       "0a952be2505ef8ea",
       "15ea25e90a55914b",
       "2152f9fb6fe55731",
@@ -677,7 +668,6 @@
       "5c151ec94f023c33",
       "6079a6d600266d1f",
       "7256434c5ccf3d1f",
-      "7a779675afdeb478",
       "7b30236ccae05d31",
       "7bac0ee65f16628a",
       "7d23209a2927b0fa",
@@ -700,7 +690,6 @@
       "fe023e182609dadd"
     ],
     "Moderator": [
-      "086676d8f9d1d59c",
       "0a952be2505ef8ea",
       "126840dcb268c254",
       "15ea25e90a55914b",
@@ -714,7 +703,6 @@
       "5577ed6a33687434",
       "6a19c1b50b292d4a",
       "7256434c5ccf3d1f",
-      "7a779675afdeb478",
       "7d23209a2927b0fa",
       "93b65f887acbc900",
       "ca9d98c27b46197c",
@@ -1295,7 +1283,6 @@
       "【data】",
       "〔レン〕",
       "~ Envy ~",
-      "~Mathy~",
       "~Xia~",
       "3RR0R404_VA",
       "5-HEX-7",
@@ -1349,7 +1336,6 @@
       "SoftlySteph",
       "Space Cowboi",
       "tama_renko",
-      "Twilo",
       "Ｖ xo",
       "Vesturo",
       "xChillphil",
