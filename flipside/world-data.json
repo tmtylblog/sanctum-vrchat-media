@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-13T11:30:28.664Z",
+  "generated": "2026-10-13T18:00:36.467Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -1592,6 +1592,10 @@
         "displayName": "NotaGames"
       },
       {
+        "userId": "usr_88aa1580-2e84-4ecf-a199-d800eb1784aa",
+        "displayName": "Novatosh"
+      },
+      {
         "userId": "usr_e9c1a713-aff6-47f3-8153-3e585dcfcbde",
         "displayName": "nullbody42"
       },
@@ -1756,8 +1760,16 @@
         "displayName": "sheepsheep"
       },
       {
+        "userId": "usr_b3af8a58-5114-42b1-af0c-adb81b51a805",
+        "displayName": "Shimoo‼"
+      },
+      {
         "userId": "usr_984939ca-c4b2-4e0e-839c-36cb0b347951",
         "displayName": "Shizuocha"
+      },
+      {
+        "userId": "usr_c6e34179-f2aa-45df-a351-b7a36aa8937d",
+        "displayName": "ShortCirkuitz"
       },
       {
         "userId": "usr_0f66f106-a898-4a90-b880-08ca1cc215b7",
