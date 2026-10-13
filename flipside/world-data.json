@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-13T00:00:26.599Z",
+  "generated": "2026-10-13T05:00:29.915Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -724,6 +724,10 @@
         "displayName": "Alpha'"
       },
       {
+        "userId": "usr_152c8651-c6db-48cf-b022-3a01c10f7f3d",
+        "displayName": "Antibollaアンティー"
+      },
+      {
         "userId": "usr_c38b9782-28c3-4647-9ff4-eb933da58472",
         "displayName": "ANTІK"
       },
@@ -970,6 +974,10 @@
       {
         "userId": "usr_35ea9cdf-3cb8-4b53-a340-01617c2acb1c",
         "displayName": "DJMurdokes"
+      },
+      {
+        "userId": "usr_a2544e1a-5d86-4da1-a841-88cbbef08c91",
+        "displayName": "DnutCfe-Obscura"
       },
       {
         "userId": "usr_f4ea5f3d-b54a-48f4-a897-3abd552cab2b",
@@ -1452,6 +1460,10 @@
         "displayName": "MatthewMJB"
       },
       {
+        "userId": "usr_8dda15ad-6b24-42b8-9e8f-80b78a028b90",
+        "displayName": "Mawntee"
+      },
+      {
         "userId": "usr_94832cec-8617-43d4-8c0d-296c6e59d0f3",
         "displayName": "MayaHive"
       },
@@ -1486,6 +1498,10 @@
       {
         "userId": "usr_128b2957-ead3-49d8-ad95-ca7cef035eab",
         "displayName": "Milteo"
+      },
+      {
+        "userId": "usr_7d37ce11-1ad5-472f-b06e-fdada0cf7bf5",
+        "displayName": "MinnieFops"
       },
       {
         "userId": "usr_ecb97ee3-2a8a-421b-9f06-2991e60af693",
@@ -1700,6 +1716,10 @@
         "displayName": "Ry6000"
       },
       {
+        "userId": "usr_ea62353f-8f41-4dfd-b9cc-3c9bbae14216",
+        "displayName": "SaturdaysAreForTheBoys"
+      },
+      {
         "userId": "usr_c43c5116-11a3-45e2-8d84-3c7a7857b744",
         "displayName": "Schlick"
       },
@@ -1838,6 +1858,10 @@
       {
         "userId": "usr_db6aadc7-462c-48ee-9cdc-c913a7e8e94f",
         "displayName": "toxictrate"
+      },
+      {
+        "userId": "usr_0eb6978c-625c-4b4e-aa79-389af7653d87",
+        "displayName": "TUNETECZ"
       },
       {
         "userId": "usr_0242af88-991d-43be-9ed7-bf9d8c5bb097",
