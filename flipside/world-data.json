@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-15T19:50:44.229Z",
+  "generated": "2026-10-15T23:48:35.104Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -138,6 +138,10 @@
       {
         "userId": "usr_40be82e7-f7d5-4548-b314-3fc7b26d22ee",
         "displayName": "Hackebein"
+      },
+      {
+        "userId": "usr_f69982c2-919b-4420-bd3a-2c57eb970f67",
+        "displayName": "Ironstrom"
       },
       {
         "userId": "usr_42b3b6f0-620c-465b-aca0-ba2d7d492988",
@@ -1732,6 +1736,10 @@
         "displayName": "rivlia"
       },
       {
+        "userId": "usr_3d3dcd84-b4d2-45cc-bef8-fb91aa7188f0",
+        "displayName": "RoboCat․"
+      },
+      {
         "userId": "usr_cca20eea-9271-47c7-84e5-5bd2ab46a2d2",
         "displayName": "robromansvoice"
       },
@@ -2254,6 +2262,10 @@
         "displayName": "Hackebein"
       },
       {
+        "userId": "usr_f69982c2-919b-4420-bd3a-2c57eb970f67",
+        "displayName": "Ironstrom"
+      },
+      {
         "userId": "usr_42b3b6f0-620c-465b-aca0-ba2d7d492988",
         "displayName": "ItsRiko"
       },
@@ -2478,6 +2490,10 @@
       {
         "userId": "usr_40be82e7-f7d5-4548-b314-3fc7b26d22ee",
         "displayName": "Hackebein"
+      },
+      {
+        "userId": "usr_f69982c2-919b-4420-bd3a-2c57eb970f67",
+        "displayName": "Ironstrom"
       },
       {
         "userId": "usr_42b3b6f0-620c-465b-aca0-ba2d7d492988",
@@ -2776,6 +2792,10 @@
       {
         "userId": "usr_fb022c9b-3d0b-40b7-a5bb-b903551d541a",
         "displayName": "rei_reika"
+      },
+      {
+        "userId": "usr_3d3dcd84-b4d2-45cc-bef8-fb91aa7188f0",
+        "displayName": "RoboCat․"
       },
       {
         "userId": "usr_8b2b2aab-1604-4a91-88c9-db39c42d7c41",
@@ -3090,6 +3110,10 @@
         "displayName": "rei_reika"
       },
       {
+        "userId": "usr_3d3dcd84-b4d2-45cc-bef8-fb91aa7188f0",
+        "displayName": "RoboCat․"
+      },
+      {
         "userId": "usr_8b2b2aab-1604-4a91-88c9-db39c42d7c41",
         "displayName": "SANCTUM_STUDIO"
       },
@@ -3400,6 +3424,10 @@
         "displayName": "rei_reika"
       },
       {
+        "userId": "usr_3d3dcd84-b4d2-45cc-bef8-fb91aa7188f0",
+        "displayName": "RoboCat․"
+      },
+      {
         "userId": "usr_8b2b2aab-1604-4a91-88c9-db39c42d7c41",
         "displayName": "SANCTUM_STUDIO"
       },
@@ -3642,6 +3670,10 @@
         "displayName": "Hackebein"
       },
       {
+        "userId": "usr_f69982c2-919b-4420-bd3a-2c57eb970f67",
+        "displayName": "Ironstrom"
+      },
+      {
         "userId": "usr_42b3b6f0-620c-465b-aca0-ba2d7d492988",
         "displayName": "ItsRiko"
       },
@@ -3752,6 +3784,10 @@
       {
         "userId": "usr_fb022c9b-3d0b-40b7-a5bb-b903551d541a",
         "displayName": "rei_reika"
+      },
+      {
+        "userId": "usr_3d3dcd84-b4d2-45cc-bef8-fb91aa7188f0",
+        "displayName": "RoboCat․"
       },
       {
         "userId": "usr_8b2b2aab-1604-4a91-88c9-db39c42d7c41",
@@ -4064,6 +4100,10 @@
         "displayName": "rei_reika"
       },
       {
+        "userId": "usr_3d3dcd84-b4d2-45cc-bef8-fb91aa7188f0",
+        "displayName": "RoboCat․"
+      },
+      {
         "userId": "usr_8b2b2aab-1604-4a91-88c9-db39c42d7c41",
         "displayName": "SANCTUM_STUDIO"
       },
@@ -4374,6 +4414,10 @@
         "displayName": "rei_reika"
       },
       {
+        "userId": "usr_3d3dcd84-b4d2-45cc-bef8-fb91aa7188f0",
+        "displayName": "RoboCat․"
+      },
+      {
         "userId": "usr_8b2b2aab-1604-4a91-88c9-db39c42d7c41",
         "displayName": "SANCTUM_STUDIO"
       },
@@ -4672,6 +4716,10 @@
         "displayName": "rei_reika"
       },
       {
+        "userId": "usr_3d3dcd84-b4d2-45cc-bef8-fb91aa7188f0",
+        "displayName": "RoboCat․"
+      },
+      {
         "userId": "usr_8b2b2aab-1604-4a91-88c9-db39c42d7c41",
         "displayName": "SANCTUM_STUDIO"
       },
@@ -4968,6 +5016,10 @@
       {
         "userId": "usr_fb022c9b-3d0b-40b7-a5bb-b903551d541a",
         "displayName": "rei_reika"
+      },
+      {
+        "userId": "usr_3d3dcd84-b4d2-45cc-bef8-fb91aa7188f0",
+        "displayName": "RoboCat․"
       },
       {
         "userId": "usr_8b2b2aab-1604-4a91-88c9-db39c42d7c41",
