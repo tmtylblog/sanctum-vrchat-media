@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-15T19:48:46.665Z",
+  "generated": "2026-10-15T19:49:25.400Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -1470,10 +1470,6 @@
       {
         "userId": "usr_8674ad85-1911-4d57-9da6-804452a22ecb",
         "displayName": "mojopeg"
-      },
-      {
-        "userId": "usr_8247ba77-5f65-4537-bfc7-0dc69b1dcd08",
-        "displayName": "Monc42"
       },
       {
         "userId": "usr_f7a017aa-7a39-4be8-a220-2d5869b3942b",
@@ -5845,8 +5841,8 @@
   },
   "vods": [],
   "worldControl": {
-    "v": 364,
-    "ts": "2026-10-14T23:09:26.467Z",
+    "v": 365,
+    "ts": "2026-10-15T19:49:24.263Z",
     "doors": {
       "frontDoor": false,
       "reactorDoor": false,
@@ -5863,9 +5859,9 @@
       "aux4": false,
       "aux5": false
     },
-    "eventActive": true,
-    "venue": 2,
-    "venueName": "Lunette",
+    "eventActive": false,
+    "venue": null,
+    "venueName": null,
     "loadedVenues": [
       "Tribune",
       "Chapel",
