@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-15T19:49:53.382Z",
+  "generated": "2026-10-15T19:50:31.008Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -154,6 +154,10 @@
       {
         "userId": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b",
         "displayName": "Mixieǃ"
+      },
+      {
+        "userId": "usr_a1e1341e-b62c-4e61-83d5-3e28761102e4",
+        "displayName": "MontyIO"
       },
       {
         "userId": "usr_e9b2c819-8e13-4299-9cf4-4f6d7290c625",
@@ -2226,6 +2230,10 @@
         "displayName": "Mixieǃ"
       },
       {
+        "userId": "usr_a1e1341e-b62c-4e61-83d5-3e28761102e4",
+        "displayName": "MontyIO"
+      },
+      {
         "userId": "usr_97b6e256-c441-4dde-9cb9-f29f78727f1d",
         "displayName": "MUZZ_"
       },
@@ -3620,6 +3628,10 @@
       {
         "userId": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b",
         "displayName": "Mixieǃ"
+      },
+      {
+        "userId": "usr_a1e1341e-b62c-4e61-83d5-3e28761102e4",
+        "displayName": "MontyIO"
       },
       {
         "userId": "usr_97b6e256-c441-4dde-9cb9-f29f78727f1d",
