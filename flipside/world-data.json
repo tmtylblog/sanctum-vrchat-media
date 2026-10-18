@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-18T21:30:46.817Z",
+  "generated": "2026-10-18T21:59:51.749Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -1312,6 +1312,10 @@
         "displayName": "K̴ayla"
       },
       {
+        "userId": "usr_a08f0340-2774-4ee0-9f1e-5c06d8404745",
+        "displayName": "Keno Tatsu"
+      },
+      {
         "userId": "usr_d0900863-abf5-403a-8e5c-a39bea142e71",
         "displayName": "killycatt"
       },
@@ -1910,6 +1914,10 @@
       {
         "userId": "usr_df56726c-8e30-465f-b6c5-4e00ec93188c",
         "displayName": "Techbun"
+      },
+      {
+        "userId": "usr_7c0f454d-3f9e-4e22-ba7a-87edba5ee4af",
+        "displayName": "Ten․exe"
       },
       {
         "userId": "usr_e3028934-1309-4ef8-8362-6e93d1bed8fe",
@@ -2738,6 +2746,10 @@
         "displayName": "Kaerun"
       },
       {
+        "userId": "usr_a08f0340-2774-4ee0-9f1e-5c06d8404745",
+        "displayName": "Keno Tatsu"
+      },
+      {
         "userId": "usr_7fb63252-1681-4a5f-9fe6-31b75193fa27",
         "displayName": "kohadachan"
       },
@@ -3054,6 +3066,10 @@
         "displayName": "Kaerun"
       },
       {
+        "userId": "usr_a08f0340-2774-4ee0-9f1e-5c06d8404745",
+        "displayName": "Keno Tatsu"
+      },
+      {
         "userId": "usr_7fb63252-1681-4a5f-9fe6-31b75193fa27",
         "displayName": "kohadachan"
       },
@@ -3366,6 +3382,10 @@
       {
         "userId": "usr_e99a6c11-a506-45d9-8bac-e98b21bf40b0",
         "displayName": "Kaerun"
+      },
+      {
+        "userId": "usr_a08f0340-2774-4ee0-9f1e-5c06d8404745",
+        "displayName": "Keno Tatsu"
       },
       {
         "userId": "usr_7fb63252-1681-4a5f-9fe6-31b75193fa27",
@@ -3714,6 +3734,10 @@
         "displayName": "Katyzon"
       },
       {
+        "userId": "usr_a08f0340-2774-4ee0-9f1e-5c06d8404745",
+        "displayName": "Keno Tatsu"
+      },
+      {
         "userId": "usr_7fb63252-1681-4a5f-9fe6-31b75193fa27",
         "displayName": "kohadachan"
       },
@@ -4040,6 +4064,10 @@
         "displayName": "Kaerun"
       },
       {
+        "userId": "usr_a08f0340-2774-4ee0-9f1e-5c06d8404745",
+        "displayName": "Keno Tatsu"
+      },
+      {
         "userId": "usr_7fb63252-1681-4a5f-9fe6-31b75193fa27",
         "displayName": "kohadachan"
       },
@@ -4354,6 +4382,10 @@
         "displayName": "Kaerun"
       },
       {
+        "userId": "usr_a08f0340-2774-4ee0-9f1e-5c06d8404745",
+        "displayName": "Keno Tatsu"
+      },
+      {
         "userId": "usr_7fb63252-1681-4a5f-9fe6-31b75193fa27",
         "displayName": "kohadachan"
       },
@@ -4656,6 +4688,10 @@
         "displayName": "Kaerun"
       },
       {
+        "userId": "usr_a08f0340-2774-4ee0-9f1e-5c06d8404745",
+        "displayName": "Keno Tatsu"
+      },
+      {
         "userId": "usr_7fb63252-1681-4a5f-9fe6-31b75193fa27",
         "displayName": "kohadachan"
       },
@@ -4952,6 +4988,10 @@
       {
         "userId": "usr_e99a6c11-a506-45d9-8bac-e98b21bf40b0",
         "displayName": "Kaerun"
+      },
+      {
+        "userId": "usr_a08f0340-2774-4ee0-9f1e-5c06d8404745",
+        "displayName": "Keno Tatsu"
       },
       {
         "userId": "usr_7fb63252-1681-4a5f-9fe6-31b75193fa27",
