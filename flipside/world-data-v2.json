@@ -1,7 +1,7 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-19T00:06:48.530Z",
-  "revision": 1792368408,
+  "generatedAt": "2026-10-19T00:07:14.492Z",
+  "revision": 1792368434,
   "hash": {
     "saltVersion": "default"
   },
@@ -24,7 +24,6 @@
       "035e00134eacb1c0",
       "058a07981462faa2",
       "0ec174998e303cd4",
-      "182bed3a2a2851da",
       "35338534e301671f",
       "380e0c3a3f0e0e67",
       "47a9426594193db8",
@@ -39,7 +38,6 @@
       "ada3ba20e15854cf",
       "afd0adec62e9730f",
       "b9eb58e22fdad22f",
-      "c3d9025e5652ac19",
       "c50567f55cce0de5",
       "d064fc6f8fc20c19",
       "d9fff65eb971c3ec",
@@ -86,7 +84,6 @@
       "0ec174998e303cd4",
       "1138593c2b58c48e",
       "12a1d16051f2a8e7",
-      "182bed3a2a2851da",
       "19b294285a29b88c",
       "23b5f26a33d7c5a9",
       "2855806437b741ed",
@@ -125,7 +122,6 @@
       "b9eb58e22fdad22f",
       "c0ec522e56fb925a",
       "c22ea74fc687d8f0",
-      "c3d9025e5652ac19",
       "c50567f55cce0de5",
       "c721effb4980a713",
       "ce47d6e1170b0975",
@@ -700,7 +696,6 @@
       "93b65f887acbc900",
       "95bec5f1f8b9bc87",
       "a7e8edaeb2afd170",
-      "b6f4f136c83d2ca4",
       "cc1f82cbcd2fc0d5",
       "d3719d83c1a2c142",
       "d785b0a6e3cf3a21",
@@ -710,8 +705,7 @@
       "f84663436399102d",
       "fa1a4b89c86ce73a",
       "fb7192c8cae02a19",
-      "fdacc7b85bb999f4",
-      "fe023e182609dadd"
+      "fdacc7b85bb999f4"
     ],
     "Moderator": [
       "0a952be2505ef8ea",
@@ -791,7 +785,6 @@
       "a7e8edaeb2afd170",
       "a9b0b931c1643062",
       "acf88a3c91ae2a51",
-      "b6f4f136c83d2ca4",
       "bb9cdc4c2661b2bd",
       "bd87ed227d4e2fcc",
       "cc1f82cbcd2fc0d5",
@@ -806,8 +799,7 @@
       "f84663436399102d",
       "fa1a4b89c86ce73a",
       "fb7192c8cae02a19",
-      "fdacc7b85bb999f4",
-      "fe023e182609dadd"
+      "fdacc7b85bb999f4"
     ],
     "Dancer": [
       "02641b4ef0f65308",
@@ -1430,7 +1422,6 @@
       "Bobby J",
       "Bunrya",
       "CablesOnline",
-      "Corrupted1",
       "DashVR",
       "De5t1ny_vr",
       "domebot1",
@@ -1470,7 +1461,6 @@
       "O_nO",
       "OmegaSol",
       "PammeMatth",
-      "ＰＲＯＸＹ",
       "Rain_Iwa",
       "rei_reika",
       "RoboCat․",
@@ -1751,7 +1741,6 @@
       "0ec174998e303cd4",
       "1138593c2b58c48e",
       "12a1d16051f2a8e7",
-      "182bed3a2a2851da",
       "19b294285a29b88c",
       "1ee243268be2db50",
       "23b5f26a33d7c5a9",
@@ -1800,7 +1789,6 @@
       "bebd9da499febb93",
       "c0ec522e56fb925a",
       "c22ea74fc687d8f0",
-      "c3d9025e5652ac19",
       "c50567f55cce0de5",
       "c6be16791aa4e0ea",
       "c721effb4980a713",
@@ -2380,7 +2368,6 @@
       "a9b0b931c1643062",
       "acf88a3c91ae2a51",
       "b21130a6d4b1b439",
-      "b6f4f136c83d2ca4",
       "bb9cdc4c2661b2bd",
       "bd87ed227d4e2fcc",
       "ca9d98c27b46197c",
@@ -2400,8 +2387,7 @@
       "f84663436399102d",
       "fa1a4b89c86ce73a",
       "fb7192c8cae02a19",
-      "fdacc7b85bb999f4",
-      "fe023e182609dadd"
+      "fdacc7b85bb999f4"
     ],
     "privatePenthouseSpawn": [
       "02641b4ef0f65308",
