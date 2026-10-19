@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-19T00:07:28.907Z",
+  "generated": "2026-10-19T00:57:41.643Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -2766,6 +2766,10 @@
         "displayName": "tama_renko"
       },
       {
+        "userId": "usr_7c0f454d-3f9e-4e22-ba7a-87edba5ee4af",
+        "displayName": "Ten․exe"
+      },
+      {
         "userId": "usr_e530a793-7fbd-4261-933f-91a0e9d2c76e",
         "displayName": "Theslythief"
       },
@@ -3086,6 +3090,10 @@
         "displayName": "tama_renko"
       },
       {
+        "userId": "usr_7c0f454d-3f9e-4e22-ba7a-87edba5ee4af",
+        "displayName": "Ten․exe"
+      },
+      {
         "userId": "usr_e530a793-7fbd-4261-933f-91a0e9d2c76e",
         "displayName": "Theslythief"
       },
@@ -3402,6 +3410,10 @@
       {
         "userId": "usr_4521538e-a32c-41ac-9f98-ad987c52c412",
         "displayName": "tama_renko"
+      },
+      {
+        "userId": "usr_7c0f454d-3f9e-4e22-ba7a-87edba5ee4af",
+        "displayName": "Ten․exe"
       },
       {
         "userId": "usr_e530a793-7fbd-4261-933f-91a0e9d2c76e",
@@ -3754,6 +3766,10 @@
         "displayName": "tama_renko"
       },
       {
+        "userId": "usr_7c0f454d-3f9e-4e22-ba7a-87edba5ee4af",
+        "displayName": "Ten․exe"
+      },
+      {
         "userId": "usr_e530a793-7fbd-4261-933f-91a0e9d2c76e",
         "displayName": "Theslythief"
       },
@@ -4070,6 +4086,10 @@
       {
         "userId": "usr_4521538e-a32c-41ac-9f98-ad987c52c412",
         "displayName": "tama_renko"
+      },
+      {
+        "userId": "usr_7c0f454d-3f9e-4e22-ba7a-87edba5ee4af",
+        "displayName": "Ten․exe"
       },
       {
         "userId": "usr_e530a793-7fbd-4261-933f-91a0e9d2c76e",
@@ -4390,6 +4410,10 @@
         "displayName": "tama_renko"
       },
       {
+        "userId": "usr_7c0f454d-3f9e-4e22-ba7a-87edba5ee4af",
+        "displayName": "Ten․exe"
+      },
+      {
         "userId": "usr_e530a793-7fbd-4261-933f-91a0e9d2c76e",
         "displayName": "Theslythief"
       },
@@ -4692,6 +4716,10 @@
         "displayName": "tama_renko"
       },
       {
+        "userId": "usr_7c0f454d-3f9e-4e22-ba7a-87edba5ee4af",
+        "displayName": "Ten․exe"
+      },
+      {
         "userId": "usr_e530a793-7fbd-4261-933f-91a0e9d2c76e",
         "displayName": "Theslythief"
       },
@@ -4992,6 +5020,10 @@
       {
         "userId": "usr_4521538e-a32c-41ac-9f98-ad987c52c412",
         "displayName": "tama_renko"
+      },
+      {
+        "userId": "usr_7c0f454d-3f9e-4e22-ba7a-87edba5ee4af",
+        "displayName": "Ten․exe"
       },
       {
         "userId": "usr_e530a793-7fbd-4261-933f-91a0e9d2c76e",
