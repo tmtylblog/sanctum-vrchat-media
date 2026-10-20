@@ -1,7 +1,7 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-20T00:40:27.038Z",
-  "revision": 1792456827,
+  "generatedAt": "2026-10-20T00:41:13.676Z",
+  "revision": 1792456873,
   "hash": {
     "saltVersion": "default"
   },
@@ -41,7 +41,6 @@
       "dea0be1346aa7812",
       "e328a7411ee43636",
       "e915081b8d8e8e7c",
-      "f164e019eb56dbc3",
       "f50e0a88a7bd861a"
     ],
     "Moderator": [
@@ -684,7 +683,6 @@
       "5577ed6a33687434",
       "7256434c5ccf3d1f",
       "77f4ce1d97d4bb4d",
-      "7b30236ccae05d31",
       "7d23209a2927b0fa",
       "906f2f0b34d04613",
       "cc1f82cbcd2fc0d5",
@@ -1325,6 +1323,7 @@
       "AyumiKoi",
       "AyyyyRik",
       "BASICBIT",
+      "beesha",
       "Bunrya",
       "creamyella7469 df69",
       "DashVR",
