@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-20T16:43:32.063Z",
+  "generated": "2026-10-20T18:11:48.913Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / World Operator / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -127,10 +127,6 @@
         "displayName": "AyyyyRik"
       },
       {
-        "userId": "usr_de6af2ae-8bdf-4aa9-89ae-8af79e2aa405",
-        "displayName": "BASICBIT"
-      },
-      {
         "userId": "usr_a02a7604-ca82-4802-a465-a5f553a72556",
         "displayName": "beesha"
       },
@@ -181,10 +177,6 @@
       {
         "userId": "usr_dcb302e4-fea9-498b-accb-90f62e95b02f",
         "displayName": "Jᴜzo"
-      },
-      {
-        "userId": "usr_e99a6c11-a506-45d9-8bac-e98b21bf40b0",
-        "displayName": "Kaerun"
       },
       {
         "userId": "usr_36bd5a41-3e47-40c4-b937-78e892912d5e",
@@ -1373,6 +1365,10 @@
         "displayName": "Monc42"
       },
       {
+        "userId": "usr_a1e1341e-b62c-4e61-83d5-3e28761102e4",
+        "displayName": "MontyIO"
+      },
+      {
         "userId": "usr_f7a017aa-7a39-4be8-a220-2d5869b3942b",
         "displayName": "morganomics"
       },
@@ -2001,10 +1997,6 @@
       {
         "userId": "usr_a367d6c3-ad94-4a88-83b2-822aaa071fac",
         "displayName": "AyyyyRik"
-      },
-      {
-        "userId": "usr_de6af2ae-8bdf-4aa9-89ae-8af79e2aa405",
-        "displayName": "BASICBIT"
       },
       {
         "userId": "usr_a02a7604-ca82-4802-a465-a5f553a72556",
@@ -3479,10 +3471,6 @@
       {
         "userId": "usr_b4e996ed-3eeb-4c80-9548-fec22e8c9f08",
         "displayName": "AznManDown"
-      },
-      {
-        "userId": "usr_de6af2ae-8bdf-4aa9-89ae-8af79e2aa405",
-        "displayName": "BASICBIT"
       },
       {
         "userId": "usr_a02a7604-ca82-4802-a465-a5f553a72556",
