@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-20T18:11:36.548Z",
+  "generated": "2026-10-20T18:28:23.640Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / World Operator / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -61,20 +61,16 @@
         "displayName": "beesha"
       },
       {
+        "userId": "usr_b0064545-51e9-4c87-b78b-c353c1dc8422",
+        "displayName": "Bunrya"
+      },
+      {
         "userId": "usr_6f516a79-b3b1-4345-bc88-71a5bab77877",
         "displayName": "DashVR"
       },
       {
         "userId": "usr_b5010f84-189c-4575-ac76-acdd1603a49a",
         "displayName": "De5t1ny_vr"
-      },
-      {
-        "userId": "usr_06827b9e-5e46-494a-b26c-926c24dc4420",
-        "displayName": "domebot1"
-      },
-      {
-        "userId": "usr_de2a1378-8583-46ac-9c20-559f6e72639d",
-        "displayName": "domebot2"
       },
       {
         "userId": "usr_e1f691ce-65c4-42e8-bef8-98db8a19a3e6",
@@ -191,6 +187,10 @@
     ],
     "Host": [
       {
+        "userId": "usr_f70a6510-ae4a-40d5-80b3-54cf1e4b0737",
+        "displayName": "-Tachyon-"
+      },
+      {
         "userId": "usr_2805613d-ff9c-4120-82c6-7d5f4364ae07",
         "displayName": "〔レン〕"
       },
@@ -223,6 +223,14 @@
         "displayName": "G-Catz"
       },
       {
+        "userId": "usr_4d7a2386-6085-4013-ba6a-bb76ed47badb",
+        "displayName": "Gaming Skoot"
+      },
+      {
+        "userId": "usr_0021bf6c-901e-4db7-87ba-031cb31e165e",
+        "displayName": "ju․no"
+      },
+      {
         "userId": "usr_c0f7de09-60c5-4eb0-b6bc-e18a1b873bc4",
         "displayName": "JustARandom_"
       },
@@ -251,8 +259,16 @@
         "displayName": "SANCTUM_STUDIO"
       },
       {
+        "userId": "usr_cf6c438f-778b-469c-9621-be9d7616e625",
+        "displayName": "SladeDaCat"
+      },
+      {
         "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
         "displayName": "Slothcast"
+      },
+      {
+        "userId": "usr_3c4a1003-2237-4e1d-be0e-bb71ef6480b0",
+        "displayName": "susperia"
       },
       {
         "userId": "usr_ffc409e3-0aad-41e1-8159-8a813f71e79e",
@@ -1951,6 +1967,10 @@
         "displayName": "_Silent"
       },
       {
+        "userId": "usr_f70a6510-ae4a-40d5-80b3-54cf1e4b0737",
+        "displayName": "-Tachyon-"
+      },
+      {
         "userId": "usr_0a244393-8003-4f76-822c-da59dbcaabc0",
         "displayName": "【data】"
       },
@@ -1997,6 +2017,10 @@
       {
         "userId": "usr_959c659f-7086-4b94-830f-7f136a0d85f1",
         "displayName": "Bobby J"
+      },
+      {
+        "userId": "usr_b0064545-51e9-4c87-b78b-c353c1dc8422",
+        "displayName": "Bunrya"
       },
       {
         "userId": "usr_fc1164d5-baab-489a-a59a-6ad52dafb3c8",
@@ -2161,6 +2185,10 @@
       {
         "userId": "usr_e9217838-7cd9-4475-9e55-36cf58896cca",
         "displayName": "SoftlySteph"
+      },
+      {
+        "userId": "usr_3c4a1003-2237-4e1d-be0e-bb71ef6480b0",
+        "displayName": "susperia"
       },
       {
         "userId": "usr_10624ac0-ae1b-4b79-9f4c-7bed09de2d94",
