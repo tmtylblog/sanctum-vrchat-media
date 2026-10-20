@@ -1,7 +1,7 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-20T01:06:59.729Z",
-  "revision": 1792458419,
+  "generatedAt": "2026-10-20T02:08:55.395Z",
+  "revision": 1792462135,
   "hash": {
     "saltVersion": "default"
   },
@@ -1295,6 +1295,7 @@
       "~ Envy ~",
       "~Mathy~",
       "~Xia~",
+      "AcChosen",
       "Adri123478",
       "AizenDove",
       "Ari Gold",
