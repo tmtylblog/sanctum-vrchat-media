@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-20T00:37:27.904Z",
+  "generated": "2026-10-20T00:37:57.974Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -338,10 +338,6 @@
         "displayName": "CablesOnline"
       },
       {
-        "userId": "usr_6f516a79-b3b1-4345-bc88-71a5bab77877",
-        "displayName": "DashVR"
-      },
-      {
         "userId": "usr_06827b9e-5e46-494a-b26c-926c24dc4420",
         "displayName": "domebot1"
       },
@@ -384,10 +380,6 @@
       {
         "userId": "usr_b8c1785e-fea6-4024-b536-c8ade20970aa",
         "displayName": "Nyan-Cyan"
-      },
-      {
-        "userId": "usr_a97e6118-0a6d-4a96-9d29-d6690d33b2a0",
-        "displayName": "PammeMatth"
       },
       {
         "userId": "usr_fb022c9b-3d0b-40b7-a5bb-b903551d541a",
