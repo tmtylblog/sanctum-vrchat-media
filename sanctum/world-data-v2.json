@@ -1,7 +1,7 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-20T12:58:51.618Z",
-  "revision": 1792501131,
+  "generatedAt": "2026-10-20T15:02:31.397Z",
+  "revision": 1792508551,
   "hash": {
     "saltVersion": "default"
   },
@@ -17,16 +17,15 @@
       "4e6c0c85a5fcdfa1",
       "7c29d434d736dced",
       "97818284a13e3425",
-      "9f9e2df5ad8197ba",
-      "d151d1c33a5dc8aa"
+      "9f9e2df5ad8197ba"
     ],
     "Host": [
       "035e00134eacb1c0",
+      "03dd20ab7e97facf",
       "058a07981462faa2",
-      "23b5f26a33d7c5a9",
-      "2bca1e77397487e7",
-      "380e0c3a3f0e0e67",
+      "0ec174998e303cd4",
       "54d93bc12a80de40",
+      "55b0ea9b51b55fa6",
       "7c29d434d736dced",
       "972db289ead792b1",
       "ada3ba20e15854cf",
@@ -34,11 +33,9 @@
       "b9eb58e22fdad22f",
       "c22ea74fc687d8f0",
       "d064fc6f8fc20c19",
-      "d151d1c33a5dc8aa",
-      "d956110aa025adc1",
       "dea0be1346aa7812",
       "e328a7411ee43636",
-      "e915081b8d8e8e7c",
+      "e50bbc2c3c5ec747",
       "f50e0a88a7bd861a"
     ],
     "Moderator": [
@@ -53,7 +50,6 @@
       "afd0adec62e9730f",
       "b9eb58e22fdad22f",
       "d064fc6f8fc20c19",
-      "d151d1c33a5dc8aa",
       "dea0be1346aa7812",
       "f50e0a88a7bd861a"
     ],
@@ -671,7 +667,6 @@
       "cc1f82cbcd2fc0d5"
     ],
     "Admin": [
-      "086676d8f9d1d59c",
       "126840dcb268c254",
       "1b15e3b82b9d7272",
       "30a193d23dacfc6c",
@@ -679,28 +674,25 @@
       "ca9d98c27b46197c"
     ],
     "Host": [
-      "03f4baec8377b40a",
       "049dad8ba856b53c",
-      "086676d8f9d1d59c",
       "0a952be2505ef8ea",
+      "0b472e946db6f1da",
       "15ea25e90a55914b",
-      "27416b0caff92e56",
       "28c74159219e6b26",
       "36f612964fe9efaa",
-      "546a1e2bdf8fa918",
+      "54883db516dc5a6f",
       "5577ed6a33687434",
       "7256434c5ccf3d1f",
-      "77f4ce1d97d4bb4d",
       "7d23209a2927b0fa",
-      "906f2f0b34d04613",
+      "9daaa7ffb4dab42e",
       "cc1f82cbcd2fc0d5",
       "d785b0a6e3cf3a21",
       "e5bff499f555cd35",
       "f84663436399102d",
-      "fb7192c8cae02a19"
+      "fb7192c8cae02a19",
+      "fdacc7b85bb999f4"
     ],
     "Moderator": [
-      "086676d8f9d1d59c",
       "0a952be2505ef8ea",
       "126840dcb268c254",
       "1b15e3b82b9d7272",
@@ -1331,17 +1323,14 @@
       "【data】",
       "〔レン〕",
       "~ Envy ~",
-      "~Mathy~",
       "~Xia~",
       "AcChosen",
       "Adri123478",
       "AizenDove",
-      "Ariel Emerald",
       "AyumiKoi",
       "AyyyyRik",
       "BASICBIT",
       "beesha",
-      "creamyella7469 df69",
       "DashVR",
       "De5t1ny_vr",
       "domebot1",
@@ -1359,7 +1348,6 @@
       "Llamahat",
       "maru17",
       "Misosa",
-      "MissFridayNight",
       "Mixieǃ",
       "MontyIO",
       "neriH",
@@ -1368,7 +1356,6 @@
       "rei_reika",
       "SoftlySteph",
       "tama_renko",
-      "Theslythief",
       "Ｖ xo",
       "Vesturo",
       "Xee Xee",
