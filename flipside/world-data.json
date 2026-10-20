@@ -1,18 +1,18 @@
 {
-  "generated": "2026-10-20T19:47:23.382Z",
+  "generated": "2026-10-20T20:59:46.503Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / World Operator / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
     "Admin": "GATING — Co-Leader or Administrator staff role — full admin access",
     "Host": "GATING — Host staff role (permanent) or per-event host/coordinator (21-day window) — full admin access",
     "Moderator": "GATING — Moderator staff role (permanent), per-event moderator/security (21-day window), or implied by Group Owner / Admin — moderation access",
-    "Dancer": "GATING — Dance Team member, active guest dancer, or event-assigned dancer (21-day window) — performance-area access",
+    "Dancer": "GATING — Dance Team member or event-assigned dancer (21-day window) — performance-area access",
     "Staff": "GATING — isStaff or any CommunityStaffRole — full admin access",
     "World Operator": "GATING — Can change the world: community owner, World Operator or Co-Leader staff role — gate the in-world world controls (doors, bridges, venues) on this",
     "Traveler": "GATING — Anyone in the community Discord — basic verified-member access",
     "Supporter": "GATING — Active supporter tier (VRC store, Stripe, Patreon, or community grant) — supporter-tier perks",
     "Patron": "DISPLAY ONLY — Sanctum community members (Patron CommunityMemberRole). Use for name walls / credits, NOT for gating.",
-    "Performer": "DISPLAY ONLY — Anyone with an active performance booking (event-performer/event-dancer staff role, or 21-day SlotTalent / DanceBlockDancer / EventStaff photographer/staff/streamer). Use for lineup / credits, NOT for gating."
+    "Performer": "DISPLAY ONLY — Anyone with an active performance booking (ld-vj-team/event-dancer staff role, or 21-day SlotTalent / DanceBlockDancer / EventStaff photographer/staff/streamer). Use for lineup / credits, NOT for gating."
   },
   "permissions": {
     "Host": [
@@ -87,10 +87,6 @@
       {
         "userId": "usr_8b2b2aab-1604-4a91-88c9-db39c42d7c41",
         "displayName": "SANCTUM_STUDIO"
-      },
-      {
-        "userId": "usr_cf6c438f-778b-469c-9621-be9d7616e625",
-        "displayName": "SladeDaCat"
       },
       {
         "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
