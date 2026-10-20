@@ -1,7 +1,7 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-20T00:41:13.676Z",
-  "revision": 1792456873,
+  "generatedAt": "2026-10-20T00:42:06.414Z",
+  "revision": 1792456926,
   "hash": {
     "saltVersion": "default"
   },
@@ -24,7 +24,6 @@
     "Host": [
       "035e00134eacb1c0",
       "058a07981462faa2",
-      "0ec174998e303cd4",
       "23b5f26a33d7c5a9",
       "2bca1e77397487e7",
       "54d93bc12a80de40",
@@ -689,8 +688,7 @@
       "d785b0a6e3cf3a21",
       "e5bff499f555cd35",
       "f84663436399102d",
-      "fb7192c8cae02a19",
-      "fdacc7b85bb999f4"
+      "fb7192c8cae02a19"
     ],
     "Moderator": [
       "086676d8f9d1d59c",
