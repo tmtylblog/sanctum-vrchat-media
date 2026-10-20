@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-20T22:14:00.178Z",
+  "generated": "2026-10-20T22:42:32.743Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / World Operator / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -16,10 +16,6 @@
   },
   "permissions": {
     "Host": [
-      {
-        "userId": "usr_f70a6510-ae4a-40d5-80b3-54cf1e4b0737",
-        "displayName": "-Tachyon-"
-      },
       {
         "userId": "usr_2805613d-ff9c-4120-82c6-7d5f4364ae07",
         "displayName": "〔レン〕"
