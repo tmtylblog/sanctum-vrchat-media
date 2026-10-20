@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-20T02:08:53.239Z",
+  "generated": "2026-10-20T03:30:16.746Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -1986,10 +1986,6 @@
         "displayName": "_Silent"
       },
       {
-        "userId": "usr_f70a6510-ae4a-40d5-80b3-54cf1e4b0737",
-        "displayName": "-Tachyon-"
-      },
-      {
         "userId": "usr_0a244393-8003-4f76-822c-da59dbcaabc0",
         "displayName": "【data】"
       },
@@ -2078,10 +2074,6 @@
         "displayName": "EveningSleepy"
       },
       {
-        "userId": "usr_6b12855e-2397-4092-9a3f-c818785a99c9",
-        "displayName": "FishcakesMY"
-      },
-      {
         "userId": "usr_0941040e-0c07-4a37-8775-4b41add45fee",
         "displayName": "flowersoul-"
       },
@@ -2092,10 +2084,6 @@
       {
         "userId": "usr_61478e81-2353-40bf-a107-a3f2d4690fdc",
         "displayName": "G-Catz"
-      },
-      {
-        "userId": "usr_4d7a2386-6085-4013-ba6a-bb76ed47badb",
-        "displayName": "Gaming Skoot"
       },
       {
         "userId": "usr_40be82e7-f7d5-4548-b314-3fc7b26d22ee",
@@ -2132,10 +2120,6 @@
       {
         "userId": "usr_7fb63252-1681-4a5f-9fe6-31b75193fa27",
         "displayName": "kohadachan"
-      },
-      {
-        "userId": "usr_bcc5a7c8-8537-49bc-8452-38ba3f3d77f9",
-        "displayName": "Kryti_N"
       },
       {
         "userId": "usr_72c3698b-964b-4748-82f4-5e113d0f7ef9",
@@ -2202,20 +2186,12 @@
         "displayName": "SANCTUM_STUDIO"
       },
       {
-        "userId": "usr_cf6c438f-778b-469c-9621-be9d7616e625",
-        "displayName": "SladeDaCat"
-      },
-      {
         "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
         "displayName": "Slothcast"
       },
       {
         "userId": "usr_e9217838-7cd9-4475-9e55-36cf58896cca",
         "displayName": "SoftlySteph"
-      },
-      {
-        "userId": "usr_3c4a1003-2237-4e1d-be0e-bb71ef6480b0",
-        "displayName": "susperia"
       },
       {
         "userId": "usr_10624ac0-ae1b-4b79-9f4c-7bed09de2d94",
@@ -3498,10 +3474,6 @@
         "displayName": "EveningSleepy"
       },
       {
-        "userId": "usr_6b12855e-2397-4092-9a3f-c818785a99c9",
-        "displayName": "FishcakesMY"
-      },
-      {
         "userId": "usr_0941040e-0c07-4a37-8775-4b41add45fee",
         "displayName": "flowersoul-"
       },
@@ -3556,10 +3528,6 @@
       {
         "userId": "usr_7fb63252-1681-4a5f-9fe6-31b75193fa27",
         "displayName": "kohadachan"
-      },
-      {
-        "userId": "usr_bcc5a7c8-8537-49bc-8452-38ba3f3d77f9",
-        "displayName": "Kryti_N"
       },
       {
         "userId": "usr_82c5732f-d80b-43b0-aa81-a734ac93bfc2",
