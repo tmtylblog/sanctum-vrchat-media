@@ -1,7 +1,7 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-20T01:04:20.881Z",
-  "revision": 1792458260,
+  "generatedAt": "2026-10-20T01:04:52.013Z",
+  "revision": 1792458292,
   "hash": {
     "saltVersion": "default"
   },
@@ -15,7 +15,6 @@
     "Admin": [
       "06b29a32efa6de5b",
       "4e6c0c85a5fcdfa1",
-      "735a8d46c9aed90c",
       "7c29d434d736dced",
       "97818284a13e3425",
       "9f9e2df5ad8197ba"
@@ -650,7 +649,6 @@
     "Admin": [
       "126840dcb268c254",
       "1b15e3b82b9d7272",
-      "2152f9fb6fe55731",
       "30a193d23dacfc6c",
       "5577ed6a33687434",
       "ca9d98c27b46197c"
