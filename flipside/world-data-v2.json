@@ -1,7 +1,7 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-20T03:35:26.514Z",
-  "revision": 1792467326,
+  "generatedAt": "2026-10-20T12:59:03.243Z",
+  "revision": 1792501143,
   "hash": {
     "saltVersion": "default"
   },
@@ -37,6 +37,7 @@
     "Moderator": [
       "035e00134eacb1c0",
       "06b29a32efa6de5b",
+      "23b5f26a33d7c5a9",
       "4e6c0c85a5fcdfa1",
       "735a8d46c9aed90c",
       "7c29d434d736dced",
@@ -629,6 +630,28 @@
       "f68b43bbfe69ca7c",
       "fa9f27d1b1482843",
       "fe8de1bbaedf9372"
+    ],
+    "World Operator": [
+      "035e00134eacb1c0",
+      "058a07981462faa2",
+      "06b29a32efa6de5b",
+      "23b5f26a33d7c5a9",
+      "35338534e301671f",
+      "54d93bc12a80de40",
+      "735a8d46c9aed90c",
+      "776169577f475f55",
+      "7c29d434d736dced",
+      "972db289ead792b1",
+      "97818284a13e3425",
+      "9f9e2df5ad8197ba",
+      "a746b130e16ebdaa",
+      "afd0adec62e9730f",
+      "b9eb58e22fdad22f",
+      "c50567f55cce0de5",
+      "d956110aa025adc1",
+      "e915081b8d8e8e7c",
+      "f4d099a4c65bef97",
+      "f4de5ce309f2e3e3"
     ]
   },
   "gatingByName": {
@@ -669,6 +692,7 @@
       "5577ed6a33687434",
       "7256434c5ccf3d1f",
       "7d23209a2927b0fa",
+      "906f2f0b34d04613",
       "ca9d98c27b46197c",
       "cc1f82cbcd2fc0d5",
       "d785b0a6e3cf3a21",
@@ -1254,6 +1278,28 @@
       "fb7192c8cae02a19",
       "fdacc7b85bb999f4",
       "fe4e9137de169976"
+    ],
+    "World Operator": [
+      "049dad8ba856b53c",
+      "126840dcb268c254",
+      "1b15e3b82b9d7272",
+      "2152f9fb6fe55731",
+      "30a193d23dacfc6c",
+      "36f612964fe9efaa",
+      "546a1e2bdf8fa918",
+      "5577ed6a33687434",
+      "5c151ec94f023c33",
+      "5ccc1409e6cf61f5",
+      "77f4ce1d97d4bb4d",
+      "7d23209a2927b0fa",
+      "906f2f0b34d04613",
+      "93b65f887acbc900",
+      "95bec5f1f8b9bc87",
+      "a7e8edaeb2afd170",
+      "cc1f82cbcd2fc0d5",
+      "dee015b7a2619d2b",
+      "f84663436399102d",
+      "fb7192c8cae02a19"
     ]
   },
   "display": {
