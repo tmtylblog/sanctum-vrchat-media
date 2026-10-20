@@ -1,7 +1,7 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-20T22:14:02.073Z",
-  "revision": 1792534442,
+  "generatedAt": "2026-10-20T22:42:34.663Z",
+  "revision": 1792536154,
   "hash": {
     "saltVersion": "default"
   },
@@ -40,8 +40,7 @@
       "dea0be1346aa7812",
       "e328a7411ee43636",
       "e50bbc2c3c5ec747",
-      "f50e0a88a7bd861a",
-      "f54e64ea831f2bc9"
+      "f50e0a88a7bd861a"
     ],
     "Moderator": [
       "035e00134eacb1c0",
@@ -700,7 +699,6 @@
       "6a19c1b50b292d4a",
       "7256434c5ccf3d1f",
       "7d23209a2927b0fa",
-      "8bf7da15e695e114",
       "906f2f0b34d04613",
       "9daaa7ffb4dab42e",
       "cc1f82cbcd2fc0d5",
