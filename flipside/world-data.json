@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-20T01:04:49.342Z",
+  "generated": "2026-10-20T01:05:20.863Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -304,11 +304,29 @@
         "displayName": "ハニーBEE"
       }
     ],
-    "Host": [
+    "Admin": [
       {
-        "userId": "usr_5ec8b436-4c68-4421-a038-ce5788d43502",
-        "displayName": "AcChosen"
+        "userId": "usr_97b6e256-c441-4dde-9cb9-f29f78727f1d",
+        "displayName": "MUZZ_"
       },
+      {
+        "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
+        "displayName": "Null_Omen"
+      },
+      {
+        "userId": "usr_589a479b-80cf-42c4-92e4-63cbd900a82b",
+        "displayName": "Rain_Iwa"
+      },
+      {
+        "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
+        "displayName": "Slothcast"
+      },
+      {
+        "userId": "usr_10624ac0-ae1b-4b79-9f4c-7bed09de2d94",
+        "displayName": "SwaMusic"
+      }
+    ],
+    "Host": [
       {
         "userId": "usr_fc1164d5-baab-489a-a59a-6ad52dafb3c8",
         "displayName": "CablesOnline"
@@ -360,28 +378,6 @@
       {
         "userId": "usr_ffc409e3-0aad-41e1-8159-8a813f71e79e",
         "displayName": "witherdWhisper"
-      }
-    ],
-    "Admin": [
-      {
-        "userId": "usr_97b6e256-c441-4dde-9cb9-f29f78727f1d",
-        "displayName": "MUZZ_"
-      },
-      {
-        "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
-        "displayName": "Null_Omen"
-      },
-      {
-        "userId": "usr_589a479b-80cf-42c4-92e4-63cbd900a82b",
-        "displayName": "Rain_Iwa"
-      },
-      {
-        "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
-        "displayName": "Slothcast"
-      },
-      {
-        "userId": "usr_10624ac0-ae1b-4b79-9f4c-7bed09de2d94",
-        "displayName": "SwaMusic"
       }
     ],
     "Moderator": [
