@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-20T23:46:31.604Z",
+  "generated": "2026-10-20T23:49:27.104Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / World Operator / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -15,80 +15,6 @@
     "Performer": "DISPLAY ONLY — Anyone with an active performance booking (ld-vj-team/event-dancer staff role, or 21-day SlotTalent / DanceBlockDancer / EventStaff photographer/staff/streamer). Use for lineup / credits, NOT for gating."
   },
   "permissions": {
-    "Host": [
-      {
-        "userId": "usr_2805613d-ff9c-4120-82c6-7d5f4364ae07",
-        "displayName": "〔レン〕"
-      },
-      {
-        "userId": "usr_168e3855-53b5-43d7-b625-53e6a66606fb",
-        "displayName": "~ Envy ~"
-      },
-      {
-        "userId": "usr_959c659f-7086-4b94-830f-7f136a0d85f1",
-        "displayName": "Bobby J"
-      },
-      {
-        "userId": "usr_fc1164d5-baab-489a-a59a-6ad52dafb3c8",
-        "displayName": "CablesOnline"
-      },
-      {
-        "userId": "usr_06827b9e-5e46-494a-b26c-926c24dc4420",
-        "displayName": "domebot1"
-      },
-      {
-        "userId": "usr_de2a1378-8583-46ac-9c20-559f6e72639d",
-        "displayName": "domebot2"
-      },
-      {
-        "userId": "usr_f48a23e4-098f-4e18-b06f-110ddd2bb54b",
-        "displayName": "domebot2-aggregator b54b"
-      },
-      {
-        "userId": "usr_61478e81-2353-40bf-a107-a3f2d4690fdc",
-        "displayName": "G-Catz"
-      },
-      {
-        "userId": "usr_c0f7de09-60c5-4eb0-b6bc-e18a1b873bc4",
-        "displayName": "JustARandom_"
-      },
-      {
-        "userId": "usr_7fb63252-1681-4a5f-9fe6-31b75193fa27",
-        "displayName": "kohadachan"
-      },
-      {
-        "userId": "usr_72c3698b-964b-4748-82f4-5e113d0f7ef9",
-        "displayName": "kxa_dnb"
-      },
-      {
-        "userId": "usr_ca1dbc7b-7b20-4f45-ba0c-28f70f0c583c",
-        "displayName": "Luxifinity"
-      },
-      {
-        "userId": "usr_b8c1785e-fea6-4024-b536-c8ade20970aa",
-        "displayName": "Nyan-Cyan"
-      },
-      {
-        "userId": "usr_fb022c9b-3d0b-40b7-a5bb-b903551d541a",
-        "displayName": "rei_reika"
-      },
-      {
-        "userId": "usr_8b2b2aab-1604-4a91-88c9-db39c42d7c41",
-        "displayName": "SANCTUM_STUDIO"
-      },
-      {
-        "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
-        "displayName": "Slothcast"
-      },
-      {
-        "userId": "usr_7c0f454d-3f9e-4e22-ba7a-87edba5ee4af",
-        "displayName": "Ten․exe"
-      },
-      {
-        "userId": "usr_ffc409e3-0aad-41e1-8159-8a813f71e79e",
-        "displayName": "witherdWhisper"
-      }
-    ],
     "Performer": [
       {
         "userId": "usr_c5de53c5-61da-4d19-b942-a9dd14e3343e",
@@ -253,6 +179,76 @@
       {
         "userId": "usr_e5442f04-94db-4332-9fa9-c8309cbf85fb",
         "displayName": "ハニーBEE"
+      }
+    ],
+    "Host": [
+      {
+        "userId": "usr_2805613d-ff9c-4120-82c6-7d5f4364ae07",
+        "displayName": "〔レン〕"
+      },
+      {
+        "userId": "usr_168e3855-53b5-43d7-b625-53e6a66606fb",
+        "displayName": "~ Envy ~"
+      },
+      {
+        "userId": "usr_fc1164d5-baab-489a-a59a-6ad52dafb3c8",
+        "displayName": "CablesOnline"
+      },
+      {
+        "userId": "usr_06827b9e-5e46-494a-b26c-926c24dc4420",
+        "displayName": "domebot1"
+      },
+      {
+        "userId": "usr_de2a1378-8583-46ac-9c20-559f6e72639d",
+        "displayName": "domebot2"
+      },
+      {
+        "userId": "usr_f48a23e4-098f-4e18-b06f-110ddd2bb54b",
+        "displayName": "domebot2-aggregator b54b"
+      },
+      {
+        "userId": "usr_61478e81-2353-40bf-a107-a3f2d4690fdc",
+        "displayName": "G-Catz"
+      },
+      {
+        "userId": "usr_c0f7de09-60c5-4eb0-b6bc-e18a1b873bc4",
+        "displayName": "JustARandom_"
+      },
+      {
+        "userId": "usr_7fb63252-1681-4a5f-9fe6-31b75193fa27",
+        "displayName": "kohadachan"
+      },
+      {
+        "userId": "usr_72c3698b-964b-4748-82f4-5e113d0f7ef9",
+        "displayName": "kxa_dnb"
+      },
+      {
+        "userId": "usr_ca1dbc7b-7b20-4f45-ba0c-28f70f0c583c",
+        "displayName": "Luxifinity"
+      },
+      {
+        "userId": "usr_b8c1785e-fea6-4024-b536-c8ade20970aa",
+        "displayName": "Nyan-Cyan"
+      },
+      {
+        "userId": "usr_fb022c9b-3d0b-40b7-a5bb-b903551d541a",
+        "displayName": "rei_reika"
+      },
+      {
+        "userId": "usr_8b2b2aab-1604-4a91-88c9-db39c42d7c41",
+        "displayName": "SANCTUM_STUDIO"
+      },
+      {
+        "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
+        "displayName": "Slothcast"
+      },
+      {
+        "userId": "usr_7c0f454d-3f9e-4e22-ba7a-87edba5ee4af",
+        "displayName": "Ten․exe"
+      },
+      {
+        "userId": "usr_ffc409e3-0aad-41e1-8159-8a813f71e79e",
+        "displayName": "witherdWhisper"
       }
     ],
     "Admin": [
