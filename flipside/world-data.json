@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-20T15:02:44.632Z",
+  "generated": "2026-10-20T15:55:26.629Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / World Operator / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -2059,6 +2059,10 @@
         "displayName": "G-Catz"
       },
       {
+        "userId": "usr_4d7a2386-6085-4013-ba6a-bb76ed47badb",
+        "displayName": "Gaming Skoot"
+      },
+      {
         "userId": "usr_40be82e7-f7d5-4548-b314-3fc7b26d22ee",
         "displayName": "Hackebein"
       },
@@ -2093,6 +2097,10 @@
       {
         "userId": "usr_7fb63252-1681-4a5f-9fe6-31b75193fa27",
         "displayName": "kohadachan"
+      },
+      {
+        "userId": "usr_bcc5a7c8-8537-49bc-8452-38ba3f3d77f9",
+        "displayName": "Kryti_N"
       },
       {
         "userId": "usr_72c3698b-964b-4748-82f4-5e113d0f7ef9",
@@ -2149,6 +2157,10 @@
       {
         "userId": "usr_8b2b2aab-1604-4a91-88c9-db39c42d7c41",
         "displayName": "SANCTUM_STUDIO"
+      },
+      {
+        "userId": "usr_cf6c438f-778b-469c-9621-be9d7616e625",
+        "displayName": "SladeDaCat"
       },
       {
         "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
@@ -3571,6 +3583,10 @@
       {
         "userId": "usr_7fb63252-1681-4a5f-9fe6-31b75193fa27",
         "displayName": "kohadachan"
+      },
+      {
+        "userId": "usr_bcc5a7c8-8537-49bc-8452-38ba3f3d77f9",
+        "displayName": "Kryti_N"
       },
       {
         "userId": "usr_82c5732f-d80b-43b0-aa81-a734ac93bfc2",
