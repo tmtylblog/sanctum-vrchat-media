@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-20T00:36:14.051Z",
+  "generated": "2026-10-20T00:37:27.904Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -382,10 +382,6 @@
         "displayName": "Luxifinity"
       },
       {
-        "userId": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b",
-        "displayName": "Mixieǃ"
-      },
-      {
         "userId": "usr_b8c1785e-fea6-4024-b536-c8ade20970aa",
         "displayName": "Nyan-Cyan"
       },
@@ -412,10 +408,6 @@
       {
         "userId": "usr_ffc409e3-0aad-41e1-8159-8a813f71e79e",
         "displayName": "witherdWhisper"
-      },
-      {
-        "userId": "usr_1516ca40-edd5-4a55-aafd-0a9fef9e329d",
-        "displayName": "Xyare"
       }
     ],
     "Admin": [
@@ -476,10 +468,6 @@
       {
         "userId": "usr_ca1dbc7b-7b20-4f45-ba0c-28f70f0c583c",
         "displayName": "Luxifinity"
-      },
-      {
-        "userId": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b",
-        "displayName": "Mixieǃ"
       },
       {
         "userId": "usr_97b6e256-c441-4dde-9cb9-f29f78727f1d",
