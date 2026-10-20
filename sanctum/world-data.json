@@ -1,12 +1,12 @@
 {
-  "generated": "2026-10-20T03:35:13.490Z",
+  "generated": "2026-10-20T06:00:42.285Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
     "Admin": "GATING — Co-Leader or Administrator staff role — full admin access",
     "Host": "GATING — Host staff role (permanent) or per-event host/coordinator (21-day window) — full admin access",
     "Moderator": "GATING — Moderator staff role (permanent), per-event moderator/security (21-day window), or implied by Group Owner / Admin — moderation access",
-    "Dancer": "GATING — East/West dance team, active guest dancer, or event-assigned dancer (21-day window) — performance-area access",
+    "Dancer": "GATING — Dance Team member, active guest dancer, or event-assigned dancer (21-day window) — performance-area access",
     "Staff": "GATING — isStaff or any CommunityStaffRole — full admin access",
     "Traveler": "GATING — Anyone in the community Discord — basic verified-member access",
     "Supporter": "GATING — Active supporter tier (VRC store, Stripe, Patreon, or community grant) — supporter-tier perks",
@@ -270,6 +270,10 @@
       {
         "userId": "usr_7fb63252-1681-4a5f-9fe6-31b75193fa27",
         "displayName": "kohadachan"
+      },
+      {
+        "userId": "usr_bcc5a7c8-8537-49bc-8452-38ba3f3d77f9",
+        "displayName": "Kryti_N"
       },
       {
         "userId": "usr_ca1dbc7b-7b20-4f45-ba0c-28f70f0c583c",
