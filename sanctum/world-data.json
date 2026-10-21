@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-21T01:14:51.220Z",
+  "generated": "2026-10-21T06:27:08.704Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / World Operator / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -335,6 +335,10 @@
       {
         "userId": "usr_10624ac0-ae1b-4b79-9f4c-7bed09de2d94",
         "displayName": "SwaMusic"
+      },
+      {
+        "userId": "usr_06aebe4f-e50c-46ef-a5d9-9dc6eb62d6d9",
+        "displayName": "Vesturo"
       },
       {
         "userId": "usr_ffc409e3-0aad-41e1-8159-8a813f71e79e",
