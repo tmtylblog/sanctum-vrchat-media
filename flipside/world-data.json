@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-22T09:01:06.906Z",
+  "generated": "2026-10-23T01:01:13.015Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / World Operator / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -823,6 +823,10 @@
       {
         "userId": "usr_d1b65b41-6c65-4c78-8490-a7f0adfd9475",
         "displayName": "enrique798"
+      },
+      {
+        "userId": "usr_41901959-f2ee-4973-91d5-933a85624c3a",
+        "displayName": "Eslar"
       },
       {
         "userId": "usr_b48924b2-f2c4-4d4f-9b34-3742f9924490",
@@ -2509,10 +2513,6 @@
         "displayName": "BlankTheFool"
       },
       {
-        "userId": "usr_f0ad9938-b547-4de5-8c16-5da58606614b",
-        "displayName": "Blind Prophet"
-      },
-      {
         "userId": "usr_959c659f-7086-4b94-830f-7f136a0d85f1",
         "displayName": "Bobby J"
       },
@@ -2551,6 +2551,10 @@
       {
         "userId": "usr_e1f691ce-65c4-42e8-bef8-98db8a19a3e6",
         "displayName": "EllieXY"
+      },
+      {
+        "userId": "usr_41901959-f2ee-4973-91d5-933a85624c3a",
+        "displayName": "Eslar"
       },
       {
         "userId": "usr_70cb0794-431f-4a3b-aca2-6ba94221f9cf",
@@ -2837,10 +2841,6 @@
         "displayName": "BlankTheFool"
       },
       {
-        "userId": "usr_f0ad9938-b547-4de5-8c16-5da58606614b",
-        "displayName": "Blind Prophet"
-      },
-      {
         "userId": "usr_959c659f-7086-4b94-830f-7f136a0d85f1",
         "displayName": "Bobby J"
       },
@@ -2879,6 +2879,10 @@
       {
         "userId": "usr_e1f691ce-65c4-42e8-bef8-98db8a19a3e6",
         "displayName": "EllieXY"
+      },
+      {
+        "userId": "usr_41901959-f2ee-4973-91d5-933a85624c3a",
+        "displayName": "Eslar"
       },
       {
         "userId": "usr_70cb0794-431f-4a3b-aca2-6ba94221f9cf",
@@ -3163,10 +3167,6 @@
         "displayName": "BlankTheFool"
       },
       {
-        "userId": "usr_f0ad9938-b547-4de5-8c16-5da58606614b",
-        "displayName": "Blind Prophet"
-      },
-      {
         "userId": "usr_959c659f-7086-4b94-830f-7f136a0d85f1",
         "displayName": "Bobby J"
       },
@@ -3205,6 +3205,10 @@
       {
         "userId": "usr_e1f691ce-65c4-42e8-bef8-98db8a19a3e6",
         "displayName": "EllieXY"
+      },
+      {
+        "userId": "usr_41901959-f2ee-4973-91d5-933a85624c3a",
+        "displayName": "Eslar"
       },
       {
         "userId": "usr_70cb0794-431f-4a3b-aca2-6ba94221f9cf",
@@ -3487,10 +3491,6 @@
       {
         "userId": "usr_94be15e9-f1af-42a0-8f72-b61ab1ed36f9",
         "displayName": "BlankTheFool"
-      },
-      {
-        "userId": "usr_f0ad9938-b547-4de5-8c16-5da58606614b",
-        "displayName": "Blind Prophet"
       },
       {
         "userId": "usr_959c659f-7086-4b94-830f-7f136a0d85f1",
@@ -3835,10 +3835,6 @@
         "displayName": "BlankTheFool"
       },
       {
-        "userId": "usr_f0ad9938-b547-4de5-8c16-5da58606614b",
-        "displayName": "Blind Prophet"
-      },
-      {
         "userId": "usr_959c659f-7086-4b94-830f-7f136a0d85f1",
         "displayName": "Bobby J"
       },
@@ -3877,6 +3873,10 @@
       {
         "userId": "usr_e1f691ce-65c4-42e8-bef8-98db8a19a3e6",
         "displayName": "EllieXY"
+      },
+      {
+        "userId": "usr_41901959-f2ee-4973-91d5-933a85624c3a",
+        "displayName": "Eslar"
       },
       {
         "userId": "usr_70cb0794-431f-4a3b-aca2-6ba94221f9cf",
@@ -4161,10 +4161,6 @@
         "displayName": "BlankTheFool"
       },
       {
-        "userId": "usr_f0ad9938-b547-4de5-8c16-5da58606614b",
-        "displayName": "Blind Prophet"
-      },
-      {
         "userId": "usr_959c659f-7086-4b94-830f-7f136a0d85f1",
         "displayName": "Bobby J"
       },
@@ -4203,6 +4199,10 @@
       {
         "userId": "usr_e1f691ce-65c4-42e8-bef8-98db8a19a3e6",
         "displayName": "EllieXY"
+      },
+      {
+        "userId": "usr_41901959-f2ee-4973-91d5-933a85624c3a",
+        "displayName": "Eslar"
       },
       {
         "userId": "usr_70cb0794-431f-4a3b-aca2-6ba94221f9cf",
@@ -4481,10 +4481,6 @@
       {
         "userId": "usr_94be15e9-f1af-42a0-8f72-b61ab1ed36f9",
         "displayName": "BlankTheFool"
-      },
-      {
-        "userId": "usr_f0ad9938-b547-4de5-8c16-5da58606614b",
-        "displayName": "Blind Prophet"
       },
       {
         "userId": "usr_959c659f-7086-4b94-830f-7f136a0d85f1",
@@ -4791,10 +4787,6 @@
       {
         "userId": "usr_94be15e9-f1af-42a0-8f72-b61ab1ed36f9",
         "displayName": "BlankTheFool"
-      },
-      {
-        "userId": "usr_f0ad9938-b547-4de5-8c16-5da58606614b",
-        "displayName": "Blind Prophet"
       },
       {
         "userId": "usr_959c659f-7086-4b94-830f-7f136a0d85f1",
