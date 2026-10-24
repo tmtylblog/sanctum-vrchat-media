@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-24T01:34:50.685Z",
+  "generated": "2026-10-24T03:00:56.247Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / World Operator / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -2521,6 +2521,10 @@
         "displayName": "Azzy123"
       },
       {
+        "userId": "usr_4c002462-8b84-4c8f-a238-2ee5a0ffd053",
+        "displayName": "Blackstr"
+      },
+      {
         "userId": "usr_94be15e9-f1af-42a0-8f72-b61ab1ed36f9",
         "displayName": "BlankTheFool"
       },
@@ -2849,6 +2853,10 @@
         "displayName": "Azzy123"
       },
       {
+        "userId": "usr_4c002462-8b84-4c8f-a238-2ee5a0ffd053",
+        "displayName": "Blackstr"
+      },
+      {
         "userId": "usr_94be15e9-f1af-42a0-8f72-b61ab1ed36f9",
         "displayName": "BlankTheFool"
       },
@@ -3173,6 +3181,10 @@
       {
         "userId": "usr_6c78504c-c857-4a2f-b85d-ce55f3fc5d4b",
         "displayName": "Azzy123"
+      },
+      {
+        "userId": "usr_4c002462-8b84-4c8f-a238-2ee5a0ffd053",
+        "displayName": "Blackstr"
       },
       {
         "userId": "usr_94be15e9-f1af-42a0-8f72-b61ab1ed36f9",
@@ -3843,6 +3855,10 @@
         "displayName": "Azzy123"
       },
       {
+        "userId": "usr_4c002462-8b84-4c8f-a238-2ee5a0ffd053",
+        "displayName": "Blackstr"
+      },
+      {
         "userId": "usr_94be15e9-f1af-42a0-8f72-b61ab1ed36f9",
         "displayName": "BlankTheFool"
       },
@@ -4167,6 +4183,10 @@
       {
         "userId": "usr_6c78504c-c857-4a2f-b85d-ce55f3fc5d4b",
         "displayName": "Azzy123"
+      },
+      {
+        "userId": "usr_4c002462-8b84-4c8f-a238-2ee5a0ffd053",
+        "displayName": "Blackstr"
       },
       {
         "userId": "usr_94be15e9-f1af-42a0-8f72-b61ab1ed36f9",
