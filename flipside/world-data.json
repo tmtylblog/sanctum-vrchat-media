@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-25T05:01:06.922Z",
+  "generated": "2026-10-25T07:41:44.751Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / World Operator / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -2669,10 +2669,6 @@
         "displayName": "neriH"
       },
       {
-        "userId": "usr_88aa1580-2e84-4ecf-a199-d800eb1784aa",
-        "displayName": "Novatosh"
-      },
-      {
         "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
         "displayName": "Null_Omen"
       },
@@ -3001,10 +2997,6 @@
         "displayName": "neriH"
       },
       {
-        "userId": "usr_88aa1580-2e84-4ecf-a199-d800eb1784aa",
-        "displayName": "Novatosh"
-      },
-      {
         "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
         "displayName": "Null_Omen"
       },
@@ -3329,10 +3321,6 @@
       {
         "userId": "usr_e9b2c819-8e13-4299-9cf4-4f6d7290c625",
         "displayName": "neriH"
-      },
-      {
-        "userId": "usr_88aa1580-2e84-4ecf-a199-d800eb1784aa",
-        "displayName": "Novatosh"
       },
       {
         "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
@@ -3673,10 +3661,6 @@
         "displayName": "neriH"
       },
       {
-        "userId": "usr_88aa1580-2e84-4ecf-a199-d800eb1784aa",
-        "displayName": "Novatosh"
-      },
-      {
         "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
         "displayName": "Null_Omen"
       },
@@ -4001,10 +3985,6 @@
       {
         "userId": "usr_e9b2c819-8e13-4299-9cf4-4f6d7290c625",
         "displayName": "neriH"
-      },
-      {
-        "userId": "usr_88aa1580-2e84-4ecf-a199-d800eb1784aa",
-        "displayName": "Novatosh"
       },
       {
         "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
@@ -4333,10 +4313,6 @@
         "displayName": "neriH"
       },
       {
-        "userId": "usr_88aa1580-2e84-4ecf-a199-d800eb1784aa",
-        "displayName": "Novatosh"
-      },
-      {
         "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
         "displayName": "Null_Omen"
       },
@@ -4639,10 +4615,6 @@
         "displayName": "neriH"
       },
       {
-        "userId": "usr_88aa1580-2e84-4ecf-a199-d800eb1784aa",
-        "displayName": "Novatosh"
-      },
-      {
         "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
         "displayName": "Null_Omen"
       },
@@ -4943,10 +4915,6 @@
       {
         "userId": "usr_e9b2c819-8e13-4299-9cf4-4f6d7290c625",
         "displayName": "neriH"
-      },
-      {
-        "userId": "usr_88aa1580-2e84-4ecf-a199-d800eb1784aa",
-        "displayName": "Novatosh"
       },
       {
         "userId": "usr_6ad1ebe3-5153-4bcf-be3d-f59caeaf48fe",
