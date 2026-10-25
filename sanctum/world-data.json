@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-25T03:00:32.864Z",
+  "generated": "2026-10-25T05:00:55.648Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / World Operator / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -1711,6 +1711,10 @@
       {
         "userId": "usr_4521538e-a32c-41ac-9f98-ad987c52c412",
         "displayName": "tama_renko"
+      },
+      {
+        "userId": "usr_591b2d73-2ec5-445a-9386-afb1574f9bf9",
+        "displayName": "TatsuTracks"
       },
       {
         "userId": "usr_df56726c-8e30-465f-b6c5-4e00ec93188c",
