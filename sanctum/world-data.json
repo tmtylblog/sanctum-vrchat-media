@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-25T07:45:16.713Z",
+  "generated": "2026-10-25T19:01:02.499Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / World Operator / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -1167,6 +1167,10 @@
       {
         "userId": "usr_6e20239e-efd3-4327-971e-1007cd8ab9a9",
         "displayName": "La Chevre"
+      },
+      {
+        "userId": "usr_a49bf8e7-9256-4807-84ea-4e6fcc006f89",
+        "displayName": "lady-bug"
       },
       {
         "userId": "usr_86831e72-1ab0-46d3-84f9-07046363fc15",
@@ -2649,6 +2653,10 @@
         "displayName": "La Chevre"
       },
       {
+        "userId": "usr_a49bf8e7-9256-4807-84ea-4e6fcc006f89",
+        "displayName": "lady-bug"
+      },
+      {
         "userId": "usr_5336f8d4-8716-448f-a773-35196036b110",
         "displayName": "Llamahat"
       },
@@ -2981,6 +2989,10 @@
         "displayName": "La Chevre"
       },
       {
+        "userId": "usr_a49bf8e7-9256-4807-84ea-4e6fcc006f89",
+        "displayName": "lady-bug"
+      },
+      {
         "userId": "usr_5336f8d4-8716-448f-a773-35196036b110",
         "displayName": "Llamahat"
       },
@@ -3309,6 +3321,10 @@
       {
         "userId": "usr_6e20239e-efd3-4327-971e-1007cd8ab9a9",
         "displayName": "La Chevre"
+      },
+      {
+        "userId": "usr_a49bf8e7-9256-4807-84ea-4e6fcc006f89",
+        "displayName": "lady-bug"
       },
       {
         "userId": "usr_5336f8d4-8716-448f-a773-35196036b110",
@@ -3649,6 +3665,10 @@
         "displayName": "La Chevre"
       },
       {
+        "userId": "usr_a49bf8e7-9256-4807-84ea-4e6fcc006f89",
+        "displayName": "lady-bug"
+      },
+      {
         "userId": "usr_5336f8d4-8716-448f-a773-35196036b110",
         "displayName": "Llamahat"
       },
@@ -3983,6 +4003,10 @@
         "displayName": "La Chevre"
       },
       {
+        "userId": "usr_a49bf8e7-9256-4807-84ea-4e6fcc006f89",
+        "displayName": "lady-bug"
+      },
+      {
         "userId": "usr_5336f8d4-8716-448f-a773-35196036b110",
         "displayName": "Llamahat"
       },
@@ -4313,6 +4337,10 @@
         "displayName": "La Chevre"
       },
       {
+        "userId": "usr_a49bf8e7-9256-4807-84ea-4e6fcc006f89",
+        "displayName": "lady-bug"
+      },
+      {
         "userId": "usr_5336f8d4-8716-448f-a773-35196036b110",
         "displayName": "Llamahat"
       },
@@ -4623,6 +4651,10 @@
         "displayName": "La Chevre"
       },
       {
+        "userId": "usr_a49bf8e7-9256-4807-84ea-4e6fcc006f89",
+        "displayName": "lady-bug"
+      },
+      {
         "userId": "usr_5336f8d4-8716-448f-a773-35196036b110",
         "displayName": "Llamahat"
       },
@@ -4927,6 +4959,10 @@
       {
         "userId": "usr_6e20239e-efd3-4327-971e-1007cd8ab9a9",
         "displayName": "La Chevre"
+      },
+      {
+        "userId": "usr_a49bf8e7-9256-4807-84ea-4e6fcc006f89",
+        "displayName": "lady-bug"
       },
       {
         "userId": "usr_5336f8d4-8716-448f-a773-35196036b110",
