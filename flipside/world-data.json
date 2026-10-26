@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-26T01:01:09.943Z",
+  "generated": "2026-10-26T18:56:25.411Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / World Operator / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -1779,6 +1779,10 @@
       {
         "userId": "usr_3c706fb1-68c7-4a6c-b180-821df02573fd",
         "displayName": "Verlangen"
+      },
+      {
+        "userId": "usr_c5ade027-a834-4740-a39f-c9d7562cafb2",
+        "displayName": "vestige_0"
       },
       {
         "userId": "usr_06aebe4f-e50c-46ef-a5d9-9dc6eb62d6d9",
