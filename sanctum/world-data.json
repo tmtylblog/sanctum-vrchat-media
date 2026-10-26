@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-25T19:01:02.499Z",
+  "generated": "2026-10-26T01:00:57.447Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / World Operator / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -2653,10 +2653,6 @@
         "displayName": "La Chevre"
       },
       {
-        "userId": "usr_a49bf8e7-9256-4807-84ea-4e6fcc006f89",
-        "displayName": "lady-bug"
-      },
-      {
         "userId": "usr_5336f8d4-8716-448f-a773-35196036b110",
         "displayName": "Llamahat"
       },
@@ -2747,10 +2743,6 @@
       {
         "userId": "usr_4521538e-a32c-41ac-9f98-ad987c52c412",
         "displayName": "tama_renko"
-      },
-      {
-        "userId": "usr_7c0f454d-3f9e-4e22-ba7a-87edba5ee4af",
-        "displayName": "Ten․exe"
       },
       {
         "userId": "usr_e530a793-7fbd-4261-933f-91a0e9d2c76e",
@@ -2989,10 +2981,6 @@
         "displayName": "La Chevre"
       },
       {
-        "userId": "usr_a49bf8e7-9256-4807-84ea-4e6fcc006f89",
-        "displayName": "lady-bug"
-      },
-      {
         "userId": "usr_5336f8d4-8716-448f-a773-35196036b110",
         "displayName": "Llamahat"
       },
@@ -3083,10 +3071,6 @@
       {
         "userId": "usr_4521538e-a32c-41ac-9f98-ad987c52c412",
         "displayName": "tama_renko"
-      },
-      {
-        "userId": "usr_7c0f454d-3f9e-4e22-ba7a-87edba5ee4af",
-        "displayName": "Ten․exe"
       },
       {
         "userId": "usr_e530a793-7fbd-4261-933f-91a0e9d2c76e",
@@ -3323,10 +3307,6 @@
         "displayName": "La Chevre"
       },
       {
-        "userId": "usr_a49bf8e7-9256-4807-84ea-4e6fcc006f89",
-        "displayName": "lady-bug"
-      },
-      {
         "userId": "usr_5336f8d4-8716-448f-a773-35196036b110",
         "displayName": "Llamahat"
       },
@@ -3417,10 +3397,6 @@
       {
         "userId": "usr_4521538e-a32c-41ac-9f98-ad987c52c412",
         "displayName": "tama_renko"
-      },
-      {
-        "userId": "usr_7c0f454d-3f9e-4e22-ba7a-87edba5ee4af",
-        "displayName": "Ten․exe"
       },
       {
         "userId": "usr_e530a793-7fbd-4261-933f-91a0e9d2c76e",
@@ -3665,10 +3641,6 @@
         "displayName": "La Chevre"
       },
       {
-        "userId": "usr_a49bf8e7-9256-4807-84ea-4e6fcc006f89",
-        "displayName": "lady-bug"
-      },
-      {
         "userId": "usr_5336f8d4-8716-448f-a773-35196036b110",
         "displayName": "Llamahat"
       },
@@ -3763,10 +3735,6 @@
       {
         "userId": "usr_4521538e-a32c-41ac-9f98-ad987c52c412",
         "displayName": "tama_renko"
-      },
-      {
-        "userId": "usr_7c0f454d-3f9e-4e22-ba7a-87edba5ee4af",
-        "displayName": "Ten․exe"
       },
       {
         "userId": "usr_e530a793-7fbd-4261-933f-91a0e9d2c76e",
@@ -4003,10 +3971,6 @@
         "displayName": "La Chevre"
       },
       {
-        "userId": "usr_a49bf8e7-9256-4807-84ea-4e6fcc006f89",
-        "displayName": "lady-bug"
-      },
-      {
         "userId": "usr_5336f8d4-8716-448f-a773-35196036b110",
         "displayName": "Llamahat"
       },
@@ -4097,10 +4061,6 @@
       {
         "userId": "usr_4521538e-a32c-41ac-9f98-ad987c52c412",
         "displayName": "tama_renko"
-      },
-      {
-        "userId": "usr_7c0f454d-3f9e-4e22-ba7a-87edba5ee4af",
-        "displayName": "Ten․exe"
       },
       {
         "userId": "usr_e530a793-7fbd-4261-933f-91a0e9d2c76e",
@@ -4337,10 +4297,6 @@
         "displayName": "La Chevre"
       },
       {
-        "userId": "usr_a49bf8e7-9256-4807-84ea-4e6fcc006f89",
-        "displayName": "lady-bug"
-      },
-      {
         "userId": "usr_5336f8d4-8716-448f-a773-35196036b110",
         "displayName": "Llamahat"
       },
@@ -4431,10 +4387,6 @@
       {
         "userId": "usr_4521538e-a32c-41ac-9f98-ad987c52c412",
         "displayName": "tama_renko"
-      },
-      {
-        "userId": "usr_7c0f454d-3f9e-4e22-ba7a-87edba5ee4af",
-        "displayName": "Ten․exe"
       },
       {
         "userId": "usr_e530a793-7fbd-4261-933f-91a0e9d2c76e",
@@ -4651,10 +4603,6 @@
         "displayName": "La Chevre"
       },
       {
-        "userId": "usr_a49bf8e7-9256-4807-84ea-4e6fcc006f89",
-        "displayName": "lady-bug"
-      },
-      {
         "userId": "usr_5336f8d4-8716-448f-a773-35196036b110",
         "displayName": "Llamahat"
       },
@@ -4741,10 +4689,6 @@
       {
         "userId": "usr_4521538e-a32c-41ac-9f98-ad987c52c412",
         "displayName": "tama_renko"
-      },
-      {
-        "userId": "usr_7c0f454d-3f9e-4e22-ba7a-87edba5ee4af",
-        "displayName": "Ten․exe"
       },
       {
         "userId": "usr_e530a793-7fbd-4261-933f-91a0e9d2c76e",
@@ -4961,10 +4905,6 @@
         "displayName": "La Chevre"
       },
       {
-        "userId": "usr_a49bf8e7-9256-4807-84ea-4e6fcc006f89",
-        "displayName": "lady-bug"
-      },
-      {
         "userId": "usr_5336f8d4-8716-448f-a773-35196036b110",
         "displayName": "Llamahat"
       },
@@ -5051,10 +4991,6 @@
       {
         "userId": "usr_4521538e-a32c-41ac-9f98-ad987c52c412",
         "displayName": "tama_renko"
-      },
-      {
-        "userId": "usr_7c0f454d-3f9e-4e22-ba7a-87edba5ee4af",
-        "displayName": "Ten․exe"
       },
       {
         "userId": "usr_e530a793-7fbd-4261-933f-91a0e9d2c76e",
