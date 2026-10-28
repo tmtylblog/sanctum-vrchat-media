@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-27T16:37:10.843Z",
+  "generated": "2026-10-28T03:01:19.572Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / World Operator / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -2669,6 +2669,10 @@
         "displayName": "La Chevre"
       },
       {
+        "userId": "usr_99acc004-fc49-4263-b2ff-def9b1387989",
+        "displayName": "lazyicon"
+      },
+      {
         "userId": "usr_5336f8d4-8716-448f-a773-35196036b110",
         "displayName": "Llamahat"
       },
@@ -3001,6 +3005,10 @@
         "displayName": "La Chevre"
       },
       {
+        "userId": "usr_99acc004-fc49-4263-b2ff-def9b1387989",
+        "displayName": "lazyicon"
+      },
+      {
         "userId": "usr_5336f8d4-8716-448f-a773-35196036b110",
         "displayName": "Llamahat"
       },
@@ -3329,6 +3337,10 @@
       {
         "userId": "usr_6e20239e-efd3-4327-971e-1007cd8ab9a9",
         "displayName": "La Chevre"
+      },
+      {
+        "userId": "usr_99acc004-fc49-4263-b2ff-def9b1387989",
+        "displayName": "lazyicon"
       },
       {
         "userId": "usr_5336f8d4-8716-448f-a773-35196036b110",
@@ -3999,6 +4011,10 @@
         "displayName": "La Chevre"
       },
       {
+        "userId": "usr_99acc004-fc49-4263-b2ff-def9b1387989",
+        "displayName": "lazyicon"
+      },
+      {
         "userId": "usr_5336f8d4-8716-448f-a773-35196036b110",
         "displayName": "Llamahat"
       },
@@ -4327,6 +4343,10 @@
       {
         "userId": "usr_6e20239e-efd3-4327-971e-1007cd8ab9a9",
         "displayName": "La Chevre"
+      },
+      {
+        "userId": "usr_99acc004-fc49-4263-b2ff-def9b1387989",
+        "displayName": "lazyicon"
       },
       {
         "userId": "usr_5336f8d4-8716-448f-a773-35196036b110",
