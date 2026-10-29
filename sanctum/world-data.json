@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-28T13:01:29.399Z",
+  "generated": "2026-10-29T18:57:18.752Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / World Operator / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -257,10 +257,6 @@
       {
         "userId": "usr_7023d326-083f-41fe-a3e9-27ea303b50c5",
         "displayName": "Slothcast"
-      },
-      {
-        "userId": "usr_c5ade027-a834-4740-a39f-c9d7562cafb2",
-        "displayName": "vestige_0"
       },
       {
         "userId": "usr_ffc409e3-0aad-41e1-8159-8a813f71e79e",
@@ -2343,10 +2339,6 @@
       {
         "userId": "usr_10624ac0-ae1b-4b79-9f4c-7bed09de2d94",
         "displayName": "SwaMusic"
-      },
-      {
-        "userId": "usr_c5ade027-a834-4740-a39f-c9d7562cafb2",
-        "displayName": "vestige_0"
       },
       {
         "userId": "usr_06aebe4f-e50c-46ef-a5d9-9dc6eb62d6d9",
