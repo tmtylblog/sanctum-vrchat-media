@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-30T15:59:36.003Z",
+  "generated": "2026-10-30T16:00:33.318Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / World Operator / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -5980,12 +5980,12 @@
   },
   "vods": [],
   "worldControl": {
-    "v": 372,
-    "ts": "2026-10-30T15:59:35.598Z",
+    "v": 375,
+    "ts": "2026-10-30T15:59:45.480Z",
     "doors": {
       "frontDoor": false,
-      "reactorDoor": false,
-      "reactorShielding": false,
+      "reactorDoor": true,
+      "reactorShielding": true,
       "domeEntrySequence": false
     },
     "toggles": {
@@ -5998,9 +5998,9 @@
       "aux4": false,
       "aux5": false
     },
-    "eventActive": false,
-    "venue": null,
-    "venueName": null,
+    "eventActive": true,
+    "venue": 1,
+    "venueName": "Chapel",
     "loadedVenues": [
       "Tribune",
       "Chapel",
