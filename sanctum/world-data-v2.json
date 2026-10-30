@@ -1,7 +1,7 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-30T16:05:36.209Z",
-  "revision": 1793376336,
+  "generatedAt": "2026-10-30T16:06:33.734Z",
+  "revision": 1793376393,
   "hash": {
     "saltVersion": "default"
   },
@@ -3615,11 +3615,11 @@
   },
   "vods": [],
   "worldControl": {
-    "v": 376,
-    "ts": "2026-10-30T16:05:32.886Z",
+    "v": 377,
+    "ts": "2026-10-30T16:05:37.333Z",
     "doors": {
       "frontDoor": false,
-      "reactorDoor": true,
+      "reactorDoor": false,
       "reactorShielding": true,
       "domeEntrySequence": false
     },
