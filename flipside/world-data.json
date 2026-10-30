@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-30T16:13:30.614Z",
+  "generated": "2026-10-30T21:01:14.741Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / World Operator / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -919,6 +919,10 @@
       {
         "userId": "usr_6a66fa03-0c13-4466-9ee2-1b5347405d9f",
         "displayName": "GirlzPwn"
+      },
+      {
+        "userId": "usr_7dfeeb56-51a2-4b43-8e32-aa3884e18473",
+        "displayName": "Goblin_Mode"
       },
       {
         "userId": "usr_8a9d280b-e2dc-433a-943c-452cbbd149e1",
