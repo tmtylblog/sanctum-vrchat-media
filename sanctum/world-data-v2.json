@@ -1,7 +1,7 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-31T23:02:33.888Z",
-  "revision": 1793487753,
+  "generatedAt": "2026-10-31T23:06:44.533Z",
+  "revision": 1793488004,
   "hash": {
     "saltVersion": "default"
   },
@@ -3621,8 +3621,8 @@
   },
   "vods": [],
   "worldControl": {
-    "v": 387,
-    "ts": "2026-10-31T23:01:37.653Z",
+    "v": 388,
+    "ts": "2026-10-31T23:06:42.602Z",
     "doors": {
       "frontDoor": true,
       "reactorDoor": false,
@@ -3656,33 +3656,33 @@
     "virtuaMotionTracking": [
       {
         "role": "dj1",
-        "username": "Slothcast",
-        "puppetId": 1
+        "username": null,
+        "puppetId": 0
       },
       {
         "role": "dj2",
         "username": null,
-        "puppetId": null
+        "puppetId": 0
       },
       {
         "role": "dancer1",
         "username": null,
-        "puppetId": null
+        "puppetId": 0
       },
       {
         "role": "dancer2",
         "username": null,
-        "puppetId": null
+        "puppetId": 0
       },
       {
         "role": "dancer3",
         "username": null,
-        "puppetId": null
+        "puppetId": 0
       },
       {
         "role": "dancer4",
         "username": null,
-        "puppetId": null
+        "puppetId": 0
       }
     ]
   }
