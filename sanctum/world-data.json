@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-01T06:16:33.513Z",
+  "generated": "2026-11-01T06:17:14.920Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / World Operator / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -257,10 +257,6 @@
       {
         "userId": "usr_ca1dbc7b-7b20-4f45-ba0c-28f70f0c583c",
         "displayName": "Luxifinity"
-      },
-      {
-        "userId": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b",
-        "displayName": "Mixieǃ"
       },
       {
         "userId": "usr_b8c1785e-fea6-4024-b536-c8ade20970aa",
@@ -6032,8 +6028,8 @@
   },
   "vods": [],
   "worldControl": {
-    "v": 390,
-    "ts": "2026-11-01T00:15:23.239Z",
+    "v": 391,
+    "ts": "2026-11-01T06:17:14.710Z",
     "doors": {
       "frontDoor": true,
       "reactorDoor": false,
@@ -6050,9 +6046,9 @@
       "aux4": false,
       "aux5": false
     },
-    "eventActive": true,
-    "venue": 7,
-    "venueName": "Altar",
+    "eventActive": false,
+    "venue": null,
+    "venueName": null,
     "loadedVenues": [
       "Tribune",
       "Chapel",
