@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-01T00:00:35.864Z",
+  "generated": "2026-11-01T03:30:32.947Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / World Operator / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -2601,6 +2601,10 @@
         "displayName": "De5t1ny_vr"
       },
       {
+        "userId": "usr_cbd29fd0-a8eb-4cbe-a65d-0c58c9d445f4",
+        "displayName": "DJ DiFlux"
+      },
+      {
         "userId": "usr_06827b9e-5e46-494a-b26c-926c24dc4420",
         "displayName": "domebot1"
       },
@@ -2937,6 +2941,10 @@
         "displayName": "De5t1ny_vr"
       },
       {
+        "userId": "usr_cbd29fd0-a8eb-4cbe-a65d-0c58c9d445f4",
+        "displayName": "DJ DiFlux"
+      },
+      {
         "userId": "usr_06827b9e-5e46-494a-b26c-926c24dc4420",
         "displayName": "domebot1"
       },
@@ -3269,6 +3277,10 @@
       {
         "userId": "usr_b5010f84-189c-4575-ac76-acdd1603a49a",
         "displayName": "De5t1ny_vr"
+      },
+      {
+        "userId": "usr_cbd29fd0-a8eb-4cbe-a65d-0c58c9d445f4",
+        "displayName": "DJ DiFlux"
       },
       {
         "userId": "usr_06827b9e-5e46-494a-b26c-926c24dc4420",
@@ -3943,6 +3955,10 @@
         "displayName": "De5t1ny_vr"
       },
       {
+        "userId": "usr_cbd29fd0-a8eb-4cbe-a65d-0c58c9d445f4",
+        "displayName": "DJ DiFlux"
+      },
+      {
         "userId": "usr_06827b9e-5e46-494a-b26c-926c24dc4420",
         "displayName": "domebot1"
       },
@@ -4275,6 +4291,10 @@
       {
         "userId": "usr_b5010f84-189c-4575-ac76-acdd1603a49a",
         "displayName": "De5t1ny_vr"
+      },
+      {
+        "userId": "usr_cbd29fd0-a8eb-4cbe-a65d-0c58c9d445f4",
+        "displayName": "DJ DiFlux"
       },
       {
         "userId": "usr_06827b9e-5e46-494a-b26c-926c24dc4420",
