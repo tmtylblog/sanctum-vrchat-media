@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-01T06:22:52.443Z",
+  "generated": "2026-11-01T10:00:28.008Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / World Operator / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -795,6 +795,10 @@
       {
         "userId": "usr_a2544e1a-5d86-4da1-a841-88cbbef08c91",
         "displayName": "DnutCfe-Obscura"
+      },
+      {
+        "userId": "usr_0acb139f-6234-49e0-b3ca-531abb9d09da",
+        "displayName": "Dragntarsticles"
       },
       {
         "userId": "usr_f4ea5f3d-b54a-48f4-a897-3abd552cab2b",
