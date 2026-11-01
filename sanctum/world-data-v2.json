@@ -1,7 +1,7 @@
 {
   "schema": 2,
-  "generatedAt": "2026-11-01T06:16:35.498Z",
-  "revision": 1793513795,
+  "generatedAt": "2026-11-01T06:17:16.732Z",
+  "revision": 1793513836,
   "hash": {
     "saltVersion": "default"
   },
@@ -38,7 +38,6 @@
       "dea0be1346aa7812",
       "e328a7411ee43636",
       "e50bbc2c3c5ec747",
-      "f4d099a4c65bef97",
       "f50e0a88a7bd861a"
     ],
     "Moderator": [
@@ -711,7 +710,6 @@
       "7256434c5ccf3d1f",
       "7d23209a2927b0fa",
       "89b711d43ed73ee6",
-      "93b65f887acbc900",
       "cc1f82cbcd2fc0d5",
       "d785b0a6e3cf3a21",
       "e5bff499f555cd35",
@@ -3639,8 +3637,8 @@
   },
   "vods": [],
   "worldControl": {
-    "v": 390,
-    "ts": "2026-11-01T00:15:23.239Z",
+    "v": 391,
+    "ts": "2026-11-01T06:17:14.710Z",
     "doors": {
       "frontDoor": true,
       "reactorDoor": false,
@@ -3657,9 +3655,9 @@
       "aux4": false,
       "aux5": false
     },
-    "eventActive": true,
-    "venue": 7,
-    "venueName": "Altar",
+    "eventActive": false,
+    "venue": null,
+    "venueName": null,
     "loadedVenues": [
       "Tribune",
       "Chapel",
