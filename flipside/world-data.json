@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-03T02:36:41.030Z",
+  "generated": "2026-11-03T02:45:35.606Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / World Operator / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -2733,6 +2733,10 @@
         "displayName": "OmegaSol"
       },
       {
+        "userId": "usr_002826a2-45bc-47e9-8c02-abaab0f8098a",
+        "displayName": "PaceAce"
+      },
+      {
         "userId": "usr_a97e6118-0a6d-4a96-9d29-d6690d33b2a0",
         "displayName": "PammeMatth"
       },
@@ -3073,6 +3077,10 @@
         "displayName": "OmegaSol"
       },
       {
+        "userId": "usr_002826a2-45bc-47e9-8c02-abaab0f8098a",
+        "displayName": "PaceAce"
+      },
+      {
         "userId": "usr_a97e6118-0a6d-4a96-9d29-d6690d33b2a0",
         "displayName": "PammeMatth"
       },
@@ -3409,6 +3417,10 @@
       {
         "userId": "usr_41791eed-19ca-40c7-9422-c33322bc5616",
         "displayName": "OmegaSol"
+      },
+      {
+        "userId": "usr_002826a2-45bc-47e9-8c02-abaab0f8098a",
+        "displayName": "PaceAce"
       },
       {
         "userId": "usr_a97e6118-0a6d-4a96-9d29-d6690d33b2a0",
@@ -4087,6 +4099,10 @@
         "displayName": "OmegaSol"
       },
       {
+        "userId": "usr_002826a2-45bc-47e9-8c02-abaab0f8098a",
+        "displayName": "PaceAce"
+      },
+      {
         "userId": "usr_a97e6118-0a6d-4a96-9d29-d6690d33b2a0",
         "displayName": "PammeMatth"
       },
@@ -4423,6 +4439,10 @@
       {
         "userId": "usr_41791eed-19ca-40c7-9422-c33322bc5616",
         "displayName": "OmegaSol"
+      },
+      {
+        "userId": "usr_002826a2-45bc-47e9-8c02-abaab0f8098a",
+        "displayName": "PaceAce"
       },
       {
         "userId": "usr_a97e6118-0a6d-4a96-9d29-d6690d33b2a0",
