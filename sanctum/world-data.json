@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-03T17:00:26.417Z",
+  "generated": "2026-11-03T21:00:26.978Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / World Operator / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -1893,6 +1893,10 @@
         "displayName": "xenxenxenxen"
       },
       {
+        "userId": "usr_67c21319-555a-4f37-a0cc-bec32fde204e",
+        "displayName": "xKittyVR"
+      },
+      {
         "userId": "usr_bb33b9f7-0a51-44e5-875a-d9df1de6b2dd",
         "displayName": "xkmerlz"
       },
@@ -2881,10 +2885,6 @@
         "displayName": "Xyare"
       },
       {
-        "userId": "usr_b0a3f681-7113-4383-ac47-a47119fdf4ec",
-        "displayName": "yukiware"
-      },
-      {
         "userId": "usr_aee101c1-9ec1-4446-91d0-8508f56ba5d3",
         "displayName": "おきらくモウモウ"
       },
@@ -3269,10 +3269,6 @@
         "displayName": "Xyare"
       },
       {
-        "userId": "usr_b0a3f681-7113-4383-ac47-a47119fdf4ec",
-        "displayName": "yukiware"
-      },
-      {
         "userId": "usr_aee101c1-9ec1-4446-91d0-8508f56ba5d3",
         "displayName": "おきらくモウモウ"
       },
@@ -3655,10 +3651,6 @@
         "displayName": "Xyare"
       },
       {
-        "userId": "usr_b0a3f681-7113-4383-ac47-a47119fdf4ec",
-        "displayName": "yukiware"
-      },
-      {
         "userId": "usr_aee101c1-9ec1-4446-91d0-8508f56ba5d3",
         "displayName": "おきらくモウモウ"
       },
@@ -3995,10 +3987,6 @@
       {
         "userId": "usr_1516ca40-edd5-4a55-aafd-0a9fef9e329d",
         "displayName": "Xyare"
-      },
-      {
-        "userId": "usr_b0a3f681-7113-4383-ac47-a47119fdf4ec",
-        "displayName": "yukiware"
       },
       {
         "userId": "usr_aee101c1-9ec1-4446-91d0-8508f56ba5d3",
@@ -4383,10 +4371,6 @@
         "displayName": "Xyare"
       },
       {
-        "userId": "usr_b0a3f681-7113-4383-ac47-a47119fdf4ec",
-        "displayName": "yukiware"
-      },
-      {
         "userId": "usr_aee101c1-9ec1-4446-91d0-8508f56ba5d3",
         "displayName": "おきらくモウモウ"
       },
@@ -4769,10 +4753,6 @@
         "displayName": "Xyare"
       },
       {
-        "userId": "usr_b0a3f681-7113-4383-ac47-a47119fdf4ec",
-        "displayName": "yukiware"
-      },
-      {
         "userId": "usr_aee101c1-9ec1-4446-91d0-8508f56ba5d3",
         "displayName": "おきらくモウモウ"
       },
@@ -5075,10 +5055,6 @@
         "displayName": "Xyare"
       },
       {
-        "userId": "usr_b0a3f681-7113-4383-ac47-a47119fdf4ec",
-        "displayName": "yukiware"
-      },
-      {
         "userId": "usr_aee101c1-9ec1-4446-91d0-8508f56ba5d3",
         "displayName": "おきらくモウモウ"
       },
@@ -5379,10 +5355,6 @@
       {
         "userId": "usr_1516ca40-edd5-4a55-aafd-0a9fef9e329d",
         "displayName": "Xyare"
-      },
-      {
-        "userId": "usr_b0a3f681-7113-4383-ac47-a47119fdf4ec",
-        "displayName": "yukiware"
       },
       {
         "userId": "usr_aee101c1-9ec1-4446-91d0-8508f56ba5d3",
