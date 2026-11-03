@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-03T02:45:22.225Z",
+  "generated": "2026-11-03T07:30:19.681Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / World Operator / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -2541,6 +2541,10 @@
         "displayName": "〔レン〕"
       },
       {
+        "userId": "usr_49cd12c2-a4b4-4314-ada4-aed5629ba600",
+        "displayName": "༒ Nσcτυʀɳε ༒"
+      },
+      {
         "userId": "usr_168e3855-53b5-43d7-b625-53e6a66606fb",
         "displayName": "~ Envy ~"
       },
@@ -2649,6 +2653,10 @@
         "displayName": "Eslar"
       },
       {
+        "userId": "usr_10d8c1c3-6ba8-4554-9d97-6193b99102a2",
+        "displayName": "Froggyy~"
+      },
+      {
         "userId": "usr_70cb0794-431f-4a3b-aca2-6ba94221f9cf",
         "displayName": "furedy"
       },
@@ -2659,6 +2667,10 @@
       {
         "userId": "usr_4d7a2386-6085-4013-ba6a-bb76ed47badb",
         "displayName": "Gaming Skoot"
+      },
+      {
+        "userId": "usr_98780e97-d6c4-4336-9509-de99c2bfbd5f",
+        "displayName": "GiggleL0rd"
       },
       {
         "userId": "usr_40be82e7-f7d5-4548-b314-3fc7b26d22ee",
@@ -2687,6 +2699,10 @@
       {
         "userId": "usr_a08f0340-2774-4ee0-9f1e-5c06d8404745",
         "displayName": "Keno Tatsu"
+      },
+      {
+        "userId": "usr_d0900863-abf5-403a-8e5c-a39bea142e71",
+        "displayName": "killycatt"
       },
       {
         "userId": "usr_7fb63252-1681-4a5f-9fe6-31b75193fa27",
@@ -2721,6 +2737,10 @@
         "displayName": "maru17"
       },
       {
+        "userId": "usr_bc12030d-98ad-4132-93d0-74d0854a39f6",
+        "displayName": "MegamindGHOST"
+      },
+      {
         "userId": "usr_0b6bd803-fdae-4285-b819-6d5fecf65a36",
         "displayName": "MivJustMiv"
       },
@@ -2731,6 +2751,10 @@
       {
         "userId": "usr_97b6e256-c441-4dde-9cb9-f29f78727f1d",
         "displayName": "MUZZ_"
+      },
+      {
+        "userId": "usr_5a98edcd-9632-465b-b2f9-e339b5dbba3e",
+        "displayName": "N10A"
       },
       {
         "userId": "usr_e9b2c819-8e13-4299-9cf4-4f6d7290c625",
@@ -2765,6 +2789,10 @@
         "displayName": "PammeMatth"
       },
       {
+        "userId": "usr_d912ae0a-a365-4b02-92a5-51a5cd4aa21d",
+        "displayName": "rach․"
+      },
+      {
         "userId": "usr_589a479b-80cf-42c4-92e4-63cbd900a82b",
         "displayName": "Rain_Iwa"
       },
@@ -2793,6 +2821,10 @@
         "displayName": "SoftlySteph"
       },
       {
+        "userId": "usr_17887eaf-3dd3-49dc-b8de-ee8f83049a38",
+        "displayName": "Spl1t"
+      },
+      {
         "userId": "usr_3c4a1003-2237-4e1d-be0e-bb71ef6480b0",
         "displayName": "susperia"
       },
@@ -2803,6 +2835,10 @@
       {
         "userId": "usr_4521538e-a32c-41ac-9f98-ad987c52c412",
         "displayName": "tama_renko"
+      },
+      {
+        "userId": "usr_e3028934-1309-4ef8-8362-6e93d1bed8fe",
+        "displayName": "Terr4"
       },
       {
         "userId": "usr_e530a793-7fbd-4261-933f-91a0e9d2c76e",
@@ -2827,6 +2863,10 @@
       {
         "userId": "usr_edebffaa-9192-450a-a2c9-df85c0afbfe7",
         "displayName": "Xee Xee"
+      },
+      {
+        "userId": "usr_bb33b9f7-0a51-44e5-875a-d9df1de6b2dd",
+        "displayName": "xkmerlz"
       },
       {
         "userId": "usr_1516ca40-edd5-4a55-aafd-0a9fef9e329d",
@@ -2885,6 +2925,10 @@
         "displayName": "〔レン〕"
       },
       {
+        "userId": "usr_49cd12c2-a4b4-4314-ada4-aed5629ba600",
+        "displayName": "༒ Nσcτυʀɳε ༒"
+      },
+      {
         "userId": "usr_168e3855-53b5-43d7-b625-53e6a66606fb",
         "displayName": "~ Envy ~"
       },
@@ -2993,6 +3037,10 @@
         "displayName": "Eslar"
       },
       {
+        "userId": "usr_10d8c1c3-6ba8-4554-9d97-6193b99102a2",
+        "displayName": "Froggyy~"
+      },
+      {
         "userId": "usr_70cb0794-431f-4a3b-aca2-6ba94221f9cf",
         "displayName": "furedy"
       },
@@ -3003,6 +3051,10 @@
       {
         "userId": "usr_4d7a2386-6085-4013-ba6a-bb76ed47badb",
         "displayName": "Gaming Skoot"
+      },
+      {
+        "userId": "usr_98780e97-d6c4-4336-9509-de99c2bfbd5f",
+        "displayName": "GiggleL0rd"
       },
       {
         "userId": "usr_40be82e7-f7d5-4548-b314-3fc7b26d22ee",
@@ -3031,6 +3083,10 @@
       {
         "userId": "usr_a08f0340-2774-4ee0-9f1e-5c06d8404745",
         "displayName": "Keno Tatsu"
+      },
+      {
+        "userId": "usr_d0900863-abf5-403a-8e5c-a39bea142e71",
+        "displayName": "killycatt"
       },
       {
         "userId": "usr_7fb63252-1681-4a5f-9fe6-31b75193fa27",
@@ -3065,6 +3121,10 @@
         "displayName": "maru17"
       },
       {
+        "userId": "usr_bc12030d-98ad-4132-93d0-74d0854a39f6",
+        "displayName": "MegamindGHOST"
+      },
+      {
         "userId": "usr_0b6bd803-fdae-4285-b819-6d5fecf65a36",
         "displayName": "MivJustMiv"
       },
@@ -3075,6 +3135,10 @@
       {
         "userId": "usr_97b6e256-c441-4dde-9cb9-f29f78727f1d",
         "displayName": "MUZZ_"
+      },
+      {
+        "userId": "usr_5a98edcd-9632-465b-b2f9-e339b5dbba3e",
+        "displayName": "N10A"
       },
       {
         "userId": "usr_e9b2c819-8e13-4299-9cf4-4f6d7290c625",
@@ -3109,6 +3173,10 @@
         "displayName": "PammeMatth"
       },
       {
+        "userId": "usr_d912ae0a-a365-4b02-92a5-51a5cd4aa21d",
+        "displayName": "rach․"
+      },
+      {
         "userId": "usr_589a479b-80cf-42c4-92e4-63cbd900a82b",
         "displayName": "Rain_Iwa"
       },
@@ -3137,6 +3205,10 @@
         "displayName": "SoftlySteph"
       },
       {
+        "userId": "usr_17887eaf-3dd3-49dc-b8de-ee8f83049a38",
+        "displayName": "Spl1t"
+      },
+      {
         "userId": "usr_3c4a1003-2237-4e1d-be0e-bb71ef6480b0",
         "displayName": "susperia"
       },
@@ -3147,6 +3219,10 @@
       {
         "userId": "usr_4521538e-a32c-41ac-9f98-ad987c52c412",
         "displayName": "tama_renko"
+      },
+      {
+        "userId": "usr_e3028934-1309-4ef8-8362-6e93d1bed8fe",
+        "displayName": "Terr4"
       },
       {
         "userId": "usr_e530a793-7fbd-4261-933f-91a0e9d2c76e",
@@ -3171,6 +3247,10 @@
       {
         "userId": "usr_edebffaa-9192-450a-a2c9-df85c0afbfe7",
         "displayName": "Xee Xee"
+      },
+      {
+        "userId": "usr_bb33b9f7-0a51-44e5-875a-d9df1de6b2dd",
+        "displayName": "xkmerlz"
       },
       {
         "userId": "usr_1516ca40-edd5-4a55-aafd-0a9fef9e329d",
@@ -3227,6 +3307,10 @@
         "displayName": "〔レン〕"
       },
       {
+        "userId": "usr_49cd12c2-a4b4-4314-ada4-aed5629ba600",
+        "displayName": "༒ Nσcτυʀɳε ༒"
+      },
+      {
         "userId": "usr_168e3855-53b5-43d7-b625-53e6a66606fb",
         "displayName": "~ Envy ~"
       },
@@ -3335,6 +3419,10 @@
         "displayName": "Eslar"
       },
       {
+        "userId": "usr_10d8c1c3-6ba8-4554-9d97-6193b99102a2",
+        "displayName": "Froggyy~"
+      },
+      {
         "userId": "usr_70cb0794-431f-4a3b-aca2-6ba94221f9cf",
         "displayName": "furedy"
       },
@@ -3345,6 +3433,10 @@
       {
         "userId": "usr_4d7a2386-6085-4013-ba6a-bb76ed47badb",
         "displayName": "Gaming Skoot"
+      },
+      {
+        "userId": "usr_98780e97-d6c4-4336-9509-de99c2bfbd5f",
+        "displayName": "GiggleL0rd"
       },
       {
         "userId": "usr_40be82e7-f7d5-4548-b314-3fc7b26d22ee",
@@ -3373,6 +3465,10 @@
       {
         "userId": "usr_a08f0340-2774-4ee0-9f1e-5c06d8404745",
         "displayName": "Keno Tatsu"
+      },
+      {
+        "userId": "usr_d0900863-abf5-403a-8e5c-a39bea142e71",
+        "displayName": "killycatt"
       },
       {
         "userId": "usr_7fb63252-1681-4a5f-9fe6-31b75193fa27",
@@ -3407,6 +3503,10 @@
         "displayName": "maru17"
       },
       {
+        "userId": "usr_bc12030d-98ad-4132-93d0-74d0854a39f6",
+        "displayName": "MegamindGHOST"
+      },
+      {
         "userId": "usr_0b6bd803-fdae-4285-b819-6d5fecf65a36",
         "displayName": "MivJustMiv"
       },
@@ -3417,6 +3517,10 @@
       {
         "userId": "usr_97b6e256-c441-4dde-9cb9-f29f78727f1d",
         "displayName": "MUZZ_"
+      },
+      {
+        "userId": "usr_5a98edcd-9632-465b-b2f9-e339b5dbba3e",
+        "displayName": "N10A"
       },
       {
         "userId": "usr_e9b2c819-8e13-4299-9cf4-4f6d7290c625",
@@ -3451,6 +3555,10 @@
         "displayName": "PammeMatth"
       },
       {
+        "userId": "usr_d912ae0a-a365-4b02-92a5-51a5cd4aa21d",
+        "displayName": "rach․"
+      },
+      {
         "userId": "usr_589a479b-80cf-42c4-92e4-63cbd900a82b",
         "displayName": "Rain_Iwa"
       },
@@ -3479,6 +3587,10 @@
         "displayName": "SoftlySteph"
       },
       {
+        "userId": "usr_17887eaf-3dd3-49dc-b8de-ee8f83049a38",
+        "displayName": "Spl1t"
+      },
+      {
         "userId": "usr_3c4a1003-2237-4e1d-be0e-bb71ef6480b0",
         "displayName": "susperia"
       },
@@ -3489,6 +3601,10 @@
       {
         "userId": "usr_4521538e-a32c-41ac-9f98-ad987c52c412",
         "displayName": "tama_renko"
+      },
+      {
+        "userId": "usr_e3028934-1309-4ef8-8362-6e93d1bed8fe",
+        "displayName": "Terr4"
       },
       {
         "userId": "usr_e530a793-7fbd-4261-933f-91a0e9d2c76e",
@@ -3513,6 +3629,10 @@
       {
         "userId": "usr_edebffaa-9192-450a-a2c9-df85c0afbfe7",
         "displayName": "Xee Xee"
+      },
+      {
+        "userId": "usr_bb33b9f7-0a51-44e5-875a-d9df1de6b2dd",
+        "displayName": "xkmerlz"
       },
       {
         "userId": "usr_1516ca40-edd5-4a55-aafd-0a9fef9e329d",
@@ -3907,6 +4027,10 @@
         "displayName": "〔レン〕"
       },
       {
+        "userId": "usr_49cd12c2-a4b4-4314-ada4-aed5629ba600",
+        "displayName": "༒ Nσcτυʀɳε ༒"
+      },
+      {
         "userId": "usr_168e3855-53b5-43d7-b625-53e6a66606fb",
         "displayName": "~ Envy ~"
       },
@@ -4015,6 +4139,10 @@
         "displayName": "Eslar"
       },
       {
+        "userId": "usr_10d8c1c3-6ba8-4554-9d97-6193b99102a2",
+        "displayName": "Froggyy~"
+      },
+      {
         "userId": "usr_70cb0794-431f-4a3b-aca2-6ba94221f9cf",
         "displayName": "furedy"
       },
@@ -4025,6 +4153,10 @@
       {
         "userId": "usr_4d7a2386-6085-4013-ba6a-bb76ed47badb",
         "displayName": "Gaming Skoot"
+      },
+      {
+        "userId": "usr_98780e97-d6c4-4336-9509-de99c2bfbd5f",
+        "displayName": "GiggleL0rd"
       },
       {
         "userId": "usr_40be82e7-f7d5-4548-b314-3fc7b26d22ee",
@@ -4053,6 +4185,10 @@
       {
         "userId": "usr_a08f0340-2774-4ee0-9f1e-5c06d8404745",
         "displayName": "Keno Tatsu"
+      },
+      {
+        "userId": "usr_d0900863-abf5-403a-8e5c-a39bea142e71",
+        "displayName": "killycatt"
       },
       {
         "userId": "usr_7fb63252-1681-4a5f-9fe6-31b75193fa27",
@@ -4087,6 +4223,10 @@
         "displayName": "maru17"
       },
       {
+        "userId": "usr_bc12030d-98ad-4132-93d0-74d0854a39f6",
+        "displayName": "MegamindGHOST"
+      },
+      {
         "userId": "usr_0b6bd803-fdae-4285-b819-6d5fecf65a36",
         "displayName": "MivJustMiv"
       },
@@ -4097,6 +4237,10 @@
       {
         "userId": "usr_97b6e256-c441-4dde-9cb9-f29f78727f1d",
         "displayName": "MUZZ_"
+      },
+      {
+        "userId": "usr_5a98edcd-9632-465b-b2f9-e339b5dbba3e",
+        "displayName": "N10A"
       },
       {
         "userId": "usr_e9b2c819-8e13-4299-9cf4-4f6d7290c625",
@@ -4131,6 +4275,10 @@
         "displayName": "PammeMatth"
       },
       {
+        "userId": "usr_d912ae0a-a365-4b02-92a5-51a5cd4aa21d",
+        "displayName": "rach․"
+      },
+      {
         "userId": "usr_589a479b-80cf-42c4-92e4-63cbd900a82b",
         "displayName": "Rain_Iwa"
       },
@@ -4159,6 +4307,10 @@
         "displayName": "SoftlySteph"
       },
       {
+        "userId": "usr_17887eaf-3dd3-49dc-b8de-ee8f83049a38",
+        "displayName": "Spl1t"
+      },
+      {
         "userId": "usr_3c4a1003-2237-4e1d-be0e-bb71ef6480b0",
         "displayName": "susperia"
       },
@@ -4169,6 +4321,10 @@
       {
         "userId": "usr_4521538e-a32c-41ac-9f98-ad987c52c412",
         "displayName": "tama_renko"
+      },
+      {
+        "userId": "usr_e3028934-1309-4ef8-8362-6e93d1bed8fe",
+        "displayName": "Terr4"
       },
       {
         "userId": "usr_e530a793-7fbd-4261-933f-91a0e9d2c76e",
@@ -4193,6 +4349,10 @@
       {
         "userId": "usr_edebffaa-9192-450a-a2c9-df85c0afbfe7",
         "displayName": "Xee Xee"
+      },
+      {
+        "userId": "usr_bb33b9f7-0a51-44e5-875a-d9df1de6b2dd",
+        "displayName": "xkmerlz"
       },
       {
         "userId": "usr_1516ca40-edd5-4a55-aafd-0a9fef9e329d",
@@ -4249,6 +4409,10 @@
         "displayName": "〔レン〕"
       },
       {
+        "userId": "usr_49cd12c2-a4b4-4314-ada4-aed5629ba600",
+        "displayName": "༒ Nσcτυʀɳε ༒"
+      },
+      {
         "userId": "usr_168e3855-53b5-43d7-b625-53e6a66606fb",
         "displayName": "~ Envy ~"
       },
@@ -4357,6 +4521,10 @@
         "displayName": "Eslar"
       },
       {
+        "userId": "usr_10d8c1c3-6ba8-4554-9d97-6193b99102a2",
+        "displayName": "Froggyy~"
+      },
+      {
         "userId": "usr_70cb0794-431f-4a3b-aca2-6ba94221f9cf",
         "displayName": "furedy"
       },
@@ -4367,6 +4535,10 @@
       {
         "userId": "usr_4d7a2386-6085-4013-ba6a-bb76ed47badb",
         "displayName": "Gaming Skoot"
+      },
+      {
+        "userId": "usr_98780e97-d6c4-4336-9509-de99c2bfbd5f",
+        "displayName": "GiggleL0rd"
       },
       {
         "userId": "usr_40be82e7-f7d5-4548-b314-3fc7b26d22ee",
@@ -4395,6 +4567,10 @@
       {
         "userId": "usr_a08f0340-2774-4ee0-9f1e-5c06d8404745",
         "displayName": "Keno Tatsu"
+      },
+      {
+        "userId": "usr_d0900863-abf5-403a-8e5c-a39bea142e71",
+        "displayName": "killycatt"
       },
       {
         "userId": "usr_7fb63252-1681-4a5f-9fe6-31b75193fa27",
@@ -4429,6 +4605,10 @@
         "displayName": "maru17"
       },
       {
+        "userId": "usr_bc12030d-98ad-4132-93d0-74d0854a39f6",
+        "displayName": "MegamindGHOST"
+      },
+      {
         "userId": "usr_0b6bd803-fdae-4285-b819-6d5fecf65a36",
         "displayName": "MivJustMiv"
       },
@@ -4439,6 +4619,10 @@
       {
         "userId": "usr_97b6e256-c441-4dde-9cb9-f29f78727f1d",
         "displayName": "MUZZ_"
+      },
+      {
+        "userId": "usr_5a98edcd-9632-465b-b2f9-e339b5dbba3e",
+        "displayName": "N10A"
       },
       {
         "userId": "usr_e9b2c819-8e13-4299-9cf4-4f6d7290c625",
@@ -4473,6 +4657,10 @@
         "displayName": "PammeMatth"
       },
       {
+        "userId": "usr_d912ae0a-a365-4b02-92a5-51a5cd4aa21d",
+        "displayName": "rach․"
+      },
+      {
         "userId": "usr_589a479b-80cf-42c4-92e4-63cbd900a82b",
         "displayName": "Rain_Iwa"
       },
@@ -4501,6 +4689,10 @@
         "displayName": "SoftlySteph"
       },
       {
+        "userId": "usr_17887eaf-3dd3-49dc-b8de-ee8f83049a38",
+        "displayName": "Spl1t"
+      },
+      {
         "userId": "usr_3c4a1003-2237-4e1d-be0e-bb71ef6480b0",
         "displayName": "susperia"
       },
@@ -4511,6 +4703,10 @@
       {
         "userId": "usr_4521538e-a32c-41ac-9f98-ad987c52c412",
         "displayName": "tama_renko"
+      },
+      {
+        "userId": "usr_e3028934-1309-4ef8-8362-6e93d1bed8fe",
+        "displayName": "Terr4"
       },
       {
         "userId": "usr_e530a793-7fbd-4261-933f-91a0e9d2c76e",
@@ -4535,6 +4731,10 @@
       {
         "userId": "usr_edebffaa-9192-450a-a2c9-df85c0afbfe7",
         "displayName": "Xee Xee"
+      },
+      {
+        "userId": "usr_bb33b9f7-0a51-44e5-875a-d9df1de6b2dd",
+        "displayName": "xkmerlz"
       },
       {
         "userId": "usr_1516ca40-edd5-4a55-aafd-0a9fef9e329d",
