@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-03T07:30:32.137Z",
+  "generated": "2026-11-03T17:00:44.258Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / World Operator / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -1569,6 +1569,10 @@
         "displayName": "Rain_Iwa"
       },
       {
+        "userId": "usr_efc72bf2-0352-4502-b2a2-ad83d0d07609",
+        "displayName": "Red M"
+      },
+      {
         "userId": "usr_20d4a5d0-0634-4cd1-8eee-253138eea21b",
         "displayName": "redpil1"
       },
@@ -2773,6 +2777,10 @@
         "displayName": "Rain_Iwa"
       },
       {
+        "userId": "usr_efc72bf2-0352-4502-b2a2-ad83d0d07609",
+        "displayName": "Red M"
+      },
+      {
         "userId": "usr_fb022c9b-3d0b-40b7-a5bb-b903551d541a",
         "displayName": "rei_reika"
       },
@@ -3157,6 +3165,10 @@
         "displayName": "Rain_Iwa"
       },
       {
+        "userId": "usr_efc72bf2-0352-4502-b2a2-ad83d0d07609",
+        "displayName": "Red M"
+      },
+      {
         "userId": "usr_fb022c9b-3d0b-40b7-a5bb-b903551d541a",
         "displayName": "rei_reika"
       },
@@ -3539,6 +3551,10 @@
         "displayName": "Rain_Iwa"
       },
       {
+        "userId": "usr_efc72bf2-0352-4502-b2a2-ad83d0d07609",
+        "displayName": "Red M"
+      },
+      {
         "userId": "usr_fb022c9b-3d0b-40b7-a5bb-b903551d541a",
         "displayName": "rei_reika"
       },
@@ -3887,6 +3903,10 @@
       {
         "userId": "usr_589a479b-80cf-42c4-92e4-63cbd900a82b",
         "displayName": "Rain_Iwa"
+      },
+      {
+        "userId": "usr_efc72bf2-0352-4502-b2a2-ad83d0d07609",
+        "displayName": "Red M"
       },
       {
         "userId": "usr_fb022c9b-3d0b-40b7-a5bb-b903551d541a",
@@ -4257,6 +4277,10 @@
       {
         "userId": "usr_589a479b-80cf-42c4-92e4-63cbd900a82b",
         "displayName": "Rain_Iwa"
+      },
+      {
+        "userId": "usr_efc72bf2-0352-4502-b2a2-ad83d0d07609",
+        "displayName": "Red M"
       },
       {
         "userId": "usr_fb022c9b-3d0b-40b7-a5bb-b903551d541a",
@@ -4641,6 +4665,10 @@
         "displayName": "Rain_Iwa"
       },
       {
+        "userId": "usr_efc72bf2-0352-4502-b2a2-ad83d0d07609",
+        "displayName": "Red M"
+      },
+      {
         "userId": "usr_fb022c9b-3d0b-40b7-a5bb-b903551d541a",
         "displayName": "rei_reika"
       },
@@ -4955,6 +4983,10 @@
         "displayName": "Rain_Iwa"
       },
       {
+        "userId": "usr_efc72bf2-0352-4502-b2a2-ad83d0d07609",
+        "displayName": "Red M"
+      },
+      {
         "userId": "usr_fb022c9b-3d0b-40b7-a5bb-b903551d541a",
         "displayName": "rei_reika"
       },
@@ -5255,6 +5287,10 @@
       {
         "userId": "usr_589a479b-80cf-42c4-92e4-63cbd900a82b",
         "displayName": "Rain_Iwa"
+      },
+      {
+        "userId": "usr_efc72bf2-0352-4502-b2a2-ad83d0d07609",
+        "displayName": "Red M"
       },
       {
         "userId": "usr_fb022c9b-3d0b-40b7-a5bb-b903551d541a",
