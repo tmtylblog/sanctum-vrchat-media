@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-04T03:00:39.938Z",
+  "generated": "2026-11-04T15:00:42.806Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / World Operator / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -2669,10 +2669,6 @@
         "displayName": "Hackebein"
       },
       {
-        "userId": "usr_16983a2e-258b-4bdc-a9d8-6182bf7a2209",
-        "displayName": "Hekitoro"
-      },
-      {
         "userId": "usr_0021bf6c-901e-4db7-87ba-031cb31e165e",
         "displayName": "ju․no"
       },
@@ -3065,10 +3061,6 @@
         "displayName": "Hackebein"
       },
       {
-        "userId": "usr_16983a2e-258b-4bdc-a9d8-6182bf7a2209",
-        "displayName": "Hekitoro"
-      },
-      {
         "userId": "usr_0021bf6c-901e-4db7-87ba-031cb31e165e",
         "displayName": "ju․no"
       },
@@ -3457,10 +3449,6 @@
       {
         "userId": "usr_40be82e7-f7d5-4548-b314-3fc7b26d22ee",
         "displayName": "Hackebein"
-      },
-      {
-        "userId": "usr_16983a2e-258b-4bdc-a9d8-6182bf7a2209",
-        "displayName": "Hekitoro"
       },
       {
         "userId": "usr_0021bf6c-901e-4db7-87ba-031cb31e165e",
@@ -4191,10 +4179,6 @@
         "displayName": "Hackebein"
       },
       {
-        "userId": "usr_16983a2e-258b-4bdc-a9d8-6182bf7a2209",
-        "displayName": "Hekitoro"
-      },
-      {
         "userId": "usr_0021bf6c-901e-4db7-87ba-031cb31e165e",
         "displayName": "ju․no"
       },
@@ -4583,10 +4567,6 @@
       {
         "userId": "usr_40be82e7-f7d5-4548-b314-3fc7b26d22ee",
         "displayName": "Hackebein"
-      },
-      {
-        "userId": "usr_16983a2e-258b-4bdc-a9d8-6182bf7a2209",
-        "displayName": "Hekitoro"
       },
       {
         "userId": "usr_0021bf6c-901e-4db7-87ba-031cb31e165e",
