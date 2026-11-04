@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-03T21:00:45.374Z",
+  "generated": "2026-11-04T03:00:39.938Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / World Operator / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -907,6 +907,10 @@
       {
         "userId": "usr_352fdf6c-845e-486c-b246-ef3ca701fdb1",
         "displayName": "Gahda"
+      },
+      {
+        "userId": "usr_95b7de76-d5c7-4128-839a-d77fbbf111cb",
+        "displayName": "galigaea"
       },
       {
         "userId": "usr_4d7a2386-6085-4013-ba6a-bb76ed47badb",
@@ -2593,6 +2597,10 @@
         "displayName": "BoranVR"
       },
       {
+        "userId": "usr_4347ceea-e2e4-497f-8448-fcedf7fcccd0",
+        "displayName": "brugr"
+      },
+      {
         "userId": "usr_b0064545-51e9-4c87-b78b-c353c1dc8422",
         "displayName": "Bunrya"
       },
@@ -2745,6 +2753,10 @@
         "displayName": "neriH"
       },
       {
+        "userId": "usr_2d66c957-0ef2-409e-aa9b-0680a960188d",
+        "displayName": "NotaGames"
+      },
+      {
         "userId": "usr_88aa1580-2e84-4ecf-a199-d800eb1784aa",
         "displayName": "Novatosh"
       },
@@ -2883,6 +2895,10 @@
       {
         "userId": "usr_3b40e78a-460f-44a3-bea1-4593a96c2c39",
         "displayName": "よる_yoru"
+      },
+      {
+        "userId": "usr_fcdcc564-1fdc-447e-a600-4fa5de313cd8",
+        "displayName": "らいとすたー"
       }
     ]
   },
@@ -2977,6 +2993,10 @@
         "displayName": "BoranVR"
       },
       {
+        "userId": "usr_4347ceea-e2e4-497f-8448-fcedf7fcccd0",
+        "displayName": "brugr"
+      },
+      {
         "userId": "usr_b0064545-51e9-4c87-b78b-c353c1dc8422",
         "displayName": "Bunrya"
       },
@@ -3129,6 +3149,10 @@
         "displayName": "neriH"
       },
       {
+        "userId": "usr_2d66c957-0ef2-409e-aa9b-0680a960188d",
+        "displayName": "NotaGames"
+      },
+      {
         "userId": "usr_88aa1580-2e84-4ecf-a199-d800eb1784aa",
         "displayName": "Novatosh"
       },
@@ -3267,6 +3291,10 @@
       {
         "userId": "usr_3b40e78a-460f-44a3-bea1-4593a96c2c39",
         "displayName": "よる_yoru"
+      },
+      {
+        "userId": "usr_fcdcc564-1fdc-447e-a600-4fa5de313cd8",
+        "displayName": "らいとすたー"
       }
     ],
     "terminalNameInclusion": [
@@ -3359,6 +3387,10 @@
         "displayName": "BoranVR"
       },
       {
+        "userId": "usr_4347ceea-e2e4-497f-8448-fcedf7fcccd0",
+        "displayName": "brugr"
+      },
+      {
         "userId": "usr_b0064545-51e9-4c87-b78b-c353c1dc8422",
         "displayName": "Bunrya"
       },
@@ -3511,6 +3543,10 @@
         "displayName": "neriH"
       },
       {
+        "userId": "usr_2d66c957-0ef2-409e-aa9b-0680a960188d",
+        "displayName": "NotaGames"
+      },
+      {
         "userId": "usr_88aa1580-2e84-4ecf-a199-d800eb1784aa",
         "displayName": "Novatosh"
       },
@@ -3649,6 +3685,10 @@
       {
         "userId": "usr_3b40e78a-460f-44a3-bea1-4593a96c2c39",
         "displayName": "よる_yoru"
+      },
+      {
+        "userId": "usr_fcdcc564-1fdc-447e-a600-4fa5de313cd8",
+        "displayName": "らいとすたー"
       }
     ],
     "floorCarvingNameInclusion": [
@@ -4079,6 +4119,10 @@
         "displayName": "BoranVR"
       },
       {
+        "userId": "usr_4347ceea-e2e4-497f-8448-fcedf7fcccd0",
+        "displayName": "brugr"
+      },
+      {
         "userId": "usr_b0064545-51e9-4c87-b78b-c353c1dc8422",
         "displayName": "Bunrya"
       },
@@ -4231,6 +4275,10 @@
         "displayName": "neriH"
       },
       {
+        "userId": "usr_2d66c957-0ef2-409e-aa9b-0680a960188d",
+        "displayName": "NotaGames"
+      },
+      {
         "userId": "usr_88aa1580-2e84-4ecf-a199-d800eb1784aa",
         "displayName": "Novatosh"
       },
@@ -4369,6 +4417,10 @@
       {
         "userId": "usr_3b40e78a-460f-44a3-bea1-4593a96c2c39",
         "displayName": "よる_yoru"
+      },
+      {
+        "userId": "usr_fcdcc564-1fdc-447e-a600-4fa5de313cd8",
+        "displayName": "らいとすたー"
       }
     ],
     "performanceVodAccess": [
@@ -4461,6 +4513,10 @@
         "displayName": "BoranVR"
       },
       {
+        "userId": "usr_4347ceea-e2e4-497f-8448-fcedf7fcccd0",
+        "displayName": "brugr"
+      },
+      {
         "userId": "usr_b0064545-51e9-4c87-b78b-c353c1dc8422",
         "displayName": "Bunrya"
       },
@@ -4613,6 +4669,10 @@
         "displayName": "neriH"
       },
       {
+        "userId": "usr_2d66c957-0ef2-409e-aa9b-0680a960188d",
+        "displayName": "NotaGames"
+      },
+      {
         "userId": "usr_88aa1580-2e84-4ecf-a199-d800eb1784aa",
         "displayName": "Novatosh"
       },
@@ -4751,6 +4811,10 @@
       {
         "userId": "usr_3b40e78a-460f-44a3-bea1-4593a96c2c39",
         "displayName": "よる_yoru"
+      },
+      {
+        "userId": "usr_fcdcc564-1fdc-447e-a600-4fa5de313cd8",
+        "displayName": "らいとすたー"
       }
     ],
     "hostTribuneEvents": [
