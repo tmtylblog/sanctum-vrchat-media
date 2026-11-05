@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-04T20:36:09.068Z",
+  "generated": "2026-11-05T11:30:18.719Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / World Operator / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -2757,6 +2757,10 @@
         "displayName": "Luxifinity"
       },
       {
+        "userId": "usr_8fe413cf-e998-4ec7-b91b-66c799ffbd94",
+        "displayName": "magictwin"
+      },
+      {
         "userId": "usr_20440d0b-9a96-4eaf-8b05-58d48a803b21",
         "displayName": "maru17"
       },
@@ -2771,6 +2775,10 @@
       {
         "userId": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b",
         "displayName": "Mixieǃ"
+      },
+      {
+        "userId": "usr_4bcec452-b19d-47dc-872e-aa2c9df4533e",
+        "displayName": "multimokia"
       },
       {
         "userId": "usr_97b6e256-c441-4dde-9cb9-f29f78727f1d",
@@ -2833,6 +2841,10 @@
         "displayName": "rei_reika"
       },
       {
+        "userId": "usr_b49fc6a6-f63f-4985-b158-5c892e76875b",
+        "displayName": "ririruna"
+      },
+      {
         "userId": "usr_3d3dcd84-b4d2-45cc-bef8-fb91aa7188f0",
         "displayName": "RoboCat․"
       },
@@ -2863,6 +2875,10 @@
       {
         "userId": "usr_10624ac0-ae1b-4b79-9f4c-7bed09de2d94",
         "displayName": "SwaMusic"
+      },
+      {
+        "userId": "usr_b747fd16-75f8-4118-bd48-7523770ffc15",
+        "displayName": "Syn'"
       },
       {
         "userId": "usr_4521538e-a32c-41ac-9f98-ad987c52c412",
@@ -3149,6 +3165,10 @@
         "displayName": "Luxifinity"
       },
       {
+        "userId": "usr_8fe413cf-e998-4ec7-b91b-66c799ffbd94",
+        "displayName": "magictwin"
+      },
+      {
         "userId": "usr_20440d0b-9a96-4eaf-8b05-58d48a803b21",
         "displayName": "maru17"
       },
@@ -3163,6 +3183,10 @@
       {
         "userId": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b",
         "displayName": "Mixieǃ"
+      },
+      {
+        "userId": "usr_4bcec452-b19d-47dc-872e-aa2c9df4533e",
+        "displayName": "multimokia"
       },
       {
         "userId": "usr_97b6e256-c441-4dde-9cb9-f29f78727f1d",
@@ -3225,6 +3249,10 @@
         "displayName": "rei_reika"
       },
       {
+        "userId": "usr_b49fc6a6-f63f-4985-b158-5c892e76875b",
+        "displayName": "ririruna"
+      },
+      {
         "userId": "usr_3d3dcd84-b4d2-45cc-bef8-fb91aa7188f0",
         "displayName": "RoboCat․"
       },
@@ -3255,6 +3283,10 @@
       {
         "userId": "usr_10624ac0-ae1b-4b79-9f4c-7bed09de2d94",
         "displayName": "SwaMusic"
+      },
+      {
+        "userId": "usr_b747fd16-75f8-4118-bd48-7523770ffc15",
+        "displayName": "Syn'"
       },
       {
         "userId": "usr_4521538e-a32c-41ac-9f98-ad987c52c412",
@@ -3539,6 +3571,10 @@
         "displayName": "Luxifinity"
       },
       {
+        "userId": "usr_8fe413cf-e998-4ec7-b91b-66c799ffbd94",
+        "displayName": "magictwin"
+      },
+      {
         "userId": "usr_20440d0b-9a96-4eaf-8b05-58d48a803b21",
         "displayName": "maru17"
       },
@@ -3553,6 +3589,10 @@
       {
         "userId": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b",
         "displayName": "Mixieǃ"
+      },
+      {
+        "userId": "usr_4bcec452-b19d-47dc-872e-aa2c9df4533e",
+        "displayName": "multimokia"
       },
       {
         "userId": "usr_97b6e256-c441-4dde-9cb9-f29f78727f1d",
@@ -3615,6 +3655,10 @@
         "displayName": "rei_reika"
       },
       {
+        "userId": "usr_b49fc6a6-f63f-4985-b158-5c892e76875b",
+        "displayName": "ririruna"
+      },
+      {
         "userId": "usr_3d3dcd84-b4d2-45cc-bef8-fb91aa7188f0",
         "displayName": "RoboCat․"
       },
@@ -3645,6 +3689,10 @@
       {
         "userId": "usr_10624ac0-ae1b-4b79-9f4c-7bed09de2d94",
         "displayName": "SwaMusic"
+      },
+      {
+        "userId": "usr_b747fd16-75f8-4118-bd48-7523770ffc15",
+        "displayName": "Syn'"
       },
       {
         "userId": "usr_4521538e-a32c-41ac-9f98-ad987c52c412",
@@ -4271,6 +4319,10 @@
         "displayName": "Luxifinity"
       },
       {
+        "userId": "usr_8fe413cf-e998-4ec7-b91b-66c799ffbd94",
+        "displayName": "magictwin"
+      },
+      {
         "userId": "usr_20440d0b-9a96-4eaf-8b05-58d48a803b21",
         "displayName": "maru17"
       },
@@ -4285,6 +4337,10 @@
       {
         "userId": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b",
         "displayName": "Mixieǃ"
+      },
+      {
+        "userId": "usr_4bcec452-b19d-47dc-872e-aa2c9df4533e",
+        "displayName": "multimokia"
       },
       {
         "userId": "usr_97b6e256-c441-4dde-9cb9-f29f78727f1d",
@@ -4347,6 +4403,10 @@
         "displayName": "rei_reika"
       },
       {
+        "userId": "usr_b49fc6a6-f63f-4985-b158-5c892e76875b",
+        "displayName": "ririruna"
+      },
+      {
         "userId": "usr_3d3dcd84-b4d2-45cc-bef8-fb91aa7188f0",
         "displayName": "RoboCat․"
       },
@@ -4377,6 +4437,10 @@
       {
         "userId": "usr_10624ac0-ae1b-4b79-9f4c-7bed09de2d94",
         "displayName": "SwaMusic"
+      },
+      {
+        "userId": "usr_b747fd16-75f8-4118-bd48-7523770ffc15",
+        "displayName": "Syn'"
       },
       {
         "userId": "usr_4521538e-a32c-41ac-9f98-ad987c52c412",
@@ -4661,6 +4725,10 @@
         "displayName": "Luxifinity"
       },
       {
+        "userId": "usr_8fe413cf-e998-4ec7-b91b-66c799ffbd94",
+        "displayName": "magictwin"
+      },
+      {
         "userId": "usr_20440d0b-9a96-4eaf-8b05-58d48a803b21",
         "displayName": "maru17"
       },
@@ -4675,6 +4743,10 @@
       {
         "userId": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b",
         "displayName": "Mixieǃ"
+      },
+      {
+        "userId": "usr_4bcec452-b19d-47dc-872e-aa2c9df4533e",
+        "displayName": "multimokia"
       },
       {
         "userId": "usr_97b6e256-c441-4dde-9cb9-f29f78727f1d",
@@ -4737,6 +4809,10 @@
         "displayName": "rei_reika"
       },
       {
+        "userId": "usr_b49fc6a6-f63f-4985-b158-5c892e76875b",
+        "displayName": "ririruna"
+      },
+      {
         "userId": "usr_3d3dcd84-b4d2-45cc-bef8-fb91aa7188f0",
         "displayName": "RoboCat․"
       },
@@ -4767,6 +4843,10 @@
       {
         "userId": "usr_10624ac0-ae1b-4b79-9f4c-7bed09de2d94",
         "displayName": "SwaMusic"
+      },
+      {
+        "userId": "usr_b747fd16-75f8-4118-bd48-7523770ffc15",
+        "displayName": "Syn'"
       },
       {
         "userId": "usr_4521538e-a32c-41ac-9f98-ad987c52c412",
