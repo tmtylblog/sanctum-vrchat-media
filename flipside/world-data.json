@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-06T03:30:28.282Z",
+  "generated": "2026-11-06T07:00:45.677Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / World Operator / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -1422,7 +1422,7 @@
       },
       {
         "userId": "usr_4bcec452-b19d-47dc-872e-aa2c9df4533e",
-        "displayName": "multimokia"
+        "displayName": "multimokia・ミステイ"
       },
       {
         "userId": "usr_f25844b0-cb62-416d-a15b-2cda35d7a996",
@@ -2746,7 +2746,7 @@
       },
       {
         "userId": "usr_4bcec452-b19d-47dc-872e-aa2c9df4533e",
-        "displayName": "multimokia"
+        "displayName": "multimokia・ミステイ"
       },
       {
         "userId": "usr_97b6e256-c441-4dde-9cb9-f29f78727f1d",
@@ -3158,7 +3158,7 @@
       },
       {
         "userId": "usr_4bcec452-b19d-47dc-872e-aa2c9df4533e",
-        "displayName": "multimokia"
+        "displayName": "multimokia・ミステイ"
       },
       {
         "userId": "usr_97b6e256-c441-4dde-9cb9-f29f78727f1d",
@@ -3568,7 +3568,7 @@
       },
       {
         "userId": "usr_4bcec452-b19d-47dc-872e-aa2c9df4533e",
-        "displayName": "multimokia"
+        "displayName": "multimokia・ミステイ"
       },
       {
         "userId": "usr_97b6e256-c441-4dde-9cb9-f29f78727f1d",
@@ -4320,7 +4320,7 @@
       },
       {
         "userId": "usr_4bcec452-b19d-47dc-872e-aa2c9df4533e",
-        "displayName": "multimokia"
+        "displayName": "multimokia・ミステイ"
       },
       {
         "userId": "usr_97b6e256-c441-4dde-9cb9-f29f78727f1d",
@@ -4730,7 +4730,7 @@
       },
       {
         "userId": "usr_4bcec452-b19d-47dc-872e-aa2c9df4533e",
-        "displayName": "multimokia"
+        "displayName": "multimokia・ミステイ"
       },
       {
         "userId": "usr_97b6e256-c441-4dde-9cb9-f29f78727f1d",
