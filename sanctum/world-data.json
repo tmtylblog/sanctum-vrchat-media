@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-06T00:00:25.832Z",
+  "generated": "2026-11-06T03:30:13.646Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / World Operator / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -2829,6 +2829,10 @@
         "displayName": "PammeMatth"
       },
       {
+        "userId": "usr_04895f04-4b97-42ae-b0dd-10a252b95752",
+        "displayName": "R2mus"
+      },
+      {
         "userId": "usr_d912ae0a-a365-4b02-92a5-51a5cd4aa21d",
         "displayName": "rach․"
       },
@@ -3237,6 +3241,10 @@
         "displayName": "PammeMatth"
       },
       {
+        "userId": "usr_04895f04-4b97-42ae-b0dd-10a252b95752",
+        "displayName": "R2mus"
+      },
+      {
         "userId": "usr_d912ae0a-a365-4b02-92a5-51a5cd4aa21d",
         "displayName": "rach․"
       },
@@ -3641,6 +3649,10 @@
       {
         "userId": "usr_a97e6118-0a6d-4a96-9d29-d6690d33b2a0",
         "displayName": "PammeMatth"
+      },
+      {
+        "userId": "usr_04895f04-4b97-42ae-b0dd-10a252b95752",
+        "displayName": "R2mus"
       },
       {
         "userId": "usr_d912ae0a-a365-4b02-92a5-51a5cd4aa21d",
@@ -4391,6 +4403,10 @@
         "displayName": "PammeMatth"
       },
       {
+        "userId": "usr_04895f04-4b97-42ae-b0dd-10a252b95752",
+        "displayName": "R2mus"
+      },
+      {
         "userId": "usr_d912ae0a-a365-4b02-92a5-51a5cd4aa21d",
         "displayName": "rach․"
       },
@@ -4795,6 +4811,10 @@
       {
         "userId": "usr_a97e6118-0a6d-4a96-9d29-d6690d33b2a0",
         "displayName": "PammeMatth"
+      },
+      {
+        "userId": "usr_04895f04-4b97-42ae-b0dd-10a252b95752",
+        "displayName": "R2mus"
       },
       {
         "userId": "usr_d912ae0a-a365-4b02-92a5-51a5cd4aa21d",
