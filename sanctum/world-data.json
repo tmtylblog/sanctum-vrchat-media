@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-06T18:15:19.486Z",
+  "generated": "2026-11-07T10:50:36.609Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / World Operator / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -2797,6 +2797,10 @@
         "displayName": "neriH"
       },
       {
+        "userId": "usr_bd916dff-f836-4921-850e-7f49f7c08f07",
+        "displayName": "Noosphere"
+      },
+      {
         "userId": "usr_2d66c957-0ef2-409e-aa9b-0680a960188d",
         "displayName": "NotaGames"
       },
@@ -2935,6 +2939,10 @@
       {
         "userId": "usr_70ae5797-a56d-416d-b84c-1a0b05ec7ced",
         "displayName": "おさめなルナ"
+      },
+      {
+        "userId": "usr_9919f2b1-399f-4d3d-9cdf-be5c0dcaee02",
+        "displayName": "タテヨコ"
       },
       {
         "userId": "usr_ea92af73-8b90-4383-a21c-8891b70f4601",
@@ -3209,6 +3217,10 @@
         "displayName": "neriH"
       },
       {
+        "userId": "usr_bd916dff-f836-4921-850e-7f49f7c08f07",
+        "displayName": "Noosphere"
+      },
+      {
         "userId": "usr_2d66c957-0ef2-409e-aa9b-0680a960188d",
         "displayName": "NotaGames"
       },
@@ -3347,6 +3359,10 @@
       {
         "userId": "usr_70ae5797-a56d-416d-b84c-1a0b05ec7ced",
         "displayName": "おさめなルナ"
+      },
+      {
+        "userId": "usr_9919f2b1-399f-4d3d-9cdf-be5c0dcaee02",
+        "displayName": "タテヨコ"
       },
       {
         "userId": "usr_ea92af73-8b90-4383-a21c-8891b70f4601",
@@ -3619,6 +3635,10 @@
         "displayName": "neriH"
       },
       {
+        "userId": "usr_bd916dff-f836-4921-850e-7f49f7c08f07",
+        "displayName": "Noosphere"
+      },
+      {
         "userId": "usr_2d66c957-0ef2-409e-aa9b-0680a960188d",
         "displayName": "NotaGames"
       },
@@ -3757,6 +3777,10 @@
       {
         "userId": "usr_70ae5797-a56d-416d-b84c-1a0b05ec7ced",
         "displayName": "おさめなルナ"
+      },
+      {
+        "userId": "usr_9919f2b1-399f-4d3d-9cdf-be5c0dcaee02",
+        "displayName": "タテヨコ"
       },
       {
         "userId": "usr_ea92af73-8b90-4383-a21c-8891b70f4601",
@@ -4311,6 +4335,10 @@
         "displayName": "neriH"
       },
       {
+        "userId": "usr_bd916dff-f836-4921-850e-7f49f7c08f07",
+        "displayName": "Noosphere"
+      },
+      {
         "userId": "usr_2d66c957-0ef2-409e-aa9b-0680a960188d",
         "displayName": "NotaGames"
       },
@@ -4449,6 +4477,10 @@
       {
         "userId": "usr_70ae5797-a56d-416d-b84c-1a0b05ec7ced",
         "displayName": "おさめなルナ"
+      },
+      {
+        "userId": "usr_9919f2b1-399f-4d3d-9cdf-be5c0dcaee02",
+        "displayName": "タテヨコ"
       },
       {
         "userId": "usr_ea92af73-8b90-4383-a21c-8891b70f4601",
@@ -4721,6 +4753,10 @@
         "displayName": "neriH"
       },
       {
+        "userId": "usr_bd916dff-f836-4921-850e-7f49f7c08f07",
+        "displayName": "Noosphere"
+      },
+      {
         "userId": "usr_2d66c957-0ef2-409e-aa9b-0680a960188d",
         "displayName": "NotaGames"
       },
@@ -4859,6 +4895,10 @@
       {
         "userId": "usr_70ae5797-a56d-416d-b84c-1a0b05ec7ced",
         "displayName": "おさめなルナ"
+      },
+      {
+        "userId": "usr_9919f2b1-399f-4d3d-9cdf-be5c0dcaee02",
+        "displayName": "タテヨコ"
       },
       {
         "userId": "usr_ea92af73-8b90-4383-a21c-8891b70f4601",
