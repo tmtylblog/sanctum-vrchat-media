@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-07T10:50:47.811Z",
+  "generated": "2026-11-08T04:30:35.125Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / World Operator / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -2561,6 +2561,10 @@
         "displayName": "AizenDove"
       },
       {
+        "userId": "usr_a06047a2-a1d7-4301-8cc8-79c503a6f8e8",
+        "displayName": "ApocDnB"
+      },
+      {
         "userId": "usr_8031b8de-f6da-4c0e-a5b1-a2f50d2e757b",
         "displayName": "Aquaman56"
       },
@@ -2981,6 +2985,10 @@
         "displayName": "AizenDove"
       },
       {
+        "userId": "usr_a06047a2-a1d7-4301-8cc8-79c503a6f8e8",
+        "displayName": "ApocDnB"
+      },
+      {
         "userId": "usr_8031b8de-f6da-4c0e-a5b1-a2f50d2e757b",
         "displayName": "Aquaman56"
       },
@@ -3397,6 +3405,10 @@
       {
         "userId": "usr_172bd6d5-bbb9-4fb6-8fa5-dde88985fa06",
         "displayName": "AizenDove"
+      },
+      {
+        "userId": "usr_a06047a2-a1d7-4301-8cc8-79c503a6f8e8",
+        "displayName": "ApocDnB"
       },
       {
         "userId": "usr_8031b8de-f6da-4c0e-a5b1-a2f50d2e757b",
@@ -4099,6 +4111,10 @@
         "displayName": "AizenDove"
       },
       {
+        "userId": "usr_a06047a2-a1d7-4301-8cc8-79c503a6f8e8",
+        "displayName": "ApocDnB"
+      },
+      {
         "userId": "usr_8031b8de-f6da-4c0e-a5b1-a2f50d2e757b",
         "displayName": "Aquaman56"
       },
@@ -4515,6 +4531,10 @@
       {
         "userId": "usr_172bd6d5-bbb9-4fb6-8fa5-dde88985fa06",
         "displayName": "AizenDove"
+      },
+      {
+        "userId": "usr_a06047a2-a1d7-4301-8cc8-79c503a6f8e8",
+        "displayName": "ApocDnB"
       },
       {
         "userId": "usr_8031b8de-f6da-4c0e-a5b1-a2f50d2e757b",
