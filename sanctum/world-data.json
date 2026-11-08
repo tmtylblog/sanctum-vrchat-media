@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-07T22:00:26.532Z",
+  "generated": "2026-11-08T04:30:23.182Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / World Operator / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -79,10 +79,6 @@
       {
         "userId": "usr_b5010f84-189c-4575-ac76-acdd1603a49a",
         "displayName": "De5t1ny_vr"
-      },
-      {
-        "userId": "usr_93bc20e5-a5d9-43bb-a1f6-97508de0f0f0",
-        "displayName": "Ekwols"
       },
       {
         "userId": "usr_e1f691ce-65c4-42e8-bef8-98db8a19a3e6",
@@ -2605,6 +2601,10 @@
         "displayName": "AizenDove"
       },
       {
+        "userId": "usr_a06047a2-a1d7-4301-8cc8-79c503a6f8e8",
+        "displayName": "ApocDnB"
+      },
+      {
         "userId": "usr_8031b8de-f6da-4c0e-a5b1-a2f50d2e757b",
         "displayName": "Aquaman56"
       },
@@ -3025,6 +3025,10 @@
         "displayName": "AizenDove"
       },
       {
+        "userId": "usr_a06047a2-a1d7-4301-8cc8-79c503a6f8e8",
+        "displayName": "ApocDnB"
+      },
+      {
         "userId": "usr_8031b8de-f6da-4c0e-a5b1-a2f50d2e757b",
         "displayName": "Aquaman56"
       },
@@ -3441,6 +3445,10 @@
       {
         "userId": "usr_172bd6d5-bbb9-4fb6-8fa5-dde88985fa06",
         "displayName": "AizenDove"
+      },
+      {
+        "userId": "usr_a06047a2-a1d7-4301-8cc8-79c503a6f8e8",
+        "displayName": "ApocDnB"
       },
       {
         "userId": "usr_8031b8de-f6da-4c0e-a5b1-a2f50d2e757b",
@@ -4143,6 +4151,10 @@
         "displayName": "AizenDove"
       },
       {
+        "userId": "usr_a06047a2-a1d7-4301-8cc8-79c503a6f8e8",
+        "displayName": "ApocDnB"
+      },
+      {
         "userId": "usr_8031b8de-f6da-4c0e-a5b1-a2f50d2e757b",
         "displayName": "Aquaman56"
       },
@@ -4559,6 +4571,10 @@
       {
         "userId": "usr_172bd6d5-bbb9-4fb6-8fa5-dde88985fa06",
         "displayName": "AizenDove"
+      },
+      {
+        "userId": "usr_a06047a2-a1d7-4301-8cc8-79c503a6f8e8",
+        "displayName": "ApocDnB"
       },
       {
         "userId": "usr_8031b8de-f6da-4c0e-a5b1-a2f50d2e757b",
