@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-08T04:30:35.125Z",
+  "generated": "2026-11-09T04:50:12.087Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / World Operator / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -2725,6 +2725,10 @@
         "displayName": "Llamahat"
       },
       {
+        "userId": "usr_339f54fd-17d3-42ed-820f-7fb7c0b5ee08",
+        "displayName": "Lobster"
+      },
+      {
         "userId": "usr_ca1dbc7b-7b20-4f45-ba0c-28f70f0c583c",
         "displayName": "Luxifinity"
       },
@@ -3149,6 +3153,10 @@
         "displayName": "Llamahat"
       },
       {
+        "userId": "usr_339f54fd-17d3-42ed-820f-7fb7c0b5ee08",
+        "displayName": "Lobster"
+      },
+      {
         "userId": "usr_ca1dbc7b-7b20-4f45-ba0c-28f70f0c583c",
         "displayName": "Luxifinity"
       },
@@ -3569,6 +3577,10 @@
       {
         "userId": "usr_5336f8d4-8716-448f-a773-35196036b110",
         "displayName": "Llamahat"
+      },
+      {
+        "userId": "usr_339f54fd-17d3-42ed-820f-7fb7c0b5ee08",
+        "displayName": "Lobster"
       },
       {
         "userId": "usr_ca1dbc7b-7b20-4f45-ba0c-28f70f0c583c",
@@ -4275,6 +4287,10 @@
         "displayName": "Llamahat"
       },
       {
+        "userId": "usr_339f54fd-17d3-42ed-820f-7fb7c0b5ee08",
+        "displayName": "Lobster"
+      },
+      {
         "userId": "usr_ca1dbc7b-7b20-4f45-ba0c-28f70f0c583c",
         "displayName": "Luxifinity"
       },
@@ -4695,6 +4711,10 @@
       {
         "userId": "usr_5336f8d4-8716-448f-a773-35196036b110",
         "displayName": "Llamahat"
+      },
+      {
+        "userId": "usr_339f54fd-17d3-42ed-820f-7fb7c0b5ee08",
+        "displayName": "Lobster"
       },
       {
         "userId": "usr_ca1dbc7b-7b20-4f45-ba0c-28f70f0c583c",
