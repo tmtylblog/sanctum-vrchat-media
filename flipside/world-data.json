@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T17:00:50.221Z",
+  "generated": "2026-11-12T06:00:52.429Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / World Operator / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -2633,6 +2633,10 @@
         "displayName": "De5t1ny_vr"
       },
       {
+        "userId": "usr_c34027ab-0b67-4bb9-a4eb-5dbe24dffd7f",
+        "displayName": "Demrie"
+      },
+      {
         "userId": "usr_cbd29fd0-a8eb-4cbe-a65d-0c58c9d445f4",
         "displayName": "DJ DiFlux"
       },
@@ -2675,6 +2679,10 @@
       {
         "userId": "usr_98780e97-d6c4-4336-9509-de99c2bfbd5f",
         "displayName": "GiggleL0rd"
+      },
+      {
+        "userId": "usr_d075b24e-97c7-49de-8dc2-b4069b4bd308",
+        "displayName": "Grobi"
       },
       {
         "userId": "usr_40be82e7-f7d5-4548-b314-3fc7b26d22ee",
@@ -2771,6 +2779,10 @@
       {
         "userId": "usr_e9b2c819-8e13-4299-9cf4-4f6d7290c625",
         "displayName": "neriH"
+      },
+      {
+        "userId": "usr_cf279939-6e33-4ae0-af78-db109cef7817",
+        "displayName": "Nerosun"
       },
       {
         "userId": "usr_bd916dff-f836-4921-850e-7f49f7c08f07",
@@ -3061,6 +3073,10 @@
         "displayName": "De5t1ny_vr"
       },
       {
+        "userId": "usr_c34027ab-0b67-4bb9-a4eb-5dbe24dffd7f",
+        "displayName": "Demrie"
+      },
+      {
         "userId": "usr_cbd29fd0-a8eb-4cbe-a65d-0c58c9d445f4",
         "displayName": "DJ DiFlux"
       },
@@ -3103,6 +3119,10 @@
       {
         "userId": "usr_98780e97-d6c4-4336-9509-de99c2bfbd5f",
         "displayName": "GiggleL0rd"
+      },
+      {
+        "userId": "usr_d075b24e-97c7-49de-8dc2-b4069b4bd308",
+        "displayName": "Grobi"
       },
       {
         "userId": "usr_40be82e7-f7d5-4548-b314-3fc7b26d22ee",
@@ -3199,6 +3219,10 @@
       {
         "userId": "usr_e9b2c819-8e13-4299-9cf4-4f6d7290c625",
         "displayName": "neriH"
+      },
+      {
+        "userId": "usr_cf279939-6e33-4ae0-af78-db109cef7817",
+        "displayName": "Nerosun"
       },
       {
         "userId": "usr_bd916dff-f836-4921-850e-7f49f7c08f07",
@@ -3487,6 +3511,10 @@
         "displayName": "De5t1ny_vr"
       },
       {
+        "userId": "usr_c34027ab-0b67-4bb9-a4eb-5dbe24dffd7f",
+        "displayName": "Demrie"
+      },
+      {
         "userId": "usr_cbd29fd0-a8eb-4cbe-a65d-0c58c9d445f4",
         "displayName": "DJ DiFlux"
       },
@@ -3529,6 +3557,10 @@
       {
         "userId": "usr_98780e97-d6c4-4336-9509-de99c2bfbd5f",
         "displayName": "GiggleL0rd"
+      },
+      {
+        "userId": "usr_d075b24e-97c7-49de-8dc2-b4069b4bd308",
+        "displayName": "Grobi"
       },
       {
         "userId": "usr_40be82e7-f7d5-4548-b314-3fc7b26d22ee",
@@ -3625,6 +3657,10 @@
       {
         "userId": "usr_e9b2c819-8e13-4299-9cf4-4f6d7290c625",
         "displayName": "neriH"
+      },
+      {
+        "userId": "usr_cf279939-6e33-4ae0-af78-db109cef7817",
+        "displayName": "Nerosun"
       },
       {
         "userId": "usr_bd916dff-f836-4921-850e-7f49f7c08f07",
@@ -4195,6 +4231,10 @@
         "displayName": "De5t1ny_vr"
       },
       {
+        "userId": "usr_c34027ab-0b67-4bb9-a4eb-5dbe24dffd7f",
+        "displayName": "Demrie"
+      },
+      {
         "userId": "usr_cbd29fd0-a8eb-4cbe-a65d-0c58c9d445f4",
         "displayName": "DJ DiFlux"
       },
@@ -4237,6 +4277,10 @@
       {
         "userId": "usr_98780e97-d6c4-4336-9509-de99c2bfbd5f",
         "displayName": "GiggleL0rd"
+      },
+      {
+        "userId": "usr_d075b24e-97c7-49de-8dc2-b4069b4bd308",
+        "displayName": "Grobi"
       },
       {
         "userId": "usr_40be82e7-f7d5-4548-b314-3fc7b26d22ee",
@@ -4333,6 +4377,10 @@
       {
         "userId": "usr_e9b2c819-8e13-4299-9cf4-4f6d7290c625",
         "displayName": "neriH"
+      },
+      {
+        "userId": "usr_cf279939-6e33-4ae0-af78-db109cef7817",
+        "displayName": "Nerosun"
       },
       {
         "userId": "usr_bd916dff-f836-4921-850e-7f49f7c08f07",
@@ -4621,6 +4669,10 @@
         "displayName": "De5t1ny_vr"
       },
       {
+        "userId": "usr_c34027ab-0b67-4bb9-a4eb-5dbe24dffd7f",
+        "displayName": "Demrie"
+      },
+      {
         "userId": "usr_cbd29fd0-a8eb-4cbe-a65d-0c58c9d445f4",
         "displayName": "DJ DiFlux"
       },
@@ -4663,6 +4715,10 @@
       {
         "userId": "usr_98780e97-d6c4-4336-9509-de99c2bfbd5f",
         "displayName": "GiggleL0rd"
+      },
+      {
+        "userId": "usr_d075b24e-97c7-49de-8dc2-b4069b4bd308",
+        "displayName": "Grobi"
       },
       {
         "userId": "usr_40be82e7-f7d5-4548-b314-3fc7b26d22ee",
@@ -4759,6 +4815,10 @@
       {
         "userId": "usr_e9b2c819-8e13-4299-9cf4-4f6d7290c625",
         "displayName": "neriH"
+      },
+      {
+        "userId": "usr_cf279939-6e33-4ae0-af78-db109cef7817",
+        "displayName": "Nerosun"
       },
       {
         "userId": "usr_bd916dff-f836-4921-850e-7f49f7c08f07",
