@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T00:00:30.175Z",
+  "generated": "2026-11-13T03:28:28.718Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / World Operator / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -2345,6 +2345,10 @@
         "displayName": "Adri123478"
       },
       {
+        "userId": "usr_b56325f6-f494-4351-939f-7478db325657",
+        "displayName": "Ariel Emerald"
+      },
+      {
         "userId": "usr_a367d6c3-ad94-4a88-83b2-822aaa071fac",
         "displayName": "AyyyyRik"
       },
@@ -2569,6 +2573,10 @@
         "displayName": "-~Snow~-"
       },
       {
+        "userId": "usr_b69e5977-6c61-40f3-aca3-4633ebdc2129",
+        "displayName": "-Dragoo-"
+      },
+      {
         "userId": "usr_f70a6510-ae4a-40d5-80b3-54cf1e4b0737",
         "displayName": "-Tachyon-"
       },
@@ -2595,6 +2603,10 @@
       {
         "userId": "usr_02d3858e-ae05-4d7e-a565-7ffa11e3b18f",
         "displayName": "~Xia~"
+      },
+      {
+        "userId": "usr_2974ba49-45b2-4c5a-8b6e-dc5a676d1242",
+        "displayName": "0xS3GF4VLT"
       },
       {
         "userId": "usr_5ec8b436-4c68-4421-a038-ce5788d43502",
@@ -2897,6 +2909,10 @@
         "displayName": "SANCTUM_STUDIO"
       },
       {
+        "userId": "usr_1159496d-4556-4f02-938e-c9b13e831946",
+        "displayName": "sheepsheep"
+      },
+      {
         "userId": "usr_cf6c438f-778b-469c-9621-be9d7616e625",
         "displayName": "SladeDaCat"
       },
@@ -2963,6 +2979,10 @@
       {
         "userId": "usr_1516ca40-edd5-4a55-aafd-0a9fef9e329d",
         "displayName": "Xyare"
+      },
+      {
+        "userId": "usr_4457c496-c508-4229-896a-ff6af74a7e16",
+        "displayName": "YngwieAnders"
       },
       {
         "userId": "usr_aee101c1-9ec1-4446-91d0-8508f56ba5d3",
@@ -3009,6 +3029,10 @@
         "displayName": "-~Snow~-"
       },
       {
+        "userId": "usr_b69e5977-6c61-40f3-aca3-4633ebdc2129",
+        "displayName": "-Dragoo-"
+      },
+      {
         "userId": "usr_f70a6510-ae4a-40d5-80b3-54cf1e4b0737",
         "displayName": "-Tachyon-"
       },
@@ -3035,6 +3059,10 @@
       {
         "userId": "usr_02d3858e-ae05-4d7e-a565-7ffa11e3b18f",
         "displayName": "~Xia~"
+      },
+      {
+        "userId": "usr_2974ba49-45b2-4c5a-8b6e-dc5a676d1242",
+        "displayName": "0xS3GF4VLT"
       },
       {
         "userId": "usr_5ec8b436-4c68-4421-a038-ce5788d43502",
@@ -3337,6 +3365,10 @@
         "displayName": "SANCTUM_STUDIO"
       },
       {
+        "userId": "usr_1159496d-4556-4f02-938e-c9b13e831946",
+        "displayName": "sheepsheep"
+      },
+      {
         "userId": "usr_cf6c438f-778b-469c-9621-be9d7616e625",
         "displayName": "SladeDaCat"
       },
@@ -3403,6 +3435,10 @@
       {
         "userId": "usr_1516ca40-edd5-4a55-aafd-0a9fef9e329d",
         "displayName": "Xyare"
+      },
+      {
+        "userId": "usr_4457c496-c508-4229-896a-ff6af74a7e16",
+        "displayName": "YngwieAnders"
       },
       {
         "userId": "usr_aee101c1-9ec1-4446-91d0-8508f56ba5d3",
@@ -3447,6 +3483,10 @@
         "displayName": "-~Snow~-"
       },
       {
+        "userId": "usr_b69e5977-6c61-40f3-aca3-4633ebdc2129",
+        "displayName": "-Dragoo-"
+      },
+      {
         "userId": "usr_f70a6510-ae4a-40d5-80b3-54cf1e4b0737",
         "displayName": "-Tachyon-"
       },
@@ -3473,6 +3513,10 @@
       {
         "userId": "usr_02d3858e-ae05-4d7e-a565-7ffa11e3b18f",
         "displayName": "~Xia~"
+      },
+      {
+        "userId": "usr_2974ba49-45b2-4c5a-8b6e-dc5a676d1242",
+        "displayName": "0xS3GF4VLT"
       },
       {
         "userId": "usr_5ec8b436-4c68-4421-a038-ce5788d43502",
@@ -3775,6 +3819,10 @@
         "displayName": "SANCTUM_STUDIO"
       },
       {
+        "userId": "usr_1159496d-4556-4f02-938e-c9b13e831946",
+        "displayName": "sheepsheep"
+      },
+      {
         "userId": "usr_cf6c438f-778b-469c-9621-be9d7616e625",
         "displayName": "SladeDaCat"
       },
@@ -3841,6 +3889,10 @@
       {
         "userId": "usr_1516ca40-edd5-4a55-aafd-0a9fef9e329d",
         "displayName": "Xyare"
+      },
+      {
+        "userId": "usr_4457c496-c508-4229-896a-ff6af74a7e16",
+        "displayName": "YngwieAnders"
       },
       {
         "userId": "usr_aee101c1-9ec1-4446-91d0-8508f56ba5d3",
@@ -4167,6 +4219,10 @@
         "displayName": "-~Snow~-"
       },
       {
+        "userId": "usr_b69e5977-6c61-40f3-aca3-4633ebdc2129",
+        "displayName": "-Dragoo-"
+      },
+      {
         "userId": "usr_f70a6510-ae4a-40d5-80b3-54cf1e4b0737",
         "displayName": "-Tachyon-"
       },
@@ -4193,6 +4249,10 @@
       {
         "userId": "usr_02d3858e-ae05-4d7e-a565-7ffa11e3b18f",
         "displayName": "~Xia~"
+      },
+      {
+        "userId": "usr_2974ba49-45b2-4c5a-8b6e-dc5a676d1242",
+        "displayName": "0xS3GF4VLT"
       },
       {
         "userId": "usr_5ec8b436-4c68-4421-a038-ce5788d43502",
@@ -4495,6 +4555,10 @@
         "displayName": "SANCTUM_STUDIO"
       },
       {
+        "userId": "usr_1159496d-4556-4f02-938e-c9b13e831946",
+        "displayName": "sheepsheep"
+      },
+      {
         "userId": "usr_cf6c438f-778b-469c-9621-be9d7616e625",
         "displayName": "SladeDaCat"
       },
@@ -4561,6 +4625,10 @@
       {
         "userId": "usr_1516ca40-edd5-4a55-aafd-0a9fef9e329d",
         "displayName": "Xyare"
+      },
+      {
+        "userId": "usr_4457c496-c508-4229-896a-ff6af74a7e16",
+        "displayName": "YngwieAnders"
       },
       {
         "userId": "usr_aee101c1-9ec1-4446-91d0-8508f56ba5d3",
@@ -4605,6 +4673,10 @@
         "displayName": "-~Snow~-"
       },
       {
+        "userId": "usr_b69e5977-6c61-40f3-aca3-4633ebdc2129",
+        "displayName": "-Dragoo-"
+      },
+      {
         "userId": "usr_f70a6510-ae4a-40d5-80b3-54cf1e4b0737",
         "displayName": "-Tachyon-"
       },
@@ -4631,6 +4703,10 @@
       {
         "userId": "usr_02d3858e-ae05-4d7e-a565-7ffa11e3b18f",
         "displayName": "~Xia~"
+      },
+      {
+        "userId": "usr_2974ba49-45b2-4c5a-8b6e-dc5a676d1242",
+        "displayName": "0xS3GF4VLT"
       },
       {
         "userId": "usr_5ec8b436-4c68-4421-a038-ce5788d43502",
@@ -4933,6 +5009,10 @@
         "displayName": "SANCTUM_STUDIO"
       },
       {
+        "userId": "usr_1159496d-4556-4f02-938e-c9b13e831946",
+        "displayName": "sheepsheep"
+      },
+      {
         "userId": "usr_cf6c438f-778b-469c-9621-be9d7616e625",
         "displayName": "SladeDaCat"
       },
@@ -4999,6 +5079,10 @@
       {
         "userId": "usr_1516ca40-edd5-4a55-aafd-0a9fef9e329d",
         "displayName": "Xyare"
+      },
+      {
+        "userId": "usr_4457c496-c508-4229-896a-ff6af74a7e16",
+        "displayName": "YngwieAnders"
       },
       {
         "userId": "usr_aee101c1-9ec1-4446-91d0-8508f56ba5d3",
