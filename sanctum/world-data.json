@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T20:23:09.653Z",
+  "generated": "2026-11-14T10:00:22.367Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / World Operator / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -731,6 +731,10 @@
       {
         "userId": "usr_d38b0f31-2265-4cc7-b32d-7d25e698ba1a",
         "displayName": "Classyham"
+      },
+      {
+        "userId": "usr_5069a5ed-9ff0-4e2c-a9c3-1cf32046b55e",
+        "displayName": "Clover_0916"
       },
       {
         "userId": "usr_ffc7d2e8-335a-41c1-aaf7-4fc392aea212",
@@ -2713,6 +2717,10 @@
         "displayName": "EllieXY"
       },
       {
+        "userId": "usr_8d1fcd11-2a93-4821-ab68-6c61f3f0b20b",
+        "displayName": "EngineerIsaac"
+      },
+      {
         "userId": "usr_41901959-f2ee-4973-91d5-933a85624c3a",
         "displayName": "Eslar"
       },
@@ -2743,6 +2751,10 @@
       {
         "userId": "usr_40be82e7-f7d5-4548-b314-3fc7b26d22ee",
         "displayName": "Hackebein"
+      },
+      {
+        "userId": "usr_4811e034-1234-4f8b-b8af-9c193b8ea708",
+        "displayName": "ItsCube"
       },
       {
         "userId": "usr_0021bf6c-901e-4db7-87ba-031cb31e165e",
@@ -2975,6 +2987,10 @@
       {
         "userId": "usr_bb33b9f7-0a51-44e5-875a-d9df1de6b2dd",
         "displayName": "xkmerlz"
+      },
+      {
+        "userId": "usr_bb64f0bf-0b5b-4cef-ab6a-dc638d813987",
+        "displayName": "XPamCakesX"
       },
       {
         "userId": "usr_1516ca40-edd5-4a55-aafd-0a9fef9e329d",
@@ -3169,6 +3185,10 @@
         "displayName": "EllieXY"
       },
       {
+        "userId": "usr_8d1fcd11-2a93-4821-ab68-6c61f3f0b20b",
+        "displayName": "EngineerIsaac"
+      },
+      {
         "userId": "usr_41901959-f2ee-4973-91d5-933a85624c3a",
         "displayName": "Eslar"
       },
@@ -3199,6 +3219,10 @@
       {
         "userId": "usr_40be82e7-f7d5-4548-b314-3fc7b26d22ee",
         "displayName": "Hackebein"
+      },
+      {
+        "userId": "usr_4811e034-1234-4f8b-b8af-9c193b8ea708",
+        "displayName": "ItsCube"
       },
       {
         "userId": "usr_0021bf6c-901e-4db7-87ba-031cb31e165e",
@@ -3431,6 +3455,10 @@
       {
         "userId": "usr_bb33b9f7-0a51-44e5-875a-d9df1de6b2dd",
         "displayName": "xkmerlz"
+      },
+      {
+        "userId": "usr_bb64f0bf-0b5b-4cef-ab6a-dc638d813987",
+        "displayName": "XPamCakesX"
       },
       {
         "userId": "usr_1516ca40-edd5-4a55-aafd-0a9fef9e329d",
@@ -3623,6 +3651,10 @@
         "displayName": "EllieXY"
       },
       {
+        "userId": "usr_8d1fcd11-2a93-4821-ab68-6c61f3f0b20b",
+        "displayName": "EngineerIsaac"
+      },
+      {
         "userId": "usr_41901959-f2ee-4973-91d5-933a85624c3a",
         "displayName": "Eslar"
       },
@@ -3653,6 +3685,10 @@
       {
         "userId": "usr_40be82e7-f7d5-4548-b314-3fc7b26d22ee",
         "displayName": "Hackebein"
+      },
+      {
+        "userId": "usr_4811e034-1234-4f8b-b8af-9c193b8ea708",
+        "displayName": "ItsCube"
       },
       {
         "userId": "usr_0021bf6c-901e-4db7-87ba-031cb31e165e",
@@ -3885,6 +3921,10 @@
       {
         "userId": "usr_bb33b9f7-0a51-44e5-875a-d9df1de6b2dd",
         "displayName": "xkmerlz"
+      },
+      {
+        "userId": "usr_bb64f0bf-0b5b-4cef-ab6a-dc638d813987",
+        "displayName": "XPamCakesX"
       },
       {
         "userId": "usr_1516ca40-edd5-4a55-aafd-0a9fef9e329d",
@@ -4359,6 +4399,10 @@
         "displayName": "EllieXY"
       },
       {
+        "userId": "usr_8d1fcd11-2a93-4821-ab68-6c61f3f0b20b",
+        "displayName": "EngineerIsaac"
+      },
+      {
         "userId": "usr_41901959-f2ee-4973-91d5-933a85624c3a",
         "displayName": "Eslar"
       },
@@ -4389,6 +4433,10 @@
       {
         "userId": "usr_40be82e7-f7d5-4548-b314-3fc7b26d22ee",
         "displayName": "Hackebein"
+      },
+      {
+        "userId": "usr_4811e034-1234-4f8b-b8af-9c193b8ea708",
+        "displayName": "ItsCube"
       },
       {
         "userId": "usr_0021bf6c-901e-4db7-87ba-031cb31e165e",
@@ -4621,6 +4669,10 @@
       {
         "userId": "usr_bb33b9f7-0a51-44e5-875a-d9df1de6b2dd",
         "displayName": "xkmerlz"
+      },
+      {
+        "userId": "usr_bb64f0bf-0b5b-4cef-ab6a-dc638d813987",
+        "displayName": "XPamCakesX"
       },
       {
         "userId": "usr_1516ca40-edd5-4a55-aafd-0a9fef9e329d",
@@ -4813,6 +4865,10 @@
         "displayName": "EllieXY"
       },
       {
+        "userId": "usr_8d1fcd11-2a93-4821-ab68-6c61f3f0b20b",
+        "displayName": "EngineerIsaac"
+      },
+      {
         "userId": "usr_41901959-f2ee-4973-91d5-933a85624c3a",
         "displayName": "Eslar"
       },
@@ -4843,6 +4899,10 @@
       {
         "userId": "usr_40be82e7-f7d5-4548-b314-3fc7b26d22ee",
         "displayName": "Hackebein"
+      },
+      {
+        "userId": "usr_4811e034-1234-4f8b-b8af-9c193b8ea708",
+        "displayName": "ItsCube"
       },
       {
         "userId": "usr_0021bf6c-901e-4db7-87ba-031cb31e165e",
@@ -5075,6 +5135,10 @@
       {
         "userId": "usr_bb33b9f7-0a51-44e5-875a-d9df1de6b2dd",
         "displayName": "xkmerlz"
+      },
+      {
+        "userId": "usr_bb64f0bf-0b5b-4cef-ab6a-dc638d813987",
+        "displayName": "XPamCakesX"
       },
       {
         "userId": "usr_1516ca40-edd5-4a55-aafd-0a9fef9e329d",
