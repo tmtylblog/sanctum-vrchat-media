@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-14T16:30:20.144Z",
+  "generated": "2026-11-15T05:30:17.780Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / World Operator / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -1673,6 +1673,10 @@
         "displayName": "ScoutLively"
       },
       {
+        "userId": "usr_b7ebfc95-0237-4e36-b872-fecbcfb41db8",
+        "displayName": "sekizu1"
+      },
+      {
         "userId": "usr_3227976d-8398-42ec-89f3-85c5c48517d2",
         "displayName": "Senkatoga"
       },
@@ -2797,6 +2801,10 @@
         "displayName": "kxa_dnb"
       },
       {
+        "userId": "usr_c9561c43-4865-469e-a836-9684df874e61",
+        "displayName": "L1NXX_"
+      },
+      {
         "userId": "usr_6e20239e-efd3-4327-971e-1007cd8ab9a9",
         "displayName": "La Chevre"
       },
@@ -3265,6 +3273,10 @@
         "displayName": "kxa_dnb"
       },
       {
+        "userId": "usr_c9561c43-4865-469e-a836-9684df874e61",
+        "displayName": "L1NXX_"
+      },
+      {
         "userId": "usr_6e20239e-efd3-4327-971e-1007cd8ab9a9",
         "displayName": "La Chevre"
       },
@@ -3729,6 +3741,10 @@
       {
         "userId": "usr_72c3698b-964b-4748-82f4-5e113d0f7ef9",
         "displayName": "kxa_dnb"
+      },
+      {
+        "userId": "usr_c9561c43-4865-469e-a836-9684df874e61",
+        "displayName": "L1NXX_"
       },
       {
         "userId": "usr_6e20239e-efd3-4327-971e-1007cd8ab9a9",
@@ -4479,6 +4495,10 @@
         "displayName": "kxa_dnb"
       },
       {
+        "userId": "usr_c9561c43-4865-469e-a836-9684df874e61",
+        "displayName": "L1NXX_"
+      },
+      {
         "userId": "usr_6e20239e-efd3-4327-971e-1007cd8ab9a9",
         "displayName": "La Chevre"
       },
@@ -4943,6 +4963,10 @@
       {
         "userId": "usr_72c3698b-964b-4748-82f4-5e113d0f7ef9",
         "displayName": "kxa_dnb"
+      },
+      {
+        "userId": "usr_c9561c43-4865-469e-a836-9684df874e61",
+        "displayName": "L1NXX_"
       },
       {
         "userId": "usr_6e20239e-efd3-4327-971e-1007cd8ab9a9",
