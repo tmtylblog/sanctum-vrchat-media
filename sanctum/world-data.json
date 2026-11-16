@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-15T05:30:17.780Z",
+  "generated": "2026-11-16T07:34:44.627Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / World Operator / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -2773,6 +2773,10 @@
         "displayName": "JustARandom_"
       },
       {
+        "userId": "usr_7953eb75-8b89-4121-bef2-b26caf94c7f0",
+        "displayName": "JustJaime"
+      },
+      {
         "userId": "usr_dcb302e4-fea9-498b-accb-90f62e95b02f",
         "displayName": "Jᴜzo"
       },
@@ -3245,6 +3249,10 @@
         "displayName": "JustARandom_"
       },
       {
+        "userId": "usr_7953eb75-8b89-4121-bef2-b26caf94c7f0",
+        "displayName": "JustJaime"
+      },
+      {
         "userId": "usr_dcb302e4-fea9-498b-accb-90f62e95b02f",
         "displayName": "Jᴜzo"
       },
@@ -3713,6 +3721,10 @@
       {
         "userId": "usr_c0f7de09-60c5-4eb0-b6bc-e18a1b873bc4",
         "displayName": "JustARandom_"
+      },
+      {
+        "userId": "usr_7953eb75-8b89-4121-bef2-b26caf94c7f0",
+        "displayName": "JustJaime"
       },
       {
         "userId": "usr_dcb302e4-fea9-498b-accb-90f62e95b02f",
@@ -4467,6 +4479,10 @@
         "displayName": "JustARandom_"
       },
       {
+        "userId": "usr_7953eb75-8b89-4121-bef2-b26caf94c7f0",
+        "displayName": "JustJaime"
+      },
+      {
         "userId": "usr_dcb302e4-fea9-498b-accb-90f62e95b02f",
         "displayName": "Jᴜzo"
       },
@@ -4935,6 +4951,10 @@
       {
         "userId": "usr_c0f7de09-60c5-4eb0-b6bc-e18a1b873bc4",
         "displayName": "JustARandom_"
+      },
+      {
+        "userId": "usr_7953eb75-8b89-4121-bef2-b26caf94c7f0",
+        "displayName": "JustJaime"
       },
       {
         "userId": "usr_dcb302e4-fea9-498b-accb-90f62e95b02f",
