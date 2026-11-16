@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-16T07:34:44.627Z",
+  "generated": "2026-11-16T19:11:30.936Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / World Operator / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -171,6 +171,10 @@
       {
         "userId": "usr_e9217838-7cd9-4475-9e55-36cf58896cca",
         "displayName": "SoftlySteph"
+      },
+      {
+        "userId": "usr_e2e77891-4647-4df1-9c79-165d49991e8d",
+        "displayName": "Stqr_"
       },
       {
         "userId": "usr_4521538e-a32c-41ac-9f98-ad987c52c412",
@@ -1761,6 +1765,10 @@
         "displayName": "Steel Blade XCR"
       },
       {
+        "userId": "usr_e2e77891-4647-4df1-9c79-165d49991e8d",
+        "displayName": "Stqr_"
+      },
+      {
         "userId": "usr_4e939c8f-26fd-44de-8f0f-20dbddb6c8c4",
         "displayName": "strasz"
       },
@@ -2295,6 +2303,10 @@
         "displayName": "SoftlySteph"
       },
       {
+        "userId": "usr_e2e77891-4647-4df1-9c79-165d49991e8d",
+        "displayName": "Stqr_"
+      },
+      {
         "userId": "usr_3c4a1003-2237-4e1d-be0e-bb71ef6480b0",
         "displayName": "susperia"
       },
@@ -2537,6 +2549,10 @@
       {
         "userId": "usr_e9217838-7cd9-4475-9e55-36cf58896cca",
         "displayName": "SoftlySteph"
+      },
+      {
+        "userId": "usr_e2e77891-4647-4df1-9c79-165d49991e8d",
+        "displayName": "Stqr_"
       },
       {
         "userId": "usr_4521538e-a32c-41ac-9f98-ad987c52c412",
@@ -4227,6 +4243,10 @@
       {
         "userId": "usr_e9217838-7cd9-4475-9e55-36cf58896cca",
         "displayName": "SoftlySteph"
+      },
+      {
+        "userId": "usr_e2e77891-4647-4df1-9c79-165d49991e8d",
+        "displayName": "Stqr_"
       },
       {
         "userId": "usr_3c4a1003-2237-4e1d-be0e-bb71ef6480b0",
