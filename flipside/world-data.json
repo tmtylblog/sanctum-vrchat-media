@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-16T19:12:34.348Z",
+  "generated": "2026-11-18T05:00:42.164Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / World Operator / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -2745,6 +2745,10 @@
         "displayName": "Jᴜzo"
       },
       {
+        "userId": "usr_21365772-c36a-45cd-8f8c-95f7fe7dd987",
+        "displayName": "K A J Y"
+      },
+      {
         "userId": "usr_e99a6c11-a506-45d9-8bac-e98b21bf40b0",
         "displayName": "Kaerun"
       },
@@ -3221,6 +3225,10 @@
         "displayName": "Jᴜzo"
       },
       {
+        "userId": "usr_21365772-c36a-45cd-8f8c-95f7fe7dd987",
+        "displayName": "K A J Y"
+      },
+      {
         "userId": "usr_e99a6c11-a506-45d9-8bac-e98b21bf40b0",
         "displayName": "Kaerun"
       },
@@ -3693,6 +3701,10 @@
       {
         "userId": "usr_dcb302e4-fea9-498b-accb-90f62e95b02f",
         "displayName": "Jᴜzo"
+      },
+      {
+        "userId": "usr_21365772-c36a-45cd-8f8c-95f7fe7dd987",
+        "displayName": "K A J Y"
       },
       {
         "userId": "usr_e99a6c11-a506-45d9-8bac-e98b21bf40b0",
@@ -4455,6 +4467,10 @@
         "displayName": "Jᴜzo"
       },
       {
+        "userId": "usr_21365772-c36a-45cd-8f8c-95f7fe7dd987",
+        "displayName": "K A J Y"
+      },
+      {
         "userId": "usr_e99a6c11-a506-45d9-8bac-e98b21bf40b0",
         "displayName": "Kaerun"
       },
@@ -4927,6 +4943,10 @@
       {
         "userId": "usr_dcb302e4-fea9-498b-accb-90f62e95b02f",
         "displayName": "Jᴜzo"
+      },
+      {
+        "userId": "usr_21365772-c36a-45cd-8f8c-95f7fe7dd987",
+        "displayName": "K A J Y"
       },
       {
         "userId": "usr_e99a6c11-a506-45d9-8bac-e98b21bf40b0",
