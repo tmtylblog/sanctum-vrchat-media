@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-21T17:30:21.206Z",
+  "generated": "2026-11-21T18:00:21.929Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / World Operator / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -3089,6 +3089,10 @@
         "displayName": "YngwieAnders"
       },
       {
+        "userId": "usr_90450904-ee90-41f8-a65b-494e2505936d",
+        "displayName": "Zuzu`"
+      },
+      {
         "userId": "usr_aee101c1-9ec1-4446-91d0-8508f56ba5d3",
         "displayName": "おきらくモウモウ"
       },
@@ -3565,6 +3569,10 @@
         "displayName": "YngwieAnders"
       },
       {
+        "userId": "usr_90450904-ee90-41f8-a65b-494e2505936d",
+        "displayName": "Zuzu`"
+      },
+      {
         "userId": "usr_aee101c1-9ec1-4446-91d0-8508f56ba5d3",
         "displayName": "おきらくモウモウ"
       },
@@ -4037,6 +4045,10 @@
       {
         "userId": "usr_4457c496-c508-4229-896a-ff6af74a7e16",
         "displayName": "YngwieAnders"
+      },
+      {
+        "userId": "usr_90450904-ee90-41f8-a65b-494e2505936d",
+        "displayName": "Zuzu`"
       },
       {
         "userId": "usr_aee101c1-9ec1-4446-91d0-8508f56ba5d3",
@@ -4799,6 +4811,10 @@
         "displayName": "YngwieAnders"
       },
       {
+        "userId": "usr_90450904-ee90-41f8-a65b-494e2505936d",
+        "displayName": "Zuzu`"
+      },
+      {
         "userId": "usr_aee101c1-9ec1-4446-91d0-8508f56ba5d3",
         "displayName": "おきらくモウモウ"
       },
@@ -5273,6 +5289,10 @@
         "displayName": "YngwieAnders"
       },
       {
+        "userId": "usr_90450904-ee90-41f8-a65b-494e2505936d",
+        "displayName": "Zuzu`"
+      },
+      {
         "userId": "usr_aee101c1-9ec1-4446-91d0-8508f56ba5d3",
         "displayName": "おきらくモウモウ"
       },
@@ -5579,6 +5599,10 @@
         "displayName": "Xyare"
       },
       {
+        "userId": "usr_90450904-ee90-41f8-a65b-494e2505936d",
+        "displayName": "Zuzu`"
+      },
+      {
         "userId": "usr_aee101c1-9ec1-4446-91d0-8508f56ba5d3",
         "displayName": "おきらくモウモウ"
       },
@@ -5879,6 +5903,10 @@
       {
         "userId": "usr_1516ca40-edd5-4a55-aafd-0a9fef9e329d",
         "displayName": "Xyare"
+      },
+      {
+        "userId": "usr_90450904-ee90-41f8-a65b-494e2505936d",
+        "displayName": "Zuzu`"
       },
       {
         "userId": "usr_aee101c1-9ec1-4446-91d0-8508f56ba5d3",
