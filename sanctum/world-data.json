@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-21T21:31:20.908Z",
+  "generated": "2026-11-22T00:30:31.885Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / World Operator / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -2801,6 +2801,10 @@
         "displayName": "domebot2-aggregator b54b"
       },
       {
+        "userId": "usr_5fa615e6-4abc-4e20-a5d1-16c2aaf79208",
+        "displayName": "Dunay_"
+      },
+      {
         "userId": "usr_e1f691ce-65c4-42e8-bef8-98db8a19a3e6",
         "displayName": "EllieXY"
       },
@@ -3281,6 +3285,10 @@
         "displayName": "domebot2-aggregator b54b"
       },
       {
+        "userId": "usr_5fa615e6-4abc-4e20-a5d1-16c2aaf79208",
+        "displayName": "Dunay_"
+      },
+      {
         "userId": "usr_e1f691ce-65c4-42e8-bef8-98db8a19a3e6",
         "displayName": "EllieXY"
       },
@@ -3757,6 +3765,10 @@
       {
         "userId": "usr_f48a23e4-098f-4e18-b06f-110ddd2bb54b",
         "displayName": "domebot2-aggregator b54b"
+      },
+      {
+        "userId": "usr_5fa615e6-4abc-4e20-a5d1-16c2aaf79208",
+        "displayName": "Dunay_"
       },
       {
         "userId": "usr_e1f691ce-65c4-42e8-bef8-98db8a19a3e6",
@@ -4523,6 +4535,10 @@
         "displayName": "domebot2-aggregator b54b"
       },
       {
+        "userId": "usr_5fa615e6-4abc-4e20-a5d1-16c2aaf79208",
+        "displayName": "Dunay_"
+      },
+      {
         "userId": "usr_e1f691ce-65c4-42e8-bef8-98db8a19a3e6",
         "displayName": "EllieXY"
       },
@@ -5001,6 +5017,10 @@
         "displayName": "domebot2-aggregator b54b"
       },
       {
+        "userId": "usr_5fa615e6-4abc-4e20-a5d1-16c2aaf79208",
+        "displayName": "Dunay_"
+      },
+      {
         "userId": "usr_e1f691ce-65c4-42e8-bef8-98db8a19a3e6",
         "displayName": "EllieXY"
       },
@@ -5435,6 +5455,10 @@
         "displayName": "domebot2-aggregator b54b"
       },
       {
+        "userId": "usr_5fa615e6-4abc-4e20-a5d1-16c2aaf79208",
+        "displayName": "Dunay_"
+      },
+      {
         "userId": "usr_e1f691ce-65c4-42e8-bef8-98db8a19a3e6",
         "displayName": "EllieXY"
       },
@@ -5739,6 +5763,10 @@
       {
         "userId": "usr_f48a23e4-098f-4e18-b06f-110ddd2bb54b",
         "displayName": "domebot2-aggregator b54b"
+      },
+      {
+        "userId": "usr_5fa615e6-4abc-4e20-a5d1-16c2aaf79208",
+        "displayName": "Dunay_"
       },
       {
         "userId": "usr_e1f691ce-65c4-42e8-bef8-98db8a19a3e6",
