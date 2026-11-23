@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-23T00:00:38.395Z",
+  "generated": "2026-11-23T07:41:28.009Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / World Operator / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -123,6 +123,10 @@
       {
         "userId": "usr_36bd5a41-3e47-40c4-b937-78e892912d5e",
         "displayName": "Katyzon"
+      },
+      {
+        "userId": "usr_8428cc42-4b05-43d9-9827-bd57b76777c5",
+        "displayName": "kenjung"
       },
       {
         "userId": "usr_bcc5a7c8-8537-49bc-8452-38ba3f3d77f9",
@@ -1205,6 +1209,10 @@
         "displayName": "K̴ayla"
       },
       {
+        "userId": "usr_8428cc42-4b05-43d9-9827-bd57b76777c5",
+        "displayName": "kenjung"
+      },
+      {
         "userId": "usr_a08f0340-2774-4ee0-9f1e-5c06d8404745",
         "displayName": "Keno Tatsu"
       },
@@ -2083,6 +2091,10 @@
       {
         "userId": "usr_f4fd6ed3-4561-41b9-b993-238acff22828",
         "displayName": "ૡ Ş Λ Ƙ Ι ૡ"
+      },
+      {
+        "userId": "usr_0bb39e75-59b4-486d-a063-164f6b265a11",
+        "displayName": "ෆ URA ෆ"
       },
       {
         "userId": "usr_c9b28bfa-93f6-483f-b01a-e286c0f630ed",
@@ -3125,6 +3137,10 @@
         "displayName": "Zuzu`"
       },
       {
+        "userId": "usr_0bb39e75-59b4-486d-a063-164f6b265a11",
+        "displayName": "ෆ URA ෆ"
+      },
+      {
         "userId": "usr_aee101c1-9ec1-4446-91d0-8508f56ba5d3",
         "displayName": "おきらくモウモウ"
       },
@@ -3609,6 +3625,10 @@
         "displayName": "Zuzu`"
       },
       {
+        "userId": "usr_0bb39e75-59b4-486d-a063-164f6b265a11",
+        "displayName": "ෆ URA ෆ"
+      },
+      {
         "userId": "usr_aee101c1-9ec1-4446-91d0-8508f56ba5d3",
         "displayName": "おきらくモウモウ"
       },
@@ -4089,6 +4109,10 @@
       {
         "userId": "usr_90450904-ee90-41f8-a65b-494e2505936d",
         "displayName": "Zuzu`"
+      },
+      {
+        "userId": "usr_0bb39e75-59b4-486d-a063-164f6b265a11",
+        "displayName": "ෆ URA ෆ"
       },
       {
         "userId": "usr_aee101c1-9ec1-4446-91d0-8508f56ba5d3",
@@ -4859,6 +4883,10 @@
         "displayName": "Zuzu`"
       },
       {
+        "userId": "usr_0bb39e75-59b4-486d-a063-164f6b265a11",
+        "displayName": "ෆ URA ෆ"
+      },
+      {
         "userId": "usr_aee101c1-9ec1-4446-91d0-8508f56ba5d3",
         "displayName": "おきらくモウモウ"
       },
@@ -5339,6 +5367,10 @@
       {
         "userId": "usr_90450904-ee90-41f8-a65b-494e2505936d",
         "displayName": "Zuzu`"
+      },
+      {
+        "userId": "usr_0bb39e75-59b4-486d-a063-164f6b265a11",
+        "displayName": "ෆ URA ෆ"
       },
       {
         "userId": "usr_aee101c1-9ec1-4446-91d0-8508f56ba5d3",
