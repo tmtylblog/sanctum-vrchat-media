@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-24T10:30:19.725Z",
+  "generated": "2026-11-24T17:00:23.877Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / World Operator / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -1209,6 +1209,10 @@
         "displayName": "Kari Kohaku"
       },
       {
+        "userId": "usr_20767013-1a34-4a2f-8270-b3b54ed08055",
+        "displayName": "Kasparoff"
+      },
+      {
         "userId": "usr_36bd5a41-3e47-40c4-b937-78e892912d5e",
         "displayName": "Katyzon"
       },
@@ -1757,6 +1761,10 @@
         "displayName": "SaturdaysAreForTheBoys"
       },
       {
+        "userId": "usr_aeffe7cc-d086-4930-89a8-1d7f7a7d2cb8",
+        "displayName": "sawayaka_sawady"
+      },
+      {
         "userId": "usr_c43c5116-11a3-45e2-8d84-3c7a7857b744",
         "displayName": "Schlick"
       },
@@ -1831,6 +1839,10 @@
       {
         "userId": "usr_727749a4-c256-4593-9034-82deac9a578f",
         "displayName": "Solince"
+      },
+      {
+        "userId": "usr_19095059-3f8b-4bc6-8737-1986dd7d0282",
+        "displayName": "Sora Vt"
       },
       {
         "userId": "usr_8b6ca60d-062d-41f7-be41-020116ca5e25",
@@ -3069,6 +3081,10 @@
         "displayName": "SANCTUM_STUDIO"
       },
       {
+        "userId": "usr_aeffe7cc-d086-4930-89a8-1d7f7a7d2cb8",
+        "displayName": "sawayaka_sawady"
+      },
+      {
         "userId": "usr_1159496d-4556-4f02-938e-c9b13e831946",
         "displayName": "sheepsheep"
       },
@@ -3557,6 +3573,10 @@
         "displayName": "SANCTUM_STUDIO"
       },
       {
+        "userId": "usr_aeffe7cc-d086-4930-89a8-1d7f7a7d2cb8",
+        "displayName": "sawayaka_sawady"
+      },
+      {
         "userId": "usr_1159496d-4556-4f02-938e-c9b13e831946",
         "displayName": "sheepsheep"
       },
@@ -4041,6 +4061,10 @@
       {
         "userId": "usr_8b2b2aab-1604-4a91-88c9-db39c42d7c41",
         "displayName": "SANCTUM_STUDIO"
+      },
+      {
+        "userId": "usr_aeffe7cc-d086-4930-89a8-1d7f7a7d2cb8",
+        "displayName": "sawayaka_sawady"
       },
       {
         "userId": "usr_1159496d-4556-4f02-938e-c9b13e831946",
@@ -4815,6 +4839,10 @@
         "displayName": "SANCTUM_STUDIO"
       },
       {
+        "userId": "usr_aeffe7cc-d086-4930-89a8-1d7f7a7d2cb8",
+        "displayName": "sawayaka_sawady"
+      },
+      {
         "userId": "usr_1159496d-4556-4f02-938e-c9b13e831946",
         "displayName": "sheepsheep"
       },
@@ -5299,6 +5327,10 @@
       {
         "userId": "usr_8b2b2aab-1604-4a91-88c9-db39c42d7c41",
         "displayName": "SANCTUM_STUDIO"
+      },
+      {
+        "userId": "usr_aeffe7cc-d086-4930-89a8-1d7f7a7d2cb8",
+        "displayName": "sawayaka_sawady"
       },
       {
         "userId": "usr_1159496d-4556-4f02-938e-c9b13e831946",
