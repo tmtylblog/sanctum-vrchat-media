@@ -1,7 +1,7 @@
 {
   "schema": 2,
-  "generatedAt": "2026-11-24T21:32:23.478Z",
-  "revision": 1795555943,
+  "generatedAt": "2026-11-25T01:35:33.271Z",
+  "revision": 1795570533,
   "hash": {
     "saltVersion": "default"
   },
@@ -4111,8 +4111,8 @@
   },
   "vods": [],
   "worldControl": {
-    "v": 396,
-    "ts": "2026-11-22T21:03:34.315Z",
+    "v": 397,
+    "ts": "2026-11-25T01:35:30.221Z",
     "doors": {
       "frontDoor": false,
       "reactorDoor": false,
@@ -4129,9 +4129,9 @@
       "aux4": false,
       "aux5": false
     },
-    "eventActive": false,
-    "venue": null,
-    "venueName": null,
+    "eventActive": true,
+    "venue": 1,
+    "venueName": "Chapel",
     "loadedVenues": [
       "Tribune",
       "Chapel",
