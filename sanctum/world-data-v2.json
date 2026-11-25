@@ -1,7 +1,7 @@
 {
   "schema": 2,
-  "generatedAt": "2026-11-25T02:19:11.554Z",
-  "revision": 1795573151,
+  "generatedAt": "2026-11-25T02:59:15.021Z",
+  "revision": 1795575555,
   "hash": {
     "saltVersion": "default"
   },
@@ -4111,8 +4111,8 @@
   },
   "vods": [],
   "worldControl": {
-    "v": 405,
-    "ts": "2026-11-25T02:19:08.637Z",
+    "v": 406,
+    "ts": "2026-11-25T02:59:12.456Z",
     "doors": {
       "frontDoor": false,
       "reactorDoor": false,
@@ -4146,13 +4146,13 @@
     "virtuaMotionTracking": [
       {
         "role": "dj1",
-        "username": "slothcast",
-        "puppetId": 1
+        "username": "Rain_Iwa",
+        "puppetId": 2
       },
       {
         "role": "dj2",
-        "username": "Rain_Iwa",
-        "puppetId": 1
+        "username": null,
+        "puppetId": null
       },
       {
         "role": "dancer1",
