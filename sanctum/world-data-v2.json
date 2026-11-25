@@ -1,7 +1,7 @@
 {
   "schema": 2,
-  "generatedAt": "2026-11-25T01:49:50.015Z",
-  "revision": 1795571390,
+  "generatedAt": "2026-11-25T01:52:13.232Z",
+  "revision": 1795571533,
   "hash": {
     "saltVersion": "default"
   },
@@ -4111,8 +4111,8 @@
   },
   "vods": [],
   "worldControl": {
-    "v": 401,
-    "ts": "2026-11-25T01:49:47.178Z",
+    "v": 402,
+    "ts": "2026-11-25T01:52:10.626Z",
     "doors": {
       "frontDoor": false,
       "reactorDoor": false,
@@ -4147,12 +4147,12 @@
       {
         "role": "dj1",
         "username": "slothcast",
-        "puppetId": null
+        "puppetId": 1
       },
       {
         "role": "dj2",
-        "username": "teitec",
-        "puppetId": null
+        "username": "Rain_Iwa",
+        "puppetId": 1
       },
       {
         "role": "dancer1",
