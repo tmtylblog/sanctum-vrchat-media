@@ -1,7 +1,7 @@
 {
   "schema": 2,
-  "generatedAt": "2026-11-25T02:59:15.021Z",
-  "revision": 1795575555,
+  "generatedAt": "2026-11-25T03:03:42.503Z",
+  "revision": 1795575822,
   "hash": {
     "saltVersion": "default"
   },
@@ -4111,8 +4111,8 @@
   },
   "vods": [],
   "worldControl": {
-    "v": 406,
-    "ts": "2026-11-25T02:59:12.456Z",
+    "v": 407,
+    "ts": "2026-11-25T03:03:39.647Z",
     "doors": {
       "frontDoor": false,
       "reactorDoor": false,
@@ -4147,7 +4147,7 @@
       {
         "role": "dj1",
         "username": "Rain_Iwa",
-        "puppetId": 2
+        "puppetId": 1
       },
       {
         "role": "dj2",
