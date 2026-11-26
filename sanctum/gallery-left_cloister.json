@@ -4,7 +4,7 @@
   },
   "name": "Left Cloister",
   "key": "left_cloister",
-  "description": "Art gallery left cloister — 6 portrait + 2 landscape displays",
+  "description": "Art gallery left cloister — 8 portrait + 2 landscape displays",
   "portraitSlots": 8,
   "landscapeSlots": 2,
   "artistNameEnabled": true,
@@ -76,9 +76,9 @@
       "orientation": "portrait",
       "expectedOrientation": "portrait",
       "aspectRatio": "9:16",
-      "artist": "Miv2nir",
+      "artist": "MivJustMiv",
       "composition": "Sanctum Relaunch East & West Events",
-      "photographer": "Miv2nir"
+      "photographer": "MivJustMiv"
     },
     {
       "slotIndex": 7,
@@ -111,5 +111,5 @@
       "photographer": "SyntheRux"
     }
   ],
-  "generated": "2026-07-15T20:09:57.829Z"
+  "generated": "2026-11-26T06:54:23.775Z"
 }
