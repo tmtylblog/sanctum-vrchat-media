@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-26T18:31:13.730Z",
+  "generated": "2026-11-26T19:00:47.686Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / World Operator / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -5535,6 +5535,10 @@
         "displayName": "Mixieǃ"
       },
       {
+        "userId": "usr_4bcec452-b19d-47dc-872e-aa2c9df4533e",
+        "displayName": "multimokia・ミステイ"
+      },
+      {
         "userId": "usr_97b6e256-c441-4dde-9cb9-f29f78727f1d",
         "displayName": "MUZZ_"
       },
@@ -5843,6 +5847,10 @@
       {
         "userId": "usr_c1afe468-85a1-4e0d-9fc5-a3a7e3ab3c2b",
         "displayName": "Mixieǃ"
+      },
+      {
+        "userId": "usr_4bcec452-b19d-47dc-872e-aa2c9df4533e",
+        "displayName": "multimokia・ミステイ"
       },
       {
         "userId": "usr_97b6e256-c441-4dde-9cb9-f29f78727f1d",
