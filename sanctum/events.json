@@ -5,131 +5,84 @@
   },
   "events": [
     {
-      "id": "a43d8088-ad37-4799-ac68-5994baf129ff",
+      "id": "31b7d106-c5a9-439d-ba16-a18b206fe5a9",
       "title": "SANCTUM JP",
       "description": null,
-      "date": "2026-07-17T00:00:00.000Z",
-      "startTime": "2026-07-17T13:00:00.023Z",
-      "endTime": "2026-07-17T14:00:00.023Z",
+      "date": "2026-11-27T00:00:00.000Z",
+      "startTime": "2026-11-27T13:00:00.348Z",
+      "endTime": "2026-11-27T16:00:00.348Z",
       "genre": [],
       "category": null,
       "isLive": false,
       "rsvpCount": 0,
       "lineup": [
         {
-          "displayName": "MUNKS ＝ムンクス",
-          "vrchatUserId": "usr_f25844b0-cb62-416d-a15b-2cda35d7a996",
+          "displayName": "kenjung",
+          "vrchatUserId": "usr_8428cc42-4b05-43d9-9827-bd57b76777c5",
           "role": "DJ",
           "room": "Altar",
-          "startTime": "2026-07-17T13:00:00.023Z",
-          "endTime": "2026-07-17T14:00:00.023Z"
+          "startTime": "2026-11-27T13:00:00.348Z",
+          "endTime": "2026-11-27T14:00:00.348Z"
         },
         {
-          "displayName": "usr_b8c1785e-fea6-4024-b536-c8ade20970aa",
-          "vrchatUserId": "usr_b8c1785e-fea6-4024-b536-c8ade20970aa",
-          "role": "LD",
+          "displayName": "ॐしるば～ॐ_SILVER",
+          "vrchatUserId": "usr_d8f82818-269c-484a-8fd4-d1a61e884cc3",
+          "role": "DJ",
           "room": "Altar",
-          "startTime": "2026-07-17T13:00:00.023Z",
-          "endTime": "2026-07-17T14:00:00.023Z"
+          "startTime": "2026-11-27T14:00:00.348Z",
+          "endTime": "2026-11-27T15:00:00.348Z"
         },
         {
-          "displayName": "Jackit_DJ",
-          "vrchatUserId": "usr_bf8e369b-fce7-42ad-ba0c-e12eeae138f1",
+          "displayName": "sekizu1",
+          "vrchatUserId": "usr_b7ebfc95-0237-4e36-b872-fecbcfb41db8",
           "role": "DJ",
           "room": "Reactor",
-          "startTime": "2026-07-17T14:00:00.023Z",
-          "endTime": "2026-07-17T15:00:00.023Z"
-        },
-        {
-          "displayName": "usr_a02a7604-ca82-4802-a465-a5f553a72556",
-          "vrchatUserId": "usr_a02a7604-ca82-4802-a465-a5f553a72556",
-          "role": "VJ",
-          "room": "Reactor",
-          "startTime": "2026-07-17T14:00:00.023Z",
-          "endTime": "2026-07-17T15:00:00.023Z"
-        },
-        {
-          "displayName": "MUZZ_",
-          "vrchatUserId": "usr_97b6e256-c441-4dde-9cb9-f29f78727f1d",
-          "role": "DJ",
-          "room": "Lunette",
-          "startTime": "2026-07-17T15:00:00.023Z",
-          "endTime": "2026-07-17T16:00:00.023Z"
-        },
-        {
-          "displayName": "usr_e9217838-7cd9-4475-9e55-36cf58896cca",
-          "vrchatUserId": "usr_e9217838-7cd9-4475-9e55-36cf58896cca",
-          "role": "VJ",
-          "room": "Lunette",
-          "startTime": "2026-07-17T15:00:00.023Z",
-          "endTime": "2026-07-17T16:00:00.023Z"
+          "startTime": "2026-11-27T15:00:00.348Z",
+          "endTime": "2026-11-27T16:00:00.348Z"
         }
       ]
     },
     {
-      "id": "d0af004d-a594-419f-845d-bec3490a5253",
+      "id": "0c66ae2d-99cd-4fe7-b4db-bdb45bea372e",
       "title": "SANCTUM EU",
       "description": null,
-      "date": "2026-07-18T00:00:00.000Z",
-      "startTime": "2026-07-18T21:00:00.205Z",
-      "endTime": "2026-07-18T22:00:00.205Z",
+      "date": "2026-11-28T00:00:00.000Z",
+      "startTime": "2026-11-28T22:00:00.000Z",
+      "endTime": "2026-11-29T01:00:00.000Z",
       "genre": [
-        "DnB"
+        "DnB",
+        "Techno"
       ],
       "category": null,
       "isLive": false,
       "rsvpCount": 0,
       "lineup": [
         {
-          "displayName": "Rain_Iwa",
-          "vrchatUserId": "usr_589a479b-80cf-42c4-92e4-63cbd900a82b",
+          "displayName": "vestige_0",
+          "vrchatUserId": "usr_c5ade027-a834-4740-a39f-c9d7562cafb2",
           "role": "DJ",
-          "room": "Altar",
-          "startTime": "2026-07-18T21:00:00.205Z",
-          "endTime": "2026-07-18T22:00:00.205Z"
+          "room": "Chapel",
+          "startTime": "2026-11-28T22:00:00.000Z",
+          "endTime": "2026-11-28T23:00:00.000Z"
         },
         {
-          "displayName": "usr_b8c1785e-fea6-4024-b536-c8ade20970aa",
-          "vrchatUserId": "usr_b8c1785e-fea6-4024-b536-c8ade20970aa",
-          "role": "LD",
-          "room": "Altar",
-          "startTime": "2026-07-18T21:00:00.205Z",
-          "endTime": "2026-07-18T22:00:00.205Z"
-        },
-        {
-          "displayName": "usr_a02a7604-ca82-4802-a465-a5f553a72556",
-          "vrchatUserId": "usr_a02a7604-ca82-4802-a465-a5f553a72556",
-          "role": "VJ",
-          "room": "Reactor",
-          "startTime": "2026-07-18T22:00:00.205Z",
-          "endTime": "2026-07-18T23:00:00.205Z"
-        },
-        {
-          "displayName": "BASICBIT",
-          "vrchatUserId": "usr_de6af2ae-8bdf-4aa9-89ae-8af79e2aa405",
+          "displayName": "Code Jin",
+          "vrchatUserId": "usr_ffc7d2e8-335a-41c1-aaf7-4fc392aea212",
           "role": "DJ",
           "room": "Reactor",
-          "startTime": "2026-07-18T22:00:00.205Z",
-          "endTime": "2026-07-18T23:00:00.205Z"
+          "startTime": "2026-11-28T23:00:00.000Z",
+          "endTime": "2026-11-29T00:00:00.000Z"
         },
         {
-          "displayName": "usr_e9217838-7cd9-4475-9e55-36cf58896cca",
-          "vrchatUserId": "usr_e9217838-7cd9-4475-9e55-36cf58896cca",
-          "role": "VJ",
-          "room": "Lunette",
-          "startTime": "2026-07-18T23:00:00.205Z",
-          "endTime": "2026-07-19T00:00:00.205Z"
-        },
-        {
-          "displayName": "MUZZ_",
-          "vrchatUserId": "usr_97b6e256-c441-4dde-9cb9-f29f78727f1d",
+          "displayName": "_Oxide",
+          "vrchatUserId": "usr_1f7ec679-7d13-49c0-9611-d6cb4a531c39",
           "role": "DJ",
-          "room": "Lunette",
-          "startTime": "2026-07-18T23:00:00.205Z",
-          "endTime": "2026-07-19T00:00:00.205Z"
+          "room": "Altar",
+          "startTime": "2026-11-29T00:00:00.000Z",
+          "endTime": "2026-11-29T01:00:00.000Z"
         }
       ]
     }
   ],
-  "generatedAt": "2026-07-15T20:09:54.331Z"
+  "generatedAt": "2026-11-26T06:54:18.512Z"
 }
