@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-26T06:54:08.070Z",
+  "generated": "2026-11-26T18:30:56.259Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / World Operator / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -2809,10 +2809,6 @@
         "displayName": "Bobby J"
       },
       {
-        "userId": "usr_b7a3f5da-da15-49f4-bdb8-68b1219e9e1f",
-        "displayName": "BoranVR"
-      },
-      {
         "userId": "usr_4347ceea-e2e4-497f-8448-fcedf7fcccd0",
         "displayName": "brugr"
       },
@@ -3301,10 +3297,6 @@
         "displayName": "Bobby J"
       },
       {
-        "userId": "usr_b7a3f5da-da15-49f4-bdb8-68b1219e9e1f",
-        "displayName": "BoranVR"
-      },
-      {
         "userId": "usr_4347ceea-e2e4-497f-8448-fcedf7fcccd0",
         "displayName": "brugr"
       },
@@ -3789,10 +3781,6 @@
       {
         "userId": "usr_959c659f-7086-4b94-830f-7f136a0d85f1",
         "displayName": "Bobby J"
-      },
-      {
-        "userId": "usr_b7a3f5da-da15-49f4-bdb8-68b1219e9e1f",
-        "displayName": "BoranVR"
       },
       {
         "userId": "usr_4347ceea-e2e4-497f-8448-fcedf7fcccd0",
@@ -4567,10 +4555,6 @@
         "displayName": "Bobby J"
       },
       {
-        "userId": "usr_b7a3f5da-da15-49f4-bdb8-68b1219e9e1f",
-        "displayName": "BoranVR"
-      },
-      {
         "userId": "usr_4347ceea-e2e4-497f-8448-fcedf7fcccd0",
         "displayName": "brugr"
       },
@@ -5055,10 +5039,6 @@
       {
         "userId": "usr_959c659f-7086-4b94-830f-7f136a0d85f1",
         "displayName": "Bobby J"
-      },
-      {
-        "userId": "usr_b7a3f5da-da15-49f4-bdb8-68b1219e9e1f",
-        "displayName": "BoranVR"
       },
       {
         "userId": "usr_4347ceea-e2e4-497f-8448-fcedf7fcccd0",
