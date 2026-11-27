@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-27T12:59:30.192Z",
+  "generated": "2026-11-27T14:00:55.321Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / World Operator / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -125,10 +125,6 @@
         "displayName": "Katyzon"
       },
       {
-        "userId": "usr_8428cc42-4b05-43d9-9827-bd57b76777c5",
-        "displayName": "kenjung"
-      },
-      {
         "userId": "usr_bcc5a7c8-8537-49bc-8452-38ba3f3d77f9",
         "displayName": "Kryti_N"
       },
@@ -173,10 +169,6 @@
         "displayName": "rei_reika"
       },
       {
-        "userId": "usr_b7ebfc95-0237-4e36-b872-fecbcfb41db8",
-        "displayName": "sekizu1"
-      },
-      {
         "userId": "usr_cf6c438f-778b-469c-9621-be9d7616e625",
         "displayName": "SladeDaCat"
       },
@@ -215,10 +207,6 @@
       {
         "userId": "usr_1516ca40-edd5-4a55-aafd-0a9fef9e329d",
         "displayName": "Xyare"
-      },
-      {
-        "userId": "usr_d8f82818-269c-484a-8fd4-d1a61e884cc3",
-        "displayName": "ॐしるば～ॐ_SILVER"
       },
       {
         "userId": "usr_aee101c1-9ec1-4446-91d0-8508f56ba5d3",
