@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-27T18:00:31.011Z",
+  "generated": "2026-11-27T20:30:22.264Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / World Operator / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -1649,6 +1649,10 @@
         "displayName": "Pidge_Streams"
       },
       {
+        "userId": "usr_cd102895-8bbe-430c-b62d-b04ab77961f4",
+        "displayName": "Polygonist"
+      },
+      {
         "userId": "usr_6fb31eed-5ec3-4d22-9d1c-f4f1318c2bc1",
         "displayName": "PotatoThoughts"
       },
@@ -1727,6 +1731,10 @@
       {
         "userId": "usr_39bf97d2-c64b-4ceb-bdb1-961dcf8a9d39",
         "displayName": "RocioCereal"
+      },
+      {
+        "userId": "usr_7efe14fc-9c55-4302-8dfa-7bc41e63459f",
+        "displayName": "ROFLrice"
       },
       {
         "userId": "usr_350545f6-5195-4743-9f95-40a833f3074f",
