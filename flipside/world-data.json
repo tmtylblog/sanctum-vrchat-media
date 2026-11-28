@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-28T01:30:36.564Z",
+  "generated": "2026-11-28T13:06:16.669Z",
   "_permissions": {
     "_note": "Two kinds of keys: ACCESS-GATING (Group Owner / Admin / Host / Moderator / Dancer / Staff / World Operator / Traveler / Supporter) — wire interaction points to these. DISPLAY-ONLY (Patron / Performer) — name-wall ingestion, NOT for gating.",
     "Group Owner": "GATING — Community owner — full admin access",
@@ -1525,6 +1525,10 @@
         "displayName": "Nightbod"
       },
       {
+        "userId": "usr_8b56125a-dc60-4386-bb30-4320b695bd35",
+        "displayName": "Niljont"
+      },
+      {
         "userId": "usr_e789869f-ce2a-40fe-9e18-68d912208f82",
         "displayName": "Nokori Timido"
       },
@@ -2913,6 +2917,10 @@
         "displayName": "La Chevre"
       },
       {
+        "userId": "usr_791f1452-db4e-4262-874a-43f773103f9f",
+        "displayName": "Lavenderlustvr"
+      },
+      {
         "userId": "usr_99acc004-fc49-4263-b2ff-def9b1387989",
         "displayName": "lazyicon"
       },
@@ -3401,6 +3409,10 @@
         "displayName": "La Chevre"
       },
       {
+        "userId": "usr_791f1452-db4e-4262-874a-43f773103f9f",
+        "displayName": "Lavenderlustvr"
+      },
+      {
         "userId": "usr_99acc004-fc49-4263-b2ff-def9b1387989",
         "displayName": "lazyicon"
       },
@@ -3885,6 +3897,10 @@
       {
         "userId": "usr_6e20239e-efd3-4327-971e-1007cd8ab9a9",
         "displayName": "La Chevre"
+      },
+      {
+        "userId": "usr_791f1452-db4e-4262-874a-43f773103f9f",
+        "displayName": "Lavenderlustvr"
       },
       {
         "userId": "usr_99acc004-fc49-4263-b2ff-def9b1387989",
@@ -4659,6 +4675,10 @@
         "displayName": "La Chevre"
       },
       {
+        "userId": "usr_791f1452-db4e-4262-874a-43f773103f9f",
+        "displayName": "Lavenderlustvr"
+      },
+      {
         "userId": "usr_99acc004-fc49-4263-b2ff-def9b1387989",
         "displayName": "lazyicon"
       },
@@ -5143,6 +5163,10 @@
       {
         "userId": "usr_6e20239e-efd3-4327-971e-1007cd8ab9a9",
         "displayName": "La Chevre"
+      },
+      {
+        "userId": "usr_791f1452-db4e-4262-874a-43f773103f9f",
+        "displayName": "Lavenderlustvr"
       },
       {
         "userId": "usr_99acc004-fc49-4263-b2ff-def9b1387989",
